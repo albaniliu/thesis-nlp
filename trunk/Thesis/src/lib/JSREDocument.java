@@ -12,6 +12,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
@@ -31,7 +33,7 @@ public class JSREDocument {
     public JSREDocument() {
         this.lineList = new ArrayList<JSRELine>();
         this.lastID = new ID();
-        this.lineCountText = 0;
+        this.lineCount = 0;
         this.path = "";
     }
 
@@ -45,7 +47,7 @@ public class JSREDocument {
     public JSREDocument(File file) throws FileNotFoundException,
             UnsupportedEncodingException, IOException {
         this.path = file.getAbsolutePath();
-        this.lineCountText = 0;
+        this.lineCount = 0;
         this.lineList = new ArrayList<JSRELine>();
         this.lastID = null;
         BufferedReader in = new BufferedReader(
@@ -128,10 +130,18 @@ public class JSREDocument {
      * @param k
      * @return 
      */
-    public JSREDocument[] split(int k) {
-        
+    public JSREDocument split(int k) {
     }// end split method
 
+    @Override
+    protected JSREDocument clone() throws CloneNotSupportedException {
+        JSREDocument cloneObject = new JSREDocument();
+        cloneObject.lastID = lastID.clone();
+        cloneObject.lineCount = lineCount;
+        Collections.copy(cloneObject.lineList, lineList);
+        return cloneObject;
+    }
+    
     /**
      * Check if JSRE doc is empty
      * @return <code>true</code> if it is empty doc, <code>false</code> if not
@@ -146,7 +156,7 @@ public class JSREDocument {
      * ...
      */
     public void print() {
-        System.out.printf("Doc has %d line in it and %d line count in text\n", length(), lineCountText);
+        System.out.printf("Doc has %d line in it and %d line count in text\n", length(), lineCount);
         for (JSRELine line : lineList) {
             System.out.println(line.getWholeLine());
         }
@@ -170,7 +180,7 @@ public class JSREDocument {
     private List<JSRELine> lineList;
     private String path;
     private ID lastID;
-    private int lineCountText;
+    private int lineCount;
 
     /**
      * @return the lastID
@@ -190,14 +200,14 @@ public class JSREDocument {
      * @return number of lines in text document
      */
     public int getLineCount() {
-        return lineCountText;
+        return lineCount;
     }
 
     /**
      * @param lineCountText set number of lines in text document
      */
     public void setLineCountText(int lineCountText) {
-        this.lineCountText = lineCountText;
+        this.lineCount = lineCountText;
     }
 
     public static void main(String[] args) throws Exception {

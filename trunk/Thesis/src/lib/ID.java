@@ -32,6 +32,14 @@ public class ID {
         this.count = Integer.parseInt(elements[1]);
     }
 
+    @Override
+    protected ID clone() throws CloneNotSupportedException {
+        ID id = new ID();
+        id.count = count;
+        id.lineNumber = lineNumber;
+        return id;
+    }// end clone method
+
     public ID replaceBy(String lineNumberAndCount) {
         ID id = new ID();
         String[] elements = lineNumberAndCount.split("-");
