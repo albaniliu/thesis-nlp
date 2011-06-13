@@ -55,7 +55,7 @@ public class JSRELine {
         } else {
             try {
                 int classify = Integer.parseInt(elements[0]);
-                if (classify != 0 || classify != 1) {
+                if (classify != 0 && classify != 1) {
                     logger.error("Class cua example khong phai la 0 hoac 1");
                     return false;
                 }// end if classify != 0 || classify != 1

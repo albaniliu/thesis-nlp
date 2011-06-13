@@ -13,6 +13,8 @@ import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
+import org.apache.log4j.Logger;
+import org.apache.log4j.xml.DOMConfigurator;
 
 /**
  * Provide methods for concatenating 2 JSRE documents and extract informations from JSRE
@@ -21,6 +23,8 @@ import java.util.List;
  */
 public class JSREDocument {
 
+    static Logger logger = Logger.getLogger(JSREDocument.class);
+    
     /**
      * Default constructor create an empty JSRE document instance
      */
@@ -60,6 +64,8 @@ public class JSREDocument {
     /**
      * Constructor create an instance with all information about this document
      * @param path Path to file which wants to import
+     * @throws FileNotFoundException 
+     * @throws UnsupportedEncodingException 
      * @throws IOException if error while import
      * @throws IllegalArgumentException if file is not JSRE format
      */
@@ -67,14 +73,42 @@ public class JSREDocument {
         this(path != null ? new File(path) : null);
     }
 
+    public static boolean checkJSRE(String path) throws Exception {
+        BufferedReader in = ReadWriteFile.readFile(path, "UTF-8");
+        String line = null;
+        /*
+         * index cua 1 cau nam trong phan ID cua cau, index phai tang tu 1
+         */
+        int index = 1;
+        while ((line = in.readLine()) != null) {
+            if (!line.equals("")) {
+                if (JSRELine.checkJSREFormat(line)) {
+                    /*
+                     * Dinh dang JSRE cua tung cau da dung
+                     */
+                    int count = Integer.parseInt(line.split("\t")[1].split("-")[1]);
+                    if (count != index) {
+                        logger.error("Thu tu count cua dong thu " + index + " khong dung");
+                        return false;
+                    }// end if count != index
+                } else {
+                    logger.error("Dong thu " + index + " cua file khong dung dinh dang JSRE");
+                    return false;
+                }// end if JSRELine.checkJSREFormat(line)
+                index++;
+            }// end if !line.equals("")
+        }// end while (line = in.readLine()) != null
+        return true;
+    }
+    
     /**
-     * Concatenates another doc to this doc
+     * Ghep document JSRE vao document JSRE co truoc
      * @param tailDoc JSREDocument type
-     * @return the concatenated doc with <code>tailDoc</code>
+     * @return Kieu JSREDocument da duoc ghep
      */
     public JSREDocument concat(JSREDocument tailDoc) {
         int lineCount = length();
-        int oldLineCountText = getLineCountText();
+        int oldLineCountText = getLineCount();
         List<JSRELine> lineListTailDoc = tailDoc.getLineList();
         for (JSRELine lineTail : lineListTailDoc) {
             int newCount = lineTail.getCount() + lineCount;
@@ -84,10 +118,19 @@ public class JSREDocument {
             lineList.add(lineTail);
             lastID.replaceBy(newId);
         }
-        setLineCountText(oldLineCountText + tailDoc.getLineCountText());
+        setLineCountText(oldLineCountText + tailDoc.getLineCount());
 
         return this;
     }
+    
+    /**
+     * Chia document thanh 2 phan, phan dau se co k phan tu
+     * @param k
+     * @return 
+     */
+    public JSREDocument[] split(int k) {
+        
+    }// end split method
 
     /**
      * Check if JSRE doc is empty
@@ -146,7 +189,7 @@ public class JSREDocument {
     /**
      * @return number of lines in text document
      */
-    public int getLineCountText() {
+    public int getLineCount() {
         return lineCountText;
     }
 
@@ -158,17 +201,7 @@ public class JSREDocument {
     }
 
     public static void main(String[] args) throws Exception {
-        JSREDocument doc1 = new JSREDocument("/home/banhbaochay/Temp/1.txt");
-        JSREDocument doc2 = new JSREDocument("/home/banhbaochay/Temp/2.txt");
-        doc1.setLineCountText(28);
-        doc2.setLineCountText(30);
-        ID tmpId = doc2.getLastID();
-        System.out.println("Document 1:");
-        doc1.print();
-        System.out.println("Document 2:");
-        doc2.print();
-        doc1.concat(doc2);
-        System.out.println("Document after concat:");
-        doc1.print();
+        DOMConfigurator.configure("log4j.xml");
+        System.out.println(checkJSRE("/home/banhbaochay/live_in.test"));
     }
 }
