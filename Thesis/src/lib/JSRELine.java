@@ -151,7 +151,7 @@ public class JSRELine {
      * @return An instance of ID class in line
      */
     public ID getId() {
-        return id;
+        return id.clone();
     }
 
     /**
@@ -223,6 +223,18 @@ public class JSRELine {
         values[5] = entityLabel;
         tokenMap.put(tokenID, values);
 
+    }
+
+    @Override
+    protected JSRELine clone() {
+        JSRELine copy = new JSRELine();
+        copy.body = body;
+        copy.id = id.clone();
+        copy.label = label;
+        for (Map.Entry<Integer, String[]> entry : tokenMap.entrySet()) {
+            copy.tokenMap.put(entry.getKey(), entry.getValue());
+        }// end foreach entry
+        return copy;
     }
 
 }

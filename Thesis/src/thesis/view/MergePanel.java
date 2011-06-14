@@ -375,13 +375,12 @@ public class MergePanel extends javax.swing.JPanel {
         List<JSREDocument> docList = new ArrayList<JSREDocument>();
         for (Vector row : rows) {
             JSREDocument doc = (JSREDocument) row.get(0);
-            ID id = (ID) row.get(1);
-            doc.setLineCountText(id.getLineNumber());
             docList.add(doc);
         }
         JSREDocument result = docList.get(0);
         for (int i = 1; i < docList.size(); i++) {
-            result.concat(docList.get(i));
+//            result.concat(docList.get(i));
+            result = JSREDocument.merge(result, docList.get(i));
         }
 
         /* write to PrintWriter */
