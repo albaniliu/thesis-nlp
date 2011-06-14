@@ -33,7 +33,7 @@ public class ID {
     }
 
     @Override
-    protected ID clone() throws CloneNotSupportedException {
+    protected ID clone() {
         ID id = new ID();
         id.count = count;
         id.lineNumber = lineNumber;
@@ -54,7 +54,35 @@ public class ID {
         id.setCount(newId.getCount());
         return id;
     }
+    
+    /**
+     * Cong 2 ID
+     * @param id
+     * @return 
+     */
+    public ID plus(ID id) {
+        lineNumber += id.lineNumber;
+        count += id.count;
+        return this;
+    }// end plus method
 
+    /**
+     * Tru 2 ID
+     * @param id
+     * @return 
+     */
+    public ID minus(ID id) {
+        lineNumber -= id.lineNumber;
+        count -= id.count;
+        if (lineNumber < 0) {
+            lineNumber = 0;
+        }// end if lineNumber < 0
+        if (count < 0) {
+            count = 0;
+        }// end if count < 0
+        return this;
+    }// end plus method
+    
     /**
      * @return <code>true</code> if lineNumber and count of 2 ID are the same, <code>
      * false</code> if not

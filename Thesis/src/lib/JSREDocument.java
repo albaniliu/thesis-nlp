@@ -33,7 +33,7 @@ public class JSREDocument {
     public JSREDocument() {
         this.lineList = new ArrayList<JSRELine>();
         this.lastID = new ID();
-        this.lineCount = 0;
+        this.lineCountText = 0;
         this.path = "";
     }
 
@@ -47,7 +47,7 @@ public class JSREDocument {
     public JSREDocument(File file) throws FileNotFoundException,
             UnsupportedEncodingException, IOException {
         this.path = file.getAbsolutePath();
-        this.lineCount = 0;
+        this.lineCountText = 0;
         this.lineList = new ArrayList<JSRELine>();
         this.lastID = null;
         BufferedReader in = new BufferedReader(
@@ -61,6 +61,7 @@ public class JSREDocument {
                 this.lastID = jsreLine.getId();
             }
         }
+        lineCountText = lastID.getLineNumber();
     }
 
     /**
@@ -109,8 +110,8 @@ public class JSREDocument {
      * @return Kieu JSREDocument da duoc ghep
      */
     public JSREDocument concat(JSREDocument tailDoc) {
-        int lineCount = length();
-        int oldLineCountText = getLineCount();
+        int lineCount = size();
+        int oldLineCountText = getLineCountText();
         List<JSRELine> lineListTailDoc = tailDoc.getLineList();
         for (JSRELine lineTail : lineListTailDoc) {
             int newCount = lineTail.getCount() + lineCount;
@@ -120,7 +121,7 @@ public class JSREDocument {
             lineList.add(lineTail);
             lastID.replaceBy(newId);
         }
-        setLineCountText(oldLineCountText + tailDoc.getLineCount());
+        setLineCountText(oldLineCountText + tailDoc.getLineCountText());
 
         return this;
     }
@@ -131,14 +132,40 @@ public class JSREDocument {
      * @return 
      */
     public JSREDocument split(int k) {
+        JSREDocument tailDoc = clone();
+        /*
+         * Tao doc gom k phan tu dau, xoa toan bo k phan con lai
+         */
+        for (int i = size() - 1; i > k - 1; i--) {
+            lineList.remove(i);
+        }// end for i
+        JSRELine lastLine = lineList.get(k - 1);
+        lastID = lastLine.getId();
+        lineCountText = lastID.getLineNumber();
+        
+        /*
+         * Xoa k phan tu dau cua tail doc
+         */
+        for (int i = 0; i < k; i++) {
+            tailDoc.lineList.remove(0);
+        }// end for i
+        for (JSRELine jSRELine : tailDoc.lineList) {
+            jSRELine.setId(jSRELine.getId().minus(lastID));
+        }// end foreach jSRELine
+        tailDoc.lastID.minus(lastID);
+        tailDoc.lineCountText = tailDoc.lastID.getLineNumber();
+        return tailDoc;
     }// end split method
 
     @Override
-    protected JSREDocument clone() throws CloneNotSupportedException {
+    protected JSREDocument clone() {
         JSREDocument cloneObject = new JSREDocument();
         cloneObject.lastID = lastID.clone();
-        cloneObject.lineCount = lineCount;
-        Collections.copy(cloneObject.lineList, lineList);
+        cloneObject.lineCountText = lineCountText;
+        cloneObject.path = path;
+        for (JSRELine jSRELine : lineList) {
+            cloneObject.lineList.add(jSRELine);
+        }
         return cloneObject;
     }
     
@@ -156,17 +183,17 @@ public class JSREDocument {
      * ...
      */
     public void print() {
-        System.out.printf("Doc has %d line in it and %d line count in text\n", length(), lineCount);
+        System.out.printf("Doc has %d line in it and %d line count in text\n", size(), lineCountText);
         for (JSRELine line : lineList) {
             System.out.println(line.getWholeLine());
         }
     }
 
     /**
-     * Get number of lines in jsre document. It equals to count element of the last ID
+     * So luong dong trong file, bang voi count thuoc ID cuoi cung
      * @return number of lines in document
      */
-    public int length() {
+    public int size() {
         return lastID.getCount();
     }
 
@@ -177,10 +204,14 @@ public class JSREDocument {
     public String toString() {
         return this.path;
     }
+    
     private List<JSRELine> lineList;
     private String path;
     private ID lastID;
-    private int lineCount;
+    /**
+     * So luong cau trong van ban text, trung voi lineNumber cua ID cuoi cung
+     */
+    private int lineCountText;
 
     /**
      * @return the lastID
@@ -199,19 +230,27 @@ public class JSREDocument {
     /**
      * @return number of lines in text document
      */
-    public int getLineCount() {
-        return lineCount;
+    public int getLineCountText() {
+        return lineCountText;
     }
 
     /**
      * @param lineCountText set number of lines in text document
      */
     public void setLineCountText(int lineCountText) {
-        this.lineCount = lineCountText;
+        this.lineCountText = lineCountText;
+    }
+
+    public void setPath(String path) {
+        this.path = path;
     }
 
     public static void main(String[] args) throws Exception {
         DOMConfigurator.configure("log4j.xml");
-        System.out.println(checkJSRE("/home/banhbaochay/live_in.test"));
+        JSREDocument doc = new JSREDocument("D:\\live_in.test");
+        System.out.println(doc.lastID);
+        JSREDocument tail = doc.split(100);
+        System.out.println(doc.lastID);
+        System.out.println(tail.lastID);
     }
 }
