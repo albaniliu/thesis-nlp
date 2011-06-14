@@ -33,7 +33,6 @@ public class JSREDocument {
     public JSREDocument() {
         this.lineList = new ArrayList<JSRELine>();
         this.lastID = new ID();
-        this.lineCountText = 0;
         this.path = "";
     }
 
@@ -47,7 +46,6 @@ public class JSREDocument {
     public JSREDocument(File file) throws FileNotFoundException,
             UnsupportedEncodingException, IOException {
         this.path = file.getAbsolutePath();
-        this.lineCountText = 0;
         this.lineList = new ArrayList<JSRELine>();
         this.lastID = null;
         BufferedReader in = new BufferedReader(
@@ -61,7 +59,6 @@ public class JSREDocument {
                 this.lastID = jsreLine.getId();
             }
         }
-        lineCountText = lastID.getLineNumber();
     }
 
     /**
@@ -110,21 +107,33 @@ public class JSREDocument {
      * @return Kieu JSREDocument da duoc ghep
      */
     public JSREDocument concat(JSREDocument tailDoc) {
-        int lineCount = size();
-        int oldLineCountText = getLineCountText();
-        List<JSRELine> lineListTailDoc = tailDoc.getLineList();
-        for (JSRELine lineTail : lineListTailDoc) {
-            int newCount = lineTail.getCount() + lineCount;
-            int newLineNumber = lineTail.getLineNumber() + oldLineCountText;
-            ID newId = new ID(newLineNumber, newCount);
-            lineTail.setId(newId);
-            lineList.add(lineTail);
-            lastID.replaceBy(newId);
-        }
-        setLineCountText(oldLineCountText + tailDoc.getLineCountText());
+        for (JSRELine jSRELine : tailDoc.lineList) {
+            jSRELine.setId(jSRELine.getId().plus(lastID));
+            lineList.add(jSRELine);
+        }// end foreach jSRELine
+        lastID = lastID.plus(tailDoc.lastID);
 
         return this;
     }
+    
+    /**
+     * Noi doc1 va doc2. Sau khi noi doc1 va doc2 khong bi thay doi
+     * @param doc1
+     * @param doc2
+     * @return 
+     */
+    public static JSREDocument merge(JSREDocument doc1, JSREDocument doc2) {
+        JSREDocument result = doc1.clone();
+        ID lastID1 = doc1.getLastID();
+        ID newID = null;
+        for (JSRELine jSRELine : doc2.lineList) {
+            newID = jSRELine.getId().plus(lastID1);
+            jSRELine.setId(newID);
+            result.lineList.add(jSRELine);
+        }// end foreach jSRELine
+        result.lastID = newID;
+        return result;
+    }// end merge method
     
     /**
      * Chia document thanh 2 phan, phan dau se co k phan tu
@@ -141,7 +150,6 @@ public class JSREDocument {
         }// end for i
         JSRELine lastLine = lineList.get(k - 1);
         lastID = lastLine.getId();
-        lineCountText = lastID.getLineNumber();
         
         /*
          * Xoa k phan tu dau cua tail doc
@@ -153,7 +161,6 @@ public class JSREDocument {
             jSRELine.setId(jSRELine.getId().minus(lastID));
         }// end foreach jSRELine
         tailDoc.lastID.minus(lastID);
-        tailDoc.lineCountText = tailDoc.lastID.getLineNumber();
         return tailDoc;
     }// end split method
 
@@ -161,7 +168,6 @@ public class JSREDocument {
     protected JSREDocument clone() {
         JSREDocument cloneObject = new JSREDocument();
         cloneObject.lastID = lastID.clone();
-        cloneObject.lineCountText = lineCountText;
         cloneObject.path = path;
         for (JSRELine jSRELine : lineList) {
             cloneObject.lineList.add(jSRELine);
@@ -183,7 +189,7 @@ public class JSREDocument {
      * ...
      */
     public void print() {
-        System.out.printf("Doc has %d line in it and %d line count in text\n", size(), lineCountText);
+        System.out.printf("Doc has %d line in it and %d line count in text\n", size(), lastID.getLineNumber());
         for (JSRELine line : lineList) {
             System.out.println(line.getWholeLine());
         }
@@ -208,16 +214,12 @@ public class JSREDocument {
     private List<JSRELine> lineList;
     private String path;
     private ID lastID;
-    /**
-     * So luong cau trong van ban text, trung voi lineNumber cua ID cuoi cung
-     */
-    private int lineCountText;
 
     /**
      * @return the lastID
      */
     public ID getLastID() {
-        return lastID;
+        return lastID.clone();
     }
 
     /**
@@ -227,30 +229,24 @@ public class JSREDocument {
         return lineList;
     }
 
-    /**
-     * @return number of lines in text document
-     */
-    public int getLineCountText() {
-        return lineCountText;
-    }
-
-    /**
-     * @param lineCountText set number of lines in text document
-     */
-    public void setLineCountText(int lineCountText) {
-        this.lineCountText = lineCountText;
-    }
-
     public void setPath(String path) {
         this.path = path;
     }
 
     public static void main(String[] args) throws Exception {
-        DOMConfigurator.configure("log4j.xml");
-        JSREDocument doc = new JSREDocument("D:\\live_in.test");
-        System.out.println(doc.lastID);
-        JSREDocument tail = doc.split(100);
-        System.out.println(doc.lastID);
-        System.out.println(tail.lastID);
+        JSREDocument doc1 = new JSREDocument("E:\\doc-1.txt");
+        System.out.printf("ID cua doc1: %s\n", doc1.lastID);
+        JSREDocument doc10 = new JSREDocument("E:\\doc-10.txt");
+        System.out.printf("ID cua doc10: %s\n", doc10.lastID);
+        JSREDocument doc12 = new JSREDocument("E:\\doc-12.txt");
+        System.out.printf("ID cua doc12: %s\n", doc12.lastID);
+        JSREDocument merge = doc1.split(4);
+        for (JSRELine jSRELine : doc1.lineList) {
+            System.out.println(jSRELine.getId());
+        }// end foreach jSRELine
+        System.out.println("merge");
+        for (JSRELine jSRELine : merge.lineList) {
+            System.out.println(jSRELine.getId());
+        }// end foreach jSRELine
     }
 }

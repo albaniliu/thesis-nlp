@@ -56,7 +56,7 @@ public class ID {
     }
     
     /**
-     * Cong 2 ID
+     * Cong 2 ID, ket qua tra ve luu o ID goi ham`
      * @param id
      * @return 
      */
@@ -65,6 +65,16 @@ public class ID {
         count += id.count;
         return this;
     }// end plus method
+    
+    /**
+     * Cong 2 ID, ket qua tra ve la ID moi
+     * @param id1
+     * @param id2
+     * @return 
+     */
+    public static ID plus(ID id1, ID id2)  {
+        return new ID(id1.lineNumber + id2.lineNumber, id1.count + id2.count);
+    }// end static plus method
 
     /**
      * Tru 2 ID
@@ -82,6 +92,13 @@ public class ID {
         }// end if count < 0
         return this;
     }// end plus method
+    
+    public static ID minus(ID id1, ID id2) {
+        ID result = new ID();
+        result.lineNumber = (id1.lineNumber - id2.lineNumber < 0) ? id1.lineNumber - id2.lineNumber : 0;
+        result.count = (id1.count - id2.count < 0) ? id1.count - id2.count : 0;
+        return result;
+    }
     
     /**
      * @return <code>true</code> if lineNumber and count of 2 ID are the same, <code>
