@@ -199,10 +199,40 @@ public class ConvertText {
         matcher.appendTail(result);
         return result.toString();
     }
+    
+    /**
+     * Ghep nhieu tu thanh 1 tu. VD: [anh] [ay] --> [anh ay]
+     * @param str
+     * @return 
+     */
+    public static String mergeWords(String str) {
+        String result;
+        result = str.replaceAll("\\[|\\]", "");
+        return "[" + result + "]";
+    }// end mergeWords method
+    
+    /**
+     * Chia 1 tu thanh nhieu tu theo cac khoang trang trong tu
+     * VD [nam 1998] --> [nam] [1998], [anh ay lam viec] --> [anh] [ay] [lam] [viec]
+     * @param str
+     * @return 
+     */
+    public static String segWords(String str) {
+        String result;
+        result = str.replaceAll("\\s+", "] [");
+        return result;
+    }// end segWords method
 
 //    public static String
     public static void main(String[] args) {
-        String line = "[Ban đầu] [gia đình] [anh] [sống] [ở] [thành phố] <loc> [Ancona] </loc> ";
-        System.out.println(convertForSentence(line));
+        String s = "Anh Nguyen Van Nam song o Ha Noi";
+        String afterSeg = vnTagger(s, SEGMENT_AND_TAG);
+//        StringBuilder out = new StringBuilder();
+//        for (String token : afterSeg.split("\\s")) {
+//            token = "[" + token + "]";
+//            out.append(token);
+//            out.append(" ");
+//        }
+        System.out.println(afterSeg);
     }
 }

@@ -4,6 +4,8 @@
  */
 package feature;
 
+import java.awt.Color;
+
 /**
  * Contain all specifies of ENTITY enum as name, tag of entity and its number index
  * Ex: PER entity has fields:
@@ -32,7 +34,7 @@ public enum ENTITY {
      *      <li><code>number</code>: 1</li>
      * </ul>
      */
-    PER("PER", "<PER>", "</PER>", "B-PER", "I-PER", 1),
+    PER("PER", "<PER>", "</PER>", "B-PER", "I-PER", 1, Color.CYAN),
 
     /**
      * LOC entity has fields:
@@ -45,7 +47,7 @@ public enum ENTITY {
      *      <li><code>number</code>: 2</li>
      * </ul>
      */
-    LOC("LOC", "<LOC>", "</LOC>", "B-LOC", "I-LOC", 2),
+    LOC("LOC", "<LOC>", "</LOC>", "B-LOC", "I-LOC", 2, Color.LIGHT_GRAY),
 
     /**
      * ORG entity has fields:
@@ -58,7 +60,7 @@ public enum ENTITY {
      *      <li><code>number</code>: 3</li>
      * </ul>
      */
-    ORG("ORG", "<ORG>", "</ORG>", "B-ORG", "I-ORG", 3),
+    ORG("ORG", "<ORG>", "</ORG>", "B-ORG", "I-ORG", 3, Color.MAGENTA),
 
     /**
      * POS entity has fields:
@@ -71,7 +73,7 @@ public enum ENTITY {
      *      <li><code>number</code>: 3</li>
      * </ul>
      */
-    POS("POS", "<POS>", "</POS>", "B-POS", "I-POS", 4),
+    POS("POS", "<POS>", "</POS>", "B-POS", "I-POS", 4, Color.BLUE),
     
     /**
      * POS entity has fields:
@@ -84,7 +86,7 @@ public enum ENTITY {
      *      <li><code>number</code>: 3</li>
      * </ul>
      */
-    JOB("JOB", "<JOB>", "</JOB>", "B-JOB", "I-JOB", 5),
+    JOB("JOB", "<JOB>", "</JOB>", "B-JOB", "I-JOB", 5, Color.YELLOW),
     
     /**
      * POS entity has fields:
@@ -97,7 +99,7 @@ public enum ENTITY {
      *      <li><code>number</code>: 3</li>
      * </ul>
      */
-    DATE("DATE", "<DATE>", "</DATE>", "B-DATE", "I-DATE", 6),
+    DATE("DATE", "<DATE>", "</DATE>", "B-DATE", "I-DATE", 6, Color.ORANGE),
 
     /**
      * OTHER entity has fields:
@@ -110,7 +112,7 @@ public enum ENTITY {
      *      <li><code>number</code>: 0</li>
      * </ul>
      */
-    OTHER("O", null, null, null, null, 0),
+    OTHER("O", null, null, null, null, 0, null),
 
     /**
      * NOENTITY entity has fields:
@@ -123,15 +125,17 @@ public enum ENTITY {
      *      <li><code>number</code>: -1</li>
      * </ul>
      */
-    NOENTITY("NOENTITY", null, null, null, null, -1);
+    NOENTITY("NOENTITY", null, null, null, null, -1, Color.BLACK);
 
-    private ENTITY(String name, String startTag, String endTag, String bTag, String iTag, int number) {
+    private ENTITY(String name, String startTag, String endTag, String bTag,
+            String iTag, int number, Color color) {
         this.name = name;
         this.startTag = startTag;
         this.endTag = endTag;
         this.number = number;
         this.bTag = bTag;
         this.iTag = iTag;
+        this.color = color;
     }
 
     /**
@@ -248,4 +252,12 @@ public enum ENTITY {
     private String bTag;
     private String iTag;
     private int number;
+    private Color color;
+
+    /**
+     * @return the color
+     */
+    public Color getColor() {
+        return color;
+    }
 }

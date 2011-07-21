@@ -95,7 +95,8 @@ public class Word {
     private String IOB;
     private String dicType;
     private AbstractContext context;
-
+    private String orthographic;
+    
     /**
      * Set IOB for a word
      * @param IOB A string has format: B-PER..
@@ -210,5 +211,19 @@ public class Word {
      */
     public void setContext(AbstractContext context) {
         this.context = context;
+    }
+
+    /**
+     * @return the orthographic
+     */
+    public String getOrthographic() {
+        return orthographic;
+    }
+
+    /**
+     * @param orthographic the orthographic to set
+     */
+    public void setOrthographic(String orthographic) {
+        this.orthographic = orthographic;
     }
 }

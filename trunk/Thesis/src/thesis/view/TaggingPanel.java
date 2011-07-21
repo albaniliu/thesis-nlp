@@ -11,7 +11,6 @@
 package thesis.view;
 
 import feature.ENTITY;
-import java.awt.Button;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
@@ -28,6 +27,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
+import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Enumeration;
@@ -40,6 +40,8 @@ import java.util.logging.Logger;
 import javax.swing.AbstractAction;
 import javax.swing.Action;
 import javax.swing.ButtonGroup;
+import javax.swing.JButton;
+import javax.swing.JCheckBox;
 import javax.swing.JComponent;
 import javax.swing.JFileChooser;
 import javax.swing.JLabel;
@@ -55,7 +57,10 @@ import javax.swing.text.DefaultHighlighter.DefaultHighlightPainter;
 import javax.swing.text.Document;
 import javax.swing.text.Highlighter;
 import javax.swing.text.Highlighter.HighlightPainter;
-import org.me.mylib.Properties;
+import lib.Config;
+import lib.ConvertText;
+import lib.GUIFunction;
+import util.MyAnnotation;
 import vn.hus.nlp.tagger.TaggerOptions;
 import vn.hus.nlp.tagger.VietnameseMaxentTagger;
 
@@ -65,13 +70,20 @@ import vn.hus.nlp.tagger.VietnameseMaxentTagger;
  */
 public class TaggingPanel extends javax.swing.JPanel {
 
-    /** Creates new form TaggingPanel */
-    public TaggingPanel(Properties proper) {
-        this.proper = proper;
+    /** Creates new form TaggingPanel
+     * @param proper 
+     */
+    public TaggingPanel(HashMap<String, String> mapConfig) {
+        this.mapConfig = mapConfig;
+        clazz = KeyEvent.class;
         initComponents();
+        String fontName = mapConfig.get(Config.TEXT_FONT_NAME);
+        String styleString = mapConfig.get(Config.TEXT_FONT_STYLE);
+        String sizeString = mapConfig.get(Config.TEXT_FONT_SIZE);
+        Font fontArea = new Font(fontName, GUIFunction.string2Int(styleString), Integer.parseInt(sizeString));
+        GUIFunction.setFontArea(textArea, sizeSpinner, fontArea);
         removeTagsButton.setText("Remove tags");
 
-        textAreaFont = textArea.getFont();
         setEnableButtonTag(false);
         setVisibleButtonAll(false);
         buttonReload.setVisible(false);
@@ -83,10 +95,10 @@ public class TaggingPanel extends javax.swing.JPanel {
         removeTagsButton.getActionMap().put("remove", removeTagsButton.getAction());
 //            End
 
-        buttonPer.setForeground(Color.CYAN);
-        buttonLoc.setForeground(Color.LIGHT_GRAY);
-        buttonOrg.setForeground(Color.MAGENTA);
-        buttonNP.setForeground(Color.green);
+//        buttonPer.setForeground(Color.CYAN);
+//        buttonLoc.setForeground(Color.LIGHT_GRAY);
+//        buttonOrg.setForeground(Color.MAGENTA);
+//        buttonNP.setForeground(Color.green);
         textArea.getDocument().addDocumentListener(new DocumentListener() {
 
             public void insertUpdate(DocumentEvent e) {
@@ -136,6 +148,43 @@ public class TaggingPanel extends javax.swing.JPanel {
 //        End
     }
 
+    // <editor-fold defaultstate="collapsed" desc="setInfoButton - phim tat & tool tip">
+    /**
+     * Set phim tat va tool tip cho cac button
+     */
+    private void setInfoButton(Object object) {
+        try {
+            if (object instanceof JButton) {
+                JButton button = (JButton) object;
+                Field buttonField = TaggingPanel.class.getDeclaredField(button.getName());
+                MyAnnotation annotation = buttonField.getAnnotation(MyAnnotation.class);
+                Field fKeyEvent = clazz.getDeclaredField(
+                        "VK_" + mapConfig.get(annotation.name()));
+                button.setMnemonic(fKeyEvent.getInt(clazz));
+                String oldToolTip = (button.getToolTipText() == null) ? ""
+                        : button.getToolTipText().replaceAll(" *\\[.*\\] *", "") + " ";
+                
+                button.setToolTipText(oldToolTip + "[Alt + " 
+                        + fKeyEvent.getName().substring(3) + "]");
+            } else if (object instanceof JCheckBox) {
+                JCheckBox checkbox = (JCheckBox) object;
+                Field checkboxField = TaggingPanel.class.getDeclaredField(checkbox.getName());
+                MyAnnotation annotation = checkboxField.getAnnotation(MyAnnotation.class);
+                Field fKeyEvent = clazz.getDeclaredField(
+                        "VK_" + mapConfig.get(annotation.name()));
+                checkbox.setMnemonic(fKeyEvent.getInt(clazz));
+                String oldToolTip = (checkbox.getToolTipText() == null) ? ""
+                        : checkbox.getToolTipText().replaceAll(" *\\[.*\\] *", "") + " ";
+                checkbox.setToolTipText(oldToolTip + "[Alt + " 
+                        + fKeyEvent.getName().substring(3) + "]");
+            }// end if object instanceof
+        } catch (Exception ex) {
+            Logger.getLogger(TaggingPanel.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+    }// end setInfoButton method
+    //</editor-fold>
+
     /** This method is called from within the constructor to
      * initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is
@@ -165,12 +214,15 @@ public class TaggingPanel extends javax.swing.JPanel {
         removeTagsButton = new javax.swing.JButton();
         convertButton = new javax.swing.JButton();
         jLabel2 = new javax.swing.JLabel();
-        SpinnerModel numberModel = new SpinnerNumberModel(12, 9, 30, 2);
-        textSizeSpinner = new javax.swing.JSpinner(numberModel);
+        SpinnerModel numberModel = new SpinnerNumberModel(14, 9, 30, 2);
+        sizeSpinner = new javax.swing.JSpinner(numberModel);
         posButton = new javax.swing.JButton();
         replaceButton = new javax.swing.JButton();
         jobButton = new javax.swing.JButton();
         dateButton = new javax.swing.JButton();
+        clickCheckbox = new javax.swing.JCheckBox();
+        mergeButton = new javax.swing.JButton();
+        segButton = new javax.swing.JButton();
 
         labelPath.setText("Path");
         labelPath.setName("labelPath"); // NOI18N
@@ -188,30 +240,27 @@ public class TaggingPanel extends javax.swing.JPanel {
             }
         });
 
-        buttonPer.setMnemonic('P');
         buttonPer.setText("Person");
-        buttonPer.setToolTipText("Tag selected text as Person");
         buttonPer.setName("buttonPer"); // NOI18N
+        setInfoButton(buttonPer);
         buttonPer.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 buttonPerActionPerformed(evt);
             }
         });
 
-        buttonLoc.setMnemonic('L');
         buttonLoc.setText("Location");
-        buttonLoc.setToolTipText("Tag selected text as Location");
         buttonLoc.setName("buttonLoc"); // NOI18N
+        setInfoButton(buttonLoc);
         buttonLoc.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 buttonLocActionPerformed(evt);
             }
         });
 
-        buttonOrg.setMnemonic('O');
         buttonOrg.setText("Organization");
-        buttonOrg.setToolTipText("Tag selected text as Organization");
         buttonOrg.setName("buttonOrg"); // NOI18N
+        setInfoButton(buttonOrg);
         buttonOrg.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 buttonOrgActionPerformed(evt);
@@ -235,21 +284,27 @@ public class TaggingPanel extends javax.swing.JPanel {
         textArea.setRows(5);
         textArea.setWrapStyleWord(true);
         textArea.setName("textArea"); // NOI18N
+        textArea.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseReleased(java.awt.event.MouseEvent evt) {
+                textAreaMouseReleased(evt);
+            }
+        });
         jScrollPane1.setViewportView(textArea);
 
         buttonBrowse.setText("Browse...");
-        buttonBrowse.setToolTipText("Choose file! [Ctrl O]");
+        buttonBrowse.setToolTipText("Choose file");
         buttonBrowse.setName("buttonBrowse"); // NOI18N
+        setInfoButton(buttonBrowse);
         buttonBrowse.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 buttonBrowseClicked(evt);
             }
         });
 
-        buttonUntag.setMnemonic('U');
         buttonUntag.setText("Untag");
-        buttonUntag.setToolTipText("Untag selected text!");
+        buttonUntag.setToolTipText("Untag selected text");
         buttonUntag.setName("buttonUntag"); // NOI18N
+        setInfoButton(buttonUntag);
         buttonUntag.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 buttonUntagActionPerformed(evt);
@@ -336,17 +391,17 @@ public class TaggingPanel extends javax.swing.JPanel {
         jLabel2.setText("Text size:");
         jLabel2.setName("jLabel2"); // NOI18N
 
-        textSizeSpinner.setName("textSizeSpinner"); // NOI18N
-        textSizeSpinner.addChangeListener(new javax.swing.event.ChangeListener() {
+        sizeSpinner.setName("sizeSpinner"); // NOI18N
+        sizeSpinner.addChangeListener(new javax.swing.event.ChangeListener() {
             public void stateChanged(javax.swing.event.ChangeEvent evt) {
-                textSizeSpinnerStateChanged(evt);
+                sizeSpinnerStateChanged(evt);
             }
         });
+        setInfoButton(sizeSpinner);
 
-        posButton.setMnemonic('S');
         posButton.setText("Position");
-        posButton.setToolTipText("[Alt S]");
         posButton.setName("posButton"); // NOI18N
+        setInfoButton(posButton);
         posButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 posButtonActionPerformed(evt);
@@ -363,23 +418,44 @@ public class TaggingPanel extends javax.swing.JPanel {
             }
         });
 
-        jobButton.setMnemonic('J');
         jobButton.setText("Job");
-        jobButton.setToolTipText("Tag Job entity [Alt + J]");
         jobButton.setName("jobButton"); // NOI18N
+        setInfoButton(jobButton);
         jobButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jobButtonActionPerformed(evt);
             }
         });
 
-        dateButton.setMnemonic('D');
         dateButton.setText("Date");
-        dateButton.setToolTipText("Tag Date entity [Alt + D]");
         dateButton.setName("dateButton"); // NOI18N
+        setInfoButton(dateButton);
         dateButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 dateButtonActionPerformed(evt);
+            }
+        });
+
+        clickCheckbox.setText("Normal click");
+        clickCheckbox.setToolTipText("Choose mode click in textarea ");
+        clickCheckbox.setName("clickCheckbox"); // NOI18N
+        setInfoButton(clickCheckbox);
+
+        mergeButton.setText("Merge words");
+        mergeButton.setName("mergeButton"); // NOI18N
+        setInfoButton(mergeButton);
+        mergeButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                mergeButtonActionPerformed(evt);
+            }
+        });
+
+        segButton.setText("Seg words");
+        segButton.setName("segButton"); // NOI18N
+        setInfoButton(segButton);
+        segButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                segButtonActionPerformed(evt);
             }
         });
 
@@ -404,7 +480,7 @@ public class TaggingPanel extends javax.swing.JPanel {
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(jLabel2)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(textSizeSpinner))
+                        .addComponent(sizeSpinner))
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(checkBoxEdit)
                         .addGap(6, 6, 6)
@@ -437,7 +513,13 @@ public class TaggingPanel extends javax.swing.JPanel {
                         .addComponent(convertButton, javax.swing.GroupLayout.PREFERRED_SIZE, 71, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(18, 18, 18)
-                        .addComponent(replaceButton))))
+                        .addComponent(replaceButton)
+                        .addGap(18, 18, 18)
+                        .addComponent(clickCheckbox)
+                        .addGap(18, 18, 18)
+                        .addComponent(mergeButton)
+                        .addGap(18, 18, 18)
+                        .addComponent(segButton))))
             .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 1105, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
@@ -460,8 +542,11 @@ public class TaggingPanel extends javax.swing.JPanel {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel2)
-                    .addComponent(textSizeSpinner, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(replaceButton))
+                    .addComponent(sizeSpinner, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(replaceButton)
+                    .addComponent(clickCheckbox)
+                    .addComponent(mergeButton)
+                    .addComponent(segButton))
                 .addGap(14, 14, 14)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(checkBoxEdit)
@@ -488,38 +573,38 @@ public class TaggingPanel extends javax.swing.JPanel {
 
     private void textFieldPathMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_textFieldPathMouseExited
         // TODO add your handling code here:
-        try {
-            File f = new File(textFieldPath.getText());
-            File current = new File(".");
-            if (!f.isFile()) {
-                labelStatus.setText("File Path is incorrect! Default file is replaced!");
-                Date date = new Date();
-                textFieldPath.setText(current.getCanonicalPath() + File.separator + "temp_" + date.getTime() + ".txt");
-                if (checkBoxMode.isSelected()) {
-                    buttonSave.setEnabled(true);
-                    buttonReload.setEnabled(true);
-                }
-            }
-        } catch (Exception e) {
-            labelStatus.setText("Error: " + e);
-        }
+//        try {
+//            File f = new File(textFieldPath.getText());
+//            File current = new File(".");
+//            if (!f.isFile()) {
+//                labelStatus.setText("File Path is incorrect! Default file is replaced!");
+//                Date date = new Date();
+//                textFieldPath.setText(current.getCanonicalPath() + File.separator + "temp_" + date.getTime() + ".txt");
+//                if (checkBoxMode.isSelected()) {
+//                    buttonSave.setEnabled(true);
+//                    buttonReload.setEnabled(true);
+//                }
+//            }
+//        } catch (Exception e) {
+//            labelStatus.setText("Error: " + e);
+//        }
 }//GEN-LAST:event_textFieldPathMouseExited
 
     private void textFieldPathActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_textFieldPathActionPerformed
         // TODO add your handling code here:
-        try {
-            File f = new File(textFieldPath.getText());
-            File current = new File(".");
-            if (!f.isFile()) {
-                labelStatus.setText("File Path is incorrect! Default file is replaced!");
-                Date date = new Date();
-                textFieldPath.setText(current.getCanonicalPath() + File.separator + date + ".txt");
-                buttonSave.setEnabled(true);
-                buttonReload.setEnabled(true);
-            }
-        } catch (Exception e) {
-            labelStatus.setText("Error: " + e);
-        }
+//        try {
+//            File f = new File(textFieldPath.getText());
+//            File current = new File(".");
+//            if (!f.isFile()) {
+//                labelStatus.setText("File Path is incorrect! Default file is replaced!");
+//                Date date = new Date();
+//                textFieldPath.setText(current.getCanonicalPath() + File.separator + date + ".txt");
+//                buttonSave.setEnabled(true);
+//                buttonReload.setEnabled(true);
+//            }
+//        } catch (Exception e) {
+//            labelStatus.setText("Error: " + e);
+//        }
 }//GEN-LAST:event_textFieldPathActionPerformed
 
     private void buttonPerActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonPerActionPerformed
@@ -630,13 +715,9 @@ public class TaggingPanel extends javax.swing.JPanel {
             //            JFileChooser choose = new JFileChooser(wd);
 
             //            Dung's code
-            String path = proper.getProperty(Properties.DIRECTORY_PATH);
-            JFileChooser choose = null;
-            if (path == null) {
-                choose = new JFileChooser(defaultPath);
-            } else {
-                choose = new JFileChooser(path);
-            }
+            String path = mapConfig.get(Config.DIRECTORY_PATH);
+            JFileChooser choose = new JFileChooser(path);
+
             //            End
 
             ExampleFileFilter filter = new ExampleFileFilter("txt", "txt File");
@@ -653,9 +734,9 @@ public class TaggingPanel extends javax.swing.JPanel {
 
                 textFieldPath.setText(inFile.getPath());
                 fileDes += inFile.getName();
-                if (checkBoxChoose.isSelected()) {
-                    copyFile(inFile.getPath(), fileDes);
-                }
+//                if (checkBoxChoose.isSelected()) {
+//                    copyFile(inFile.getPath(), fileDes);
+//                }
                 if (checkBoxMode.isSelected()) {
                     loadFile(textFieldPath.getText());
                 } else {
@@ -677,54 +758,61 @@ public class TaggingPanel extends javax.swing.JPanel {
 
     private void buttonUntagActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonUntagActionPerformed
         // TODO add your handling code here:
-        try {
-            int start = textArea.getSelectionStart();
-            int end = textArea.getSelectionEnd();
+        int start = textArea.getSelectionStart();
+        int end = textArea.getSelectionEnd();
+        if (end > start) {
             String selected = textArea.getSelectedText();
-            String tag = "";
-            boolean checkStart = false;
-            if (checkBoxChoose.isSelected()) {
-                for (int i = 0; i < tags.length; i++) {
-                    if (selected.startsWith("<" + tags[i] + "> ")) {
-                        checkStart = true;
-                        tag = tags[i];
-                        break;
-                    }
-                }
-                if (!checkStart) {
-                    return;
-                }
-                if (selected.endsWith(" </" + tag + ">")) {
-                    textArea.replaceRange("", start, start + tag.length() + 3);
-                    textArea.replaceRange("", end - 2 * tag.length() - 7, end - tag.length() - 3);
-                    textArea.select(start, end - 2 * tag.length() - 7);
-                    labelStatus.setText(tag + " Untagged:  " + textArea.getSelectedText());
-                    buttonSave.setEnabled(true);
-                    buttonReload.setEnabled(true);
-                }
-            } else {
-                for (int i = 0; i < chunks.length; i++) {
-                    if (selected.startsWith("<" + chunks[i] + "> ")) {
-                        checkStart = true;
-                        tag = chunks[i];
-                        break;
-                    }
-                }
-                if (!checkStart) {
-                    return;
-                }
-                if (selected.endsWith(" </" + tag + ">")) {
-                    textArea.replaceRange("", start, start + tag.length() + 3);
-                    textArea.replaceRange("", end - 2 * tag.length() - 7, end - tag.length() - 3);
-                    textArea.select(start, end - 2 * tag.length() - 7);
-                    labelStatus.setText(tag + " Untagged:  " + textArea.getSelectedText());
-                    buttonSave.setEnabled(true);
-                    buttonReload.setEnabled(true);
-                }
-            }
-        } catch (Exception e) {
-            labelStatus.setText("Error: " + e);
-        }
+            String replace = selected.replaceAll(" *<[^>]*> *", "");
+            textArea.replaceRange(replace, start, end);
+        }// end if
+//        try {
+//            int start = textArea.getSelectionStart();
+//            int end = textArea.getSelectionEnd();
+//            String selected = textArea.getSelectedText();
+//            String tag = "";
+//            boolean checkStart = false;
+//            if (checkBoxChoose.isSelected()) {
+//                for (int i = 0; i < tags.length; i++) {
+//                    if (selected.startsWith("<" + tags[i] + "> ")) {
+//                        checkStart = true;
+//                        tag = tags[i];
+//                        break;
+//                    }
+//                }
+//                if (!checkStart) {
+//                    return;
+//                }
+//                if (selected.endsWith(" </" + tag + ">")) {
+//                    textArea.replaceRange("", start, start + tag.length() + 3);
+//                    textArea.replaceRange("", end - 2 * tag.length() - 7, end - tag.length() - 3);
+//                    textArea.select(start, end - 2 * tag.length() - 7);
+//                    labelStatus.setText(tag + " Untagged:  " + textArea.getSelectedText());
+//                    buttonSave.setEnabled(true);
+//                    buttonReload.setEnabled(true);
+//                }
+//            } else {
+//                for (int i = 0; i < chunks.length; i++) {
+//                    if (selected.startsWith("<" + chunks[i] + "> ")) {
+//                        checkStart = true;
+//                        tag = chunks[i];
+//                        break;
+//                    }
+//                }
+//                if (!checkStart) {
+//                    return;
+//                }
+//                if (selected.endsWith(" </" + tag + ">")) {
+//                    textArea.replaceRange("", start, start + tag.length() + 3);
+//                    textArea.replaceRange("", end - 2 * tag.length() - 7, end - tag.length() - 3);
+//                    textArea.select(start, end - 2 * tag.length() - 7);
+//                    labelStatus.setText(tag + " Untagged:  " + textArea.getSelectedText());
+//                    buttonSave.setEnabled(true);
+//                    buttonReload.setEnabled(true);
+//                }
+//            }
+//        } catch (Exception e) {
+//            labelStatus.setText("Error: " + e);
+//        }
 }//GEN-LAST:event_buttonUntagActionPerformed
 
     private void checkBoxEditActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_checkBoxEditActionPerformed
@@ -750,14 +838,9 @@ public class TaggingPanel extends javax.swing.JPanel {
         //            fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
 
         //        Dung's code
-        String path = null;
-        path = proper.getProperty(Properties.DIRECTORY_PATH);
-        JFileChooser fc = null;
-        if (path == null) {
-            fc = new JFileChooser(defaultPath);
-        } else {
-            fc = new JFileChooser(path);
-        }
+        String path = mapConfig.get(Config.DIRECTORY_PATH);
+        JFileChooser fc = new JFileChooser(path);
+
         ExampleFileFilter filter = new ExampleFileFilter("txt", "Text Document");
         fc.addChoosableFileFilter(filter);
         fc.setSelectedFile(new File(fileName));
@@ -841,11 +924,13 @@ public class TaggingPanel extends javax.swing.JPanel {
         textArea.setCaretPosition(0);
     }//GEN-LAST:event_convertButtonActionPerformed
 
-    private void textSizeSpinnerStateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_textSizeSpinnerStateChanged
+    private void sizeSpinnerStateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_sizeSpinnerStateChanged
         // TODO add your handling code here:
-        int size = (Integer) textSizeSpinner.getValue();
-        textArea.setFont(new Font(textAreaFont.getFontName(), textAreaFont.getStyle(), size));
-}//GEN-LAST:event_textSizeSpinnerStateChanged
+        int size = (Integer) sizeSpinner.getValue();
+        Font oldFont = textArea.getFont();
+        Font changedFont = oldFont.deriveFont((float) size);
+        GUIFunction.setFontArea(textArea, changedFont);
+}//GEN-LAST:event_sizeSpinnerStateChanged
 
     private void posButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_posButtonActionPerformed
         // TODO add your handling code here:
@@ -937,7 +1022,7 @@ public class TaggingPanel extends javax.swing.JPanel {
                     Logger.getLogger(TaggingPanel.class.getName()).log(Level.SEVERE, null, ex);
                 }
             }// end if group
-            
+
         }// end if OK_OPTION
 
     }//GEN-LAST:event_replaceButtonActionPerformed
@@ -977,7 +1062,7 @@ public class TaggingPanel extends javax.swing.JPanel {
             int offset = ENTITY.DATE.getStartLength() + 1;
 
             textArea.insert(ENTITY.DATE.getStartTag().toLowerCase() + " ", start);
-            textArea.insert(" " + ENTITY.DATE.getEndTag(), end + offset);
+            textArea.insert(" " + ENTITY.DATE.getEndTag().toLowerCase(), end + offset);
 
             textArea.select(start + offset, end + offset);
 
@@ -997,6 +1082,53 @@ public class TaggingPanel extends javax.swing.JPanel {
             labelStatus.setText("Error: " + e);
         }
     }//GEN-LAST:event_dateButtonActionPerformed
+
+    private void textAreaMouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_textAreaMouseReleased
+        // TODO add your handling code here:
+        if (!clickCheckbox.isSelected()) {
+            int selectionStart = textArea.getSelectionStart();
+            int selectionEnd = textArea.getSelectionEnd();
+            if (selectionEnd >= selectionStart) {
+                if (!evt.isControlDown()) {
+                    int start = -1;
+                    int end = -1;
+                    String text = textArea.getText();
+                    String previous = text.substring(0, selectionStart);
+                    start = previous.lastIndexOf("[");
+                    end = text.indexOf("]", selectionEnd);
+                    textArea.select(start, end + 1);
+                } else {
+                    int start = -1;
+                    int end = -1;
+                    String text = textArea.getText();
+                    String previous = text.substring(0, selectionStart);
+                    start = previous.lastIndexOf("<");
+                    end = text.indexOf(">", selectionEnd);
+                    textArea.select(start, end + 1);
+                }
+            }// end if
+        }
+    }//GEN-LAST:event_textAreaMouseReleased
+
+    private void mergeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mergeButtonActionPerformed
+        // TODO add your handling code here:
+        int selectionStart = textArea.getSelectionStart();
+        int selectionEnd = textArea.getSelectionEnd();
+        if (selectionEnd >= selectionStart) {
+            String text = textArea.getSelectedText();
+            textArea.replaceRange(ConvertText.mergeWords(text), selectionStart, selectionEnd);
+        }// end if
+    }//GEN-LAST:event_mergeButtonActionPerformed
+
+    private void segButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_segButtonActionPerformed
+        // TODO add your handling code here:
+        int selectionStart = textArea.getSelectionStart();
+        int selectionEnd = textArea.getSelectionEnd();
+        if (selectionEnd >= selectionStart) {
+            String text = textArea.getSelectedText();
+            textArea.replaceRange(ConvertText.segWords(text), selectionStart, selectionEnd);
+        }// end if
+    }//GEN-LAST:event_segButtonActionPerformed
 
     public void saveTextArea(String file) {
         try {
@@ -1082,7 +1214,7 @@ public class TaggingPanel extends javax.swing.JPanel {
         return result;
     }
 
-    public void setEnableButtonTag(boolean state) {
+    public final void setEnableButtonTag(boolean state) {
         buttonPer.setEnabled(state);
         buttonLoc.setEnabled(state);
         buttonOrg.setEnabled(state);
@@ -1101,7 +1233,7 @@ public class TaggingPanel extends javax.swing.JPanel {
         buttonOrg.setVisible(state);
     }
 
-    public void setVisibleButtonAll(boolean state) {
+    public final void setVisibleButtonAll(boolean state) {
         setVisibleButtonTag(state);
         buttonNP.setVisible(state);
         buttonUntag.setVisible(state);
@@ -1395,6 +1527,14 @@ public class TaggingPanel extends javax.swing.JPanel {
     }
 
     /**
+     * Thay doi font cua textarea. Phuong thuc nay de co the thay doi font textarea
+     * tu class khac
+     */
+    public void setFontArea(Font font) {
+        GUIFunction.setFontArea(textArea, sizeSpinner, font);
+    }// end setFontArea method
+
+    /**
      * removeTagsButton's Action: call it by getAction() method.
      * This method removes all of the tags in text area, ex: <NP>, <per>, <loc>..
      */
@@ -1405,42 +1545,55 @@ public class TaggingPanel extends javax.swing.JPanel {
         textArea.setText(output);
         textArea.moveCaretPosition(0);
     }
-    private String[] tags = {"per", "loc", "org"};
+    private String[] tags = {"per", "loc", "org", "pos", "job", "date"};
     private String[] chunks = {"NP"};
-    private Color[] colors = {Color.CYAN, Color.LIGHT_GRAY, Color.MAGENTA};
+    private Color[] colors = {Color.CYAN, Color.LIGHT_GRAY, Color.MAGENTA, Color.BLUE, Color.YELLOW, Color.ORANGE};
     private Color[] colorsChunk = {Color.green};
 //    Dung's code
     private String fileName = "";
-    private static String defaultPath = System.getProperty("user.home");
-    private Properties proper;
+    private HashMap<String, String> mapConfig;
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    @MyAnnotation(type=1, name=Config.BROWSE_SHORTCUT, defaultShortcut="B")
     private javax.swing.JButton buttonBrowse;
+    @MyAnnotation(type = 1, name = Config.LOC_SHORTCUT, defaultShortcut = "L")
     private javax.swing.JButton buttonLoc;
     private javax.swing.JButton buttonNP;
+    @MyAnnotation(type = 1, name = Config.ORG_SHORTCUT, defaultShortcut = "O")
     private javax.swing.JButton buttonOrg;
+    @MyAnnotation(type = 1, name = Config.PER_SHORTCUT, defaultShortcut = "P")
     private javax.swing.JButton buttonPer;
     private javax.swing.JButton buttonReload;
     private javax.swing.JButton buttonSave;
     private javax.swing.JButton buttonSaveAs;
+    @MyAnnotation(type=1, name=Config.UNTAG_SHORTCUT, defaultShortcut="U")
     private javax.swing.JButton buttonUntag;
     private javax.swing.JCheckBox checkBoxChoose;
     private javax.swing.JCheckBox checkBoxEdit;
     private javax.swing.JCheckBox checkBoxMode;
+    @MyAnnotation(type = 1, name = Config.CLICK_SHORTCUT, defaultShortcut = "N")
+    private javax.swing.JCheckBox clickCheckbox;
     private javax.swing.JButton convertButton;
+    @MyAnnotation(type = 1, name = Config.DATE_SHORTCUT, defaultShortcut = "D")
     private javax.swing.JButton dateButton;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JScrollPane jScrollPane1;
+    @MyAnnotation(type = 1, name = Config.JOB_SHORTCUT, defaultShortcut = "J")
     private javax.swing.JButton jobButton;
     private javax.swing.JLabel labelPath;
     private javax.swing.JLabel labelStatus;
+    @MyAnnotation(type = 1, name = Config.MERGE_SHORTCUT, defaultShortcut = "M")
+    private javax.swing.JButton mergeButton;
+    @MyAnnotation(type = 1, name = Config.POS_SHORTCUT, defaultShortcut = "S")
     private javax.swing.JButton posButton;
     private javax.swing.JButton removeTagsButton;
     private javax.swing.JButton replaceButton;
+    @MyAnnotation(type = 1, name = Config.SEG_SHORTCUT, defaultShortcut = "G")
+    private javax.swing.JButton segButton;
+    private javax.swing.JSpinner sizeSpinner;
     private javax.swing.JTextArea textArea;
     private javax.swing.JTextField textFieldPath;
-    private javax.swing.JSpinner textSizeSpinner;
     // End of variables declaration//GEN-END:variables
-    private Font textAreaFont;
+    private Class clazz;
 }
 
 class ExampleFileFilter extends javax.swing.filechooser.FileFilter {

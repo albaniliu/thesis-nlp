@@ -22,6 +22,7 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Vector;
 import java.util.logging.Level;
@@ -29,12 +30,13 @@ import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
+import lib.Config;
 import lib.ID;
 import lib.JSREDocument;
 import lib.JSRELine;
+import lib.ReadWriteFile;
 import lib.TextFilter;
 import org.jdesktop.application.Action;
-import org.me.mylib.Properties;
 
 /**
  *
@@ -43,14 +45,13 @@ import org.me.mylib.Properties;
 public class MergePanel extends javax.swing.JPanel {
 
     /** Creates new form MergePanel */
-    public MergePanel(Properties proper) {
-        this.proper = proper;
+    public MergePanel(HashMap<String, String> mapConfig) {
+        this.mapConfig = mapConfig;
         initData();
         initComponents();
     }
 
     private void initData() {
-        defaultPath = System.getProperty("user.dir");
         Object[] colMerge = {"File", "Line number in Text - Length"};
         mergeModel = new DefaultTableModel(colMerge, 0);
     }
@@ -213,13 +214,7 @@ public class MergePanel extends javax.swing.JPanel {
         jLabel2.setName("jLabel2"); // NOI18N
         add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 430, -1, -1));
 
-        pathTextField.setEditable(false);
         pathTextField.setName("pathTextField"); // NOI18N
-        pathTextField.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                pathTextFieldMouseClicked(evt);
-            }
-        });
         add(pathTextField, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 430, 420, -1));
 
         mergeButton.setText("Merge");
@@ -239,14 +234,9 @@ public class MergePanel extends javax.swing.JPanel {
 
     private void addButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addButtonActionPerformed
         // TODO add your handling code here:
-         String path = null;
-        path = proper.getProperty(Properties.DIRECTORY_PATH);
-        JFileChooser fc = null;
-        if (path == null) {
-            fc = new JFileChooser(defaultPath);
-        } else {
-            fc = new JFileChooser(path);
-        }
+         String path = mapConfig.get(Config.DIRECTORY_PATH);
+        JFileChooser fc = new JFileChooser(path);
+        
         fc.setFileFilter(new TextFilter());
         fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
         fc.setMultiSelectionEnabled(true);
@@ -331,14 +321,9 @@ public class MergePanel extends javax.swing.JPanel {
 
     @Action
     public void browseAction() {
-        String path = null;
-        path = proper.getProperty(Properties.DIRECTORY_PATH);
-        JFileChooser fc = null;
-        if (path == null) {
-            fc = new JFileChooser(defaultPath);
-        } else {
-            fc = new JFileChooser(path);
-        }
+        String path = mapConfig.get(Config.DIRECTORY_PATH);
+        JFileChooser fc =  new JFileChooser(path);
+        
         fc.setFileFilter(new TextFilter());
         fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
         int val = fc.showSaveDialog(null);
@@ -353,17 +338,12 @@ public class MergePanel extends javax.swing.JPanel {
         }
     }//GEN-LAST:event_downButtonActionPerformed
 
-    private void pathTextFieldMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_pathTextFieldMouseClicked
-        // TODO add your handling code here:
-        browseAction();
-    }//GEN-LAST:event_pathTextFieldMouseClicked
-
     private void mergeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mergeButtonActionPerformed
         // TODO add your handling code here:
         String fileSavePath = pathTextField.getText();
         PrintWriter out = null;
         try {
-            out = new PrintWriter(new OutputStreamWriter(new FileOutputStream(fileSavePath), "UTF-8"));
+            out = ReadWriteFile.writeFile(fileSavePath, "UTF-8");
         } catch (FileNotFoundException ex) {
             Logger.getLogger(MergePanel.class.getName()).log(Level.SEVERE, null, ex);
         } catch (UnsupportedEncodingException e) {
@@ -447,8 +427,7 @@ public class MergePanel extends javax.swing.JPanel {
     // End of variables declaration//GEN-END:variables
     private DefaultTableModel mergeModel;
     private int rowEdit;
-    private Properties proper;
-    private String defaultPath;
+    private HashMap<String, String> mapConfig;
 
     /**
      * Class for Listener, isPopupTrigger equal right click, it needs in both mousePressed and
