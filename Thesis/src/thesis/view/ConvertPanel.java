@@ -12,6 +12,7 @@ package thesis.view;
 
 import feature.ENTITY;
 import java.awt.Color;
+import java.awt.Font;
 import java.awt.Point;
 import java.awt.event.KeyEvent;
 import java.awt.event.MouseAdapter;
@@ -25,10 +26,10 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.Map;
-import java.util.Set;
 import java.util.Vector;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -37,15 +38,19 @@ import javax.swing.JComboBox;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.JTextArea;
+import javax.swing.SpinnerModel;
+import javax.swing.SpinnerNumberModel;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.DefaultHighlighter;
 import javax.swing.text.Highlighter;
+import lib.Config;
 import lib.ConvertText;
+import lib.GUIFunction;
+import lib.ReadWriteFile;
 import lib.Sentence;
 import lib.TextFilter;
 import lib.Word;
-import org.me.mylib.Properties;
 import thesis.MainFrame;
 
 /**
@@ -54,11 +59,16 @@ import thesis.MainFrame;
  */
 public class ConvertPanel extends javax.swing.JPanel {
 
+    /**
+     * Key luu gia tri size cua lineArea trong file config
+     */
+    public static final String LINE_FONT_SIZE = "line.font.size";
+
     /** Creates new form ConvertPanel
      * @param proper
      */
-    public ConvertPanel(Properties proper) {
-        this.proper = proper;
+    public ConvertPanel(HashMap<String, String> mapConfig) {
+        this.mapConfig = mapConfig;
         initData();
         initComponents();
         hilitOuput = new DefaultHighlighter();
@@ -70,7 +80,6 @@ public class ConvertPanel extends javax.swing.JPanel {
     // <editor-fold defaultstate="collapsed" desc="Init Data">
     private void initData() {
         count = 1;
-        defaultPath = System.getProperty("user.dir");
 
         Object[] colInput = {"Line"};
         inputModel = new DefaultTableModel(colInput, 0);
@@ -121,6 +130,11 @@ public class ConvertPanel extends javax.swing.JPanel {
         resetCountButton = new javax.swing.JButton();
         jScrollPane5 = new javax.swing.JScrollPane();
         lineArea = new javax.swing.JTextArea();
+        jLabel3 = new javax.swing.JLabel();
+        SpinnerModel spinModel = new SpinnerNumberModel(14, 9, 30, 2);
+        sizeSpinner = new javax.swing.JSpinner(spinModel);
+        jLabel4 = new javax.swing.JLabel();
+        savePathTF = new javax.swing.JTextField();
 
         openDialog.setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         openDialog.setTitle("Line Content");
@@ -318,6 +332,34 @@ public class ConvertPanel extends javax.swing.JPanel {
 
         mainPanel.add(jScrollPane5, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 50, 380, 200));
 
+        jLabel3.setText("Size:");
+        jLabel3.setName("jLabel3"); // NOI18N
+        mainPanel.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 20, -1, -1));
+
+        sizeSpinner.setName("sizeSpinner"); // NOI18N
+        sizeSpinner.addChangeListener(new javax.swing.event.ChangeListener() {
+            public void stateChanged(javax.swing.event.ChangeEvent evt) {
+                sizeSpinnerStateChanged(evt);
+            }
+        });
+        mainPanel.add(sizeSpinner, new org.netbeans.lib.awtextra.AbsoluteConstraints(720, 20, 50, -1));
+        String size = mapConfig.get(Config.LINE_FONT_SIZE);
+        sizeSpinner.setValue(Integer.parseInt(size));
+
+        jLabel4.setText("Directory save");
+        jLabel4.setName("jLabel4"); // NOI18N
+        mainPanel.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 20, -1, -1));
+
+        savePathTF.setEditable(false);
+        savePathTF.setToolTipText("Click here to define directory to save");
+        savePathTF.setName("savePathTF"); // NOI18N
+        savePathTF.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mousePressed(java.awt.event.MouseEvent evt) {
+                savePathTFMousePressed(evt);
+            }
+        });
+        mainPanel.add(savePathTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 20, 350, -1));
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
         layout.setHorizontalGroup(
@@ -334,9 +376,9 @@ public class ConvertPanel extends javax.swing.JPanel {
             .addGap(0, 619, Short.MAX_VALUE)
             .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                 .addGroup(layout.createSequentialGroup()
-                    .addGap(0, 1, Short.MAX_VALUE)
+                    .addGap(0, 3, Short.MAX_VALUE)
                     .addComponent(mainPanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGap(0, 1, Short.MAX_VALUE)))
+                    .addGap(0, 3, Short.MAX_VALUE)))
         );
     }// </editor-fold>//GEN-END:initComponents
 
@@ -609,16 +651,18 @@ public class ConvertPanel extends javax.swing.JPanel {
 
     private void loadButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_loadButtonActionPerformed
         // TODO add your handling code here:
+        /*
+         * Reset field
+         */
+        outputArea.setText("");
+        lineArea.setText("");
+        count = 1;
+
         if (inputModel.getRowCount() > 0) {
             inputModel.getDataVector().removeAllElements();
         }
-        String path = proper.getProperty(Properties.DIRECTORY_PATH);
-        JFileChooser fc = null;
-        if (path == null) {
-            fc = new JFileChooser(defaultPath);
-        } else {
-            fc = new JFileChooser(path);
-        }
+        String path = mapConfig.get(Config.DIRECTORY_PATH);
+        JFileChooser fc = new JFileChooser(path);
         fc.setFileFilter(new TextFilter());
         fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
         int val = fc.showOpenDialog(null);
@@ -626,7 +670,8 @@ public class ConvertPanel extends javax.swing.JPanel {
             BufferedReader in = null;
             try {
                 File f = fc.getSelectedFile();
-                in = new BufferedReader(new FileReader(f));
+                fileName = f.getName();
+                in = ReadWriteFile.readFile(f, "UTF-8");
                 String line = null;
                 while ((line = in.readLine()) != null) {
                     if (!line.equals("")) {
@@ -654,16 +699,12 @@ public class ConvertPanel extends javax.swing.JPanel {
 
     private void saveButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_saveButtonActionPerformed
         // TODO add your handling code here:
-        String path = null;
-        path = proper.getProperty(Properties.DIRECTORY_PATH);
-        JFileChooser fc = null;
-        if (path == null) {
-            fc = new JFileChooser(defaultPath);
-        } else {
-            fc = new JFileChooser(path);
-        }
+//        String path = mapConfig.get(Config.DIRECTORY_PATH);
+        JFileChooser fc = new JFileChooser(savePath);
+
         fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
         fc.setFileFilter(new TextFilter());
+        fc.setSelectedFile(new File(fileName));
         int val = fc.showSaveDialog(null);
         if (val == JFileChooser.APPROVE_OPTION) {
             PrintWriter out = null;
@@ -675,7 +716,7 @@ public class ConvertPanel extends javax.swing.JPanel {
                 } else {
                     file = new File(f.getAbsolutePath() + ".txt");
                 }
-                out = new PrintWriter(new OutputStreamWriter(new FileOutputStream(file), "UTF-8"));
+                out = ReadWriteFile.writeFile(file, "UTF-8");
                 out.print(outputArea.getText());
             } catch (Exception ex) {
                 Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
@@ -705,6 +746,12 @@ public class ConvertPanel extends javax.swing.JPanel {
         inputTable.setRowSelectionInterval(row, row);
         lineArea.setText(inputModel.getValueAt(row, 0).toString());
         setHighlightLineArea(lineArea, hilitLine, painterLine);
+
+        /*
+         * clear button action
+         */
+        convertModel.getDataVector().removeAllElements();
+        convertModel.fireTableDataChanged();
     }//GEN-LAST:event_inputTableMouseClicked
 
     private void inputTableKeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_inputTableKeyReleased
@@ -714,6 +761,12 @@ public class ConvertPanel extends javax.swing.JPanel {
                 lineArea.setText(inputModel.getValueAt(row, 0).toString());
             }// end if row
             setHighlightLineArea(lineArea, hilitLine, painterLine);
+
+            /*
+             * clear button action
+             */
+            convertModel.getDataVector().removeAllElements();
+            convertModel.fireTableDataChanged();
         }// end if VK_Down VK_Up
     }//GEN-LAST:event_inputTableKeyReleased
 
@@ -725,16 +778,34 @@ public class ConvertPanel extends javax.swing.JPanel {
      */
     private void setHighlightLineArea(JTextArea area, Highlighter hilit, Highlighter.HighlightPainter painter) {
         String text = area.getText();
-        painter = new DefaultHighlighter.DefaultHighlightPainter(Color.LIGHT_GRAY);
-        setHighlightEntity(text, hilit, painter, ENTITY.PER);
+        /*
+         * Set CYAN cho per
+         */
         painter = new DefaultHighlighter.DefaultHighlightPainter(Color.CYAN);
+        setHighlightEntity(text, hilit, painter, ENTITY.PER);
+        /*
+         * Set Light_Gray cho loc
+         */
+        painter = new DefaultHighlighter.DefaultHighlightPainter(Color.LIGHT_GRAY);
         setHighlightEntity(text, hilit, painter, ENTITY.LOC);
-        painter = new DefaultHighlighter.DefaultHighlightPainter(Color.GREEN);
+        /*
+         * Set Magenta cho org
+         */
+        painter = new DefaultHighlighter.DefaultHighlightPainter(Color.MAGENTA);
         setHighlightEntity(text, hilit, painter, ENTITY.ORG);
+        /*
+         * Set Blue cho pos
+         */
         painter = new DefaultHighlighter.DefaultHighlightPainter(Color.BLUE);
         setHighlightEntity(text, hilit, painter, ENTITY.POS);
-        painter = new DefaultHighlighter.DefaultHighlightPainter(Color.GRAY);
+        /*
+         * Set Yellow cho job
+         */
+        painter = new DefaultHighlighter.DefaultHighlightPainter(Color.YELLOW);
         setHighlightEntity(text, hilit, painter, ENTITY.JOB);
+        /*
+         * Set Orange cho date
+         */
         painter = new DefaultHighlighter.DefaultHighlightPainter(Color.ORANGE);
         setHighlightEntity(text, hilit, painter, ENTITY.DATE);
     }// end setHighlightLineArea
@@ -764,6 +835,26 @@ public class ConvertPanel extends javax.swing.JPanel {
             inputModel.removeRow(row);
         }// end if row
     }//GEN-LAST:event_removeItemActionPerformed
+
+    private void sizeSpinnerStateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_sizeSpinnerStateChanged
+        // TODO add your handling code here:
+        int size = (Integer) sizeSpinner.getValue();
+        Font oldFont = lineArea.getFont();
+        Font changedFont = oldFont.deriveFont((float) size);
+        GUIFunction.setFontArea(lineArea, changedFont);
+        mapConfig.put(Config.LINE_FONT_SIZE, Integer.toString(size));
+    }//GEN-LAST:event_sizeSpinnerStateChanged
+
+    private void savePathTFMousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_savePathTFMousePressed
+        // TODO add your handling code here:
+        JFileChooser fc = new JFileChooser(mapConfig.get(Config.DIRECTORY_PATH));
+        fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+        int val = fc.showOpenDialog(null);
+        if (val == JFileChooser.APPROVE_OPTION) {
+            savePath = fc.getSelectedFile().getAbsolutePath();
+            savePathTF.setText(savePath);
+        }
+    }//GEN-LAST:event_savePathTFMousePressed
 
     /**
      * Get all words of an entity in line
@@ -850,6 +941,8 @@ public class ConvertPanel extends javax.swing.JPanel {
     private javax.swing.JTable inputTable;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel4;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JScrollPane jScrollPane3;
@@ -867,9 +960,10 @@ public class ConvertPanel extends javax.swing.JPanel {
     private javax.swing.JMenuItem removeItem;
     private javax.swing.JButton resetCountButton;
     private javax.swing.JButton saveButton;
+    private javax.swing.JTextField savePathTF;
+    private javax.swing.JSpinner sizeSpinner;
     // End of variables declaration//GEN-END:variables
-    private Properties proper;
-    private String defaultPath;
+    private HashMap<String, String> mapConfig;
     private DefaultTableModel convertModel;
     private DefaultTableModel inputModel;
     private Sentence sentence;
@@ -888,4 +982,12 @@ public class ConvertPanel extends javax.swing.JPanel {
      */
     private Highlighter hilitLine;
     private Highlighter.HighlightPainter painterLine;
+    /*
+     * Directory to save
+     */
+    private String savePath;
+    /*
+     * File path cua file load
+     */
+    private String fileName;
 }

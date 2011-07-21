@@ -7,6 +7,7 @@ package lib;
 import context.DefaultContext;
 import feature.ENTITY;
 import feature.Dictionary;
+import feature.Orthographic;
 import feature.POS;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -108,6 +109,9 @@ public class Sentence {
             } else {
                 /* normal word */
                 Word word = (dic != null) ? new Word(words[i], offset, dic) : new Word(words[i], offset);
+                if (Orthographic.isAllCap(word.getForm())) {
+                    word.setOrthographic("allcap");
+                }
                 wordList.add(word);
                 if (mark) {
                     markID = offset;

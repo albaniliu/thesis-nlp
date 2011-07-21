@@ -35,7 +35,7 @@
                   <Group type="102" alignment="0" attributes="1">
                       <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                      <Component id="textSizeSpinner" max="32767" attributes="0"/>
+                      <Component id="sizeSpinner" max="32767" attributes="0"/>
                   </Group>
                   <Group type="102" alignment="0" attributes="0">
                       <Component id="checkBoxEdit" min="-2" max="-2" attributes="0"/>
@@ -73,6 +73,12 @@
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Component id="replaceButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="clickCheckbox" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="mergeButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="segButton" min="-2" max="-2" attributes="0"/>
                   </Group>
               </Group>
           </Group>
@@ -104,8 +110,11 @@
               <EmptySpace type="unrelated" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
                   <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="textSizeSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sizeSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
                   <Component id="replaceButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clickCheckbox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mergeButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="segButton" alignment="3" min="-2" max="-2" attributes="0"/>
               </Group>
               <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
@@ -153,36 +162,42 @@
     </Component>
     <Component class="javax.swing.JButton" name="buttonPer">
       <Properties>
-        <Property name="mnemonic" type="int" value="80"/>
         <Property name="text" type="java.lang.String" value="Person"/>
-        <Property name="toolTipText" type="java.lang.String" value="Tag selected text as Person"/>
         <Property name="name" type="java.lang.String" value="buttonPer" noResource="true"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonPerActionPerformed"/>
       </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.PER_SHORTCUT, defaultShortcut = &quot;P&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonPer);"/>
+      </AuxValues>
     </Component>
     <Component class="javax.swing.JButton" name="buttonLoc">
       <Properties>
-        <Property name="mnemonic" type="int" value="76"/>
         <Property name="text" type="java.lang.String" value="Location"/>
-        <Property name="toolTipText" type="java.lang.String" value="Tag selected text as Location"/>
         <Property name="name" type="java.lang.String" value="buttonLoc" noResource="true"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonLocActionPerformed"/>
       </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.LOC_SHORTCUT, defaultShortcut = &quot;L&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonLoc);"/>
+      </AuxValues>
     </Component>
     <Component class="javax.swing.JButton" name="buttonOrg">
       <Properties>
-        <Property name="mnemonic" type="int" value="79"/>
         <Property name="text" type="java.lang.String" value="Organization"/>
-        <Property name="toolTipText" type="java.lang.String" value="Tag selected text as Organization"/>
         <Property name="name" type="java.lang.String" value="buttonOrg" noResource="true"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonOrgActionPerformed"/>
       </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.ORG_SHORTCUT, defaultShortcut = &quot;O&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonOrg);"/>
+      </AuxValues>
     </Component>
     <Component class="javax.swing.JButton" name="buttonSave">
       <Properties>
@@ -213,29 +228,39 @@
             <Property name="wrapStyleWord" type="boolean" value="true"/>
             <Property name="name" type="java.lang.String" value="textArea" noResource="true"/>
           </Properties>
+          <Events>
+            <EventHandler event="mouseReleased" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="textAreaMouseReleased"/>
+          </Events>
         </Component>
       </SubComponents>
     </Container>
     <Component class="javax.swing.JButton" name="buttonBrowse">
       <Properties>
         <Property name="text" type="java.lang.String" value="Browse..."/>
-        <Property name="toolTipText" type="java.lang.String" value="Choose file! [Ctrl O]"/>
+        <Property name="toolTipText" type="java.lang.String" value="Choose file"/>
         <Property name="name" type="java.lang.String" value="buttonBrowse" noResource="true"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonBrowseClicked"/>
       </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type=1, name=Config.BROWSE_SHORTCUT, defaultShortcut=&quot;B&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonBrowse);"/>
+      </AuxValues>
     </Component>
     <Component class="javax.swing.JButton" name="buttonUntag">
       <Properties>
-        <Property name="mnemonic" type="int" value="85"/>
         <Property name="text" type="java.lang.String" value="Untag"/>
-        <Property name="toolTipText" type="java.lang.String" value="Untag selected text!"/>
+        <Property name="toolTipText" type="java.lang.String" value="Untag selected text"/>
         <Property name="name" type="java.lang.String" value="buttonUntag" noResource="true"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonUntagActionPerformed"/>
       </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type=1, name=Config.UNTAG_SHORTCUT, defaultShortcut=&quot;U&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonUntag);"/>
+      </AuxValues>
     </Component>
     <Component class="javax.swing.JCheckBox" name="checkBoxEdit">
       <Properties>
@@ -336,28 +361,31 @@
         <Property name="name" type="java.lang.String" value="jLabel2" noResource="true"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JSpinner" name="textSizeSpinner">
+    <Component class="javax.swing.JSpinner" name="sizeSpinner">
       <Properties>
-        <Property name="name" type="java.lang.String" value="textSizeSpinner" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="sizeSpinner" noResource="true"/>
       </Properties>
       <Events>
-        <EventHandler event="stateChanged" listener="javax.swing.event.ChangeListener" parameters="javax.swing.event.ChangeEvent" handler="textSizeSpinnerStateChanged"/>
+        <EventHandler event="stateChanged" listener="javax.swing.event.ChangeListener" parameters="javax.swing.event.ChangeEvent" handler="sizeSpinnerStateChanged"/>
       </Events>
       <AuxValues>
         <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JSpinner(numberModel)"/>
-        <AuxValue name="JavaCodeGenerator_CreateCodePre" type="java.lang.String" value="SpinnerModel numberModel = new SpinnerNumberModel(12, 9, 30, 2);"/>
+        <AuxValue name="JavaCodeGenerator_CreateCodePre" type="java.lang.String" value="SpinnerModel numberModel = new SpinnerNumberModel(14, 9, 30, 2);"/>
+        <AuxValue name="JavaCodeGenerator_ListenersCodePost" type="java.lang.String" value="setInfoButton(sizeSpinner);"/>
       </AuxValues>
     </Component>
     <Component class="javax.swing.JButton" name="posButton">
       <Properties>
-        <Property name="mnemonic" type="int" value="83"/>
         <Property name="text" type="java.lang.String" value="Position"/>
-        <Property name="toolTipText" type="java.lang.String" value="[Alt S]"/>
         <Property name="name" type="java.lang.String" value="posButton" noResource="true"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="posButtonActionPerformed"/>
       </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.POS_SHORTCUT, defaultShortcut = &quot;S&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(posButton);"/>
+      </AuxValues>
     </Component>
     <Component class="javax.swing.JButton" name="replaceButton">
       <Properties>
@@ -372,25 +400,66 @@
     </Component>
     <Component class="javax.swing.JButton" name="jobButton">
       <Properties>
-        <Property name="mnemonic" type="int" value="74"/>
         <Property name="text" type="java.lang.String" value="Job"/>
-        <Property name="toolTipText" type="java.lang.String" value="Tag Job entity [Alt + J]"/>
         <Property name="name" type="java.lang.String" value="jobButton" noResource="true"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jobButtonActionPerformed"/>
       </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.JOB_SHORTCUT, defaultShortcut = &quot;J&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(jobButton);"/>
+      </AuxValues>
     </Component>
     <Component class="javax.swing.JButton" name="dateButton">
       <Properties>
-        <Property name="mnemonic" type="int" value="68"/>
         <Property name="text" type="java.lang.String" value="Date"/>
-        <Property name="toolTipText" type="java.lang.String" value="Tag Date entity [Alt + D]"/>
         <Property name="name" type="java.lang.String" value="dateButton" noResource="true"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="dateButtonActionPerformed"/>
       </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.DATE_SHORTCUT, defaultShortcut = &quot;D&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(dateButton);"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="clickCheckbox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Normal click"/>
+        <Property name="toolTipText" type="java.lang.String" value="Choose mode click in textarea "/>
+        <Property name="name" type="java.lang.String" value="clickCheckbox" noResource="true"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.CLICK_SHORTCUT, defaultShortcut = &quot;N&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(clickCheckbox);"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JButton" name="mergeButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Merge words"/>
+        <Property name="name" type="java.lang.String" value="mergeButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mergeButtonActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.MERGE_SHORTCUT, defaultShortcut = &quot;M&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(mergeButton);"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JButton" name="segButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Seg words"/>
+        <Property name="name" type="java.lang.String" value="segButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="segButtonActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.SEG_SHORTCUT, defaultShortcut = &quot;G&quot;)"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(segButton);"/>
+      </AuxValues>
     </Component>
   </SubComponents>
 </Form>
