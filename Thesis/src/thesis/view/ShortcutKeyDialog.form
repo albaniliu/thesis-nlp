@@ -5,7 +5,7 @@
     <Property name="defaultCloseOperation" type="int" value="2"/>
     <Property name="title" type="java.lang.String" value="Shortcut key"/>
     <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-      <Dimension value="[700, 550]"/>
+      <Dimension value="[900, 600]"/>
     </Property>
   </Properties>
   <SyntheticProperties>
@@ -24,7 +24,7 @@
     <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
     <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
     <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
-    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,16,0,0,2,-54"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,16,0,0,3,58"/>
   </AuxValues>
 
   <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
@@ -38,7 +38,7 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="246" y="44" width="-1" height="-1"/>
+          <AbsoluteConstraints x="370" y="20" width="-1" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -49,7 +49,7 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="90" y="90" width="107" height="-1"/>
+          <AbsoluteConstraints x="100" y="50" width="107" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -60,7 +60,7 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="90" y="140" width="107" height="-1"/>
+          <AbsoluteConstraints x="100" y="100" width="107" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -71,7 +71,7 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="90" y="190" width="-1" height="-1"/>
+          <AbsoluteConstraints x="100" y="150" width="-1" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -82,7 +82,7 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="90" y="240" width="107" height="-1"/>
+          <AbsoluteConstraints x="100" y="200" width="107" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -93,7 +93,7 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="90" y="290" width="107" height="-1"/>
+          <AbsoluteConstraints x="100" y="250" width="107" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -104,91 +104,91 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="90" y="340" width="-1" height="-1"/>
+          <AbsoluteConstraints x="100" y="300" width="-1" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JTextField" name="perShortcut">
+    <Component class="javax.swing.JTextField" name="perTF">
       <Properties>
-        <Property name="name" type="java.lang.String" value="perShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="perTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="perShortcut.addKeyListener(perListener);&#xa;perShortcut.addFocusListener(perListener);&#xa;perShortcut.setText(mapConfig.get(Config.PER_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener perListener = new ShortcutListener(perShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="perTF.addKeyListener(perListener);&#xa;perTF.addFocusListener(perListener);&#xa;perTF.setText(mapConfig.get(Config.PER_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener perListener = new ShortcutListener(perTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="240" y="90" width="70" height="-1"/>
+          <AbsoluteConstraints x="210" y="50" width="170" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JTextField" name="locShortcut">
+    <Component class="javax.swing.JTextField" name="locTF">
       <Properties>
-        <Property name="name" type="java.lang.String" value="locShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="locTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="locShortcut.addKeyListener(locListener);&#xa;locShortcut.addFocusListener(locListener);&#xa;locShortcut.setText(mapConfig.get(Config.LOC_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener locListener = new ShortcutListener(locShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="locTF.addKeyListener(locListener);&#xa;locTF.addFocusListener(locListener);&#xa;locTF.setText(mapConfig.get(Config.LOC_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener locListener = new ShortcutListener(locTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="240" y="140" width="70" height="-1"/>
+          <AbsoluteConstraints x="210" y="100" width="170" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JTextField" name="orgShortcut">
+    <Component class="javax.swing.JTextField" name="orgTF">
       <Properties>
-        <Property name="name" type="java.lang.String" value="orgShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="orgTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="orgShortcut.addKeyListener(orgListener);&#xa;orgShortcut.addFocusListener(orgListener);&#xa;orgShortcut.setText(mapConfig.get(Config.ORG_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener orgListener = new ShortcutListener(orgShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="orgTF.addKeyListener(orgListener);&#xa;orgTF.addFocusListener(orgListener);&#xa;orgTF.setText(mapConfig.get(Config.ORG_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener orgListener = new ShortcutListener(orgTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="240" y="190" width="70" height="-1"/>
+          <AbsoluteConstraints x="210" y="150" width="170" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JTextField" name="posShortcut">
+    <Component class="javax.swing.JTextField" name="posTF">
       <Properties>
-        <Property name="name" type="java.lang.String" value="posShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="posTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="posShortcut.addKeyListener(posListener);&#xa;posShortcut.addFocusListener(posListener);&#xa;posShortcut.setText(mapConfig.get(Config.POS_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener posListener = new ShortcutListener(posShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="posTF.addKeyListener(posListener);&#xa;posTF.addFocusListener(posListener);&#xa;posTF.setText(mapConfig.get(Config.POS_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener posListener = new ShortcutListener(posTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="240" y="240" width="70" height="-1"/>
+          <AbsoluteConstraints x="210" y="200" width="170" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JTextField" name="jobShortcut">
+    <Component class="javax.swing.JTextField" name="jobTF">
       <Properties>
-        <Property name="name" type="java.lang.String" value="jobShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="jobTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jobShortcut.addKeyListener(jobListener);&#xa;jobShortcut.addFocusListener(jobListener);&#xa;jobShortcut.setText(mapConfig.get(Config.JOB_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener jobListener = new ShortcutListener(jobShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jobTF.addKeyListener(jobListener);&#xa;jobTF.addFocusListener(jobListener);&#xa;jobTF.setText(mapConfig.get(Config.JOB_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener jobListener = new ShortcutListener(jobTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="240" y="290" width="70" height="-1"/>
+          <AbsoluteConstraints x="210" y="250" width="170" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JTextField" name="dateShortcut">
+    <Component class="javax.swing.JTextField" name="dateTF">
       <Properties>
-        <Property name="name" type="java.lang.String" value="dateShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="dateTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="dateShortcut.addKeyListener(dateListener);&#xa;dateShortcut.addFocusListener(dateListener);&#xa;dateShortcut.setText(mapConfig.get(Config.DATE_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener dateListener = new ShortcutListener(dateShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="dateTF.addKeyListener(dateListener);&#xa;dateTF.addFocusListener(dateListener);&#xa;dateTF.setText(mapConfig.get(Config.DATE_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener dateListener = new ShortcutListener(dateTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="240" y="340" width="70" height="-1"/>
+          <AbsoluteConstraints x="210" y="300" width="170" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -202,73 +202,7 @@
       </Events>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="220" y="440" width="-1" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLabel13">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Alt +"/>
-        <Property name="name" type="java.lang.String" value="jLabel13" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="210" y="90" width="-1" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLabel14">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Alt +"/>
-        <Property name="name" type="java.lang.String" value="jLabel14" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="210" y="340" width="-1" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLabel15">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Alt +"/>
-        <Property name="name" type="java.lang.String" value="jLabel15" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="210" y="290" width="-1" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLabel16">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Alt +"/>
-        <Property name="name" type="java.lang.String" value="jLabel16" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="210" y="240" width="-1" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLabel17">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Alt +"/>
-        <Property name="name" type="java.lang.String" value="jLabel17" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="210" y="190" width="-1" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLabel18">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Alt +"/>
-        <Property name="name" type="java.lang.String" value="jLabel18" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="210" y="140" width="-1" height="-1"/>
+          <AbsoluteConstraints x="330" y="470" width="-1" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -282,7 +216,7 @@
       </Events>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="340" y="440" width="-1" height="-1"/>
+          <AbsoluteConstraints x="450" y="470" width="-1" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -293,32 +227,21 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="380" y="90" width="-1" height="-1"/>
+          <AbsoluteConstraints x="420" y="50" width="-1" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JLabel" name="jLabel9">
+    <Component class="javax.swing.JTextField" name="splitTF">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Alt + "/>
-        <Property name="name" type="java.lang.String" value="jLabel9" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="500" y="140" width="-1" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JTextField" name="segShortcut">
-      <Properties>
-        <Property name="name" type="java.lang.String" value="segShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="splitTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="segShortcut.addKeyListener(segListener);&#xa;segShortcut.addFocusListener(segListener);&#xa;segShortcut.setText(mapConfig.get(Config.SEG_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener segListener = new ShortcutListener(segShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="splitTF.addKeyListener(segListener);&#xa;splitTF.addFocusListener(segListener);&#xa;splitTF.setText(mapConfig.get(Config.SPLIT_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener segListener = new ShortcutListener(splitTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="530" y="240" width="70" height="-1"/>
+          <AbsoluteConstraints x="540" y="200" width="190" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -329,104 +252,71 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="380" y="140" width="90" height="-1"/>
+          <AbsoluteConstraints x="420" y="100" width="90" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JLabel" name="jLabel10">
+    <Component class="javax.swing.JTextField" name="clickTF">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Alt + "/>
-        <Property name="name" type="java.lang.String" value="jLabel10" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="500" y="90" width="-1" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JTextField" name="clickShortcut">
-      <Properties>
-        <Property name="name" type="java.lang.String" value="clickShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="clickTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="clickShortcut.addKeyListener(clickListener);&#xa;clickShortcut.addFocusListener(clickListener);&#xa;clickShortcut.setText(mapConfig.get(Config.CLICK_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener clickListener = new ShortcutListener(clickShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="clickTF.addKeyListener(clickListener);&#xa;clickTF.addFocusListener(clickListener);&#xa;clickTF.setText(mapConfig.get(Config.CLICK_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener clickListener = new ShortcutListener(clickTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="530" y="90" width="70" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLabel11">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Alt + "/>
-        <Property name="name" type="java.lang.String" value="jLabel11" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="500" y="190" width="-1" height="-1"/>
+          <AbsoluteConstraints x="540" y="50" width="190" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel12">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Merge Button:"/>
+        <Property name="text" type="java.lang.String" value="Combine Button:"/>
         <Property name="name" type="java.lang.String" value="jLabel12" noResource="true"/>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="380" y="190" width="90" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLabel19">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Alt + "/>
-        <Property name="name" type="java.lang.String" value="jLabel19" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="500" y="240" width="-1" height="-1"/>
+          <AbsoluteConstraints x="420" y="150" width="110" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel21">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Seg Button:"/>
+        <Property name="text" type="java.lang.String" value="Split Button:"/>
         <Property name="name" type="java.lang.String" value="jLabel21" noResource="true"/>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="380" y="240" width="90" height="-1"/>
+          <AbsoluteConstraints x="420" y="200" width="90" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JTextField" name="untagShortcut">
+    <Component class="javax.swing.JTextField" name="untagTF">
       <Properties>
-        <Property name="name" type="java.lang.String" value="untagShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="untagTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="untagShortcut.addKeyListener(untagListener);&#xa;untagShortcut.addFocusListener(untagListener);&#xa;untagShortcut.setText(mapConfig.get(Config.UNTAG_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener untagListener = new ShortcutListener(untagShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="untagTF.addKeyListener(untagListener);&#xa;untagTF.addFocusListener(untagListener);&#xa;untagTF.setText(mapConfig.get(Config.UNTAG_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener untagListener = new ShortcutListener(untagTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="530" y="140" width="70" height="-1"/>
+          <AbsoluteConstraints x="540" y="100" width="190" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JTextField" name="merShortcut">
+    <Component class="javax.swing.JTextField" name="combineTF">
       <Properties>
-        <Property name="name" type="java.lang.String" value="merShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="combineTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="merShortcut.addKeyListener(merListener);&#xa;merShortcut.addFocusListener(merListener);&#xa;merShortcut.setText(mapConfig.get(Config.MERGE_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener merListener = new ShortcutListener(merShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="combineTF.addKeyListener(merListener);&#xa;combineTF.addFocusListener(merListener);&#xa;combineTF.setText(mapConfig.get(Config.COMBINE_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener merListener = new ShortcutListener(combineTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="530" y="190" width="70" height="-1"/>
+          <AbsoluteConstraints x="540" y="150" width="190" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -437,32 +327,146 @@
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="380" y="290" width="90" height="-1"/>
+          <AbsoluteConstraints x="420" y="250" width="90" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>
-    <Component class="javax.swing.JLabel" name="jLabel23">
+    <Component class="javax.swing.JTextField" name="browseTF">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Alt + "/>
-        <Property name="name" type="java.lang.String" value="jLabel23" noResource="true"/>
-      </Properties>
-      <Constraints>
-        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="500" y="290" width="-1" height="-1"/>
-        </Constraint>
-      </Constraints>
-    </Component>
-    <Component class="javax.swing.JTextField" name="browseShortcut">
-      <Properties>
-        <Property name="name" type="java.lang.String" value="browseShortcut" noResource="true"/>
+        <Property name="name" type="java.lang.String" value="browseTF" noResource="true"/>
       </Properties>
       <AuxValues>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="browseShortcut.addKeyListener(browseListener);&#xa;browseShortcut.addFocusListener(browseListener);&#xa;browseShortcut.setText(mapConfig.get(Config.BROWSE_SHORTCUT));"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener browseListener = new ShortcutListener(browseShortcut);"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="browseTF.addKeyListener(browseListener);&#xa;browseTF.addFocusListener(browseListener);&#xa;browseTF.setText(mapConfig.get(Config.BROWSE_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener browseListener = new ShortcutListener(browseTF);"/>
       </AuxValues>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="530" y="290" width="70" height="-1"/>
+          <AbsoluteConstraints x="540" y="250" width="190" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Toggle Mode:"/>
+        <Property name="name" type="java.lang.String" value="jLabel9" noResource="true"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="420" y="300" width="110" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="modeTF">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="modeTF" noResource="true"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="modeTF.addKeyListener(modeListener);&#xa;modeTF.addFocusListener(modeListener);&#xa;modeTF.setText(mapConfig.get(Config.MODE_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener modeListener = new ShortcutListener(modeTF);"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="540" y="300" width="190" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Undo Button:"/>
+        <Property name="name" type="java.lang.String" value="jLabel10" noResource="true"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="100" y="360" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="undoTF">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="undoTF" noResource="true"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="undoTF.addKeyListener(undoListener);&#xa;undoTF.addFocusListener(undoListener);&#xa;undoTF.setText(mapConfig.get(Config.UNDO_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener undoListener = new ShortcutListener(undoTF);"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="210" y="360" width="170" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Redo Button:"/>
+        <Property name="name" type="java.lang.String" value="jLabel11" noResource="true"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="420" y="360" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="redoTF">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="redoTF" noResource="true"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="redoTF.addKeyListener(redoListener);&#xa;redoTF.addFocusListener(redoListener);&#xa;redoTF.setText(mapConfig.get(Config.REDO_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener redoListener = new ShortcutListener(redoTF);"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="540" y="360" width="190" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Save Button:"/>
+        <Property name="name" type="java.lang.String" value="jLabel13" noResource="true"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="100" y="420" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="saveTF">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="saveTF" noResource="true"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="saveTF.addKeyListener(saveListener);&#xa;saveTF.addFocusListener(saveListener);&#xa;saveTF.setText(mapConfig.get(Config.SAVE_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener saveListener = new ShortcutListener(saveTF);"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="210" y="420" width="170" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Save As Button:"/>
+        <Property name="name" type="java.lang.String" value="jLabel14" noResource="true"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="420" y="420" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="saveAsTF">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="saveAsTF" noResource="true"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="saveAsTF.addKeyListener(saveAsListener);&#xa;saveAsTF.addFocusListener(saveAsListener);&#xa;saveAsTF.setText(mapConfig.get(Config.SAVE_AS_SHORTCUT));"/>
+        <AuxValue name="JavaCodeGenerator_InitCodePre" type="java.lang.String" value="ShortcutListener saveAsListener = new ShortcutListener(saveAsTF);"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="540" y="420" width="190" height="-1"/>
         </Constraint>
       </Constraints>
     </Component>

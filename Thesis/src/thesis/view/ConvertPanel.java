@@ -44,7 +44,7 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.DefaultHighlighter;
 import javax.swing.text.Highlighter;
-import lib.Config;
+import util.Config;
 import lib.ConvertText;
 import lib.GUIFunction;
 import lib.ReadWriteFile;

@@ -1,8 +1,20 @@
 <?xml version="1.1" encoding="UTF-8" ?>
 
 <Form version="1.5" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <NonVisualComponents>
+    <Component class="util.TextBooleanConverter" name="textBooleanConverter2">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1105, 548]"/>
+    </Property>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1105, 548]"/>
+    </Property>
+  </Properties>
   <AuxValues>
-    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
     <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
     <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
     <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
@@ -11,205 +23,13 @@
     <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
     <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
     <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,27,0,0,3,-57"/>
   </AuxValues>
 
-  <Layout>
-    <DimensionLayout dim="0">
-      <Group type="103" groupAlignment="0" attributes="0">
-          <Group type="102" alignment="0" attributes="0">
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="checkBoxMode" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="checkBoxChoose" alignment="0" min="-2" max="-2" attributes="0"/>
-              </Group>
-              <EmptySpace min="36" pref="36" max="36" attributes="0"/>
-              <Component id="labelPath" min="-2" max="-2" attributes="0"/>
-              <EmptySpace min="4" pref="4" max="4" attributes="0"/>
-              <Component id="textFieldPath" min="-2" pref="326" max="-2" attributes="0"/>
-              <EmptySpace min="10" pref="10" max="10" attributes="0"/>
-              <Component id="buttonBrowse" min="-2" max="-2" attributes="0"/>
-          </Group>
-          <Component id="labelStatus" alignment="0" min="-2" max="-2" attributes="0"/>
-          <Group type="102" alignment="0" attributes="0">
-              <EmptySpace min="2" pref="2" max="2" attributes="0"/>
-              <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                  <Group type="102" alignment="0" attributes="1">
-                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                      <Component id="sizeSpinner" max="32767" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="checkBoxEdit" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="6" pref="6" max="6" attributes="0"/>
-                      <Component id="buttonPer" min="-2" max="-2" attributes="0"/>
-                  </Group>
-              </Group>
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" attributes="0">
-                      <EmptySpace min="10" pref="10" max="10" attributes="0"/>
-                      <Component id="buttonLoc" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="2" pref="2" max="2" attributes="0"/>
-                      <Component id="buttonNP" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="6" pref="6" max="6" attributes="0"/>
-                      <Component id="buttonOrg" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="posButton" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
-                      <Component id="jobButton" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
-                      <Component id="dateButton" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="buttonUntag" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="24" pref="24" max="24" attributes="0"/>
-                      <Component id="buttonReload" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="18" pref="18" max="18" attributes="0"/>
-                      <Component id="buttonSave" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="10" pref="10" max="10" attributes="0"/>
-                      <Component id="buttonSaveAs" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="10" pref="10" max="10" attributes="0"/>
-                      <Component id="removeTagsButton" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="18" pref="18" max="18" attributes="0"/>
-                      <Component id="convertButton" min="-2" pref="71" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Component id="replaceButton" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Component id="clickCheckbox" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Component id="mergeButton" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Component id="segButton" min="-2" max="-2" attributes="0"/>
-                  </Group>
-              </Group>
-          </Group>
-          <Component id="jScrollPane1" alignment="0" pref="1105" max="32767" attributes="0"/>
-      </Group>
-    </DimensionLayout>
-    <DimensionLayout dim="1">
-      <Group type="103" groupAlignment="0" attributes="0">
-          <Group type="102" alignment="0" attributes="0">
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="checkBoxMode" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace min="3" pref="3" max="3" attributes="0"/>
-                      <Component id="checkBoxChoose" min="-2" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="15" pref="15" max="15" attributes="0"/>
-                      <Component id="labelPath" min="-2" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="12" pref="12" max="12" attributes="0"/>
-                      <Component id="textFieldPath" min="-2" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="11" pref="11" max="11" attributes="0"/>
-                      <Component id="buttonBrowse" min="-2" max="-2" attributes="0"/>
-                  </Group>
-              </Group>
-              <EmptySpace type="unrelated" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="sizeSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="replaceButton" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="clickCheckbox" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="mergeButton" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="segButton" alignment="3" min="-2" max="-2" attributes="0"/>
-              </Group>
-              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="checkBoxEdit" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="buttonPer" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="buttonLoc" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="buttonNP" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="buttonOrg" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                      <Component id="buttonUntag" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="posButton" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="jobButton" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="dateButton" alignment="3" min="-2" max="-2" attributes="0"/>
-                  </Group>
-                  <Component id="buttonReload" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="buttonSave" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="buttonSaveAs" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="removeTagsButton" alignment="0" min="-2" max="-2" attributes="0"/>
-                  <Component id="convertButton" alignment="0" min="-2" pref="23" max="-2" attributes="0"/>
-              </Group>
-              <EmptySpace max="-2" attributes="0"/>
-              <Component id="jScrollPane1" min="-2" pref="398" max="-2" attributes="0"/>
-              <EmptySpace max="-2" attributes="0"/>
-              <Component id="labelStatus" min="-2" max="-2" attributes="0"/>
-          </Group>
-      </Group>
-    </DimensionLayout>
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
   </Layout>
   <SubComponents>
-    <Component class="javax.swing.JLabel" name="labelPath">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Path"/>
-        <Property name="name" type="java.lang.String" value="labelPath" noResource="true"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JTextField" name="textFieldPath">
-      <Properties>
-        <Property name="editable" type="boolean" value="false"/>
-        <Property name="name" type="java.lang.String" value="textFieldPath" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="mouseExited" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="textFieldPathMouseExited"/>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="textFieldPathActionPerformed"/>
-      </Events>
-    </Component>
-    <Component class="javax.swing.JButton" name="buttonPer">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Person"/>
-        <Property name="name" type="java.lang.String" value="buttonPer" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonPerActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.PER_SHORTCUT, defaultShortcut = &quot;P&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonPer);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JButton" name="buttonLoc">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Location"/>
-        <Property name="name" type="java.lang.String" value="buttonLoc" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonLocActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.LOC_SHORTCUT, defaultShortcut = &quot;L&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonLoc);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JButton" name="buttonOrg">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Organization"/>
-        <Property name="name" type="java.lang.String" value="buttonOrg" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonOrgActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.ORG_SHORTCUT, defaultShortcut = &quot;O&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonOrg);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JButton" name="buttonSave">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Save"/>
-        <Property name="toolTipText" type="java.lang.String" value="Save text in the textarea to the old file!"/>
-        <Property name="enabled" type="boolean" value="false"/>
-        <Property name="name" type="java.lang.String" value="buttonSave" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonSaveActionPerformed"/>
-      </Events>
-    </Component>
     <Container class="javax.swing.JScrollPane" name="jScrollPane1">
       <Properties>
         <Property name="name" type="java.lang.String" value="jScrollPane1" noResource="true"/>
@@ -217,249 +37,392 @@
       <AuxValues>
         <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
       </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="144" width="960" height="370"/>
+        </Constraint>
+      </Constraints>
 
       <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
       <SubComponents>
         <Component class="javax.swing.JTextArea" name="textArea">
           <Properties>
             <Property name="columns" type="int" value="20"/>
-            <Property name="lineWrap" type="boolean" value="true"/>
             <Property name="rows" type="int" value="5"/>
-            <Property name="wrapStyleWord" type="boolean" value="true"/>
             <Property name="name" type="java.lang.String" value="textArea" noResource="true"/>
           </Properties>
+          <BindingProperties>
+            <BindingProperty name="editable" source="checkBoxEdit" sourcePath="${selected}" target="textArea" targetPath="editable" updateStrategy="0" immediately="false"/>
+          </BindingProperties>
           <Events>
+            <EventHandler event="mouseWheelMoved" listener="java.awt.event.MouseWheelListener" parameters="java.awt.event.MouseWheelEvent" handler="textAreaMouseWheelMoved"/>
             <EventHandler event="mouseReleased" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="textAreaMouseReleased"/>
           </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="textArea.getDocument().addDocumentListener(new DocumentListener() {&#xa;    public void insertUpdate(DocumentEvent e) {&#xa;        change();&#xa;    }&#xa;    public void removeUpdate(DocumentEvent e) {&#xa;        change();&#xa;    }&#xa;    public void changedUpdate(DocumentEvent e) {&#xa;        change();&#xa;    }&#xa;    private void change() {&#xa;        buttonSave.setEnabled(true);&#xa;    }&#xa;});&#xa;textArea.getDocument().addUndoableEditListener(new UndoListener());"/>
+          </AuxValues>
         </Component>
       </SubComponents>
     </Container>
-    <Component class="javax.swing.JButton" name="buttonBrowse">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Browse..."/>
-        <Property name="toolTipText" type="java.lang.String" value="Choose file"/>
-        <Property name="name" type="java.lang.String" value="buttonBrowse" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonBrowseClicked"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type=1, name=Config.BROWSE_SHORTCUT, defaultShortcut=&quot;B&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonBrowse);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JButton" name="buttonUntag">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Untag"/>
-        <Property name="toolTipText" type="java.lang.String" value="Untag selected text"/>
-        <Property name="name" type="java.lang.String" value="buttonUntag" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonUntagActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type=1, name=Config.UNTAG_SHORTCUT, defaultShortcut=&quot;U&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(buttonUntag);"/>
-      </AuxValues>
-    </Component>
     <Component class="javax.swing.JCheckBox" name="checkBoxEdit">
       <Properties>
         <Property name="selected" type="boolean" value="true"/>
-        <Property name="text" type="java.lang.String" value="Edit"/>
-        <Property name="toolTipText" type="java.lang.String" value="Editable text area or not ?"/>
+        <Property name="text" type="java.lang.String" resourceKey="checkBoxEdit.text"/>
         <Property name="name" type="java.lang.String" value="checkBoxEdit" noResource="true"/>
       </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="checkBoxEditActionPerformed"/>
-      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="690" y="50" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
     </Component>
-    <Component class="javax.swing.JLabel" name="labelStatus">
+    <Component class="javax.swing.JCheckBox" name="clickCheckbox">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Status"/>
-        <Property name="name" type="java.lang.String" value="labelStatus" noResource="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="clickCheckbox.text"/>
+        <Property name="name" type="java.lang.String" value="clickCheckbox" noResource="true"/>
       </Properties>
-    </Component>
-    <Component class="javax.swing.JButton" name="buttonReload">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Reload"/>
-        <Property name="toolTipText" type="java.lang.String" value="Save and update changes to the display of the textarea!"/>
-        <Property name="enabled" type="boolean" value="false"/>
-        <Property name="name" type="java.lang.String" value="buttonReload" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonReloadActionPerformed"/>
-      </Events>
-    </Component>
-    <Component class="javax.swing.JButton" name="buttonSaveAs">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Save As"/>
-        <Property name="toolTipText" type="java.lang.String" value="Save text in textarea as a new file![Ctrl S]"/>
-        <Property name="name" type="java.lang.String" value="buttonSaveAs" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonSaveAsActionPerformed"/>
-      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.CLICK_SHORTCUT, defaultShortcut=Config.CLICK_SHORTCUT_DEFAULT, actionName=Config.CLICK_ACTION)"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="30" y="50" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
     </Component>
     <Component class="javax.swing.JCheckBox" name="checkBoxMode">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Tag(selected)/WordSeg(unselected)"/>
-        <Property name="toolTipText" type="java.lang.String" value="Tag document mode or word segmentation mode"/>
+        <Property name="text" type="java.lang.String" resourceKey="checkBoxMode.text"/>
         <Property name="name" type="java.lang.String" value="checkBoxMode" noResource="true"/>
       </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="checkBoxModeActionPerformed"/>
-      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.MODE_SHORTCUT, defaultShortcut=Config.MODE_SHORTCUT_DEFAULT, actionName=Config.MODE_ACTION)"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="150" y="50" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
     </Component>
     <Component class="javax.swing.JCheckBox" name="checkBoxChoose">
       <Properties>
         <Property name="selected" type="boolean" value="true"/>
-        <Property name="text" type="java.lang.String" value="PerLocOrg(selected)/NP(unselected)"/>
-        <Property name="toolTipText" type="java.lang.String" value="Tag person, location and organization or tag noun phrase"/>
+        <Property name="text" type="java.lang.String" resourceKey="checkBoxChoose.text"/>
         <Property name="name" type="java.lang.String" value="checkBoxChoose" noResource="true"/>
       </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="checkBoxChooseActionPerformed"/>
-      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="430" y="50" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
     </Component>
-    <Component class="javax.swing.JButton" name="buttonNP">
+    <Container class="javax.swing.JToolBar" name="jToolBar1">
       <Properties>
-        <Property name="mnemonic" type="int" value="78"/>
-        <Property name="text" type="java.lang.String" value="NP"/>
-        <Property name="toolTipText" type="java.lang.String" value="Tag selected text as Noun Phrase (NP)"/>
-        <Property name="enabled" type="boolean" value="false"/>
-        <Property name="name" type="java.lang.String" value="buttonNP" noResource="true"/>
+        <Property name="floatable" type="boolean" value="false"/>
+        <Property name="rollover" type="boolean" value="true"/>
+        <Property name="name" type="java.lang.String" value="jToolBar1" noResource="true"/>
       </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonNPActionPerformed"/>
-      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="3" y="2" width="950" height="40"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="buttonBrowse">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="browse" methodName="browse"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="buttonBrowse.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="buttonBrowse.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="buttonBrowse.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="buttonBrowse" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.BROWSE_SHORTCUT, defaultShortcut=Config.BROWSE_SHORTCUT_DEFAULT, actionName=Config.BROWSE_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonSave">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="save" methodName="save"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="buttonSave.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="buttonSave.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="buttonSave.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="buttonSave" noResource="true"/>
+          </Properties>
+          <BindingProperties>
+            <BindingProperty name="enabled" source="textFieldPath" sourcePath="${text}" target="buttonSave" targetPath="enabled" updateStrategy="1" immediately="false">
+              <Property name="converter" type="org.jdesktop.beansbinding.Converter" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                <ComponentRef name="textBooleanConverter2"/>
+              </Property>
+            </BindingProperty>
+          </BindingProperties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.SAVE_SHORTCUT, defaultShortcut=Config.SAVE_SHORTCUT_DEFAULT, actionName=Config.SAVE_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonSaveAs">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="saveAs" methodName="saveAs"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="buttonSaveAs.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="buttonSaveAs.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="buttonSaveAs.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="buttonSaveAs" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.SAVE_AS_SHORTCUT, defaultShortcut=Config.SAVE_AS_SHORTCUT_DEFAULT, actionName=Config.SAVE_AS_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="undoButton">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="undoButton.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="undoButton.text"/>
+            <Property name="enabled" type="boolean" value="false"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="name" type="java.lang.String" value="undoButton" noResource="true"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="undoButtonActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.UNDO_SHORTCUT, defaultShortcut=Config.UNDO_SHORTCUT_DEFAULT, actionName=Config.UNDO_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="redoButton">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="redoButton.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="redoButton.text"/>
+            <Property name="enabled" type="boolean" value="false"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="name" type="java.lang.String" value="redoButton" noResource="true"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="redoButtonActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.REDO_SHORTCUT, defaultShortcut=Config.REDO_SHORTCUT_DEFAULT, actionName=Config.REDO_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JToolBar$Separator" name="jSeparator1">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="jSeparator1" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonPer">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="tagPer" methodName="tagPer"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="buttonPer.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="buttonPer.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="buttonPer.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="buttonPer" noResource="true"/>
+          </Properties>
+          <BindingProperties>
+            <BindingProperty name="enabled" source="checkBoxChoose" sourcePath="${selected}" target="buttonPer" targetPath="enabled" updateStrategy="0" immediately="false"/>
+          </BindingProperties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@EntityAnnotation(entityName=&quot;PER&quot;)&#xa;@ShortcutAnnotation(type=1, nameInMap=Config.PER_SHORTCUT, defaultShortcut=Config.PER_SHORTCUT_DEFAULT, actionName=Config.PER_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonLoc">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="tagLoc" methodName="tagLoc"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="buttonLoc.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="buttonLoc.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="buttonLoc.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="buttonLoc" noResource="true"/>
+          </Properties>
+          <BindingProperties>
+            <BindingProperty name="enabled" source="checkBoxChoose" sourcePath="${selected}" target="buttonLoc" targetPath="enabled" updateStrategy="0" immediately="false"/>
+          </BindingProperties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@EntityAnnotation(entityName=&quot;LOC&quot;)&#xa;@ShortcutAnnotation(type=1, nameInMap=Config.LOC_SHORTCUT, defaultShortcut=Config.LOC_SHORTCUT_DEFAULT, actionName=Config.LOC_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonOrg">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="tagOrg" methodName="tagOrg"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="buttonOrg.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="buttonOrg.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="buttonOrg.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="buttonOrg" noResource="true"/>
+          </Properties>
+          <BindingProperties>
+            <BindingProperty name="enabled" source="checkBoxChoose" sourcePath="${selected}" target="buttonOrg" targetPath="enabled" updateStrategy="0" immediately="false"/>
+          </BindingProperties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@EntityAnnotation(entityName=&quot;ORG&quot;)&#xa;@ShortcutAnnotation(type=1, nameInMap=Config.ORG_SHORTCUT, defaultShortcut=Config.ORG_SHORTCUT_DEFAULT, actionName=Config.ORG_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="posButton">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="tagPos" methodName="tagPos"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="posButton.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="posButton.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="posButton.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="posButton" noResource="true"/>
+          </Properties>
+          <BindingProperties>
+            <BindingProperty name="enabled" source="checkBoxChoose" sourcePath="${selected}" target="posButton" targetPath="enabled" updateStrategy="0" immediately="false"/>
+          </BindingProperties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@EntityAnnotation(entityName=&quot;POS&quot;)&#xa;@ShortcutAnnotation(type=1, nameInMap=Config.POS_SHORTCUT, defaultShortcut=Config.POS_SHORTCUT_DEFAULT, actionName=Config.POS_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="jobButton">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="tagJob" methodName="tagJob"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="jobButton.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="jobButton.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="jobButton.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="jobButton" noResource="true"/>
+          </Properties>
+          <BindingProperties>
+            <BindingProperty name="enabled" source="checkBoxChoose" sourcePath="${selected}" target="jobButton" targetPath="enabled" updateStrategy="0" immediately="false"/>
+          </BindingProperties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@EntityAnnotation(entityName=&quot;JOB&quot;)&#xa;@ShortcutAnnotation(type=1, nameInMap=Config.JOB_SHORTCUT, defaultShortcut=Config.JOB_SHORTCUT_DEFAULT, actionName=Config.JOB_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="dateButton">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="tagDate" methodName="tagDate"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="dateButton.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="dateButton.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="dateButton.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="dateButton" noResource="true"/>
+          </Properties>
+          <BindingProperties>
+            <BindingProperty name="enabled" source="checkBoxChoose" sourcePath="${selected}" target="dateButton" targetPath="enabled" updateStrategy="0" immediately="false"/>
+          </BindingProperties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@EntityAnnotation(entityName=&quot;DATE&quot;)&#xa;@ShortcutAnnotation(type=1, nameInMap=Config.DATE_SHORTCUT, defaultShortcut=Config.DATE_SHORTCUT_DEFAULT, actionName=Config.DATE_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonNP">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="buttonNP.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="buttonNP.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="buttonNP.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="buttonNP" noResource="true"/>
+          </Properties>
+          <BindingProperties>
+            <BindingProperty name="enabled" source="checkBoxChoose" sourcePath="${!selected}" target="buttonNP" targetPath="enabled" updateStrategy="0" immediately="false"/>
+          </BindingProperties>
+        </Component>
+        <Component class="javax.swing.JToolBar$Separator" name="jSeparator2">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="jSeparator2" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="combineButton">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="combineWord" methodName="combineWord"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="combineButton.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="combineButton.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="combineButton.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="combineButton" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.COMBINE_SHORTCUT, defaultShortcut=Config.COMBINE_SHORTCUT_DEFAULT, actionName=Config.COMBINE_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="splitButton">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="splitWord" methodName="splitWord"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="splitButton.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="splitButton.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="splitButton.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="splitButton" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.SPLIT_SHORTCUT, defaultShortcut=Config.SPLIT_SHORTCUT_DEFAULT, actionName=Config.SPLIT_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonUntag">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="untag" methodName="untag"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="buttonUntag.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="buttonUntag.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="buttonUntag.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="buttonUntag" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@ShortcutAnnotation(type=1, nameInMap=Config.UNTAG_SHORTCUT, defaultShortcut=Config.UNTAG_SHORTCUT_DEFAULT, actionName=Config.UNTAG_ACTION)"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="replaceButton">
+          <Properties>
+            <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+              <action class="thesis.view.TaggingPanel1" id="replaceName" methodName="replaceName"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" resourceKey="replaceButton.icon"/>
+            <Property name="text" type="java.lang.String" resourceKey="replaceButton.text"/>
+            <Property name="toolTipText" type="java.lang.String" resourceKey="replaceButton.toolTipText"/>
+            <Property name="name" type="java.lang.String" value="replaceButton" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="labelStatus">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="labelStatus.text"/>
+        <Property name="name" type="java.lang.String" value="labelStatus" noResource="true"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="520" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
     </Component>
-    <Component class="javax.swing.JButton" name="removeTagsButton">
+    <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
-        <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
-          <action class="thesis.view.TaggingPanel" id="removeTags" methodName="removeTags"/>
-        </Property>
-        <Property name="name" type="java.lang.String" value="removeTagsButton" noResource="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="jLabel1.text"/>
+        <Property name="name" type="java.lang.String" value="jLabel1" noResource="true"/>
       </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="20" y="100" width="-1" height="30"/>
+        </Constraint>
+      </Constraints>
     </Component>
-    <Component class="javax.swing.JButton" name="convertButton">
+    <Component class="javax.swing.JTextField" name="textFieldPath">
       <Properties>
-        <Property name="mnemonic" type="int" value="67"/>
-        <Property name="text" type="java.lang.String" value="Convert"/>
-        <Property name="toolTipText" type="java.lang.String" value="Convert Entity tag to NP tag[Alt+C]"/>
-        <Property name="name" type="java.lang.String" value="convertButton" noResource="true"/>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="name" type="java.lang.String" value="textFieldPath" noResource="true"/>
       </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="convertButtonActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_ListenersCodePost" type="java.lang.String" value="convertButton.setVisible(false);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JLabel" name="jLabel2">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Text size:"/>
-        <Property name="name" type="java.lang.String" value="jLabel2" noResource="true"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JSpinner" name="sizeSpinner">
-      <Properties>
-        <Property name="name" type="java.lang.String" value="sizeSpinner" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="stateChanged" listener="javax.swing.event.ChangeListener" parameters="javax.swing.event.ChangeEvent" handler="sizeSpinnerStateChanged"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new javax.swing.JSpinner(numberModel)"/>
-        <AuxValue name="JavaCodeGenerator_CreateCodePre" type="java.lang.String" value="SpinnerModel numberModel = new SpinnerNumberModel(14, 9, 30, 2);"/>
-        <AuxValue name="JavaCodeGenerator_ListenersCodePost" type="java.lang.String" value="setInfoButton(sizeSpinner);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JButton" name="posButton">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Position"/>
-        <Property name="name" type="java.lang.String" value="posButton" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="posButtonActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.POS_SHORTCUT, defaultShortcut = &quot;S&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(posButton);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JButton" name="replaceButton">
-      <Properties>
-        <Property name="mnemonic" type="int" value="82"/>
-        <Property name="text" type="java.lang.String" value="Replace"/>
-        <Property name="toolTipText" type="java.lang.String" value="Replace pronoun by name [Alt + R]"/>
-        <Property name="name" type="java.lang.String" value="replaceButton" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="replaceButtonActionPerformed"/>
-      </Events>
-    </Component>
-    <Component class="javax.swing.JButton" name="jobButton">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Job"/>
-        <Property name="name" type="java.lang.String" value="jobButton" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jobButtonActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.JOB_SHORTCUT, defaultShortcut = &quot;J&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(jobButton);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JButton" name="dateButton">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Date"/>
-        <Property name="name" type="java.lang.String" value="dateButton" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="dateButtonActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.DATE_SHORTCUT, defaultShortcut = &quot;D&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(dateButton);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JCheckBox" name="clickCheckbox">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Normal click"/>
-        <Property name="toolTipText" type="java.lang.String" value="Choose mode click in textarea "/>
-        <Property name="name" type="java.lang.String" value="clickCheckbox" noResource="true"/>
-      </Properties>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.CLICK_SHORTCUT, defaultShortcut = &quot;N&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(clickCheckbox);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JButton" name="mergeButton">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Merge words"/>
-        <Property name="name" type="java.lang.String" value="mergeButton" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mergeButtonActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.MERGE_SHORTCUT, defaultShortcut = &quot;M&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(mergeButton);"/>
-      </AuxValues>
-    </Component>
-    <Component class="javax.swing.JButton" name="segButton">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Seg words"/>
-        <Property name="name" type="java.lang.String" value="segButton" noResource="true"/>
-      </Properties>
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="segButtonActionPerformed"/>
-      </Events>
-      <AuxValues>
-        <AuxValue name="JavaCodeGenerator_DeclarationPre" type="java.lang.String" value="@MyAnnotation(type = 1, name = Config.SEG_SHORTCUT, defaultShortcut = &quot;G&quot;)"/>
-        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="setInfoButton(segButton);"/>
-      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="80" y="100" width="520" height="-1"/>
+        </Constraint>
+      </Constraints>
     </Component>
   </SubComponents>
 </Form>

@@ -205,11 +205,11 @@ public class ConvertText {
      * @param str
      * @return 
      */
-    public static String mergeWords(String str) {
+    public static String combineWord(String str) {
         String result;
         result = str.replaceAll("\\[|\\]", "");
         return "[" + result + "]";
-    }// end mergeWords method
+    }// end combineWord method
     
     /**
      * Chia 1 tu thanh nhieu tu theo cac khoang trang trong tu
@@ -217,11 +217,11 @@ public class ConvertText {
      * @param str
      * @return 
      */
-    public static String segWords(String str) {
+    public static String splitWord(String str) {
         String result;
-        result = str.replaceAll("\\s+", "] [");
+        result = str.replaceAll("\\s+", "] [").replaceAll("\\[\\[", "[").replaceAll("\\]\\]", "\\]");
         return result;
-    }// end segWords method
+    }// end splitWord method
 
 //    public static String
     public static void main(String[] args) {

@@ -30,7 +30,7 @@ import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-import lib.Config;
+import util.Config;
 import lib.ID;
 import lib.JSREDocument;
 import lib.JSRELine;
