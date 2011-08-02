@@ -17,10 +17,13 @@ import java.awt.event.KeyEvent;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.util.HashMap;
+import java.util.ResourceBundle;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JTextField;
-import lib.Config;
+import util.Config;
 import thesis.MainFrame;
-import util.MyAnnotation;
+import util.ShortcutAnnotation;
 
 /**
  *
@@ -31,7 +34,7 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
     /** Creates new form ShortcutKeyDialog
      * @param parent
      * @param modal
-     * @param proper
+     * @param mapShortcut 
      * @param tagPanel  
      */
     public ShortcutKeyDialog(java.awt.Frame parent, boolean modal,
@@ -41,7 +44,34 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
         this.tagPanel = tagPanel;
         text = "";
         initComponents();
+//        createMap();
     }
+
+    /**
+     * Tao map giua cac textfield cua dialog voi cac field co the thay doi shortcut cua TaggingPanel
+     * thong qua file properties ShortcutDialog_Tagging_Map
+     */
+    private void createMap() {
+        ResourceBundle rs = ResourceBundle.getBundle("thesis.view.resources.ShortcutDialog_Tagging_Map");
+        map = new HashMap<JTextField, Object>();
+        valueMap = new HashMap<JTextField, String>();
+
+        for (String tfName : rs.keySet()) {
+            String taggingFieldName = rs.getString(tfName);
+            Field dialogField = null;
+            Field taggingField = null;
+            try {
+                dialogField = ShortcutKeyDialog.class.getDeclaredField(tfName);
+                taggingField = TaggingPanel.class.getDeclaredField(taggingFieldName);
+                taggingField.setAccessible(true);
+                JTextField textField = (JTextField) dialogField.get(this);
+                map.put(textField, taggingField.get(tagPanel));
+                valueMap.put(textField, textField.getText());
+            } catch (Exception ex) {
+                Logger.getLogger(ShortcutKeyDialog.class.getName()).log(Level.SEVERE, null, ex);
+            }// end try catch
+        }// end foreach tfName
+    }// end createMap method
 
     /** This method is called from within the constructor to
      * initialize the form.
@@ -59,39 +89,38 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
         jLabel5 = new javax.swing.JLabel();
         jLabel6 = new javax.swing.JLabel();
         jLabel7 = new javax.swing.JLabel();
-        perShortcut = new javax.swing.JTextField();
-        locShortcut = new javax.swing.JTextField();
-        orgShortcut = new javax.swing.JTextField();
-        posShortcut = new javax.swing.JTextField();
-        jobShortcut = new javax.swing.JTextField();
-        dateShortcut = new javax.swing.JTextField();
+        perTF = new javax.swing.JTextField();
+        locTF = new javax.swing.JTextField();
+        orgTF = new javax.swing.JTextField();
+        posTF = new javax.swing.JTextField();
+        jobTF = new javax.swing.JTextField();
+        dateTF = new javax.swing.JTextField();
         applyButton = new javax.swing.JButton();
-        jLabel13 = new javax.swing.JLabel();
-        jLabel14 = new javax.swing.JLabel();
-        jLabel15 = new javax.swing.JLabel();
-        jLabel16 = new javax.swing.JLabel();
-        jLabel17 = new javax.swing.JLabel();
-        jLabel18 = new javax.swing.JLabel();
         cancelButton = new javax.swing.JButton();
         jLabel20 = new javax.swing.JLabel();
-        jLabel9 = new javax.swing.JLabel();
-        segShortcut = new javax.swing.JTextField();
+        splitTF = new javax.swing.JTextField();
         jLabel8 = new javax.swing.JLabel();
-        jLabel10 = new javax.swing.JLabel();
-        clickShortcut = new javax.swing.JTextField();
-        jLabel11 = new javax.swing.JLabel();
+        clickTF = new javax.swing.JTextField();
         jLabel12 = new javax.swing.JLabel();
-        jLabel19 = new javax.swing.JLabel();
         jLabel21 = new javax.swing.JLabel();
-        untagShortcut = new javax.swing.JTextField();
-        merShortcut = new javax.swing.JTextField();
+        untagTF = new javax.swing.JTextField();
+        combineTF = new javax.swing.JTextField();
         jLabel22 = new javax.swing.JLabel();
-        jLabel23 = new javax.swing.JLabel();
-        browseShortcut = new javax.swing.JTextField();
+        browseTF = new javax.swing.JTextField();
+        jLabel9 = new javax.swing.JLabel();
+        modeTF = new javax.swing.JTextField();
+        jLabel10 = new javax.swing.JLabel();
+        undoTF = new javax.swing.JTextField();
+        jLabel11 = new javax.swing.JLabel();
+        redoTF = new javax.swing.JTextField();
+        jLabel13 = new javax.swing.JLabel();
+        saveTF = new javax.swing.JTextField();
+        jLabel14 = new javax.swing.JLabel();
+        saveAsTF = new javax.swing.JTextField();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Shortcut key");
-        setMinimumSize(new java.awt.Dimension(700, 550));
+        setMinimumSize(new java.awt.Dimension(900, 600));
         addWindowListener(new java.awt.event.WindowAdapter() {
             public void windowOpened(java.awt.event.WindowEvent evt) {
                 formWindowOpened(evt);
@@ -101,73 +130,73 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
 
         jLabel1.setText("Shortcut Key List");
         jLabel1.setName("jLabel1"); // NOI18N
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(246, 44, -1, -1));
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 20, -1, -1));
 
         jLabel2.setText("Person Button:");
         jLabel2.setName("jLabel2"); // NOI18N
-        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 90, 107, -1));
+        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 50, 107, -1));
 
         jLabel3.setText("Location Button:");
         jLabel3.setName("jLabel3"); // NOI18N
-        getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 140, 107, -1));
+        getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 100, 107, -1));
 
         jLabel4.setText("Organization Button:");
         jLabel4.setName("jLabel4"); // NOI18N
-        getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 190, -1, -1));
+        getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 150, -1, -1));
 
         jLabel5.setText("Position Button:");
         jLabel5.setName("jLabel5"); // NOI18N
-        getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 240, 107, -1));
+        getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 200, 107, -1));
 
         jLabel6.setText("Job Button:");
         jLabel6.setName("jLabel6"); // NOI18N
-        getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 290, 107, -1));
+        getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 250, 107, -1));
 
         jLabel7.setText("Date Button:");
         jLabel7.setName("jLabel7"); // NOI18N
-        getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 340, -1, -1));
+        getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 300, -1, -1));
 
-        ShortcutListener perListener = new ShortcutListener(perShortcut);
-        perShortcut.setName("perShortcut"); // NOI18N
-        perShortcut.addKeyListener(perListener);
-        perShortcut.addFocusListener(perListener);
-        perShortcut.setText(mapConfig.get(Config.PER_SHORTCUT));
-        getContentPane().add(perShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 90, 70, -1));
+        ShortcutListener perListener = new ShortcutListener(perTF);
+        perTF.setName("perTF"); // NOI18N
+        perTF.addKeyListener(perListener);
+        perTF.addFocusListener(perListener);
+        perTF.setText(mapConfig.get(Config.PER_SHORTCUT));
+        getContentPane().add(perTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 50, 170, -1));
 
-        ShortcutListener locListener = new ShortcutListener(locShortcut);
-        locShortcut.setName("locShortcut"); // NOI18N
-        locShortcut.addKeyListener(locListener);
-        locShortcut.addFocusListener(locListener);
-        locShortcut.setText(mapConfig.get(Config.LOC_SHORTCUT));
-        getContentPane().add(locShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 140, 70, -1));
+        ShortcutListener locListener = new ShortcutListener(locTF);
+        locTF.setName("locTF"); // NOI18N
+        locTF.addKeyListener(locListener);
+        locTF.addFocusListener(locListener);
+        locTF.setText(mapConfig.get(Config.LOC_SHORTCUT));
+        getContentPane().add(locTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 100, 170, -1));
 
-        ShortcutListener orgListener = new ShortcutListener(orgShortcut);
-        orgShortcut.setName("orgShortcut"); // NOI18N
-        orgShortcut.addKeyListener(orgListener);
-        orgShortcut.addFocusListener(orgListener);
-        orgShortcut.setText(mapConfig.get(Config.ORG_SHORTCUT));
-        getContentPane().add(orgShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 190, 70, -1));
+        ShortcutListener orgListener = new ShortcutListener(orgTF);
+        orgTF.setName("orgTF"); // NOI18N
+        orgTF.addKeyListener(orgListener);
+        orgTF.addFocusListener(orgListener);
+        orgTF.setText(mapConfig.get(Config.ORG_SHORTCUT));
+        getContentPane().add(orgTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 150, 170, -1));
 
-        ShortcutListener posListener = new ShortcutListener(posShortcut);
-        posShortcut.setName("posShortcut"); // NOI18N
-        posShortcut.addKeyListener(posListener);
-        posShortcut.addFocusListener(posListener);
-        posShortcut.setText(mapConfig.get(Config.POS_SHORTCUT));
-        getContentPane().add(posShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 240, 70, -1));
+        ShortcutListener posListener = new ShortcutListener(posTF);
+        posTF.setName("posTF"); // NOI18N
+        posTF.addKeyListener(posListener);
+        posTF.addFocusListener(posListener);
+        posTF.setText(mapConfig.get(Config.POS_SHORTCUT));
+        getContentPane().add(posTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 200, 170, -1));
 
-        ShortcutListener jobListener = new ShortcutListener(jobShortcut);
-        jobShortcut.setName("jobShortcut"); // NOI18N
-        jobShortcut.addKeyListener(jobListener);
-        jobShortcut.addFocusListener(jobListener);
-        jobShortcut.setText(mapConfig.get(Config.JOB_SHORTCUT));
-        getContentPane().add(jobShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 290, 70, -1));
+        ShortcutListener jobListener = new ShortcutListener(jobTF);
+        jobTF.setName("jobTF"); // NOI18N
+        jobTF.addKeyListener(jobListener);
+        jobTF.addFocusListener(jobListener);
+        jobTF.setText(mapConfig.get(Config.JOB_SHORTCUT));
+        getContentPane().add(jobTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 250, 170, -1));
 
-        ShortcutListener dateListener = new ShortcutListener(dateShortcut);
-        dateShortcut.setName("dateShortcut"); // NOI18N
-        dateShortcut.addKeyListener(dateListener);
-        dateShortcut.addFocusListener(dateListener);
-        dateShortcut.setText(mapConfig.get(Config.DATE_SHORTCUT));
-        getContentPane().add(dateShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 340, 70, -1));
+        ShortcutListener dateListener = new ShortcutListener(dateTF);
+        dateTF.setName("dateTF"); // NOI18N
+        dateTF.addKeyListener(dateListener);
+        dateTF.addFocusListener(dateListener);
+        dateTF.setText(mapConfig.get(Config.DATE_SHORTCUT));
+        getContentPane().add(dateTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 300, 170, -1));
 
         applyButton.setText("Apply");
         applyButton.setName("applyButton"); // NOI18N
@@ -176,31 +205,7 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
                 applyButtonActionPerformed(evt);
             }
         });
-        getContentPane().add(applyButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 440, -1, -1));
-
-        jLabel13.setText("Alt +");
-        jLabel13.setName("jLabel13"); // NOI18N
-        getContentPane().add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 90, -1, -1));
-
-        jLabel14.setText("Alt +");
-        jLabel14.setName("jLabel14"); // NOI18N
-        getContentPane().add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 340, -1, -1));
-
-        jLabel15.setText("Alt +");
-        jLabel15.setName("jLabel15"); // NOI18N
-        getContentPane().add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 290, -1, -1));
-
-        jLabel16.setText("Alt +");
-        jLabel16.setName("jLabel16"); // NOI18N
-        getContentPane().add(jLabel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 240, -1, -1));
-
-        jLabel17.setText("Alt +");
-        jLabel17.setName("jLabel17"); // NOI18N
-        getContentPane().add(jLabel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 190, -1, -1));
-
-        jLabel18.setText("Alt +");
-        jLabel18.setName("jLabel18"); // NOI18N
-        getContentPane().add(jLabel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 140, -1, -1));
+        getContentPane().add(applyButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 470, -1, -1));
 
         cancelButton.setText("Cancel");
         cancelButton.setName("cancelButton"); // NOI18N
@@ -209,82 +214,117 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
                 cancelButtonActionPerformed(evt);
             }
         });
-        getContentPane().add(cancelButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 440, -1, -1));
+        getContentPane().add(cancelButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 470, -1, -1));
 
         jLabel20.setText("Normal click Button:");
         jLabel20.setName("jLabel20"); // NOI18N
-        getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 90, -1, -1));
+        getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 50, -1, -1));
 
-        jLabel9.setText("Alt + ");
-        jLabel9.setName("jLabel9"); // NOI18N
-        getContentPane().add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 140, -1, -1));
-
-        ShortcutListener segListener = new ShortcutListener(segShortcut);
-        segShortcut.setName("segShortcut"); // NOI18N
-        segShortcut.addKeyListener(segListener);
-        segShortcut.addFocusListener(segListener);
-        segShortcut.setText(mapConfig.get(Config.SEG_SHORTCUT));
-        getContentPane().add(segShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 240, 70, -1));
+        ShortcutListener segListener = new ShortcutListener(splitTF);
+        splitTF.setName("splitTF"); // NOI18N
+        splitTF.addKeyListener(segListener);
+        splitTF.addFocusListener(segListener);
+        splitTF.setText(mapConfig.get(Config.SPLIT_SHORTCUT));
+        getContentPane().add(splitTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 200, 190, -1));
 
         jLabel8.setText("Untag Button:");
         jLabel8.setName("jLabel8"); // NOI18N
-        getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 140, 90, -1));
+        getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 100, 90, -1));
 
-        jLabel10.setText("Alt + ");
-        jLabel10.setName("jLabel10"); // NOI18N
-        getContentPane().add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 90, -1, -1));
+        ShortcutListener clickListener = new ShortcutListener(clickTF);
+        clickTF.setName("clickTF"); // NOI18N
+        clickTF.addKeyListener(clickListener);
+        clickTF.addFocusListener(clickListener);
+        clickTF.setText(mapConfig.get(Config.CLICK_SHORTCUT));
+        getContentPane().add(clickTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 50, 190, -1));
 
-        ShortcutListener clickListener = new ShortcutListener(clickShortcut);
-        clickShortcut.setName("clickShortcut"); // NOI18N
-        clickShortcut.addKeyListener(clickListener);
-        clickShortcut.addFocusListener(clickListener);
-        clickShortcut.setText(mapConfig.get(Config.CLICK_SHORTCUT));
-        getContentPane().add(clickShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 90, 70, -1));
-
-        jLabel11.setText("Alt + ");
-        jLabel11.setName("jLabel11"); // NOI18N
-        getContentPane().add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 190, -1, -1));
-
-        jLabel12.setText("Merge Button:");
+        jLabel12.setText("Combine Button:");
         jLabel12.setName("jLabel12"); // NOI18N
-        getContentPane().add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 190, 90, -1));
+        getContentPane().add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 150, 110, -1));
 
-        jLabel19.setText("Alt + ");
-        jLabel19.setName("jLabel19"); // NOI18N
-        getContentPane().add(jLabel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 240, -1, -1));
-
-        jLabel21.setText("Seg Button:");
+        jLabel21.setText("Split Button:");
         jLabel21.setName("jLabel21"); // NOI18N
-        getContentPane().add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 240, 90, -1));
+        getContentPane().add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 200, 90, -1));
 
-        ShortcutListener untagListener = new ShortcutListener(untagShortcut);
-        untagShortcut.setName("untagShortcut"); // NOI18N
-        untagShortcut.addKeyListener(untagListener);
-        untagShortcut.addFocusListener(untagListener);
-        untagShortcut.setText(mapConfig.get(Config.UNTAG_SHORTCUT));
-        getContentPane().add(untagShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 140, 70, -1));
+        ShortcutListener untagListener = new ShortcutListener(untagTF);
+        untagTF.setName("untagTF"); // NOI18N
+        untagTF.addKeyListener(untagListener);
+        untagTF.addFocusListener(untagListener);
+        untagTF.setText(mapConfig.get(Config.UNTAG_SHORTCUT));
+        getContentPane().add(untagTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 100, 190, -1));
 
-        ShortcutListener merListener = new ShortcutListener(merShortcut);
-        merShortcut.setName("merShortcut"); // NOI18N
-        merShortcut.addKeyListener(merListener);
-        merShortcut.addFocusListener(merListener);
-        merShortcut.setText(mapConfig.get(Config.MERGE_SHORTCUT));
-        getContentPane().add(merShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 190, 70, -1));
+        ShortcutListener merListener = new ShortcutListener(combineTF);
+        combineTF.setName("combineTF"); // NOI18N
+        combineTF.addKeyListener(merListener);
+        combineTF.addFocusListener(merListener);
+        combineTF.setText(mapConfig.get(Config.COMBINE_SHORTCUT));
+        getContentPane().add(combineTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 150, 190, -1));
 
         jLabel22.setText("Browse Button:");
         jLabel22.setName("jLabel22"); // NOI18N
-        getContentPane().add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 290, 90, -1));
+        getContentPane().add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 250, 90, -1));
 
-        jLabel23.setText("Alt + ");
-        jLabel23.setName("jLabel23"); // NOI18N
-        getContentPane().add(jLabel23, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 290, -1, -1));
+        ShortcutListener browseListener = new ShortcutListener(browseTF);
+        browseTF.setName("browseTF"); // NOI18N
+        browseTF.addKeyListener(browseListener);
+        browseTF.addFocusListener(browseListener);
+        browseTF.setText(mapConfig.get(Config.BROWSE_SHORTCUT));
+        getContentPane().add(browseTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 250, 190, -1));
 
-        ShortcutListener browseListener = new ShortcutListener(browseShortcut);
-        browseShortcut.setName("browseShortcut"); // NOI18N
-        browseShortcut.addKeyListener(browseListener);
-        browseShortcut.addFocusListener(browseListener);
-        browseShortcut.setText(mapConfig.get(Config.BROWSE_SHORTCUT));
-        getContentPane().add(browseShortcut, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 290, 70, -1));
+        jLabel9.setText("Toggle Mode:");
+        jLabel9.setName("jLabel9"); // NOI18N
+        getContentPane().add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 300, 110, -1));
+
+        ShortcutListener modeListener = new ShortcutListener(modeTF);
+        modeTF.setName("modeTF"); // NOI18N
+        modeTF.addKeyListener(modeListener);
+        modeTF.addFocusListener(modeListener);
+        modeTF.setText(mapConfig.get(Config.MODE_SHORTCUT));
+        getContentPane().add(modeTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 300, 190, -1));
+
+        jLabel10.setText("Undo Button:");
+        jLabel10.setName("jLabel10"); // NOI18N
+        getContentPane().add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 360, -1, -1));
+
+        ShortcutListener undoListener = new ShortcutListener(undoTF);
+        undoTF.setName("undoTF"); // NOI18N
+        undoTF.addKeyListener(undoListener);
+        undoTF.addFocusListener(undoListener);
+        undoTF.setText(mapConfig.get(Config.UNDO_SHORTCUT));
+        getContentPane().add(undoTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 360, 170, -1));
+
+        jLabel11.setText("Redo Button:");
+        jLabel11.setName("jLabel11"); // NOI18N
+        getContentPane().add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 360, -1, -1));
+
+        ShortcutListener redoListener = new ShortcutListener(redoTF);
+        redoTF.setName("redoTF"); // NOI18N
+        redoTF.addKeyListener(redoListener);
+        redoTF.addFocusListener(redoListener);
+        redoTF.setText(mapConfig.get(Config.REDO_SHORTCUT));
+        getContentPane().add(redoTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 360, 190, -1));
+
+        jLabel13.setText("Save Button:");
+        jLabel13.setName("jLabel13"); // NOI18N
+        getContentPane().add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 420, -1, -1));
+
+        ShortcutListener saveListener = new ShortcutListener(saveTF);
+        saveTF.setName("saveTF"); // NOI18N
+        saveTF.addKeyListener(saveListener);
+        saveTF.addFocusListener(saveListener);
+        saveTF.setText(mapConfig.get(Config.SAVE_SHORTCUT));
+        getContentPane().add(saveTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 420, 170, -1));
+
+        jLabel14.setText("Save As Button:");
+        jLabel14.setName("jLabel14"); // NOI18N
+        getContentPane().add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 420, -1, -1));
+
+        ShortcutListener saveAsListener = new ShortcutListener(saveAsTF);
+        saveAsTF.setName("saveAsTF"); // NOI18N
+        saveAsTF.addKeyListener(saveAsListener);
+        saveAsTF.addFocusListener(saveAsListener);
+        saveAsTF.setText(mapConfig.get(Config.SAVE_AS_SHORTCUT));
+        getContentPane().add(saveAsTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 420, 190, -1));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -295,59 +335,49 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
         /*
          * Luu cac thay doi vao mapConfig
          */
-        if (!perShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.PER_SHORTCUT))) {
-            mapConfig.put(Config.PER_SHORTCUT, perShortcut.getText());
-        }// end if perShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.PER_SHORTCUT))
+        mapConfig.put(Config.PER_SHORTCUT, perTF.getText());
+
+        mapConfig.put(Config.LOC_SHORTCUT, locTF.getText());
+
+        mapConfig.put(Config.ORG_SHORTCUT, orgTF.getText());
+
+        mapConfig.put(Config.POS_SHORTCUT, posTF.getText());
+
+        mapConfig.put(Config.JOB_SHORTCUT, jobTF.getText());
+
+        mapConfig.put(Config.DATE_SHORTCUT, dateTF.getText());
+
+        mapConfig.put(Config.UNTAG_SHORTCUT, untagTF.getText());
+
+        mapConfig.put(Config.CLICK_SHORTCUT, clickTF.getText());
+
+        mapConfig.put(Config.COMBINE_SHORTCUT, combineTF.getText());
+
+        mapConfig.put(Config.SPLIT_SHORTCUT, splitTF.getText());
+
+        mapConfig.put(Config.BROWSE_SHORTCUT, browseTF.getText());
         
-        if (!locShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.LOC_SHORTCUT))) {
-            mapConfig.put(Config.LOC_SHORTCUT, locShortcut.getText());
-        }
+        mapConfig.put(Config.MODE_SHORTCUT, modeTF.getText());
         
-        if (!orgShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.ORG_SHORTCUT))) {
-            mapConfig.put(Config.ORG_SHORTCUT, orgShortcut.getText());
-        }
+        mapConfig.put(Config.UNDO_SHORTCUT, undoTF.getText());
         
-        if (!posShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.POS_SHORTCUT))) {
-            mapConfig.put(Config.POS_SHORTCUT, posShortcut.getText());
-        }
-        if (!jobShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.JOB_SHORTCUT))) {
-            mapConfig.put(Config.JOB_SHORTCUT, jobShortcut.getText());
-        }
+        mapConfig.put(Config.REDO_SHORTCUT, redoTF.getText());
         
-        if (!dateShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.DATE_SHORTCUT))) {
-            mapConfig.put(Config.DATE_SHORTCUT, dateShortcut.getText());
-        }
+        mapConfig.put(Config.SAVE_SHORTCUT, saveTF.getText());
         
-        if (!untagShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.UNTAG_SHORTCUT))) {
-            mapConfig.put(Config.UNTAG_SHORTCUT, untagShortcut.getText());
-        }
-        
-        if (!clickShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.CLICK_SHORTCUT))) {
-            mapConfig.put(Config.CLICK_SHORTCUT, clickShortcut.getText());
-        }
-        
-        if (!merShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.MERGE_SHORTCUT))) {
-            mapConfig.put(Config.MERGE_SHORTCUT, merShortcut.getText());
-        }
-        
-        if (!segShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.SEG_SHORTCUT))) {
-            mapConfig.put(Config.SEG_SHORTCUT, segShortcut.getText());
-        }
-        
-        if (!browseShortcut.getText().equalsIgnoreCase(mapConfig.get(Config.BROWSE_SHORTCUT))) {
-            mapConfig.put(Config.BROWSE_SHORTCUT, browseShortcut.getText());
-        }// end luu thay doi vao mapConfig
-        
+        mapConfig.put(Config.SAVE_AS_SHORTCUT, saveAsTF.getText());
+
+        /*
+         * Thay doi shortcut cho cac button cua Tagging panel
+         */
         try {
-            /*
-             * Thay doi shortcut cho cac button cua Tagging panel
-             */
             Field[] fields = c.getDeclaredFields();
-            Method setInfoButton = c.getDeclaredMethod("setInfoButton", Object.class);
+
+            Method setInfoButton = c.getDeclaredMethod("setInfo", Object.class);
             setInfoButton.setAccessible(true);
             for (Field field : fields) {
-                if (field.getAnnotation(MyAnnotation.class) != null
-                        && field.getAnnotation(MyAnnotation.class).type() == 1) {
+                if (field.getAnnotation(ShortcutAnnotation.class) != null
+                        && field.getAnnotation(ShortcutAnnotation.class).type() == 1) {
                     /*
                      * Chi xet cac field co type = 1 la cac field cho phep thay doi shortcut
                      */
@@ -383,9 +413,29 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
         /**
          * Override phuong thuc cua KeyAdapter
          */
-        public void keyReleased(KeyEvent e) {
+        public void keyPressed(KeyEvent e) {
             int keyCode = e.getKeyCode();
-            textField.setText(KeyEvent.getKeyText(keyCode));
+            StringBuilder out = new StringBuilder();
+            if (e.isControlDown()) {
+                out.append("ctrl ");
+            }
+            if (e.isAltDown()) {
+                out.append("alt ");
+            }
+            if (e.isShiftDown()) {
+                out.append("shift ");
+            }// end if
+            if (!out.toString().equals("")) {
+                out.append("+ ");
+            }
+            String keyPress = KeyEvent.getKeyText(keyCode);
+            if (keyPress.equalsIgnoreCase("ctrl") || keyPress.equalsIgnoreCase("alt")
+                    || keyPress.equalsIgnoreCase("windows") || keyPress.equalsIgnoreCase("shift")) {
+                textField.setText("");
+            } else {
+                out.append(KeyEvent.getKeyText(keyCode));
+                textField.setText(out.toString());
+            }
         }
 
         /**
@@ -406,26 +456,21 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
     }
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton applyButton;
-    private javax.swing.JTextField browseShortcut;
+    private javax.swing.JTextField browseTF;
     private javax.swing.JButton cancelButton;
-    private javax.swing.JTextField clickShortcut;
-    private javax.swing.JTextField dateShortcut;
+    private javax.swing.JTextField clickTF;
+    private javax.swing.JTextField combineTF;
+    private javax.swing.JTextField dateTF;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel13;
     private javax.swing.JLabel jLabel14;
-    private javax.swing.JLabel jLabel15;
-    private javax.swing.JLabel jLabel16;
-    private javax.swing.JLabel jLabel17;
-    private javax.swing.JLabel jLabel18;
-    private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel20;
     private javax.swing.JLabel jLabel21;
     private javax.swing.JLabel jLabel22;
-    private javax.swing.JLabel jLabel23;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel5;
@@ -433,14 +478,18 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
     private javax.swing.JLabel jLabel9;
-    private javax.swing.JTextField jobShortcut;
-    private javax.swing.JTextField locShortcut;
-    private javax.swing.JTextField merShortcut;
-    private javax.swing.JTextField orgShortcut;
-    private javax.swing.JTextField perShortcut;
-    private javax.swing.JTextField posShortcut;
-    private javax.swing.JTextField segShortcut;
-    private javax.swing.JTextField untagShortcut;
+    private javax.swing.JTextField jobTF;
+    private javax.swing.JTextField locTF;
+    private javax.swing.JTextField modeTF;
+    private javax.swing.JTextField orgTF;
+    private javax.swing.JTextField perTF;
+    private javax.swing.JTextField posTF;
+    private javax.swing.JTextField redoTF;
+    private javax.swing.JTextField saveAsTF;
+    private javax.swing.JTextField saveTF;
+    private javax.swing.JTextField splitTF;
+    private javax.swing.JTextField undoTF;
+    private javax.swing.JTextField untagTF;
     // End of variables declaration//GEN-END:variables
     /*
      * Luu gia tri truoc khi thay doi cua textfield
@@ -448,4 +497,9 @@ public class ShortcutKeyDialog extends javax.swing.JDialog {
     private String text;
     private TaggingPanel tagPanel;
     private HashMap<String, String> mapConfig;
+    /*
+     * Map giua cac JTextField shortcut cua dialog voi cac field shortcut cua TaggingPanel
+     */
+    HashMap<JTextField, Object> map;
+    HashMap<JTextField, String> valueMap;
 }

@@ -28,12 +28,12 @@ import thesis.view.MergePanel;
 import javax.swing.JPanel;
 import javax.swing.SwingWorker;
 import javax.swing.UIManager;
-import lib.Config;
+import util.Config;
 import org.apache.log4j.xml.DOMConfigurator;
 import thesis.view.ConvertPanel;
 import thesis.view.ShortcutKeyDialog;
+import thesis.view.TaggingPanelThien;
 import thesis.view.TaggingPanel;
-import thesis.view.TaggingPanel1;
 
 /**
  * MainFrame program
@@ -87,7 +87,6 @@ public class MainFrame extends javax.swing.JFrame {
         addPanel("Merge", new MergePanel(mapConfig), "Merge multiple JSRE files to one JSRE file");
         tagPanel = new TaggingPanel(mapConfig);
         addPanel("Tag", tagPanel, "Manually tag entity for normal text file");
-        addPanel("asdf", new TaggingPanel1(mapConfig), TEXT_FONT_NAME);
     }
 
     private void addPanel(String title, JPanel panel, String tooltip) {
@@ -102,8 +101,8 @@ public class MainFrame extends javax.swing.JFrame {
         String job = proper.getProperty(Config.JOB_SHORTCUT, Config.JOB_SHORTCUT_DEFAULT);
         String date = proper.getProperty(Config.DATE_SHORTCUT, Config.DATE_SHORTCUT_DEFAULT);
         String untag = proper.getProperty(Config.UNTAG_SHORTCUT, Config.UNTAG_SHORTCUT_DEFAULT);
-        String merge = proper.getProperty(Config.MERGE_SHORTCUT, Config.MERGE_SHORTCUT_DEFAULT);
-        String seg = proper.getProperty(Config.SEG_SHORTCUT, Config.SEG_SHORTCUT_DEFAULT);
+        String merge = proper.getProperty(Config.COMBINE_SHORTCUT, Config.COMBINE_SHORTCUT_DEFAULT);
+        String seg = proper.getProperty(Config.SPLIT_SHORTCUT, Config.SPLIT_SHORTCUT_DEFAULT);
         String click = proper.getProperty(Config.CLICK_SHORTCUT, Config.CLICK_SHORTCUT_DEFAULT);
         String textFontName = proper.getProperty(Config.TEXT_FONT_NAME, Config.TEXT_FONT_NAME_DEFAULT);
         String textFontStyle = proper.getProperty(Config.TEXT_FONT_STYLE, Config.TEXT_FONT_STYLE_DEFAULT);
@@ -111,6 +110,11 @@ public class MainFrame extends javax.swing.JFrame {
         String lineFontSize = proper.getProperty(Config.LINE_FONT_SIZE, Config.LINE_FONT_SIZE_DEFAULT);
         String directoryPath = proper.getProperty(Config.DIRECTORY_PATH, Config.DIRECTORY_PATH_DEFAULT);
         String browse = proper.getProperty(Config.BROWSE_SHORTCUT, Config.BROWSE_SHORTCUT_DEFAULT);
+        String mode = proper.getProperty(Config.MODE_SHORTCUT, Config.MODE_SHORTCUT_DEFAULT);
+        String undo = proper.getProperty(Config.UNDO_SHORTCUT, Config.UNDO_SHORTCUT_DEFAULT);
+        String redo = proper.getProperty(Config.REDO_SHORTCUT, Config.REDO_SHORTCUT_DEFAULT);
+        String save = proper.getProperty(Config.SAVE_SHORTCUT, Config.SAVE_SHORTCUT_DEFAULT);
+        String saveAs = proper.getProperty(Config.SAVE_AS_SHORTCUT, Config.SAVE_AS_SHORTCUT_DEFAULT);
                 
         mapConfig = new HashMap<String, String>();
         mapConfig.put(Config.PER_SHORTCUT, per);
@@ -120,8 +124,8 @@ public class MainFrame extends javax.swing.JFrame {
         mapConfig.put(Config.JOB_SHORTCUT, job);
         mapConfig.put(Config.DATE_SHORTCUT, date);
         mapConfig.put(Config.UNTAG_SHORTCUT, untag);
-        mapConfig.put(Config.MERGE_SHORTCUT, merge);
-        mapConfig.put(Config.SEG_SHORTCUT, seg);
+        mapConfig.put(Config.COMBINE_SHORTCUT, merge);
+        mapConfig.put(Config.SPLIT_SHORTCUT, seg);
         mapConfig.put(Config.CLICK_SHORTCUT, click);
         mapConfig.put(Config.TEXT_FONT_NAME, textFontName);
         mapConfig.put(Config.TEXT_FONT_SIZE, textFontSize);
@@ -129,6 +133,11 @@ public class MainFrame extends javax.swing.JFrame {
         mapConfig.put(Config.LINE_FONT_SIZE, lineFontSize);
         mapConfig.put(Config.DIRECTORY_PATH, directoryPath);
         mapConfig.put(Config.BROWSE_SHORTCUT, browse);
+        mapConfig.put(Config.MODE_SHORTCUT, mode);
+        mapConfig.put(Config.UNDO_SHORTCUT, undo);
+        mapConfig.put(Config.REDO_SHORTCUT, redo);
+        mapConfig.put(Config.SAVE_SHORTCUT, save);
+        mapConfig.put(Config.SAVE_AS_SHORTCUT, saveAs);
     }
 
     /** This method is called from within the constructor to
@@ -477,8 +486,9 @@ public class MainFrame extends javax.swing.JFrame {
     }// end string2Int method
 
     /**
-     * Luu cac gia tri config vao file config
+     * Luu cac gia tri config vao file config.
      * Goi tu bat cu lop nao
+     * @param mapConfig 
      */
     public static void storeConfig(HashMap<String, String> mapConfig) {
         try {
@@ -491,7 +501,7 @@ public class MainFrame extends javax.swing.JFrame {
     }// end storeConfig method
 
     /**
-     * Luu cac gia tri config vao file config
+     * Luu cac gia tri config vao file config.
      * Goi tu bat cu lop nao
      */
     public static void storeConfig() {
