@@ -1,0 +1,285 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="name" type="java.lang.String" value="Form" noResource="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <Events>
+    <EventHandler event="windowClosing" listener="java.awt.event.WindowListener" parameters="java.awt.event.WindowEvent" handler="formWindowClosing"/>
+  </Events>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Component id="labelStatus" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="710" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="checkBoxMode" min="-2" max="-2" attributes="0"/>
+                  <Component id="checkBoxChoose" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Component id="labelPath" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="textFieldPath" min="-2" pref="326" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="buttonBrowse" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+              <Component id="checkBoxEdit" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="buttonPer" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="buttonLoc" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+              <Component id="buttonNP" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="buttonOrg" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="buttonUntag" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Component id="buttonReload" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="buttonSave" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="buttonSaveAs" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="23" max="32767" attributes="0"/>
+          </Group>
+          <Component id="jScrollPane1" alignment="0" pref="751" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="buttonBrowse" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="textFieldPath" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelPath" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="checkBoxMode" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="checkBoxChoose" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="buttonUntag" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="buttonSave" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="buttonReload" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="buttonSaveAs" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="buttonPer" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="buttonOrg" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="buttonLoc" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="buttonNP" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="checkBoxEdit" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="417" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="labelStatus" min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="labelPath">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="labelPath.text"/>
+        <Property name="name" type="java.lang.String" value="labelPath" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="textFieldPath">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="text" type="java.lang.String" resourceKey="textFieldPath.text"/>
+        <Property name="name" type="java.lang.String" value="textFieldPath" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseExited" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="textFieldPathMouseExited"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="textFieldPathActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="buttonPer">
+      <Properties>
+        <Property name="mnemonic" type="int" value="80"/>
+        <Property name="text" type="java.lang.String" resourceKey="buttonPer.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="buttonPer.toolTipText"/>
+        <Property name="name" type="java.lang.String" value="buttonPer" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonPerActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="buttonLoc">
+      <Properties>
+        <Property name="mnemonic" type="int" value="76"/>
+        <Property name="text" type="java.lang.String" resourceKey="buttonLoc.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="buttonLoc.toolTipText"/>
+        <Property name="name" type="java.lang.String" value="buttonLoc" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonLocActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="buttonOrg">
+      <Properties>
+        <Property name="mnemonic" type="int" value="79"/>
+        <Property name="text" type="java.lang.String" resourceKey="buttonOrg.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="buttonOrg.toolTipText"/>
+        <Property name="actionCommand" type="java.lang.String" resourceKey="buttonOrg.actionCommand"/>
+        <Property name="name" type="java.lang.String" value="buttonOrg" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonOrgActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="buttonSave">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="buttonSave.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="buttonSave.toolTipText"/>
+        <Property name="enabled" type="boolean" value="false"/>
+        <Property name="name" type="java.lang.String" value="buttonSave" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonSaveActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="jScrollPane1" noResource="true"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="textArea">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="wrapStyleWord" type="boolean" value="true"/>
+            <Property name="name" type="java.lang.String" value="textArea" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="buttonBrowse">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="buttonBrowse.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="buttonBrowse.toolTipText"/>
+        <Property name="name" type="java.lang.String" value="buttonBrowse" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonBrowseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="buttonUntag">
+      <Properties>
+        <Property name="mnemonic" type="int" value="85"/>
+        <Property name="text" type="java.lang.String" resourceKey="buttonUntag.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="buttonUntag.toolTipText"/>
+        <Property name="name" type="java.lang.String" value="buttonUntag" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonUntagActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkBoxEdit">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="checkBoxEdit.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="checkBoxEdit.toolTipText"/>
+        <Property name="name" type="java.lang.String" value="checkBoxEdit" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="checkBoxEditItemStateChanged"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelStatus">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="labelStatus.text"/>
+        <Property name="name" type="java.lang.String" value="labelStatus" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="buttonReload">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="buttonReload.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="buttonReload.toolTipText"/>
+        <Property name="enabled" type="boolean" value="false"/>
+        <Property name="name" type="java.lang.String" value="buttonReload" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonReloadActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="buttonSaveAs">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="buttonSaveAs.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="buttonSaveAs.toolTipText"/>
+        <Property name="name" type="java.lang.String" value="buttonSaveAs" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonSaveAsActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkBoxMode">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="checkBoxMode.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="checkBoxMode.toolTipText"/>
+        <Property name="name" type="java.lang.String" value="checkBoxMode" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="checkBoxModeActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkBoxChoose">
+      <Properties>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="checkBoxChoose.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="checkBoxChoose.toolTipText"/>
+        <Property name="name" type="java.lang.String" value="checkBoxChoose" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="checkBoxChooseActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="buttonNP">
+      <Properties>
+        <Property name="mnemonic" type="int" value="78"/>
+        <Property name="text" type="java.lang.String" resourceKey="buttonNP.text"/>
+        <Property name="toolTipText" type="java.lang.String" resourceKey="buttonNP.toolTipText"/>
+        <Property name="enabled" type="boolean" value="false"/>
+        <Property name="name" type="java.lang.String" value="buttonNP" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonNPActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
