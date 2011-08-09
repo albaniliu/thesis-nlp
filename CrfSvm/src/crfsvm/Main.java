@@ -9,9 +9,6 @@ import crfsvm.crf.een_phuong.TaggingTrainData;
 import crfsvm.util.Document;
 import java.io.File;
 import java.io.FilenameFilter;
-import java.io.IOException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *
