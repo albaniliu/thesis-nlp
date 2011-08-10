@@ -35,7 +35,7 @@ public class demo extends javax.swing.JFrame {
         {
             this.setTitle("Named Entity Recognition Application - Natural Language Processing Group - Hanoi University of Science and Technology");
             this.setIconImage(Toolkit.getDefaultToolkit().getImage("." + File.separator + "src" + File.separator + "een_phuong" + File.separator + "resources" + File.separator + "taggingService.JPG"));
-            UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.WindowsLookAndFeel");
+//            UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.WindowsLookAndFeel");
             initComponents();
         }
         catch(Exception ex)
@@ -311,7 +311,8 @@ public class demo extends javax.swing.JFrame {
          try {
 
             textArea.setText("");
-            String tagg = "." + File.separator + "vnTagger" + File.separator + "input.txt";
+//            String tagg = "." + File.separator + "vnTagger" + File.separator + "input.txt";
+            String tagg = "tmp/input.txt";
             CopyFile.copyfile(inputData, tagg);
             vnTokenizer vntokenizer = new vnTokenizer();
             try {
@@ -324,13 +325,12 @@ public class demo extends javax.swing.JFrame {
             } catch (IOException ex) {
                 Logger.getLogger(EEN_PhuongView.class.getName()).log(Level.SEVERE, null, ex);
             }
-
             JVnRecognizer jVnRecognizer = new JVnRecognizer();
             String[] args = new String[4];
             args[0] = "-modeldir";
             args[1] = "./model";
             args[2] = "-inputfile";
-            args[3] = "input.txt";
+            args[3] = "tmp/input.txt";
             jVnRecognizer.main(args);
             BufferedReader in = null;
             String line = null;
@@ -543,6 +543,7 @@ public class demo extends javax.swing.JFrame {
     // End of variables declaration//GEN-END:variables
 
     private File fi = new File("");
-    private String inputData = fi.getAbsolutePath() + File.separator + "demo.txt";
+    private String inputData = fi.getAbsolutePath() + File.separator + "tmp" 
+            + File.separator + "demo.txt";
     //private String tagged = fi.getAbsolutePath() + File.separator + "tagged.txt";
 }
