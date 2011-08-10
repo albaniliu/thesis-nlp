@@ -34,10 +34,10 @@ public class CopyFile {
             out.close();
             System.out.println("File copied:" + srFile);
         } catch (FileNotFoundException ex) {
-            System.out.println(ex.getMessage() + " in the specified directory.");
+            ex.printStackTrace();
             System.exit(0);
         } catch (IOException e) {
-            System.out.println(e.getMessage());
+            e.printStackTrace();
         }
     }
 }

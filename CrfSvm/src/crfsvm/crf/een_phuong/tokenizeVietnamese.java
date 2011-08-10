@@ -19,6 +19,8 @@ import java.util.StringTokenizer;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.*;
+import vn.hus.nlp.tagger.TaggerOptions;
+import vn.hus.nlp.tagger.VietnameseMaxentTagger;
 
 /**
  *
@@ -27,27 +29,34 @@ import java.util.*;
 public class tokenizeVietnamese
 {
     public static void token() throws FileNotFoundException, UnsupportedEncodingException, IOException {
-        Runtime rt = Runtime.getRuntime();
-        Process process = null;
-        String dir = "." + File.separator + "vnTagger" + File.separator + "vnTagger.bat";
-        try {
-            process = rt.exec(dir + " -i" + " input.txt" + " -o" + " outputTok.txt" + " -u" + " -p");
-            process.waitFor();
-        } catch (IOException ex) {
-            Logger.getLogger(vnTokenizer.class.getName()).log(Level.SEVERE, null, ex);
+//        Runtime rt = Runtime.getRuntime();
+//        Process process = null;
+//        String dir = "." + File.separator + "vnTagger" + File.separator + "vnTagger.bat";
+//        try {
+//            process = rt.exec(dir + " -i" + " input.txt" + " -o" + " outputTok.txt" + " -u" + " -p");
+//            process.waitFor();
+//        } catch (IOException ex) {
+//            Logger.getLogger(vnTokenizer.class.getName()).log(Level.SEVERE, null, ex);
+//
+//        } catch (InterruptedException itex) {
+//            itex.toString();
+//        }
+        //Dung
+        VietnameseMaxentTagger maxen = new VietnameseMaxentTagger();
+        TaggerOptions.PLAIN_TEXT_FORMAT = true;
+        TaggerOptions.UNDERSCORE = true;
+        maxen.tagFile("tmp/input.txt", "tmp/outputTok.txt");
 
-        } catch (InterruptedException itex) {
-            itex.toString();
-        }
-
-        String input = "." + File.separator + "vnTagger" + File.separator + "outputTok.txt";
+//        String input = "." + File.separator + "vnTagger" + File.separator + "outputTok.txt";
+        String input = "tmp/outputTok.txt";
 
         String ret = modifyvnTagger(input, false);
         System.out.println("---------------------------------modifyvnTagger\n\n" + ret);
         String retu = seperateSentencesInString(ret);
         System.out.println("---------------------------------seperateSentence\n\n" + retu);
 
-        String output = "." + File.separator + "input.txt";
+//        String output = "." + File.separator + "input.txt";
+        String output = "tmp/input.txt";
         BufferedWriter f = new BufferedWriter(new OutputStreamWriter(
                 new FileOutputStream(output), "UTF-8"));
 
