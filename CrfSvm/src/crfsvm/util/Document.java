@@ -137,12 +137,14 @@ public class Document {
                 int index = random.nextInt(n);
                 doc.add(lineList.get(index));
             }// end for j
+            doc.setFileName("bag" + i + ".txt");
             list.add(doc);
         }// end for i
         return list;
     }// end createBagging method
     
     private String filePath;
+    private String fileName;
     private List<String> lineList;
     
     public static void main(String[] args) {
@@ -177,6 +179,20 @@ public class Document {
      */
     public void setFilePath(String filePath) {
         this.filePath = filePath;
+    }
+
+    /**
+     * @return the fileName
+     */
+    public String getFileName() {
+        return fileName;
+    }
+
+    /**
+     * @param fileName the fileName to set
+     */
+    public void setFileName(String fileName) {
+        this.fileName = fileName;
     }
 }// end Document class
 

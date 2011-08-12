@@ -56,7 +56,7 @@ public class tokenizeVietnamese
         System.out.println("---------------------------------seperateSentence\n\n" + retu);
 
 //        String output = "." + File.separator + "input.txt";
-        String output = "tmp/input.txt";
+        String output = "tmp/tagged.txt";
         BufferedWriter f = new BufferedWriter(new OutputStreamWriter(
                 new FileOutputStream(output), "UTF-8"));
 
