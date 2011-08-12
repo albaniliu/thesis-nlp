@@ -149,6 +149,7 @@ public class JVnRecognizer {
         }
 
         if (isInputFile) {
+            // doc file da duoc tach tu boi vntagger
             taggerData.readOriginalDataFromFile(inputFile);
 //            entityRecognize(taggerData, "output.txt");
             nrcnr.entityBoundaryMark(taggerData, inputFile + ".wseg");

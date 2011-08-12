@@ -35,7 +35,7 @@ public class demo extends javax.swing.JFrame {
         {
             this.setTitle("Named Entity Recognition Application - Natural Language Processing Group - Hanoi University of Science and Technology");
             this.setIconImage(Toolkit.getDefaultToolkit().getImage("." + File.separator + "src" + File.separator + "een_phuong" + File.separator + "resources" + File.separator + "taggingService.JPG"));
-//            UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.WindowsLookAndFeel");
+            UIManager.setLookAndFeel("com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel");
             initComponents();
         }
         catch(Exception ex)
@@ -330,13 +330,13 @@ public class demo extends javax.swing.JFrame {
             args[0] = "-modeldir";
             args[1] = "./model";
             args[2] = "-inputfile";
-            args[3] = "tmp/input.txt";
+            args[3] = "tmp/tagged.txt";
             jVnRecognizer.main(args);
             BufferedReader in = null;
             String line = null;
             try {
                 try {
-                    in = new BufferedReader(new InputStreamReader(new FileInputStream("input.txt.wseg"), "UTF-8"));
+                    in = new BufferedReader(new InputStreamReader(new FileInputStream("tmp/input.txt.wseg"), "UTF-8"));
                 } catch (FileNotFoundException ex) {
                     Logger.getLogger(EEN_PhuongView.class.getName()).log(Level.SEVERE, null, ex);
                 }
