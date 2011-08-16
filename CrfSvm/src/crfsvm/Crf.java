@@ -5,17 +5,15 @@
 package crfsvm;
 
 import crfsvm.crf.een_phuong.CopyFile;
-import crfsvm.crf.een_phuong.IOB2Converter;
 import crfsvm.crf.een_phuong.JVnRecognizer;
 import crfsvm.crf.een_phuong.tokenizeVietnamese;
 import crfsvm.options.OptionCrf;
-import crfsvm.svm.org.itc.irst.tcc.sre.data.ReadWriteFile;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -64,11 +62,54 @@ public class Crf {
     }// end predict method
     
     /**
-     * 
+     * Run chuong trinh crf.exe voi tham so mac dinh:<br/>
+     * <ul>
+     *   <li>Chuong trinh crf.exe nam trong thu muc model</li>
+     *   <li>modelDir la thu muc model trong project</li>
+     *   <li>optionFile la file option.txt trong thu muc model</li>
+     * </ul>
      */
-    public void train() {
-        
-    }// end train method
+    public static void runCRF() {
+        runCRF("model/crf.exe", "model", "option.txt");
+    }// end runCRF method
+    
+    /**
+     * Run chuong trinh crf.exe voi tham so modelDir va optionFile
+     * @param program duong dan den chuong trinh crf.exe
+     * @param modelDir thu muc model
+     * @param optionFile duong dan den option file
+     */
+    public static void runCRF(String program, String modelDir, String optionFile) {
+        Process proc = null;
+        try {
+            proc = Runtime.getRuntime().exec(new String[]{
+                        "wine",
+                        program,
+                        "-modeldir",
+                        modelDir,
+                        "-o",
+                        optionFile
+                    });
+            InputStream inputStream = proc.getInputStream();
+            InputStreamReader reader = new InputStreamReader(inputStream);
+            BufferedReader in = new BufferedReader(reader);
+            String line;
+            while ((line = in.readLine()) != null) {
+                System.out.println(line);
+            }
+        } catch (IOException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }// end runCRF method
+    
+    /**
+     * Run chuong trinh crf.exe trong thu muc model voi tham so modelDir va optionFile
+     * @param modelDir thu muc model
+     * @param optionFile duong dan den option file
+     */
+    public static void runCRF(String modelDir, String optionFile) {
+        runCRF("model/crf.exe", modelDir, optionFile);
+    }// end runCRF method
     
     public static void main(String[] args) {
         Crf crf = new Crf();

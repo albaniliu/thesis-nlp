@@ -124,15 +124,15 @@ public class Document {
     /**
      * Tao Bagging tu 1 document
      * @param B so bagging
-     * @param k so cau trong 1 bagging
+     * @param bagSize so cau trong 1 bagging
      * @return list cac bagging
      */
-    public List createBagging(int B, int k) {
+    public List createBagging(int B, int bagSize) {
         List list = new ArrayList();
         int n = size();
         for (int i = 0; i < B; i++) {
             Document doc = new Document();
-            for (int j = 0; j < k; j++) {
+            for (int j = 0; j < bagSize; j++) {
                 Random random = new Random();
                 int index = random.nextInt(n);
                 doc.add(lineList.get(index));
