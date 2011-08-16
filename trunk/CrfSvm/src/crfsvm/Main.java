@@ -13,7 +13,6 @@ import java.io.FileNotFoundException;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.util.List;
-import java.util.logging.Level;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
 
@@ -128,9 +127,16 @@ public class Main {
         /*
          * Run CRF
          */
-        Crf.runCRF();
-    }// end runCRF method
+        Crf.train();
+    }// end train method
 
+    private void countAppear() {
+        IOB2Converter.main(new String[] {
+            "tmp/tagged.txt.wseg",
+            "tmp/tagged.txt.wseg.iob"
+        });
+    }// end countAppear method
+    
     public static void main(String[] args) {
         DOMConfigurator.configure("log-config.xml");
         Main m = new Main();
@@ -158,15 +164,11 @@ public class Main {
          */
         int bagSize = 120;
 
-        Document doc = new Document(trainPath);
         /*
          * Bat dau lap CRF
-         * Moi khi muon chay CRF thi can copy file train va file test vao thu muc model
-         * va doi ten thanh train.txt, test.txt
          * 
          */
-        for (int i = 0; i < loop; i++) {
-        }// end for i
+        m.countAppear();
     }// end main class
 }// end Main class
 

@@ -51,9 +51,9 @@ public class tokenizeVietnamese
         String input = "tmp/outputTok.txt";
 
         String ret = modifyvnTagger(input, false);
-        System.out.println("---------------------------------modifyvnTagger\n\n" + ret);
+//        System.out.println("---------------------------------modifyvnTagger\n\n" + ret);
         String retu = seperateSentencesInString(ret);
-        System.out.println("---------------------------------seperateSentence\n\n" + retu);
+//        System.out.println("---------------------------------seperateSentence\n\n" + retu);
 
 //        String output = "." + File.separator + "input.txt";
         String output = "tmp/tagged.txt";
