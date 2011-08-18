@@ -66,8 +66,9 @@ public class tokenizeVietnamese
 
     public static String modifyvnTagger(String fileSource, boolean delete)
     {
-        String[] punctuations = {".", "," , "!", "(", ")", "[", "]", "{", "}", "$", "?", "@", "\"", "-", "/", "...", ":", "'", ";", "*", "+" , "#",
-        "%", "^", "&", "=", "|", "~", "`"};
+        String[] punctuations = {".", "," , "!", "(", ")", "[", "]", "{", "}",
+            "$", "?", "@", "\"", "\u2013", "-", "/", "...", ":", "'", ";", "*", "+" , "#",
+            "%", "^", "&", "=", "|", "~", "`"};
 
         try
         {
@@ -298,19 +299,19 @@ public class tokenizeVietnamese
         return count;
     }
 
-    public static void main(String[] args)
-    {
-        String[] dots = {".", "?", "!", "..."};
-        String line = "[Mới đây] , [trong] [cuốn] [sách] [dày] [hơn] [500] [trang] [nhan đề] [Why Vietnam] ? ( [Tại sao] [Việt Nam] ? ) , [ông] [Archimedes] [L. A.] [Patti] , [một] [người] [Mỹ] [vốn] [là] [đại tá] [tình báo] , [miêu tả] [những] [con người] [và] [sự kiện] [ở] [Hà Nội] [vào] [năm] [1945] , [trong] [đó] [có] [đoạn] :";
-        try{
-        int[] find = findPattern(dots, line, 0);
-        System.out.println("RESULT HERE: " + find[0] + " : And: " + find[1]);
-        }
-        catch (Exception e)
-        {
-            System.out.println("heeeee!" + e);
-        }
-    }
+//    public static void main(String[] args)
+//    {
+//        String[] dots = {".", "?", "!", "..."};
+//        String line = "[Mới đây] , [trong] [cuốn] [sách] [dày] [hơn] [500] [trang] [nhan đề] [Why Vietnam] ? ( [Tại sao] [Việt Nam] ? ) , [ông] [Archimedes] [L. A.] [Patti] , [một] [người] [Mỹ] [vốn] [là] [đại tá] [tình báo] , [miêu tả] [những] [con người] [và] [sự kiện] [ở] [Hà Nội] [vào] [năm] [1945] , [trong] [đó] [có] [đoạn] :";
+//        try{
+//        int[] find = findPattern(dots, line, 0);
+//        System.out.println("RESULT HERE: " + find[0] + " : And: " + find[1]);
+//        }
+//        catch (Exception e)
+//        {
+//            System.out.println("heeeee!" + e);
+//        }
+//    }
 
 
     public static void token(String path) throws FileNotFoundException, UnsupportedEncodingException, IOException {
@@ -340,6 +341,13 @@ public class tokenizeVietnamese
 
         f.write(retu);
         f.close();
+    }
+    public static void main(String[] args) {
+        char c = '-';
+        char c1 = '–';
+        System.out.println((int)c);
+        System.out.println((int)c1);
+        System.out.println("\u2013");
     }
 }
 
