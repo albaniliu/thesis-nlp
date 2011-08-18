@@ -177,11 +177,29 @@ public class Main {
         Crf.train();
     }// end train method
 
+    private int[][] initCount() {
+        LinkedList<String> list = new LinkedList<String>();
+        try {
+            BufferedReader in = ReadWriteFile.readFile(IOB_FILE, "UTF-8");
+            String line = null;
+            while ((line = in.readLine()) != null) {
+                if (!line.equals("")) {
+                    list.add(line);
+                }// end if !line.equals("")
+            }// end while
+        } catch (UnsupportedEncodingException ex) {
+            logger.debug(ex.getMessage());
+        } catch (FileNotFoundException ex) {
+            logger.debug(ex.getMessage());
+        } catch (IOException ex) {
+            logger.debug(ex.getMessage());
+        }// end try catch
+
+        int[][] count = new int[C][list.size()];
+        return count;
+    }// end initCount method
+    
     private int[][] countAppear() {
-        //        IOB2Converter.main(new String[] {
-        //            PREDICT_FILE,
-        //            IOB_FILE
-        //        });
 
         LinkedList<String> list = new LinkedList<String>();
         try {
@@ -249,8 +267,10 @@ public class Main {
          * Bat dau lap CRF
          * 
          */
-//        Crf.runVnTagger("tmp/demo.txt");
+        Crf.runVnTagger("tmp/demo_org.txt");
 //        Crf.predict();
+//        IOB2Converter.convertAllLine(PREDICT_FILE, IOB_FILE);
+//        int[][] count = m.initCount();
 //        m.countAppear();
     }// end main class
 }// end Main class

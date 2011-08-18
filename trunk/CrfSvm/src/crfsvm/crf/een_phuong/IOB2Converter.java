@@ -17,6 +17,10 @@ public class IOB2Converter {
     static HashMap<String, Integer> entStat = new HashMap<String, Integer>();
     static private int numOfSeq = 0;
 
+    /**
+     * Convert cac cau co chua thuc the trong input file ve dang IOB
+     * @param args 2 tham so la duong dan inputFile va outputFile
+     */
     public static void main(String[] args) {
         if (args.length != 2) {
             System.out.println("Usage: Iob2Converter [input file] [output file]");
@@ -53,35 +57,23 @@ public class IOB2Converter {
         }
     }
 
-    public static void main1(String[] args)
-    {
+    /**
+     * Convert toan bo cac cau trong van ban input ma khong loai bo cac cau khong co thuc the trong do
+     * @param inputFile File van ban da duoc tach tu va gan nhan
+     * @param outputFile File IOB
+     */
+    public static void convertAllLine(String inputFile, String outputFile) {
 
-        File sour = new File(args[0]);
-        File des = new File(args[1]);
-        if (!sour.isDirectory() || !des.isDirectory())
-            return;
-        try
-        {
-            String[] dirs = sour.list(new FilenameFilter() {
+        try {
+            BufferedWriter out = new BufferedWriter(new OutputStreamWriter(
+                    new FileOutputStream(outputFile), "UTF-8"));
 
-                public boolean accept(File dir, String name) {
-                    return (name.endsWith(".txt"));
-                }
-            });
+            String str = convertFileToIob2(inputFile, false);
+            out.write(str);
 
-            //System.out.println("dirs = " + dirs.length);
-            for (int i = 0; i < dirs.length; i++)
-            {
-                File tempi = new File(sour.getAbsolutePath() + File.separator + dirs[i]);
-                if (!tempi.isFile()) continue;
-                String nameDes = des.getCanonicalPath() + File.separator + dirs[i];
-                String[] arg = {tempi.getCanonicalPath(), nameDes};
-                //mainOne(arg);
-            }
-        }
-        catch (Exception ex)
-        {
-            System.out.println("Error: " + ex);
+            out.close();
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
         }
     }
 
@@ -99,8 +91,7 @@ public class IOB2Converter {
 
             while ((line = in.readLine()) != null) {
                 count++;
-                if (count == 2000)
-                {
+                if (count == 2000) {
                     count = 0;
                     System.out.print("\n");
                 }
@@ -170,14 +161,15 @@ public class IOB2Converter {
                     ret += tk.nextToken().replaceAll("[ \t]+", " ") + "\t" + "O" + "\n";
                 }
             }
-            if (flag)
-            {
+            if (flag) {
                 if (hasEntity) {
                     ++numOfSeq;
                     ret += "\n";
                 } else {
                     ret = "";
                 }
+            } else {
+                ret += "\n";
             }
         }
         return ret;
@@ -224,7 +216,7 @@ public class IOB2Converter {
             while ((line = in.readLine()) != null) {
                 System.out.print(".");
 //                String ret = convertString2Iob2_new(line).trim();
-                
+
                 if (line.equalsIgnoreCase("")) {
                     continue;
                 }
