@@ -5,7 +5,7 @@
 package crfsvm.crf.een_phuong;
 
 /**
- * Luu cac thong tin va phuong thuc tac dong len 1 tu trong cau
+ * Luu thong tin ve ban than tu va vi tri cua tu trong cau. Su dung cho lop TaggedDocument
  * @author banhbaochay
  */
 public class Word {
@@ -16,11 +16,20 @@ public class Word {
      */
     public Word(String form) {
         this.form = form;
+        iob = "O";
+        offset = -1;
     }
 
     public Word(StringBuilder form) {
         this.form = form.toString();
+        iob = "O";
+        offset = -1;
     }
+    
+    @Override
+    public String toString() {
+        return form;
+    }// end print method
     
     /**
      * Ban than tu
@@ -30,6 +39,11 @@ public class Word {
      * Vi tri cua tu trong cau
      */
     private int offset;
+    
+    /**
+     * Nhan duoc gan cho tu: B-per, I-per...
+     */
+    private String iob;
 
     /**
      * @return the form
@@ -51,5 +65,27 @@ public class Word {
     public void setOffset(int offset) {
         this.offset = offset;
     }
+
+    /**
+     * @return the label
+     */
+    public String getIob() {
+        return iob;
+    }
+
+    /**
+     * @param iobLabel the label to set
+     */
+    public void setIob(String iobLabel) {
+        this.iob = iobLabel;
+    }
+    
+    /**
+     * Tra ve true neu tu duoc gan nhan IOB va nguoc lai
+     * @return 
+     */
+    public boolean isIOB() {
+        return !iob.equals("O");
+    }// end isIOB method
 }// end Word class
 

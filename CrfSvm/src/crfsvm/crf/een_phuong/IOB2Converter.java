@@ -18,7 +18,8 @@ public class IOB2Converter {
     static private int numOfSeq = 0;
 
     /**
-     * Convert cac cau co chua thuc the trong input file ve dang IOB
+     * Convert cac cau co chua thuc the trong input file ve dang IOB.<br/>
+     * Usage: Iob2Converter [input file] [output file]
      * @param args 2 tham so la duong dan inputFile va outputFile
      */
     public static void main(String[] args) {
