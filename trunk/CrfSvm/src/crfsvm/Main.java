@@ -6,17 +6,24 @@ package crfsvm;
 
 import crfsvm.crf.een_phuong.CopyFile;
 import crfsvm.crf.een_phuong.IOB2Converter;
+import crfsvm.crf.een_phuong.Sentence;
+import crfsvm.crf.een_phuong.TaggedDocument;
 import crfsvm.crf.een_phuong.TaggingTrainData;
 import crfsvm.svm.org.itc.irst.tcc.sre.data.ReadWriteFile;
 import crfsvm.util.Document;
-import java.io.BufferedReader;
+import crfsvm.util.MapUtils;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FilenameFilter;
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
+import java.io.PrintWriter;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
+import java.util.logging.Level;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
 
@@ -28,6 +35,9 @@ public class Main {
 
     static Logger logger = Logger.getLogger(Main.class);
     static final String PREDICT_FILE = "tmp/tagged.txt.wseg";
+    /**
+     * File iob duoc convert tu van ban sau khi predict - van ban co duoi iob: tmp/tagged.txt.wseg.iob
+     */
     static final String IOB_FILE = "tmp/tagged.txt.wseg.iob";
     /**
      * so phan lop
@@ -40,7 +50,7 @@ public class Main {
     /**
      * batch size
      */
-    static int S = 80;
+    static int S = 2;
     /**
      * nguong cho entropy
      */
@@ -49,20 +59,6 @@ public class Main {
      * Number example in one bag
      */
     static int bagSize = 120;
-    
-    static final int B_PER = 0;
-    static final int I_PER = 1;
-    static final int B_LOC = 2;
-    static final int I_LOC = 3;
-    static final int B_ORG = 4;
-    static final int I_ORG = 5;
-    static final int B_POS = 6;
-    static final int I_POS = 7;
-    static final int B_JOB = 8;
-    static final int I_JOB = 9;
-    static final int B_DATE = 10;
-    static final int I_DATE = 11;
-    static final int OTHER = 12;
 
     /**
      * Merge tat ca cac file .txt trong thu muc dirPath thanh file mergePath
@@ -125,6 +121,7 @@ public class Main {
         TaggingTrainData.main(args);
     }// end taggingTrain method
     // </editor-fold>
+
     /**
      * Tao tap train trong thu muc tmp/TrainSet tu 1 document
      * @param doc
@@ -152,126 +149,286 @@ public class Main {
     // </editor-fold>
 
     /**
-     * Chay CRF voi file train va file test, mac dinh phai co file crf.exe va option.txt trong thu muc model.
-     * Sau khi chay trong thu muc model se xuat hien file model.txt duoc tao tu file train
-     * @param trainPath
-     * @param testPath 
+     * Tao tap test trong thu muc tmp/TestSet
+     * @param doc
+     * @param number chia thanh bao nhieu phan
      */
-    public void runCRF(String trainPath, String testPath) {
-
-        try {
-            /*
-             * Copy file train va file test vao thu muc model, doi ten thanh train.txt va test.txt
-             */
-            CopyFile.copyfile(trainPath, "tmp/train.txt");
-            CopyFile.copyfile(testPath, "tmp/test.txt");
-        } catch (FileNotFoundException ex) {
-            logger.debug(ex.getMessage());
-        } catch (IOException ex) {
-            logger.debug(ex.getMessage());
-        }// end try catch
-
-        /*
-         * Run CRF
-         */
-        Crf.train();
-    }// end train method
-
-    private int[][] initCount() {
-        LinkedList<String> list = new LinkedList<String>();
-        try {
-            BufferedReader in = ReadWriteFile.readFile(IOB_FILE, "UTF-8");
-            String line = null;
-            while ((line = in.readLine()) != null) {
-                if (!line.equals("")) {
-                    list.add(line);
-                }// end if !line.equals("")
-            }// end while
-        } catch (UnsupportedEncodingException ex) {
-            logger.debug(ex.getMessage());
-        } catch (FileNotFoundException ex) {
-            logger.debug(ex.getMessage());
-        } catch (IOException ex) {
-            logger.debug(ex.getMessage());
-        }// end try catch
-
-        int[][] count = new int[C][list.size()];
-        return count;
-    }// end initCount method
-    
-    private int[][] countAppear() {
-
-        LinkedList<String> list = new LinkedList<String>();
-        try {
-            BufferedReader in = ReadWriteFile.readFile(IOB_FILE, "UTF-8");
-            String line = null;
-            while ((line = in.readLine()) != null) {
-                if (!line.equals("")) {
-                    list.add(line);
-                }// end if !line.equals("")
-            }// end while
-        } catch (UnsupportedEncodingException ex) {
-            logger.debug(ex.getMessage());
-        } catch (FileNotFoundException ex) {
-            logger.debug(ex.getMessage());
-        } catch (IOException ex) {
-            logger.debug(ex.getMessage());
-        }// end try catch
-
-        int[][] count = new int[C][list.size()];
-        int i = 0;
-        for (String line : list) {
-            String type = line.split("\t")[1];
-            if (type.equalsIgnoreCase("O")) {
-                count[OTHER][i]++;
-            } else if (type.equalsIgnoreCase("B-per")) {
-                count[B_PER][i]++;
-            } else if (type.equalsIgnoreCase("I-per")) {
-                count[I_PER][i]++;
-            } else if (type.equalsIgnoreCase("B-loc")) {
-                count[B_LOC][i]++;
-            } else if (type.equalsIgnoreCase("I-loc")) {
-                count[I_LOC][i]++;
-            } else if (type.equalsIgnoreCase("B-org")) {
-                count[B_ORG][i]++;
-            } else if (type.equalsIgnoreCase("I-org")) {
-                count[I_ORG][i]++;
-            } else if (type.equalsIgnoreCase("B-pos")) {
-                count[B_POS][i]++;
-            } else if (type.equalsIgnoreCase("I-pos")) {
-                count[I_POS][i]++;
-            } else if (type.equalsIgnoreCase("B-job")) {
-                count[B_JOB][i]++;
-            } else if (type.equalsIgnoreCase("I-job")) {
-                count[I_JOB][i]++;
-            } else if (type.equalsIgnoreCase("B-date")) {
-                count[B_DATE][i]++;
-            } else if (type.equalsIgnoreCase("I-date")) {
-                count[I_DATE][i]++;
+    // <editor-fold defaultstate="collapsed" desc="createTestSet method">
+    public void createTestSet(Document doc, int number) {
+        List docList = doc.split(number);
+        String testSetDir = "tmp/TestSet";
+        File dir = new File(testSetDir);
+        if (dir.exists() && dir.isDirectory()) {
+            for (File file : dir.listFiles()) {
+                file.delete();
             }
-            i++;
-        }// end foreach line
+        } else {
+            dir.mkdir();
+        }// end if else
 
-        return count;
+        for (Object child : docList) {
+            Document docChild = (Document) child;
+            docChild.print2File(testSetDir + "/" + docChild.getFileName());
+        }// end foreach child
+        logger.info("Create test set successfull");
+    }// end createTestSet method
+    // </editor-fold>
+
+    /**
+     * Dem so lan xuat hien cua tu duoc gan nhan trong file da duoc gan nhan, ket qua luu trong countMap
+     * @param countMap Key la vi tri cua tu, co dang offsetSentence-offsetWord. Value la 1 map voi 
+     * key la nhan IOB cua tu, value la so lan duoc gan
+     * @param predictFilePath duong dan den file da duoc predict ( la file co duoi .wseg )
+     */
+    // <editor-fold defaultstate="collapsed" desc="countAppear method">
+    private void countAppear(Map<String, Map<String, Integer>> countMap, String predictFilePath) {
+        TaggedDocument tmpDoc = new TaggedDocument(predictFilePath);
+        for (int i = 0; i < tmpDoc.size(); i++) {
+            List<String> iobList = tmpDoc.getSentence(i).getIobList();
+            for (String iobInfo : iobList) {
+                String offset = iobInfo.split(",")[0];
+                String iobLabel = iobInfo.split(",")[1];
+                if (countMap.containsKey(offset)) {
+                    // Tu nay da co trong map
+                    Map<String, Integer> iobCountMap = countMap.get(offset);
+                    if (iobCountMap.containsKey(iobLabel)) {
+                        // Nhan IOB nay da duoc dem truoc do 
+                        int count = iobCountMap.get(iobLabel);
+                        iobCountMap.put(iobLabel, ++count);
+                    } else {
+                        // Bien dem cho nhan IOB nay chua xuat hien
+                        iobCountMap.put(iobLabel, 1);
+                    }
+                } else {
+                    // Them moi thong tin count cho 1 tu chua co trong countMap
+                    Map<String, Integer> iobCountMap = new HashMap<String, Integer>();
+                    iobCountMap.put(iobLabel, 1);
+                    countMap.put(offset, iobCountMap);
+                }
+            }// end foreach iobInfo
+        }// end for i
     }// end countAppear method
+    // </editor-fold>
+
+    /**
+     * Tinh Entropy tu count co duoc
+     * @param countMap danh sach dem so lan duoc gan nhan IOB cua cac tu trong van ban
+     * @return Tra ve map voi key la vi tri cua tu trong van ban, value la ten cua nhan IOB 
+     * duoc gan nhieu nhat cho tu do cung voi entropy
+     */
+    // <editor-fold defaultstate="collapsed" desc="calculateH method">
+    public Map<String, Object[]> calculateH(Map<String, Map<String, Integer>> countMap) {
+        Map<String, Object[]> hMap = new LinkedHashMap<String, Object[]>();
+
+        for (Map.Entry<String, Map<String, Integer>> entry : countMap.entrySet()) {
+            // Tinh H cho tung tu duoc gan nhan
+            String offset = entry.getKey();
+            Map<String, Integer> iobCountMap = entry.getValue();
+            double H = 0;
+            int countMax = 0;
+            String iobLabel = "";
+            for (Map.Entry<String, Integer> entryIobCount : iobCountMap.entrySet()) {
+                // Tinh tung so hang trong bieu thuc H
+                int ri = entryIobCount.getValue();
+                double riOverB = (double) ri / B;
+                H -= riOverB * Math.log(riOverB);
+
+                // Luu lai cach gan nhan co so lan nhieu nhat
+                if (countMax < ri) {
+                    countMax = ri;
+                    iobLabel = entryIobCount.getKey();
+                }// end if countMax
+            }// end foreach entryIobCount
+            hMap.put(offset, new Object[]{
+                        iobLabel,
+                        H
+                    });
+        }// end foreach entry
+
+        return hMap;
+    }// end calculateH method
+    // </editor-fold>
+
+    /**
+     * Tim ra S phan tu trong map co so entropy nho nhat khong vuot qua nguong
+     * @param hMap Co dang key la vi tri cua tu, value la mang 2 phan tu: nhan IOB duoc gan
+     * nhieu nhat cho tu do va entropy cua tu
+     * @return  List cac phan tu thoa man yeu cau co entropy khong  vuot qua nguong va la nho nhat, 
+     * moi phan tu la mang cac String. Mang String co dang: phan tu thu nhat la vi tri cua tu trong van ban,
+     * phan tu thu 2 la nhan IOB duoc gan nhieu nhat cho tu do
+     */
+    // <editor-fold defaultstate="collapsed" desc="findS method">
+    public List<String[]> findS(Map<String, Object[]> hMap) {
+        // Sap xep lai entropy map theo thu tu tang dan cua entropy
+        hMap = MapUtils.sortMap(hMap, new Comparator() {
+
+            @Override
+            public int compare(Object o1, Object o2) {
+                Map.Entry<String, Object[]> entry1 = (Map.Entry<String, Object[]>) o1;
+                Map.Entry<String, Object[]> entry2 = (Map.Entry<String, Object[]>) o2;
+                Double h1 = (Double) entry1.getValue()[1];
+                Double h2 = (Double) entry2.getValue()[1];
+                return h1.compareTo(h2);
+            }
+        });
+
+        // Lay ra S entropy thap nhat va khong vuot qua nguong
+        List<String[]> sList = new LinkedList<String[]>();
+        int i = 0;
+        for (Map.Entry<String, Object[]> entry : hMap.entrySet()) {
+            Double H = (Double) entry.getValue()[1];
+            if (H > thresholdH) {
+                break;
+            } else {
+                sList.add(new String[]{
+                            entry.getKey(),
+                            (String) entry.getValue()[0]
+                        });
+                i++;
+                if (i == S) {
+                    break;
+                }// end if i == S
+            }// end if else
+        }// end foreach entry
+
+        return sList;
+    }// end findS method
+    // </editor-fold>
+
+    /**
+     * Tinh toan entropy cho cac tu duoc gan nhan trong van ban dong thoi lay ra S phan tu co entropy thap nhat
+     * khong vuot qua nguong
+     * @param countMap danh sach dem so lan duoc gan nhan IOB cua cac tu trong van ban. countMap co dinh dang
+     * luu tru theo key la vi tri cua tu trong van ban (VD: 3-54 chi ra tu thu 54 trong cau thu 3 cua van ban), value la
+     * 1 map voi key la nhan IOB cua tu (B-per, I-per...) va value la so lan duoc gan nhan IOB do
+     * @return List cac phan tu thoa man yeu cau co entropy khong  vuot qua nguong va la nho nhat, 
+     * moi phan tu la mang cac String. Mang String co dang: phan tu thu nhat la vi tri cua tu trong van ban,
+     * phan tu thu 2 la nhan IOB duoc gan nhieu nhat cho tu do
+     */
+    // <editor-fold defaultstate="collapsed" desc="calcAndFindS method">
+    public List<String[]> calcAndFindS(Map<String, Map<String, Integer>> countMap) {
+        return findS(calculateH(countMap));
+    }// end calcAndFindS method
+    // </editor-fold>
+
+    /**
+     * Duoc goi sau khi predict: them dac trung cua cac tu duoc gan nhan vao file dac trung ban dau
+     * @param sList List cac phan tu thoa man yeu cau co entropy khong  vuot qua nguong va la nho nhat, 
+     * moi phan tu la mang cac String. Mang String co dang: phan tu thu nhat la vi tri cua tu trong van ban,
+     * phan tu thu 2 la nhan IOB duoc gan nhieu nhat cho tu do
+     * @param predictDoc Doi tuong TaggedDocument cua file can predict
+     * @param trainPath Duong dan file train ban dau
+     */
+    public void processAfterPredict(List<String[]> sList, TaggedDocument predictDoc, String trainPath) {
+        // Gan nhan IOB
+        for (String[] strings : sList) {
+            // set IOB cho tung tu duoc luu trong sList
+            String offset = strings[0];
+            String iobLabel = strings[1];
+            predictDoc.setIob(iobLabel, offset);
+        }// end foreach strings
+
+        File phraseFile = new File("tmp/phrase.tmp");
+        try {
+            PrintWriter phraseOut = ReadWriteFile.writeFile(phraseFile, "UTF-8");
+
+            // Lay ra tu duoc gan nhan IOB va 2 tu xung quanh no
+            for (String[] strings : sList) {
+                String offset = strings[0];
+                Sentence phrase = predictDoc.getPhrase(offset, 2);
+                phraseOut.print(phrase.toIobString());
+                phraseOut.print("\n");
+            }// end foreach strings
+
+            phraseOut.close();
+        } catch (Exception e) {
+            logger.debug(e.getMessage());
+        }// end try
+
+        // Chuyen sang dang dac trung, luu o file phrase.tmp.feature
+        TaggingTrainData.main(new String[]{
+                    "tmp/phrase.tmp",
+                    "tmp/phrase.tmp.feature",
+                    "model"
+                });
+
+        // Noi file dac trung nay vao file dac trung tao ra tu file train dau tien
+        try {
+            CopyFile.appendFile(trainPath + ".feature", "tmp/phrase.tmp.feature");
+        } catch (IOException ex) {
+            logger.debug(ex.getMessage());
+        }// end try
+
+    }// end processAfterPredict method
 
     public static void main(String[] args) {
         DOMConfigurator.configure("log-config.xml");
         Main m = new Main();
-        int loop = 3;
         String trainPath = "tmp/mergeDung.txt";
         String testPath = "";
 
+        /*
+         * Tao model va file feature dau tien. File feature: trainPath + .feature
+         */
+        Crf.train(Crf.MANUAL_MODE, trainPath, trainPath);
 
         /*
-         * Bat dau lap CRF
-         * 
+         * Tao TrainSet: tmp/TrainSet
          */
-        Crf.runVnTagger("tmp/demo_org.txt");
-//        Crf.predict();
-//        IOB2Converter.convertAllLine(PREDICT_FILE, IOB_FILE);
-//        int[][] count = m.initCount();
-//        m.countAppear();
+        Document tmpDoc = new Document(trainPath);
+        m.createTrainSet(tmpDoc, B, bagSize);
+
+        /*
+         * Tao TestSet: tmp/TestSet
+         */
+        tmpDoc = new Document(testPath);
+        m.createTestSet(tmpDoc, 3);
+        tmpDoc = null;
+
+        /*
+         * Lap semi
+         */
+        File testSetDir = new File("tmp/TestSet");
+        for (File smallTestFile : testSetDir.listFiles()) {
+            /*
+             * Bat dau thuc hien voi 1 file test trong TestSet
+             */
+            // Chuan bi
+            Crf.runVnTagger(smallTestFile.getAbsolutePath());
+            TaggedDocument testDoc = new TaggedDocument("tmp/tagged.txt");
+            Map<String, Map<String, Integer>> countMap = new HashMap<String, Map<String, Integer>>();
+
+            // Bat dau vong lap CRF
+            File trainSetDir = new File("tmp/TrainSet");
+            for (File trainBagFile : trainSetDir.listFiles()) {
+                /*
+                 * Lap voi tung bag
+                 */
+                // train + predict, ket qua predict nam trong file smallTestFile + wseg
+                Crf.runCrf(trainBagFile.getAbsolutePath(), smallTestFile.getAbsolutePath());
+                m.countAppear(countMap, smallTestFile.getAbsolutePath() + ".wseg");
+            }// end foreach CRF
+
+            // Lay ra S phan tu co entropy nho nhat lon hon nguong
+            List<String[]> sList = m.calcAndFindS(countMap);
+
+            // Them dac trung cua S tu duoc gan nhan nay vao file dac trung ban dau.
+            // File dac trung ban dau co dang: trainPath + .feature
+            m.processAfterPredict(sList, testDoc, trainPath);
+            
+            //Tao model moi tu file dac trung moi duoc them
+            try {
+                CopyFile.copyfile(trainPath + ".feature", "model/train.txt");
+            } catch (FileNotFoundException ex) {
+                logger.debug(ex.getMessage());
+            } catch (IOException ex) {
+                logger.debug(ex.getMessage());
+            }// end try
+            Crf.train(Crf.DEFAULT_MODE);
+
+        }// end foreach testFile
+        // Ket thuc lap semi
+
     }// end main class
 }// end Main class
 

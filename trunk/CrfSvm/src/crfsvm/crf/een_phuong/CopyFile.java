@@ -39,5 +39,36 @@ public class CopyFile {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
+    }// end copyFile method
+    
+    /**
+     * Noi 2 file
+     * @param targetFile Duong dan file bi noi
+     * @param appendFile Duong dan file noi
+     * @throws FileNotFoundException
+     * @throws IOException 
+     */
+    public static void appendFile(String targetFile, String appendFile) 
+            throws FileNotFoundException, IOException {
+        File tFile = new File(targetFile);
+        File aFile = new File(appendFile);
+        OutputStream out = new FileOutputStream(tFile, true);
+        InputStream in = new FileInputStream(aFile);
+        
+        byte[] buf = new byte[1024];
+        // Ghi 1 dong trang
+        buf[0] = 10;
+        out.write(buf, 0, 1);
+        // Bat dau noi file
+        int len;
+        while ((len = in.read(buf)) > 0) {
+            out.write(buf, 0, len);
+        }// end while
+        in.close();
+        out.close();
+    }// end appendFile method
+    
+    public static void main(String[] args) throws FileNotFoundException, IOException {
+        appendFile("tmp/1.txt", "tmp/2.txt");
+    }// end main class
 }

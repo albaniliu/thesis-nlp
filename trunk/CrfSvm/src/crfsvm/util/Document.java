@@ -22,11 +22,15 @@ import java.util.logging.Logger;
  */
 public class Document {
 
+    public static final String DEFAULT_FILE_PATH = "tmp/doc.txt";
+    
     /**
      * Constructor empty
      */
     public Document() {
         lineList = new ArrayList<String>();
+        filePath = DEFAULT_FILE_PATH;
+        fileName = DEFAULT_FILE_PATH.substring(DEFAULT_FILE_PATH.indexOf("/") + 1);
     }
 
     /**
@@ -43,6 +47,7 @@ public class Document {
      */
     public Document(File file) {
         filePath = file.getAbsolutePath();
+        fileName = filePath.substring(filePath.indexOf("/") + 1);
         lineList = new ArrayList<String>();
         try {
             BufferedReader in = ReadWriteFile.readFile(file, "UTF-8");
@@ -101,10 +106,17 @@ public class Document {
     
     /**
      * In document ra file. Cac dong trong file phan tach boi 1 dong trang
-     * @param fileName 
+     * @param filePath duong dan den file ghi
      */
-    public void print2File(String fileName) {
-        print2File(new File(fileName));
+    public void print2File(String filePath) {
+        print2File(new File(filePath));
+    }// end print2File method
+    
+    /**
+     * In document ra file co file name da duoc set trong document
+     */
+    public void print2File() {
+        print2File(filePath);
     }// end print2File method
     
     /**
@@ -142,6 +154,31 @@ public class Document {
         }// end for i
         return list;
     }// end createBagging method
+    
+    /**
+     * Chia 1 document thanh number phan co so luong cau bang nhau
+     * @param number
+     * @return list cac doc da duoc chia
+     */
+    public List split(int number) {
+        List list = new ArrayList();
+        int n = size();
+        // so luong cau trong moi phan
+        int k = n / number;
+        int start = 0;
+        int end = k;
+        for (int i = 0; i < number; i++) {
+            Document doc = new Document();
+            for (int j = start; j < end; j++) {
+                doc.add(lineList.get(j));
+                doc.setFileName("test" + i + ".txt");
+            }// end for j
+            start = end;
+            end += k;
+            list.add(doc);
+        }// end for i
+        return list;
+    }// end split method
     
     private String filePath;
     private String fileName;

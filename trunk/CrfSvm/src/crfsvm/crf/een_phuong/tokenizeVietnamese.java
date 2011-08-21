@@ -63,6 +63,36 @@ public class tokenizeVietnamese
         f.write(retu);
         f.close();
     }
+    
+    /**
+     * Tach tu file inputFile va luu ket qua vao file taggedFile
+     * @param inputFile
+     * @param taggedFile
+     * @throws FileNotFoundException
+     * @throws UnsupportedEncodingException
+     * @throws IOException
+     */
+    public static void token(String inputFile, String taggedFile) throws FileNotFoundException, UnsupportedEncodingException, IOException {
+        VietnameseMaxentTagger maxen = new VietnameseMaxentTagger();
+        TaggerOptions.PLAIN_TEXT_FORMAT = true;
+        TaggerOptions.UNDERSCORE = true;
+        maxen.tagFile(inputFile, "tmp/outputTok.txt");
+
+//        String input = "." + File.separator + "vnTagger" + File.separator + "outputTok.txt";
+        String input = "tmp/outputTok.txt";
+
+        String ret = modifyvnTagger(input, false);
+//        System.out.println("---------------------------------modifyvnTagger\n\n" + ret);
+        String retu = seperateSentencesInString(ret);
+//        System.out.println("---------------------------------seperateSentence\n\n" + retu);
+
+//        String output = "." + File.separator + "input.txt";
+        BufferedWriter f = new BufferedWriter(new OutputStreamWriter(
+                new FileOutputStream(taggedFile), "UTF-8"));
+
+        f.write(retu);
+        f.close();
+    }
 
     public static String modifyvnTagger(String fileSource, boolean delete)
     {
