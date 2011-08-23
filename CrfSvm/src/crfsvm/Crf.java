@@ -37,12 +37,10 @@ public class Crf {
      * Thu muc model mac dinh: thu muc model trong project
      */
     public static final String DEFAULT_MODEL_DIR = "model";
-    
     /**
      * Duong dan mac dinh chuong trinh crf.exe: model/crf.exe
      */
     public static final String DEFAULT_PROGRAM_CRF = "model/crf.exe";
-    
     /**
      * Ten file option mac dinh: option.txt
      */
@@ -54,19 +52,20 @@ public class Crf {
      * @param predictFilePath duong dan file can predict da tach tu hoac chua tach tu
      */
     public static void runCrf(String trainFilePath, String predictFilePath) {
+
         // Train model duoc file model.txt trong thu muc model
-        train(MANUAL_MODE, trainFilePath, trainFilePath);
-        
+        train(MANUAL_MODE, trainFilePath);
+
         // Predict: luu ket qua trong file co ten predictFilePath + .wseg
         if (predictFilePath.contains("tagged")) {
             predict(DEFAULT_MODEL_DIR, predictFilePath);
         } else {
             // Neu predictFile la file van ban binh thuong chua tach tu
             runVnTagger(predictFilePath, predictFilePath + ".tagged");
-            predict(DEFAULT_MODEL_DIR,predictFilePath + ".tagged");
+            predict(DEFAULT_MODEL_DIR, predictFilePath + ".tagged");
         }
     }// end runCrf method
-    
+
     /**
      * Tach tu doi voi van ban inputFile, luu ket qua tach tu vao file taggedFile
      * @param inputPath
@@ -83,8 +82,8 @@ public class Crf {
             logger.debug(ex.getMessage());
         }
     }// end runVnTagger method
-    
-     /**
+
+    /**
      * Tach tu doi voi van ban inputFile, luu ket qua tach tu vao file tmp/tagged.txt
      * @param inputPath
      */
@@ -239,16 +238,16 @@ public class Crf {
                     String iobFile = args[0] + ".iob";
                     String featureFile = args[0] + ".feature";
                     // Convert sang dang iob
-                    IOB2Converter.main(new String[] {
-                        args[0],
-                        iobFile
-                    });
+                    IOB2Converter.main(new String[]{
+                                args[0],
+                                iobFile
+                            });
                     // Chuyen thanh dang dac trung
-                    TaggingTrainData.main(new String[] {
-                        iobFile,
-                        featureFile,
-                        DEFAULT_MODEL_DIR
-                    });
+                    TaggingTrainData.main(new String[]{
+                                iobFile,
+                                featureFile,
+                                DEFAULT_MODEL_DIR
+                            });
                     try {
                         CopyFile.copyfile(featureFile, "model/train.txt");
                         CopyFile.copyfile(featureFile, "model/test.txt");
@@ -262,19 +261,20 @@ public class Crf {
                     //     - duong dan den chuong trinh CRF
                     //     - duong dan den thu muc model
                     //     - ten file option
+                    
                     String iobFile = args[0] + ".iob";
                     String featureFile = args[0] + ".feature";
                     // Convert sang dang iob
-                    IOB2Converter.main(new String[] {
-                        args[0],
-                        iobFile
-                    });
+                    IOB2Converter.main(new String[]{
+                                args[0],
+                                iobFile
+                            });
                     // Chuyen thanh dang dac trung
-                    TaggingTrainData.main(new String[] {
-                        iobFile,
-                        featureFile,
-                        args[2]
-                    });
+                    TaggingTrainData.main(new String[]{
+                                iobFile,
+                                featureFile,
+                                args[2]
+                            });
                     try {
                         CopyFile.copyfile(featureFile, "model/train.txt");
                         CopyFile.copyfile(featureFile, "model/test.txt");
