@@ -18,7 +18,7 @@ public class Sentence {
     public Sentence() {
         wordList = new LinkedList<Word>();
         offset = -1;
-    }
+    }// end constructor
 
     /**
      * Lay ra 1 tu o vi tri i trong cau

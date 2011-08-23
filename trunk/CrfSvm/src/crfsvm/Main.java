@@ -34,6 +34,11 @@ import org.apache.log4j.xml.DOMConfigurator;
 public class Main {
 
     static Logger logger = Logger.getLogger(Main.class);
+    
+    static {
+        DOMConfigurator.configure("log-config.xml");
+    }
+    
     static final String PREDICT_FILE = "tmp/tagged.txt.wseg";
     /**
      * File iob duoc convert tu van ban sau khi predict - van ban co duoi iob: tmp/tagged.txt.wseg.iob
@@ -319,6 +324,7 @@ public class Main {
      * @param predictDoc Doi tuong TaggedDocument cua file can predict
      * @param trainPath Duong dan file train ban dau
      */
+    // <editor-fold defaultstate="collapsed" desc="processAfterPredict method">
     public void processAfterPredict(List<String[]> sList, TaggedDocument predictDoc, String trainPath) {
         // Gan nhan IOB
         for (String[] strings : sList) {
@@ -360,27 +366,38 @@ public class Main {
         }// end try
 
     }// end processAfterPredict method
+    // </editor-fold>
 
     public static void main(String[] args) {
         DOMConfigurator.configure("log-config.xml");
         Main m = new Main();
         String trainPath = "tmp/mergeDung.txt";
-        String testPath = "";
-
+        String testPath = "tmp/dung214.txt";
+        String oriTrain = "tmp/train.txt";
         /*
-         * Tao model va file feature dau tien. File feature: trainPath + .feature
+         * Tao model va file feature dau tien. File feature: oriTrain + .feature
          */
-        Crf.train(Crf.MANUAL_MODE, trainPath, trainPath);
+        logger.info("Tao model va file feature dau tien");
+        try {
+            CopyFile.copyfile(trainPath, oriTrain);
+        } catch (FileNotFoundException ex) {
+            logger.debug(ex.getMessage());
+        } catch (IOException ex) {
+            logger.debug(ex.getMessage());
+        }// end try
+        Crf.train(Crf.MANUAL_MODE, oriTrain);
 
         /*
          * Tao TrainSet: tmp/TrainSet
          */
+        logger.info("Tao TrainSet");
         Document tmpDoc = new Document(trainPath);
         m.createTrainSet(tmpDoc, B, bagSize);
 
         /*
          * Tao TestSet: tmp/TestSet
          */
+        logger.info("Tao TestSet");
         tmpDoc = new Document(testPath);
         m.createTestSet(tmpDoc, 3);
         tmpDoc = null;
@@ -388,25 +405,31 @@ public class Main {
         /*
          * Lap semi
          */
+        logger.info("Bat dau lap semi");
         File testSetDir = new File("tmp/TestSet");
         for (File smallTestFile : testSetDir.listFiles()) {
             /*
              * Bat dau thuc hien voi 1 file test trong TestSet
              */
+            logger.info("Thuc hien voi 1 file test");
             // Chuan bi
+            logger.info("Tach tu file test");
             Crf.runVnTagger(smallTestFile.getAbsolutePath());
+            
             TaggedDocument testDoc = new TaggedDocument("tmp/tagged.txt");
             Map<String, Map<String, Integer>> countMap = new HashMap<String, Map<String, Integer>>();
 
             // Bat dau vong lap CRF
+            logger.info("Bat dau boostrapping");
             File trainSetDir = new File("tmp/TrainSet");
             for (File trainBagFile : trainSetDir.listFiles()) {
                 /*
                  * Lap voi tung bag
                  */
                 // train + predict, ket qua predict nam trong file smallTestFile + wseg
+                logger.info("Chay CRF voi file " + trainBagFile.getAbsolutePath());
                 Crf.runCrf(trainBagFile.getAbsolutePath(), smallTestFile.getAbsolutePath());
-                m.countAppear(countMap, smallTestFile.getAbsolutePath() + ".wseg");
+                m.countAppear(countMap, "tmp/predict.txt.wseg");
             }// end foreach CRF
 
             // Lay ra S phan tu co entropy nho nhat lon hon nguong
@@ -414,9 +437,11 @@ public class Main {
 
             // Them dac trung cua S tu duoc gan nhan nay vao file dac trung ban dau.
             // File dac trung ban dau co dang: trainPath + .feature
-            m.processAfterPredict(sList, testDoc, trainPath);
+            logger.info("Them dac trung moi vao file dac trung goc");
+            m.processAfterPredict(sList, testDoc, "tmp/train.txt");
             
             //Tao model moi tu file dac trung moi duoc them
+            logger.info("Tao model moi tu file dac trung moi them");
             try {
                 CopyFile.copyfile(trainPath + ".feature", "model/train.txt");
             } catch (FileNotFoundException ex) {
