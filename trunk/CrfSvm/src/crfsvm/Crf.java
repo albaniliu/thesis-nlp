@@ -49,20 +49,21 @@ public class Crf {
     /**
      * Chay toan bo CRF cho mot lan train + predict. Ket qua nam o file trung ten voi file can predict + .wseg
      * @param trainFilePath duong dan file train
-     * @param predictFilePath duong dan file can predict da tach tu hoac chua tach tu
+     * @param testFilePath duong dan file can predict da tach tu hoac chua tach tu
      */
-    public static void runCrf(String trainFilePath, String predictFilePath) {
+    public static void runCrf(String trainFilePath, String testFilePath) {
 
         // Train model duoc file model.txt trong thu muc model
         train(MANUAL_MODE, trainFilePath);
 
         // Predict: luu ket qua trong file co ten predictFilePath + .wseg
-        if (predictFilePath.contains("tagged")) {
-            predict(DEFAULT_MODEL_DIR, predictFilePath);
+        if (testFilePath.endsWith(".tagged")) {
+            predict(DEFAULT_MODEL_DIR, testFilePath);
         } else {
             // Neu predictFile la file van ban binh thuong chua tach tu
-            runVnTagger(predictFilePath, predictFilePath + ".tagged");
-            predict(DEFAULT_MODEL_DIR, predictFilePath + ".tagged");
+            runVnTagger(testFilePath, testFilePath + ".tagged");
+            predict(DEFAULT_MODEL_DIR, testFilePath + ".tagged");
+            CopyFile.copyfile(testFilePath + ".tagged.wseg", testFilePath + ".wseg", true);
         }
     }// end runCrf method
 
@@ -248,12 +249,41 @@ public class Crf {
                                 featureFile,
                                 DEFAULT_MODEL_DIR
                             });
-                    try {
-                        CopyFile.copyfile(featureFile, "model/train.txt");
-                        CopyFile.copyfile(featureFile, "model/test.txt");
-                    } catch (IOException iOException) {
-                        logger.debug(iOException.getMessage());
-                    }// end try catch
+                    CopyFile.copyfile(featureFile, "model/train.txt");
+                    CopyFile.copyfile(featureFile, "model/test.txt");
+                    train(DEFAULT_PROGRAM_CRF, DEFAULT_MODEL_DIR, DEFAULT_OPTION_FILE);
+                } else if (args.length == 2) {
+                    // Chay CRF 2 tham so:
+                    //     - duong dan file train
+                    //     - duong dan file muon predict
+                    String trainIobFile = args[0] + ".iob";
+                    String trainFeatureFile = args[0] + ".feature";
+                    String testIobFile = args[1] + ".iob";
+                    String testFeatureFile = args[1] + ".feature";
+                    // Convert file train sang dang iob
+                    IOB2Converter.main(new String[]{
+                                args[0],
+                                trainIobFile
+                            });
+                    // Chuyen iob cua file train thanh dang dac trung
+                    TaggingTrainData.main(new String[]{
+                                trainIobFile,
+                                trainFeatureFile,
+                                DEFAULT_MODEL_DIR
+                            });
+                    // Convert file test sang dang iob
+                    IOB2Converter.main(new String[]{
+                                args[1],
+                                testIobFile
+                            });
+                    // Chuyen iob cua file test thanh dang dac trung
+                    TaggingTrainData.main(new String[]{
+                                testIobFile,
+                                testFeatureFile,
+                                DEFAULT_MODEL_DIR
+                            });
+                    CopyFile.copyfile(trainFeatureFile, "model/train.txt");
+                    CopyFile.copyfile(testFeatureFile, "model/test.txt");
                     train(DEFAULT_PROGRAM_CRF, DEFAULT_MODEL_DIR, DEFAULT_OPTION_FILE);
                 } else if (args.length == 4) {
                     // Chay CRF 4 tham so:
@@ -275,12 +305,8 @@ public class Crf {
                                 featureFile,
                                 args[2]
                             });
-                    try {
-                        CopyFile.copyfile(featureFile, "model/train.txt");
-                        CopyFile.copyfile(featureFile, "model/test.txt");
-                    } catch (IOException iOException) {
-                        logger.debug(iOException.getMessage());
-                    }// end try catch
+                    CopyFile.copyfile(featureFile, "model/train.txt");
+                    CopyFile.copyfile(featureFile, "model/test.txt");
                     train(args[1], args[2], args[3]);
                 } else {
                     logger.info("Invalid arguments! Stop training");

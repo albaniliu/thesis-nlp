@@ -18,7 +18,12 @@ import java.io.OutputStream;
  */
 public class CopyFile {
 
-    public static void copyfile(String srFile, String dtFile) throws FileNotFoundException, IOException {
+    /**
+     * Copy tu file srFile vao file dtFile
+     * @param srFile
+     * @param dtFile 
+     */
+    public static void copyfile(String srFile, String dtFile) {
         try {
             File f1 = new File(srFile);
             File f2 = new File(dtFile);
@@ -40,6 +45,20 @@ public class CopyFile {
             e.printStackTrace();
         }
     }// end copyFile method
+    
+    /**
+     * Copy tu file srFile vao dtFile, sau khi copy thi xoa file srFile neu chon tham so thu 3 la true
+     * @param srFile
+     * @param dtFile
+     * @param deleteAfterCopy 
+     */
+    public static void copyfile(String srFile, String dtFile, boolean deleteAfterCopy) {
+        copyfile(srFile, dtFile);
+        if (deleteAfterCopy) {
+            File f = new File(srFile);
+            f.delete();
+        }
+    }// end copyfile method
     
     /**
      * Noi 2 file
