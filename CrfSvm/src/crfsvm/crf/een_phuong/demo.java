@@ -8,7 +8,6 @@
  *
  * Created on Apr 19, 2011, 3:54:04 PM
  */
-
 package crfsvm.crf.een_phuong;
 
 import java.util.logging.Level;
@@ -31,15 +30,12 @@ public class demo extends javax.swing.JFrame {
 
     /** Creates new form demo */
     public demo() {
-        try
-        {
+        try {
             this.setTitle("Named Entity Recognition Application - Natural Language Processing Group - Hanoi University of Science and Technology");
             this.setIconImage(Toolkit.getDefaultToolkit().getImage("." + File.separator + "src" + File.separator + "een_phuong" + File.separator + "resources" + File.separator + "taggingService.JPG"));
             UIManager.setLookAndFeel("com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel");
             initComponents();
-        }
-        catch(Exception ex)
-        {
+        } catch (Exception ex) {
             labelStatus.setText("Lỗi: " + ex.toString());
         }
     }
@@ -239,7 +235,7 @@ public class demo extends javax.swing.JFrame {
     private void buttonBrowseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonBrowseActionPerformed
         // TODO add your handling code here:
         JFileChooser choose = new JFileChooser("." + File.separator + "data");
-        ExampleFileFilter filter = new ExampleFileFilter("txt","txt File");
+        ExampleFileFilter filter = new ExampleFileFilter("txt", "txt File");
         choose.addChoosableFileFilter(filter);
         int f = choose.showOpenDialog(this);
         if (f == JFileChooser.APPROVE_OPTION) {
@@ -285,30 +281,27 @@ public class demo extends javax.swing.JFrame {
 
     private void buttonSaveActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonSaveActionPerformed
         // TODO add your handling code here:
-        String wd = ""; System.getProperty("user.dir");
-            //wd = "D:\\Document\\Informatics\\IE\\From Thani\\TrainingDoc";
+        String wd = "";
+        System.getProperty("user.dir");
+        //wd = "D:\\Document\\Informatics\\IE\\From Thani\\TrainingDoc";
         JFileChooser fc = new JFileChooser(wd);
         fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
         int rc = fc.showSaveDialog(this);
-            if (rc == JFileChooser.APPROVE_OPTION)
-            {
-                    File file = fc.getSelectedFile();
-                    String filename = file.getAbsolutePath();
-                    try
-                    {
-                        CopyFile.copyfile("." + File.separator + "input.txt.wseg", filename);
-                        labelStatus.setText("Lưu thành công vào : " + filename);
-                    }
-                    catch(Exception e)
-                    {
-                        labelStatus.setText("Lưu thất bại : " + e);
-                    }
+        if (rc == JFileChooser.APPROVE_OPTION) {
+            File file = fc.getSelectedFile();
+            String filename = file.getAbsolutePath();
+            try {
+                CopyFile.copyfile("." + File.separator + "input.txt.wseg", filename);
+                labelStatus.setText("Lưu thành công vào : " + filename);
+            } catch (Exception e) {
+                labelStatus.setText("Lưu thất bại : " + e);
             }
+        }
     }//GEN-LAST:event_buttonSaveActionPerformed
 
-        private void tagInput(javax.swing.JTextArea textArea) {
+    private void tagInput(javax.swing.JTextArea textArea) {
         // TODO add your handling code here:
-         try {
+        try {
 
             textArea.setText("");
 //            String tagg = "." + File.separator + "vnTagger" + File.separator + "input.txt";
@@ -347,68 +340,63 @@ public class demo extends javax.swing.JFrame {
             Highlighter hilite = textArea.getHighlighter();
 
 
-            try {
-                while ((line = in.readLine()) != null) {
-                    if (line.trim().length() == 0) {
-                        ret += "\n\n";
-                        continue;
-                    }
-                    //NamedEntity nent;
-                    nameEntity nent;
-                    int curpos = 0;
-                    while ((nent = getNextEntity(line, curpos)) != null) { //nent = getNextEntity(line, curpos)
-                        String aheadStr = line.substring(curpos, nent.beginIdx);
-                        VnStringTokenizer tk = new VnStringTokenizer(aheadStr, " {}");
-                        while (tk.hasMoreTokens()) {
-                            String token = tk.nextToken();
-                            token += " ";
-                            ret += token;
-                            //myret += token;
-                            textArea.append(token);
-                        }
-                        VnStringTokenizer entTk = new VnStringTokenizer(nent.instance, " {}");
-                        while (entTk.hasMoreTokens()) {
-                            String token = entTk.nextToken();
-                            String retOld = ret;
-                            token += " ";
-                            ret += token;
-                            //myret += token;
-                            textArea.append(token);
-                            try {
-                                highlight(textArea, token.trim(), retOld.length(), hilite, nent.type);
-                            } catch (BadLocationException ex) {
-                                Logger.getLogger(EEN_PhuongView.class.getName()).log(Level.SEVERE, null, ex);
-                            }
-                        }
-
-                        curpos = nent.endIdx + 1;
-                    }
-                    if (curpos < line.length()) {
-                        String remain = line.substring(curpos, line.length());
-                        VnStringTokenizer tk = new VnStringTokenizer(remain, " ");
-                        while (tk.hasMoreTokens()) {
-                            String token = tk.nextToken();
-                            token += " ";
-                            ret += token;
-                            //myret += token;
-                            textArea.append(token);
-                        }
-                    }
-                    textArea.append("\n\n");
-                    labelStatus.setText("Phát hiện thực thể thành công");
+            while ((line = in.readLine()) != null) {
+                if (line.trim().length() == 0) {
+                    ret += "\n\n";
+                    continue;
                 }
-            } catch (IOException ex) {
-                Logger.getLogger(EEN_PhuongView.class.getName()).log(Level.SEVERE, null, ex);
+                //NamedEntity nent;
+                nameEntity nent;
+                int curpos = 0;
+                while ((nent = getNextEntity(line, curpos)) != null) { //nent = getNextEntity(line, curpos)
+                    String aheadStr = line.substring(curpos, nent.beginIdx);
+                    VnStringTokenizer tk = new VnStringTokenizer(aheadStr, " {}");
+                    while (tk.hasMoreTokens()) {
+                        String token = tk.nextToken();
+                        token += " ";
+                        ret += token;
+                        //myret += token;
+                        textArea.append(token);
+                    }
+                    VnStringTokenizer entTk = new VnStringTokenizer(nent.instance, " {}");
+                    while (entTk.hasMoreTokens()) {
+                        String token = entTk.nextToken();
+                        String retOld = ret;
+                        token += " ";
+                        ret += token;
+                        //myret += token;
+                        textArea.append(token);
+                        try {
+                            highlight(textArea, token.trim(), retOld.length(), hilite, nent.type);
+                        } catch (BadLocationException ex) {
+                            Logger.getLogger(EEN_PhuongView.class.getName()).log(Level.SEVERE, null, ex);
+                        }
+                    }
+
+                    curpos = nent.endIdx + 1;
+                }
+                if (curpos < line.length()) {
+                    String remain = line.substring(curpos, line.length());
+                    VnStringTokenizer tk = new VnStringTokenizer(remain, " ");
+                    while (tk.hasMoreTokens()) {
+                        String token = tk.nextToken();
+                        token += " ";
+                        ret += token;
+                        //myret += token;
+                        textArea.append(token);
+                    }
+                }
+                textArea.append("\n\n");
+                labelStatus.setText("Phát hiện thực thể thành công");
             }
-        } catch (FileNotFoundException ex) {
-            Logger.getLogger(EEN_PhuongView.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
             Logger.getLogger(EEN_PhuongView.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
-      class nameEntity //copied from EEN_PhuongView.java
+    class nameEntity //copied from EEN_PhuongView.java
     {
+
         public String type; //time, per,org, loc
         public String instance;
         public int beginIdx;
@@ -445,20 +433,19 @@ public class demo extends javax.swing.JFrame {
         return nent;
     }
 
-    private  boolean checkPunctuation(String line)
-    {
+    private boolean checkPunctuation(String line) {
         boolean result = false;
-         String[] punctuations = {".", "," , "!", "(", ")", "[", "]", "{", "}", "$", "?", "@", "\"", "-", "/", "...", ":", "'", ";", "*", "+" , "#",
-        "%", "^", "&", "=", "|", "~", "`"};
+        String[] punctuations = {".", ",", "!", "(", ")", "[", "]", "{", "}", "$", "?", "@", "\"", "-", "/", "...", ":", "'", ";", "*", "+", "#",
+            "%", "^", "&", "=", "|", "~", "`"};
 
-         for (int i = 0; i < punctuations.length; i++)
-             if (punctuations[i].equals(line))
-             {
-                 result = true;
-                 break;
-             }
+        for (int i = 0; i < punctuations.length; i++) {
+            if (punctuations[i].equals(line)) {
+                result = true;
+                break;
+            }
+        }
 
-         return result;
+        return result;
     }
 
     public void highlight(JTextComponent textComp, String pattern, int i, Highlighter hilite, String color) throws BadLocationException {
@@ -513,17 +500,18 @@ public class demo extends javax.swing.JFrame {
             super(color);
         }
     }
+
     /**
-    * @param args the command line arguments
-    */
+     * @param args the command line arguments
+     */
     public static void main(String args[]) {
         java.awt.EventQueue.invokeLater(new Runnable() {
+
             public void run() {
                 new demo().setVisible(true);
             }
         });
     }
-
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JTextArea areaResult;
     private javax.swing.JTextArea areaSubmit;
@@ -541,9 +529,8 @@ public class demo extends javax.swing.JFrame {
     private javax.swing.JLabel labelStatus;
     private javax.swing.JLabel lablelPer;
     // End of variables declaration//GEN-END:variables
-
     private File fi = new File("");
-    private String inputData = fi.getAbsolutePath() + File.separator + "tmp" 
+    private String inputData = fi.getAbsolutePath() + File.separator + "tmp"
             + File.separator + "demo.txt";
     //private String tagged = fi.getAbsolutePath() + File.separator + "tagged.txt";
 }
