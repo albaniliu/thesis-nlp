@@ -1,0 +1,25 @@
+<per> [Samuel Eto] ' [o] </per> ( [sinh] <date> [ngày] [10] [tháng] [3] [năm] [1981] </date> [tại] <loc> [Nikon] , [Cameroon] </loc> ) [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Cameroon] </loc> , [đang] [chơi] [cho] [câu lạc bộ] <org> [Inter] [milan] </org> [ở] [vị trí] <pos> [tiền đạo] </pos> . 
+
+[Anh] [hiện] [nắm] [giữ] [kỉ lục] [là] <job> [cầu thủ] </job> [ghi] [nhiều] [bàn] [thắng] [nhất] [tại] [các] [vòng] [chung kết] [Cúp] [bóng đá] <loc> [châu] [Phi] </loc> ( [16] [bàn] ) . 
+
+<per> [Samuel Eto] ' [o] </per> [chuyển] [đến] <org> [Barcelona] </org> <date> [tháng] [8-2004] </date> [từ] [CLB] <org> [Real Mallorca] </org> [với] [mức] [phí] [chuyển nhượng] [là] [24] [triệu] [Euro] . 
+
+<per> [Eto] ' [o] </per> [có] [trận] [đấu] [đầu tiên] [trong] [màu] [áo] <org> [Barca] </org> [vào] [ngày] <date> [29-8-2004] </date> [với] [CLB] <org> [Racing Santander] </org> . 
+
+<per> [Eto] ' [o] </per> [đã] [đoạt] [danh hiệu] [Pichichi] ( <job> [Cầu thủ] </job> [ghi] [nhiều] [bàn] [thắng] [nhất] [tại] [giải] [vô địch] [quốc gia] <loc> [Tây Ban Nha] </loc> [La Liga] ) [vào] <date> [năm] [2006] </date> , [với] [26] [bàn] [thắng] . 
+
+[Cũng] [trong] [mùa] [giải] [thành công] <date> [2005-2006] </date> , <per> [Eto] ' [o] </per> [đã] [ghi] [6] [bàn] [thắng] [tại] [cúp] <loc> [châu âu] </loc> [UEFA] [Champion League] , [trong] [đó] [có] [bàn] [thắng] [ấn định] [chiến thắng] [2-1] [được] [ghi] [ở] [phút] [thứ] [76] [trận] [chung kết] [với] [CLB] <org> [Arsenal] </org> . 
+
+[Mùa] [giải] [2008-2009] [là] [một] [mùa] [giải] [thành công] [nhất] [trong] [lịch sử] <org> [Barça] </org> [khi] [đội] [bóng] [giành] [cú] [ăn] [ba] . 
+
+<per> [Eto'o] </per> [đã] [toả] [sáng] [trong] [trận] [chung kết] [với] <org> [Manchester United] </org> [khi] [ghi bàn] [mở] [tỷ số] [ở] [phút] [thứ] [10] [qua] [đó] [giúp] [đội] [bóng] [của] [anh] [giành] [chiến thắng] [chung cuộc] [2] - [0] . 
+
+[Chuyển] [sang] <org> [Inter Milan] </org> [vào] <date> [tháng] [7/2009] </date> [đổi] [lại] <per> [Ibrahimovic] </per> [chuyển] [sang] <org> [Barcelona] </org> [thi đấu] . 
+
+[Cũng] [tại] <org> [Inter Milan] </org> , [vẫn] [chứng tỏ] [được] [khả năng] [của] [mình] [và] [là] [một] [trụ cột] [không thể] [thiếu] [được] [trong] [sơ đồ] [chiến thuật] [của] <job> [HLV] </job> <per> [Jose Mourinho] </per> , [tuy nhiên] [anh] [đã] [bị] [sếp] [đá] [thấp] [hơn] [so] [với] <per> [Diego Milito] </per> , [với] [vai trò] [như] [một] [tiền] [cánh] , [bản năng] [sát thủ] [của] <per> [Eto] </per> [đã] [giảm sút] [đi] [nhiều] . 
+
+[Trong] [thời gian] [ở] [đây] [anh] [đã] [đi] [vào] [lịch sử] [của] [riêng] [bản thân] [khi] [là] [người] [tham gia] [đầy đủ] [ở] [3] [trân] [chung kết] [champions] [league] [đầu tiên] [và] [đều] [đi] [đến] [thắng lợi] [sau cùng] , [anh] [cũng] [là] [người] [góp] [công] [lới] [vào] [cú] [ăn] [ba] [thần thánh] [của] <org> [Inter] </org> [mùa] [giải] <date> [2009/2010] </date> [khi] [vô địch] [trên] [cả] [ba] [mặt trận] [là] [Copa Italy] , [Serie] [A] , [Champions] [league] . 
+
+[Tính] [đến] [nay] , <per> [Samuel Eto'o] </per> [đã] [chơi] [cho] [đội tuyển] [bóng đá] <org> [Cameroon] </org> [64] [trận] [và] [ghi] [28] [bàn] [thắng] . 
+
+[Trong] [đó] , [trận] [đấu] [đầu tiên] [là] [trận] [giao hữu] [với] [đội tuyển] <org> [Costa Riaca] </org> <date> [ngày] [9] [tháng] [3] [năm] [1996] </date> .

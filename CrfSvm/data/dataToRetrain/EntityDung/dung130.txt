@@ -1,0 +1,29 @@
+<per> [Michael James Owen] </per> ( [sinh] <date> [14] [tháng] [12] [năm] [1979] </date> [ở] <loc> [Chester] , [Cheshire] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Anh] </loc> , [hiện] [đang] [chơi] [cho]  <org> [Manchester United] </org> . 
+
+<per> [Owen] </per> [đã] [từng] [chơi] [cho] <org> [Liverpool] </org> ( <date> [1996 – 2004] </date> ) , <org> [Real Madrid] </org> ( <date> [2004 – 05] </date> ) [và] <org> [Newcastle United] </org> ( <date> [2005 – 2009] </date> ) . 
+
+<per> [Owen] </per> [chơi] [ở] [vị trí] <pos> [tiền đạo] </pos> [và] [đã] [có] [những] [thành công] [lớn] [cả] [trong] [các] [câu lạc bộ] [và] [các] [cuộc] [thi đấu] [quốc tế] . 
+
+[Anh] [đạt] [Quả] [bóng] [vàng] <loc> [Châu Âu] </loc> [trong] <date> [năm] [2001] </date> . 
+
+<per> [Owen] </per> [hiện] [là] <job> [cầu thủ] </job> [ghi bàn] [nhiều] [thứ tư] [của] <loc> [Anh] </loc> [trong] [mọi] [thời đại] . 
+
+[Anh] [được] [cổ động viên] [bóng đá] <loc> [Anh] </loc> [phong] [cho] [danh hiệu] " [Thần đồng] [bóng đá] " . 
+
+<date> [Tháng] [12] [năm] [2005] </date> , <per> [Owen] </per> [bị] [chấn thương] . 
+
+[Hiện nay] [anh] [đã] [quay] [trở lại] [thi đấu] [sau] [một] [thời gian] [dài] [do] [bị] [chấn thương] [từ] <date> [tháng] [12] [năm] [2005] </date> [đến] [cuối] [mùa] [Giải] [bóng đá] [Anh] [năm] <date> [2006 - 2007] </date> . 
+
+[Khi] <per> [Owen] </per> [lên] [bảy] [tuổi] [cha] [của] [anh] [đã] [thuyết phục] <job> [huấn luyện viên] </job> [của] [câu lạc bộ] <org> [Mold Alexandra] </org> [để] [anh] [vào] [đội] [của] [ông] , [gồm] [các] [thành viên] [ở] [lứa] [tuổi] [lên] [10] . 
+
+<per> [Michael] </per> [là] [cầu thủ] [trẻ] [nhất] [và] [nhỏ] [nhất] , [nhưng] [anh] [sớm] [bộc lộ] [tài năng] [của] [mình] [và] [trở nên] [nổi tiếng] , [là] " [vũ khí] [bí mật] " [của] [câu lạc bộ] . 
+
+[Khi] [15] [tuổi] , <per> [Michael] </per> [được] [mời] [vào] [chơi] [thử] [cho] [đội] [bóng] [lớn] [nhất] [xứ] <loc> [Wales] </loc> -  <org> [Cardiff City]  [FC ] </org> . 
+
+[Sau] [đó] [anh] [đá] [chính thức] [và] [trở thành] <job> [cầu thủ] </job> [chuyên nghiệp] [cho] [đội] . 
+
+[Đầu] [tháng] [7] , <per> [Michael Owen] </per> [gia nhập] <org> [Manchester United] </org> [sau] [khi] [hết] [hạn] [hợp đồng] [với] [câu lạc bộ] <org> [Newcastle United] </org> . 
+
+[Bản] [hợp đồng] [mới] [có] [thời hạn] [2] [năm] . 
+
+[Hiện tại] <per> [Owen] </per> [đang] [thi đấu] [trong] [màu] [áo] <org> [Manchester United] </org> [và] [mang] [chiếc] [áo] [số] [7] .

@@ -1,0 +1,31 @@
+<per> [Henrique Hilário Meireles Alves Sampaio] </per> ( [sinh] <date> [ngày] [21] [tháng] [10] [năm] [1975] </DATE> ) [là] [một] <job> [thủ môn] </job> [bóng đá] [người] <loc> [Bồ Đào Nha] </loc> [hiện] [đang] [chơi] [cho] [CLB] <org> [Chelsea] [F] . 
+
+[C] </org> . [tại] [giải] [Ngoại hạng] <loc> [Anh] </loc> . 
+
+[Bắt đầu] [chơi] [bóng] [cho] <org> [F] . 
+
+[C] . 
+
+[Porto] </org> [từ] [năm] [1996] [nhưng] [lại] [hay] [bị] [cho] [các] [CLB] [khác] [mượn] . 
+
+<per> [Hilário] </per> [gia nhập] <org> [Chelsea] </org> [vào] <date> [ngày] [ [1] [tháng] [7] [năm] [2006] </DATE> [từ] [CLB] <org> [C] . 
+
+[D] . 
+
+[Nacional] </org> [và] [trở thành] " [người] [gác] [đền] " [thứ ba] [cho] <org> [Chelsea] </org> [sau] [2] [thủ môn] : <per> [Petr] [Č] [ech] </per> [và] <per> [Carlo Cudicini] </per> . 
+
+[Nhưng] [với] [việc] [cả] [2] [thủ môn] [trên] [đều] [cùng] [bị] [chấn thương] [trong] [trận] [đấu] [với] <org> [Reading] [F] . 
+
+[C] </org> . [vào] <date> [ngày] [14] [tháng] [10] [năm] [2006] </DATE> [thì] [thủ thành] [người] <loc> [Bồ Đào Nha] </loc> [này] [lại] [có] [cơ hội] [thường xuyên] [được] [bắt] [chính] [ngay] [tại] [mùa] [giải] [đầu tiên] [cho] <org> [Chelsea] [F] . 
+
+[C] </org> . 
+
+[Anh] [có] [màn] [ra mắt] [bằng] [trận] [thắng] [1] - [0] [trước] <org> [F] . 
+
+[C] . 
+
+[Barcelona] </org> [trong] [khuôn khổ] [vòng] [bảng] [UEFA] [Champions League] [mùa] [2006-2007] . 
+
+[Tại] [mùa] [giải] [2007-2008] <per> [Hilário] </per> [cũng] [được] [bắt] [chính] [3] [trận] [tại] [giải] [Ngoại hạng] <loc> [Anh] </loc> [và] [1] [trận] [giữ] [sạch] [lưới] [tại] [UEFA] [Champions League] [trước] [CLB] <org> [Fenerbahce] [S] . 
+
+[K] </org> . [của] <loc> [Thổ Nhĩ Kì] </loc> .

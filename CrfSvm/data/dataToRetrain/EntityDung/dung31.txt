@@ -1,0 +1,45 @@
+<org> [Tổ chức] [Y tế] [Thế giới] </org> ( [YTTG] ) ( [tiếng] [Anh] : [World Health Organization] - [WHO] , [tiếng] [Pháp] : [Organisation Mondiale] [de] [la] [Santé] - [OMS] ) [là] [một] [cơ quan] [của] <org> [Liên Hiệp Quốc] </org> , <org> [YTTG] </org> [đóng] [vai trò] [thẩm quyền] [điều phối] [các] [vấn đề] [sức khỏe] [và] [y tế] [cộng đồng] [trên] [bình diện] [quốc tế] , <org> [YTTG] </org> [tham gia] [giúp đỡ] [các] [các] [quốc gia] [thành viên] , <org> [YTTG] </org> [cung cấp] [những] [thông tin] [chính xác] , [những] [địa chỉ] [đáng] [tin cậy] [trên] [lĩnh vực] [sức khỏe] [con người] , <org> [YTTG] </org> [sẽ] [đứng] [ra] [để] [giải quyết] [những] [vấn đề] [cấp bách] [về] [sức khỏe] [cộng đồng] [và] [dịch bệnh] [của] [con người] . 
+
+<org> [YTTG] </org> [có] [trụ sở] [đặt] [tại] <loc> [Genève] , [Thụy Sĩ] </loc> . 
+
+<org> [YTTG] </org> [được] <org> [Liên hiệp quốc] </org> [thành lập] [vào] [ngày] [7] [tháng] [4] [năm] [1948] . 
+
+[Tổng Giám đốc] [hiện nay] [là] <per> [Trần Phùng Phú Trân] </per> . 
+
+<org> [YTTG] </org> [kế thừa] [phần nhiều] [chức trách] [và] [tài nguyên] [từ] [tổ chức] [tiền thân] [của] [nó] [là] <org> [Tổ chức] [Sức khoẻ] </org> ( [Organisation] [de] [la] [Santé] ) , [một] [cơ quan] [của] [Hội Quốc Liên] [trước đây] . 
+
+<org> [WHO] </org> [có] [192] [nước] [thành viên] . 
+
+[Đại hội đồng] [là] [cơ quan] [ra] [quyết định] [tối cao] [của] <org> [WHO] </org> , [họp] [hàng] [năm] [tại] <loc> [Geneva] , [Thuỵ Sĩ] </loc> [vào] [tháng] [5] [với] [sự] [tham dự] [của] [tất cả] [các] [nước] [thành viên] . 
+
+[Đại hội đồng] [đề cử] [Tổng Giám đốc] , [thông qua] [chính sách] [tài chính] [và] [ngân sách] [chương trình] [của] <org> [WHO] </org> . 
+
+[Mục tiêu] [của] <org> [WHO] </org> [là] [giúp] [mọi] [người] [có] [được] [sức khoẻ] [tốt] [nhất] . 
+
+[Từ] [năm] [1977] , <org> [Hội đồng] [Y tế] [Thế giới] </org> [đề] [ra] [khẩu hiệu] " [Sức khoẻ] [cho] [tất cả] [mọi] [người] [vào] [năm] [2000] " [và] [coi] [là] [ưu tiên] [cao] [nhất] [của] <org> [WHO] </org> . 
+
+[Để] [đạt] [được] [những] [mục tiêu] [này] , [tổ chức] <org> [WHO] </org> [đã] [đề] [ra] [bốn] [định hướng] [chiến lược] [tác động] [qua lại] [lẫn] [nhau] :
+
+[*] / [Giảm] [tỉ lệ] [tử vong] , [tỉ lệ] [mắc] [bệnh] [và] [tật nguyền] [cao] [quá] [mức] , [đặc biệt] [trong] [các] [nhóm] [dân cư] [nghèo] [và] [bị] [thiệt thòi] .
+
+[*] / [Cổ vũ] [lối sống] [lành mạnh] [và] [giảm] [các] [yếu tố] [gây] [nguy cơ] [cho] [sức khoẻ] [con người] [do] [các] [nguyên nhân] [môi trường] , [kinh tế] , [xã hội] [và] [hành vi] [gây ra] .
+
+[*] / [Xây dựng] [các] [hệ thống] [y tế] [trong] [đó] [nâng] [cao] [một cách] [công bằng] [các] [kết quả] [đầu ra] [về] [sức khoẻ] , [đáp ứng] [các] [nhu cầu] [chính đáng] [của] [nhân dân] [và] [công bằng] [về] [tài chính] .
+
+[*] / [Xây dựng] [môi trường] [thể chế] [và] [chính sách] [thuận lợi] [trong] [ngành] [y tế] , [đẩy mạnh] [có] [hiệu quả] [vị thế] [y tế] [trong] [chính sách] [phát triển] , [môi trường] , [kinh tế] [và] [xã hội] . 
+
+[Ngoài] [các] [định hướng] [chiến lược] [này] , <org> [WHO] </org> [cũng] [xác định] [các] [ưu tiên] [cụ thể] [như] [phòng chống] [các] [bệnh] [sốt rét] , [lao phổi] , [sức khoẻ] [tâm thần] , [thuốc lá] , [các] [bệnh] [không] [truyền nhiễm] ( [ung thư] , [tim mạch] ... ) , [mang] [thai] [an toàn] [hơn] [và] [sức khoẻ] [trẻ em] , [HIV/AIDS] , [sức khoẻ] [và] [môi trường] , [an toàn] [thực phẩm] , [truyền] [máu] [an toàn] , [hệ thống] [y tế] . 
+
+[Nguồn] [vốn] [thường xuyên] [của] <org> [WHO] </org> [giành] [cho]<loc>  [Việt Nam] </loc> [trong] [tài khoá] [1994-1995] [khoảng] [6,2] [triệu] [đôla] [Mỹ] ; [tài khoá] [1996-1997] [là] [4,7] [triệu] [đôla] [Mỹ] ; [tài khoá] [1998-1999] [là] [4,7] [triệu] [đôla] [Mỹ] . 
+
+[Trong] [những] [năm] [đầu] , [phần lớn] [những] [đóng góp] [của] <org> [WHO] </org> [nhằm] [hỗ trợ] [Bộ Y tế] [thông qua] [việc] [cung cấp] [các] [loại] [thuốc] [thiết yếu] . 
+
+[Tuy nhiên] , [từ] [tài khoá] [1996-1997] [trở] [đi] , [kinh phí] [dành] [cho] [các] [hoạt động] [cung cấp] [hàng hoá] [giảm] [đi] [nhiều] , [đồng thời] [kinh phí] [dành] [cho] [các] [chương trình] [hỗ trợ] [tăng] [lên] [đáng kể] . 
+
+[Tài khoá] [2000-2001] [với] [tổng] [kinh phí] [là] [4,3] [triệu] [đôla] [Mỹ] [được] [phân bổ] [cho] [13] [dự án] [với] [cơ cấu] [phân bổ] [vốn] [như] [sau] : - [Chuyên gia] [nước ngoài] : [1,2] [triệu] [đôla] ( [chiếm] [28,2%] [kinh phí] [chương trình] ) . 
+
+- [Cung cấp] [hàng hoá] , [trang thiết bị] : [1,06] [triệu] [đôla] ( [chiếm] [24,8%] [kinh phí] ) . 
+
+- [Tham quan] / [học bổng] [nước ngoài] : [863.000] [đôla] ( [chiếm] [20%] [kinh phí] ) . 
+
+- [Chi tiêu] [trong] [nước] / [hợp đồng] : [1,16] [triệu] [đôla] ( [chiếm] [26,9%] [kinh phí] ) [Nhìn chung] , [WHO] [đã] [hỗ trợ] [cho] [hầu hết] [các] [ưu tiên] [và] [mục tiêu] [của] [ngành] [y tế] [trong] [giai đoạn] [1990-1999] [và] [2000-2010] . 

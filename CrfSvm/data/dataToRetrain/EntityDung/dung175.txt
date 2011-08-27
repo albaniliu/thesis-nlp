@@ -1,0 +1,41 @@
+<per> [Robson] [de] [Souza] </per> ( [sinh] <date> [ngày] [25] [tháng] [1] , [1984] </date> [tại] <loc> [São Vicente] , [São Paulo] </loc> ) , [thường] [gọi] <per> [Robinho] </per> , [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Brasil] </loc> [thi đấu] [ở] [vị trí] <pos> [tiền đạo] </pos> [cho] [câu lạc bộ] <org> [AC] [Milan] </org> [tại] [Serie] [A] [và] [đội tuyển] <loc> [Brasil] </loc> . 
+
+<per> [Robinho] </per> [sinh] [tại] <loc> [Parque Bitaru] </loc> , [một] [vùng] [nghèo khổ] [của] <loc> [São Vicente] </loc> [thuộc] <loc> [Santos] </loc> , [tại] [đây] [anh] [bắt đầu] [sự nghiệp] [bóng đá] [từ] [rất] [trẻ] . 
+
+[Khi] [lên] [6] , [anh] [gia nhập] <org> [Beira-Mar] </org> , [một] [câu lạc bộ] [nhỏ] [và] [là] [trường] [đào tạo] [bóng đá] [trong] [khu vực] ; [đội] [bóng] [của] [anh] [đoạt] [chức] [vô địch] [ngay] [trong] [năm] [đầu tiên] [anh] [đến] . [ [3] ] [Một] [trong] [những] [người] [cùng] [chơi] [với] [anh] [lúc] [ấy là] <per> [Marcelo] </per> , [nay] [là] [đồng đội] [của] [anh] [tại] <org> [Real Madrid] </org> . 
+
+[Hồi] <date> [1993] </date> , [mới] [9] [tuổi] , <per> [Robinho] </per> [đã] [ghi] [73] [bàn] [thắng] [cho] <org> [Portuários] </org> , [một] [đội] [bóng đá] [trong] [nhà] . 
+
+[Sau] [đó] , [anh] [gia nhập] [đội] [trẻ] <org> [Santos] [FC] </org> , [đội] [bóng] [của] [huyền thoại] [Pelé] [trước kia] . 
+
+<date> [Năm] [2002] </date> , [lúc] [19] [tuổi] , <per> [Robinho] </per> [gia nhập] [làng] [bóng đá] [chuyên nghiệp] [khi] [được] [đưa] [lên] [đội hình] [chính] [của] <org> [Santos] </org> . 
+
+[Anh] [xuất hiện] [24] [trận] [trong] [mùa] [giải] [đó] [và] [ghi] [9] [bàn] , [cùng] <org> [Santos] </org> [vô địch] [Campeonato Brasileiro] . 
+
+<date> [Năm] [2004] </date> , [anh] [trở thành] [mũi nhọn] [tấn công] [của] [đội] [khi] [ghi] [21] [bàn] [sau] [37] [trận] [của] [giải] [vô địch] , [và] [lần] [thứ] [2] [chiến thắng] [tại] [giải] [này] [với] <org> [Santos] </org> . 
+
+[Sự thể] [hiện] [đó] [khiến] [anh] [thu hút] [sự] [chú ý] [của] [nhiều] [câu lạc bộ]  <loc> [châu] </loc> [Âu] [vào] [mùa hè] <date> [năm] [2004] </date> . 
+
+[Nhưng]  <org> [Santos] </org>  [từ chối] [tất cả] [lời] [đề nghị] , [và] <per> [Robinho] </per> [không] [đi] [đâu] [cả] . 
+
+[Đến] [mùa] [giải] [2004-2005] , <per> [Robinho] </per> [suy sụp] [tinh thần] [khi] [mẹ] [anh] , [bà] <per> [Marina] [da] [Silva Souza] </per> , [bị] [bắt cóc] [khi] [đang] [ăn] [bánh cuốn] [ở] [nhà riêng] [tại] [Praia Grande] . 
+
+[Sáu] [tuần] [sau] , [nhờ] [một] [món] [tiền] [chuộc] , [bà] [mới] [được] [thả] [ra] [mà] [không] [tổn hại] [gì] . [ [4] ] [Anh] [chỉ] [ghi] [4] [bàn] [sau] [8] [trận] [mùa] [giải] [đó] , [song] [giá] [của] [anh] [vẫn] [tăng] [lên] . 
+
+[Cho đến] [cuối] [năm] ,  <org> [Santos] </org>  [lâm] [vào] [khó khăn] [tài chính] , [phải] [bán] [bớt] [một số] [ngôi sao] [trong] [đội hình] . 
+
+[Cuối cùng] [vào] <date> [tháng] [5] [năm] [2005] </date> , [câu lạc bộ] <org> [Real Madrid] </org> [của] <loc> [Tây Ban Nha] </loc> [đã] [có] [được] <per> [Robinho] </per> [sau] [khi] [giao] [cho] <org> [Santos] </org> [24] [triệu] [Euro] <per> [Robinho] </per> [chơi] [trận] [đầu tiên] [tại] [La Liga] [vào] <date> [ngày] [28] [tháng] [8] [năm] [2005] </date> , [trong] [trận] [mà] <org> [Real Madrid] </org> [đả] [bại] <org> [Cádiz] [CF] </org> [với] [tỉ số] [2-1] . 
+
+[Anh] [vào] [sân] [vào] [phút] [thứ] [65th] [thay] [cho] <per> [Thomas Gravesen] </per> . 
+
+[Cả] [mùa] [giải] [đầu tiên] [ở] [đây] , [anh] [có] [37] [lần] [xuất hiện] [và] [ghi] [9] [bàn] [thắng] . 
+
+[Tại] [mùa] [bóng] [2006-07] , <per> [Robinho] </per> [được] [đá] [ít] [hơn] [khi] <per> [Fabio Capello] </per> [lên] [nắm] [chức] <job> [huấn luyện viên] </job> [của] [kền kền] [trắng] , [anh] [đá] [như] [mệt mỏi] [vào] [cả] [nửa] [đầu] [mùa] [giải] . 
+
+[Chỉ] [đến] [sau] [mùa đông] , [anh] [mới] [lấy] [lại] [phong độ] [và] [được] [trở lại] [đội hình] [xuất phát] . 
+
+<per> [Robinho] </per> [đã] [được] [sự] [chấp thuận] [của] [FIFA] [để] [bỏ] [một] [buổi] [tập huấn] [chuẩn bị] [cho] [Copa América] [với] <loc> [Brasil] </loc> . 
+
+[Anh] [dùng] [nó] [để] [cùng] <org> [Madrid] </org> [thi đấu] [trận] [quyết định] [với] <org> [Mallorca] </org> [vào] <date> [18] [tháng] [6] [năm] [2007] </date> , [đội] [bóng] [đã] [thắng] [3-1] [và] [lên ngôi] [vô địch] [lần] [thứ] [30] [trong] [lịch sử] , [đó] [là] [lần] [thứ] [3] [trong] [sự nghiệp] [của] <per> [Robinho] </per> . 
+
+[Anh] [ghi] [11] [bàn] [và] [có] [14] [đường] [chuyền] [ăn] [bàn] [tại] [La Liga] [mùa] [bóng] [2007-08] .

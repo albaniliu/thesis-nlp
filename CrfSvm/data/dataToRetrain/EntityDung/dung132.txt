@@ -1,0 +1,29 @@
+<per> [Clichy] </per> ( [sinh] <date> [ngày] [26] [tháng] [7] [năm] [1985] </date> [ở] <loc> [Toulouse] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] <loc> [Pháp] </loc> [hiện] [đang] [chơi] [cho] [câu lạc bộ] [bóng đá] <loc> [Anh] </loc> <org> [Arsenal] </org> [thuộc] [English Premier League] . 
+
+<per> [Clichy] </per> [là] [lựa chọn] [số một] [của] <org> [Arsenal] </org> [chơi] [ở] [vị trí] <pos> [hậu vệ] [cánh] [trái] </pos> . 
+
+<per> [Clichy] </per> [lớn] [lên] [ở] [thành phố] <loc> [Toulouse] , [Pháp] </loc> . 
+
+[Mẹ] [anh] [là] [một] [người] [quan trọng] [giúp] [anh] [hồi phục] [sau] [nhiều] [năm] [có] [kinh nghiệm] [làm] <job> [y tá] </job> [ở] [một] [trường học] . 
+
+[Khi] <org> [AS] [Cannes] </org> [bị] [xuống] [hạng] [ba] <loc> [Pháp] </loc> , <per> [Arsène Wenger] </per> [thuyết phục] [bố mẹ] [của] <per> [Clichy] </per> [cho phép] [anh] [gia nhập] <org> [Arsenal] </org> . 
+
+[Sau] [khi] <per> [Ashley Cole] </per> [dính] [một] [chấn thương] [vào] <date> [tháng] [10] [năm] [2005] </date> , [có vẻ] [như] <per> [Clichy] </per> [có thể] [có] [thêm] [cơ hội] [thi đấu] [cho] [đội hình] [chính] [khi] <per> [Cole] </per> [nghỉ] ; [thêm] [vào] [đó] , [với] [những] [tin đồn] <per> [Cole] </per> [có thể] [sang] <loc> [Tây Ban Nha] </loc> , [có vẻ] [như] <per> [Clichy] </per> [có thể] [có] [vị trí] [vững chắc] [trong] [đội hình] [chính] . 
+
+<per> [Clichy] </per> [trở lại] [đội hình] [chính] [vào] <date> [ngày] [25] [tháng] [4] [năm] [2006] </date> [trong] [trận] [bán kết] [cúp] [C1] [gặp] <org> [Villarreal] [CF] </org> , [và] [vào] [sân] [từ] [ghế] [dự bị] [thay] <per> [Mathieu Flamini] </per> . 
+
+<per> [Clichy] </per> [bị] [tái phát] [chấn thương] [và] [phải] [ngồi] [ngoài] [cho] [tới] [hết] [mùa] [giải] [bao gồm] [cả] [trận] [chung kết] [Cúp] [C1] , [và] [không thể] [trở lại] [thi đấu] [cho] [tới] <date> [ngày] [14] [tháng] [10] [năm] [2006] </date> . 
+
+[Khi] <per> [Cole] </per> [chuyển] [sang] <org> [Chelsea] </org> [vào] <date> [tháng] [8] [năm] [2006] </date> , <per> [Clichy] </per> [trở thành] [sự] [lựa chọn] [số] [1] [cho] [hành lang] [trái] [ở] <org> [Arsenal] </org> . 
+
+[Khi] [thi đấu] [trong] [vai trò] [dự bị] [cho] <per> [Cole] </per> , <per> [Clichy] </per> [được] [ra] [sân] [62] [lần] ( [bao gồm] [39] [trận] [ở] [Premier League] ) [cho] <org> [Arsenal] </org> [trong] [3] [mùa] [giải] . 
+
+[Ở] [mùa] [giải] [mà] <per> [Cole] </per> [ra đi] , <per> [Clichy] </per> [có] [27] [lần] [ra] [sân] [trong] [tổng số] [40] [trận] , [và] [kể] [từ] [đó] [trở thành] [sự] [lựa chọn] [số] [1] [bên] [hành lang] [trái] . 
+
+[Ở] [mùa] [giải] <date> [2007-08] </date> , <per> [Clichy] </per> [được] [chọn] [vào] [đội hình] [tiêu biểu] [của] [năm] [của] [PFA] [ở] [vị trí] <pos> [hậu vệ] </pos> [trái] . 
+
+[Phong độ] [ổn định] [này] [đã] [giúp] [anh] [có] [được] [phần thưởng] [vào] <date> [ngày] [20] [tháng] [6] [năm] [2008] </date> , [khi] [anh] [kí] [hợp đồng] [dài hạn] [mới] [với] [đội] [bóng] . 
+
+[Anh] [về] [đích] [ở] [vị trí] [thứ hai] [trong] [danh sách] [các] [cầu thủ] [thi đấu] [xuất sắc] [nhất] [mùa] [giải] [của] <org> [Arsenal] </org> [do] [các] [fan] [bình chọn] . 
+
+[Anh] [được] [đeo] [băng] <pos> [đội trưởng] </pos> [của] <org> [Arsenal] </org> [lần] [đầu] [trong] [trận] [gặp] <org> [Barnet] </org> [trong] [loạt] [trận] [giao hữu] [trước] [mùa] [giải] <date> [2008-09] </date> .

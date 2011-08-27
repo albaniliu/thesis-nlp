@@ -1,0 +1,23 @@
+<per> [Wayne Mark Rooney] </per> ( [sinh] <date> [ngày] [24] [tháng] [10] [năm] [1985] </date> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Anh] </loc> [hiện] [đang] [chơi] [ở] [vị trí] <pos> [tiền đạo] </pos> [cho] <org> [câu lạc bộ] [Manchester United] </org> [tại] [Giải] [ngoại hạng] <loc> [Anh] </loc> [cũng như] [thi đấu] [cho] <org> [đội tuyển] [Anh] </org> [ở] [các] [giải] [đấu] [cấp độ] [đội tuyển] . 
+
+[Vị trí] [thi đấu] [của] [anh] [thường] [là] <pos> [hộ] [công] </pos> [và] <pos> [tiền đạo] </pos> [cánh] , [thế nhưng] [anh] [chỉ] [thực sự] [tỏa] [sáng] [khi] [chơi] [ở] [vị trí] <pos> [trung phong] </pos> . 
+
+<per> [Rooney] </per> [bắt đầu] [sự nghiệp] [cầu thủ] [chuyên nghiệp] [của] [mình] [với] <org> [câu lạc bộ] [Everton] </org> , [gia nhập] [đội] [trẻ] [của] [họ] [lúc] [mười] [tuổi] [và] [dần] [phát triển] [tài năng] [qua] [các] [mùa] [giải] . 
+
+<per> [Rooney] </per> [xuất hiện] [trong] [màu] [áo] <org> [The Toffees] </org> [với] [tư cách] [chuyên nghiệp] [vào] <date> [năm] [2002] </date> [và] [bàn] [thắng] [đầu tiên] [của] <per> [Rooney] </per> [vào] [lưới] <org> [Arsenal] </org> [khiến] [anh] [trở thành] [cầu thủ] [ghi bàn] [trẻ] [nhất] [trong] [lịch sử] [Premier League] [vào] [thời điểm] [đó] . 
+
+<per> [Rooney] </per> [nhanh chóng] [trở thành] [một] [phần] [của] [đội] [bóng] <org> [Everton] </org> [và] [thi đấu] [hai] [mùa] [giải] [ở] [câu lạc bộ] [vùng] <loc> [Merseyside] </loc> . 
+
+[Trước] [khi] [bắt đầu] [mùa] [giải] <date> [2004-05] </date> , <per> [Rooney] </per> [chuyển] [tới] <org> [Manchester United] </org> [với] [mức] [phí] [chuyển nhượng] [là] [25,6] [triệu] [bảng] [và] [trở thành] [một] [thành viên] [chủ chốt] [của] [đội] [một] <org> [MU] </org> 
+
+[Kể] [từ] [đó] , [anh] [đã] [giành] [được] [Cúp] [ngoại hạng] [Anh] [ba] [lần] , [một] [Cúp] [UEFA] [Champions League] [mùa] [giải] [2007-08] [và] [có] [hai] [Cúp Liên Đoàn] [cùng] [câu lạc bộ] [này] . 
+
+[Cá nhân] <per> [Rooney] </per> [cũng] [được] [trao] [giải] <job> [Cầu thủ] </job> [xuất sắc] [nhất] [năm] [của] <org> [Hiệp hội] [Nhà báo] [Bóng đá]  [Anh] </org>  , <job> [Cầu thủ] </job> [xuất sắc] [nhất] [năm] [của] <org> [Hiệp hội] [Cầu thủ] [Chuyên nghiệp] [Anh] </org> [và] <job> [Cầu thủ] </job> [xuất sắc] [nhất] [mùa] [giải] [của] [Barclays] [trong] [cùng] [một] [mùa] [giải] <date> [2009-2010] </date> . 
+
+<per> [Rooney] </per> [được] [gọi] [vào] <org> [đội tuyển] [Anh] </org> [lần] [đầu tiên] [vào] <date> [năm] [2003] </date> [và] [tại] [Giải] [vô địch] [bóng đá] <loc> [châu] [Âu] </loc> <date> [2004] </date> , [anh] [có] [một] [thời gian] [ngắn] [trở thành] [cầu thủ] [ghi bàn] [trẻ] [nhất] [qua] [các] [kì] [giải] [đấu] [và] [cũng] [là] [cầu thủ] [thứ hai] [dưới] [20] [tuổi] [được] [gọi] [vào] [đội tuyển] . 
+
+<per> [Rooney] </per> [thường xuyên] [được] [chọn] [để] [thi đấu] [cho] <org> [đội tuyển] [Anh] </org> [và] [đã] [có mặt] [tại] [Giải] [vô địch] [bóng đá] [thế giới] <date> [2006] </date> [và] [Giải] [vô địch] [bóng đá] [thế giới] <date> [2010] </date> . 
+
+[Tuy nhiên] [cả] [hai] [đều] [là] [những] [giải] [đấu] [đáng] [quên] [đối với] [anh] [khi] <per> [Rooney] </per> [không] [ghi] [được] [bàn] [thắng] [nào] [và] <org> [đội tuyển] [Anh] </org> [chỉ] [có] [thành tích] [cao] [nhất là] [vào] [đến] [từ] [kết] <date> [năm] [2006] </date> . 
+
+[Anh] [và] [người] [bạn gái] [từ] [thuở] [nhỏ] <per> [Coleen Rooney] </per> [đã] [cưới] [nhau] [vào] <date> [năm] [2008] </date> [và] [có] [con trai] [đầu lòng] [là] <per> [Kai Rooney] </per> [vào] <date> [năm] [2009] </date> .

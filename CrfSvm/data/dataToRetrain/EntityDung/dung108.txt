@@ -1,0 +1,21 @@
+<per> [Andrés Iniesta Luján] </per> ( [sinh] <date> [ngày] [11] [tháng] [5] [1984] </date> [tại] [Fuentealbilla] , [Albacete] ) [là] <job> [cầu thủ] </job> [bóng đá] <loc> [Tây Ban Nha] </loc> , [hiện] [chơi] [cho]  <org> [CLB FC] [Barcelona] </org>  . 
+
+<per> [Iniesta] </per> [thường] [thi đấu] [ở] [vị trí] <pos> [tiền vệ] [cánh] </pos> , [đôi lúc] [là] <pos> [tiền đạo] [cánh] </pos> ( [sơ đồ] [4-3-3] ) , [và] [nằm] [trong] [số] [những] <pos> [tiền vệ] </pos> [hay] [nhất] [thế giới] . 
+
+<per> [Iniesta] </per> [có] [khả năng] [cầm] [bóng] [cực] [tốt] , [đi] [bóng] [lắt léo] [và] [thi đấu] [thông minh] ; [từ] [đó] [anh] [là] [trụ cột] [ở] <org> [đội tuyển] [bóng đá] [quốc gia] [Tây Ban Nha] </org> [và] <org> [FC] [Barcelona] </org> . 
+
+[Tài năng] [trẻ] <per> [Iniesta] </per> [được] [các] <job> [tuyển trạch] [viên] </job> <org> [CLB FC] [Barcelona] </org> [phát hiện] [năm] [12] [tuổi] [khi] [đang] [chơi] [cho] [đội] [trẻ] <org> [Albacete Balompié] </org> . 
+
+<date> [Ngày] [29] [tháng] [10] [năm] [2002] </date> [anh] [được] [ra] [sân] [lần] [đầu] [trong] [màu] [áo] <org> [Barca] </org> [tại] [đấu trường] <loc> [châu] [Âu] </loc> [UEFA] [Champions League] [gặp] <org> [FC] [Br] [ü] [gge] </org> . 
+
+[Mùa] [bóng] [đầu tiên] [anh] [được] [ra] [sân] [tổng cộng] [11] [lần] , [ghi] [1] [bàn] , [thường] [là] [thay] [cho] <per> [Ronaldinho] </per> . 
+
+[Trong] [mùa] [bóng] [tiếp theo] <date> [2004] </date> / <date> [2005] </date> <per> [Iniesta] </per> [được] [chính thức] [xếp] [đá] [chính] [trong] [35] / [38] [trận] [tại] [La Liga] , [ghi] [tổng cộng] [2] [bàn] , [là] <job> [cầu thủ] </job> [kiến tạo] [bóng] [tuyệt vời] [cho] <per> [Samuel Eto] ' [o] </per> [hay] <per> [Ronaldinho] </per> . 
+
+[Mùa] [bóng] <date> [2005] </date> / <date> [2006] </date> [đánh dấu] [sự] [thăng tiến] [liên tục] [của] [anh] [và] [thường] [được] [xếp] [đá] [chính] . 
+
+[Sau] [chấn thương] [nặng] [của] [đồng đội] <per> [Xavi] </per> [anh] [đã] [chiếm] [được] [vị] [chí] [chính thức] [trong] [đội hình] [và] [không] [ngừng] [khẳng định] [tài năng] [xuất sắc] [của] [mình] . 
+
+<date> [Năm] [2010] </date> , [anh] [cùng] [các] [đồng đội] [của] [mình] [lần] [đâu] [tiên] [có mặt] [tại] [chung kết] [World Cup] <date> [2010] </date> [tại] <loc> [Nam Phi] </loc> . 
+
+[Bàn] [thắng] [của] <per> [Iniesta] </per> [ở] [phút] [bù] [giờ] [117] [đã] [giúp] <loc> [Tây Ban Nha] </loc> [lần] [đầu tiên] [vô địch] [World Cup] <date> [2010] </date> [và] [đồng thời] [lần] [đầu tiên] [một] [nước] [ở] <loc> [Châu Âu] </loc> [vô địch] [World Cup] [nằm] [ngoài] [Châu lục] <loc> [Châu Âu] </loc> .

@@ -1,0 +1,41 @@
+<per> [Alexandre Rodrigues da Silva] </per> ( [sinh] <date> [ngày] [2] [tháng] [9] [năm] [1989] </date> [tại] <loc> [Pato Branco] , [Paraná] </loc> ) , [được] [biết] [đến] [nhiều] [nhất] [với] [tên] <per> [Pato] </per> , [là] [một] <pos> [tiền đạo] </pos> [bóng đá] [người] <loc> [Brasil] </loc> . 
+
+[Hiện] [anh] [đang] [chơi] [cho] [câu lạc bộ] [bóng đá] <org> [AC] [Milan] </org> [của] <loc> [Ý] </loc> . 
+
+<per> [Pato] </per> [là] <pos> [tiền đạo] </pos> [trẻ] [mà] <org> [AC] [Milan] </org> [mới] [mua] [hồi] [đầu] [mùa] [bóng] [2007-2008] [với] [giá] [22] [triệu] [euro] , [kỷ lục] [dành] [cho] [một] <job> [cầu thủ] </job> [17] [tuổi] . 
+
+[Tài năng] [của] <per> [Pato] </per> [đã] [bộc lộ] [rất] [sớm] , [chính] [điều] [đó] [đã] [khiến] [các] [câu lạc bộ] [lớn] [ở] <loc> [châu] [Âu] </loc> [đua] [nhau] [mới] [mọc] [tài năng] [trẻ] [này] . 
+
+[Và] [cuối cùng] <per> [Pato] </per> [đã] [gia nhập] <org> [Milan] </org> . 
+
+[Ở] <org> [Milano] </org> [anh] [được] [giao] [cho] [chiếc] [áo] [số] [7] , [một số] [áo] [truyền thống] [của] [CLB] ( [người] [gần] [đây] [nhất] [mang] [nó] [là] [ngôi sao] <per> [Andriy Shevchenko] </per> ) . 
+
+[Không] [phụ] [lòng] [của] [người] [hâm mộ] <per> [Pato] </per> [đã] [ghi bàn] [trong] [trận] [đầu tiên] [thi đấu] [cho] <org> [Milan] </org> , [điều] [mà] [chỉ] [có] <per> [Marco] [van] [Basten] </per> [làm] [được] [trước] [đó] . 
+
+<per> [Pato] </per> [bắt đầu] [chơi] " [bóng đá] [trong] [nhà] " [khi] [lên] [4] [tuổi] . 
+
+[Và] [tài năng] [của] [cậu] [đã] [được] [biết] [đến] [khắp] [vùng] <loc> [Nam Brasil] </loc> , <loc> [bang] [Parana] </loc> . 
+
+[Sau] [khi] [được] [sự] [khen ngợi] [của] [rất] [nhiều] [nhà] [quản lí] , [tài năng] [trẻ] [này] [đã] [đến] <loc> [Porto Alegre] , [Rio Grande] [do] [Sul] </loc> , [để] [thử] [sức] [mình] [tại] [câu lạc bộ] <org> [Internacional] </org> . 
+
+<date> [Năm] [2000] </date> [khi] <per> [Pato] </per> [10] [tuổi] , [khi] [chụp] [X quang] [vì] [bị] [gãy] [tay] [thì] [người ta] [đã] [phát hiện] [ra] [rằng] [cậu] [có] [một] [khối u] [ác tính] [ở] [tay] . 
+
+[Bác sĩ] [đã] [cho biết] [rằng] [khối u] [sẽ] [thành] [ung thư] [nếu không] [được] [cắt] [bỏ] [trong] [vòng] [2] [tháng] . 
+
+[Gia đình] [cậu] [không] [đủ] [điều kiện] [để] [cho] [ca] [phẫu thuật] [cắt] [bỏ] [khối u] [đó] , [nhưng] [bác sĩ] <per> [Paulo Roberto Mussi] </per> [là] [một] [người] [bạn] [của] [gia đình] [cậu] [đã] [thực hiện] [ca] [mổ] [miễn phí] . 
+
+[Đó] [là] [môt] [việc] [đặc biệt] [có] [ý nghĩa] [vì] [đó] [là] [năm] [cốt yếu] [khi] [mà] <per> [Pato] </per> [đang] [theo đuổi] [sự nghiệp] [của] [một] <pos> [tiền đạo] </pos> [chuyên nghiệp] [tại] <org> [Internacional] </org> . 
+
+[Cậu] [lấy] [nick] [name] [là] " <per> [Alexandre Pato] </per> " ( [chú] [vịt] [Alex] ) [theo] [tên] [của] [thị trấn] [nơi] [cậu] [sinh ra] . 
+
+<per> [Pato] </per> [bắt đầu] [sự nghiệp] [ở] <org> [Clb Internacional] </org> [ở] <loc> [Porto Alegre] </loc> , [nơi] [mà] [cậu] [chơi] [cho] [cả] [đội] [thiếu niên] [và] [đội] [trẻ] [từ] <date> [năm] [2001-2007] </date> . 
+
+[Lần] [đầu] [xuất trận] [ở] [tuổi] [17] <per> [Pato] </per> [đã] [giúp] [cho] <org> [Internacional] </org> [thắng] [4-1] [trước] <org> [Pameras] </org> [vào] <date> [ngày] [26] [tháng] [11] [năm] [2006] </date> . 
+
+<per> [Pato] </per> [đã] [ghi bàn] [thứ hai] [cho] <org> [Internacional] </org> [tại] [giải] [thế giới] [các] [câu lạc bộ] [vào] <date> [ngày] [13] [tháng] [12] [năm] [2006] </date> [trong] [trận] [bán kết] [gặp] <org> [Al-Ahly] [Cairo] </org> , [và] [giúp] [đội] [giành] [thắng lợi] [2-1] [để] [lọt] [vào] [chung kết] . 
+
+[Với] [bàn] [thắng] [đó] <per> [Pato] </per> [đã] [phá] [kỉ lục] <job> [cầu thủ] </job> [trẻ] [nhất] [ghi bàn] [của] [Pelé] ( [17] [tuổi] [239] [ngày] [trong] [trận] [gặp] [đội tuyển] [bóng đá] [quốc gia] <loc> [Wales] </loc> <date> [1958] </date> ) . 
+
+[Lúc] [ghi bàn] <per> [Pato] </per> [mới] [17] [tuổi] [102] [ngày] . 
+
+<per> [Pato] </per> [trở thành] [sự] [chú ý] [của] [nhiều] [câu lạc bộ] [ở] <loc> [châu] [Âu] </loc> [như] <org> [Juventus] </org> , <org> [Inter Milan] </org> , <org> [Chelsea] [FC] </org> . , <org> [Arsenal] </org> ...

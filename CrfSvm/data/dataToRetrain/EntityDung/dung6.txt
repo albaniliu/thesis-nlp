@@ -1,0 +1,51 @@
+<org> [Sun Microsystems] </org> , [thành lập] [năm] [1983] , [là] [một] [công ty] [sản xuất] [phần mềm] , [bóng bán dẫn] [và] [máy tính] [có] [trụ sở] [tại] <loc> [Silicon Valley] </loc> . 
+
+[Các] [sản phẩm] [của] <org> [Sun] </org> [bao gồm] [máy tính] , [các] [máy chủ] [và] [máy] [trạm] [chạy] [trên] [bộ xử lý] [SPARC] , [các] [hệ điều hành] [SunOS] [và] [Solaris] , [hệ thống] [file] [mạng] [NFS] ( [network] [file] [system] ) , [nền tảng] [Java] , [và] ( [cùng với] <org> [AT] & [T] </org> ) [chuẩn hóa] [Hệ thống] [Unix] [V] [bản] [4] . 
+
+[Một số] [sản phẩm] [kém] [thành công] [hơn] [có thể] [kể] [đến] [hệ thống] [cửa sổ] [NeWS] [và] [giao diện] [đồ họa] [người] [sử dụng] [OpenLook] . 
+
+[Thiết kế] [ban đầu] [của] [máy] [trạm] [UNIX] [của] [Sun] [do] [nhóm] [sáng lập] [gồm] [bốn] [sinh viên] [tốt nghiệp] <org> [Đại học] [Stanford] </org> [ở] <loc> [Palo Alto] , [California] </loc> , [nghiên cứu] [ra] . 
+
+[Cái] [tên] <org> [công ty] [SUN] </org> [ban đầu] [là] [viết] [tắt] [của] [Stanford University Network] ( [và] [nó] [được] [phản ánh] [trong] [biểu trưng] [chứng khoán] [của] [công ty] , [SUNW] ) . 
+
+[Những] [người] [sáng lập] [bao gồm] <per> [Vinod Khosla] </per> , <per> [Scott Mc] [Nealy] </per> , <per> [Bill Joy] </per> [và] <per> [Andy Bechtolsheim] </per> . 
+
+[Trong] [số] [này] , [chỉ] [còn] <per> [McNealy] </per> [và] <per> [Bechtolsheim] </per> [là] [hiện] [còn] [ở] [lại] [với] <org> [Sun] </org> . 
+
+<per> [Bill Joy] </per> [đã] [rời] [bỏ] <org> [Sun] </org> [vào] [đầu] [năm] [2004] . 
+
+[Những] [người] [có] [ảnh hưởng] [lớn] [ở] <org> [Sun] </org> [gồm] [có] [những] [nhân viên] [ban đầu] [của] <org> [Sun] </org> <per> [John Gilmore] </per> , <per> [Bill Joy] </per> [và] <per> [James Gosling] </per> . 
+
+<per> [Bill Joy] </per> [đã] [được] [mời] [tham gia] [khi] [ông] [đang] [phát triển] [BSD] [ở] <org> [UC] [Berkeley] </org> [dưới] [quyền] [điều hành] [của] <per> [Ken Thompson] </per> . 
+
+<per> [James Gosling] </per> [và] [những] [người] [đồng sự] [của] [ông] [đã] [phát triển] [ngôn ngữ lập trình] [Java] . 
+
+[Cùng với] [thời gian] , <org> [Sun] </org> [đã] [trở thành] [một] [công ty] [có] [đẳng cấp] [thế giới] , [một] [tập đoàn] [hàng đầu] [của] [ngành] [công nghiệp] , [được] [nhắc] [đến] [với] [khẩu] [hiểu] [rất] [nổi tiếng] " [The Network Is The Computer] " . 
+
+[Gần] [đây] [nhất] , <per> [Jon Bosak] </per> , [một] [nhân viên] [của] <per> [Sun] </per> [cũng] [đã] [lãnh đạo] [nhóm] [nghiên cứu] [phát triển] [đặc tả] [XML] [ở] <org> [W3C] </org> . 
+
+[Biểu trưng] [của] <org> [Sun] </org> , [có] [hình ảnh] [bốn] [con] [chữ] [xếp] [vào] [nhau] [từ] [chữ] [sun] , [do] [giáo sư] <per> [Vaughan Pratt] </per> , [cũng] [của] <org> [Đại học] [Stanford] </org> , [thiết kế] . 
+
+[Ban đầu] [biểu trưng] [này] [sắp xếp] [các] [cạnh] [của] [nó] [theo] [chiều] [ngang] [và] [đứng] [nhưng] [về] [sau] [nó] [được] [thay đổi] [với] [một] [góc] [tựa] [xuống] [phía] [dưới] . 
+
+<org> [Sun] </org> [ban đầu] [sử dụng] [họ] [CPU] [Motorola] [68000] [từ] [Sun] [1] [đến] [Sun] [3] . 
+
+[Trong] [một] [thời gian] [ngắn] [khoảng] [cuối] [những] [năm] [1980] , [họ] [đã] [bán] [các] [máy tính] [chạy] [trên] [Intel] [80386] , [đó] [là] [Sun] [386i] . 
+
+[Sau] [dòng] [Sun] [4] , <org> [Sun] </org> [đã] [phát triển] [kiến trúc] [CPU] [của] [riêng] [hãng] , [SPARC] , [vay] [mựon] [lại] [kiến trúc] [RISC] [chuẩn] [của] [IEEE] .
+
+[Hiện tại] <org> [Sun] </org> [cung cấp] [loại] [CPU] [64-bit] , [đó] [là] [UltraSPARC] . 
+
+[Sun] [1] [được] [phân phối] [với] [hệ điều hành] [Unisoft] [V7] [UNIX] .
+
+[Sau này] [vào] [năm 1982] <org> [Sun] </org> [cung cấp] [bản] [UNIX] [4.1BSD] [tùy] [biến] [có] [tên] [là] [SunOS] [để] [làm] [hệ điều hành] [cho] [các] [máy] [trạm] [của] [hãng] . 
+
+[Vào] [năm] [1992] , [cùng với] <org> [AT] & [T] </org> , [hãng] [này] [đã] [tích hợp] [BSD UNIX] [và] [System] [V] [thành] [Solaris] , [như là] [một] [kết quả] [dựa] [trên] [UNIX SVR4] . 
+
+<org> [Sun] </org> [cũng] [nổi tiếng] [với] [việc] [cấp] [các] [giấy phép] [sử dụng] [dựa] [trên] [cộng đồng] [cho] [tất cả] [các] [sản phẩm] [công nghệ] [quan trọng] [của] [hãng] [bao] [trong] [đó] [có] [một số] [ấn bản] [mã] [nguồn] [mở] . 
+
+[Mặc dù] [là] [người] [đi sau] , [nhưng] [hãng] [này] [cũng] [đã] [đưa] [Linux] [trở thành] [một] [bộ phận] [trong] [chiến lược] [của] [hãng] – <org> [Sun] </org> [đã] [và] [đang] [phải] [đối mặt] [với] [thời điểm] [khó khăn] [khi] [mà] [Linux] [đã] [bắt đầu] [gặm nhấm] [dần dần] [thị phần] [máy chủ] [của] [hãng] . 
+
+[Mặc dù] [vậy] , [gần] [đây] <org> [Sun] </org> [đã] [phát triển] [hệ thống] [phần mềm] [chạy] [trên] [desktop] [dựa] [trên] [Linux] [có] [tên] [Java Desktop System] ( [tên] [mã] [ban đầu] [là] ' [Madhatter] ' ) [để] [sử dụng] [cả] [trên] [phần cứng] [x] [86] [và] [trên] [các] [hệ thống] [máy] [tính mạng] [SunRay] [của] <org> [Sun] </org> . 
+
+[Hãng] [này] [cũng] [công bố] [các] [kế hoạch] [cung cấp] [Java Enterprise System] ( [một] [ngăn] [xếp] [thuộc] [tầng] [trung gian] ) [của] [hãng] [trên] [Linux] , [và] [công bố] [mở] [mã] [nguồn] [Solaris] [dưới] [một] [dạng] [nào đó] .

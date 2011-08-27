@@ -1,0 +1,29 @@
+<per> [Esteban Matias Cambiasso Deleau] </per> ( [sinh] <date> [ngày] [18] [tháng] [8] [năm] [1980] </date> [ở] <loc> [Buenos Aires] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Argentina] </loc> [hiện] [đang] [là] <pos> [tiền vệ] </pos> [của] <org> [Inter Milan] </org> [và] [đội tuyển] [bóng đá] [quốc gia] <loc> [Argentina] </loc> . 
+
+[Biệt danh] [của] [anh] [là] <per> [Cuchu] </per> . 
+
+<per> [Cambiasso] </per> [bắt đầu] [sự nghiệp] [chơi] [bóng] [chuyên nghiệp] [cho] [câu lạc bộ] <org> [Argentinos Juniors] </org> [vào] <date> [năm] [1995] </date> , [chuyển] [tới] [đội] [B] [của] <org> [Real Madrid] </org> [vào] <date> [năm] [1996] </date> . 
+
+[Vào] <date> [năm] [1998] </date> , [anh] [chuyển] [lại] [về] <loc> [Argentina] </loc> [nơi] [anh] [chơi] [trong] [3] [năm] [cùng] [Independiente] [và] [một] [năm] [cùng] [River Plate] . 
+
+[Với] [một số] [kinh nghiệm] [tích luỹ] [được] , [anh] [trở lại] <org> [Real Madrid] </org> [vảo] <date> [năm] [2002] </date> . 
+
+[Anh] [giúp] <org> [Los Blancos] </org> [giành] [Siêu] [cúp] [bóng đá] <loc> [châu] [Âu] </loc> [vào] <date> [năm] [2002] </date> , [La Liga] [và] [Intercontinental Cup] [vào] [năm] [2003] , [và] [Siêu] [cúp] [bóng đá] <loc> [Tây Ban Nha] </loc> [vào] <date> [năm] [2003] </date> . 
+
+[Vào] <date> [tháng] [7] [năm] [2004] </date> , <per> [Cambiasso] </per> [kí] [hợp đồng] [cùng] <org> [Internazionale] </org> [sau] [khi] [hợp đồng] [của] [anh] [cùng] <org> [Real Madrid] </org> [hết] [hạn] [vào] <date> [tháng] [6] [năm] [2004] </date> . 
+
+[Anh] [giúp] <org> [Inter Milan] </org> [vô địch] [cúp] [bóng đá] [quốc gia] <loc> [Italia] </loc> [trong] [mùa] [giải] [đầu tiên] [cùng] [đội] [bóng] , [thường] [chơi] [ở] [vị trí] <pos> [tiền vệ] </pos> [trụ] , [đối tác] [của] [anh] [ở] [vị trí] [này] [là] [một] <job> [cầu thủ] </job> [người] <loc> [Argentina] </loc> [khác] : <per> [Juan Sebastián Verón] </per> . 
+
+[Ở] <loc> [Ý] </loc> , [anh] [trở thành] [một] [trong] [những] <job> [cầu thủ] </job> [nổi bật] [ở] [mùa] [giải] [2004-05] [cùng] <per> [Kaká] </per> [của] <org> [AC] [Milan] </org> . 
+
+[Trong] [trận] [chung kết] [lượt về] [Coppa Italia] [2006] , <per> [Cambiasso] </per> [ghi] [một] [bàn] [thắng] [tuyệt] [đẹp] [để] [mở] [tỉ số] [trận] [đấu] [và] [đóng góp] [vào] [chiến thắng] [3-1] [trước] <org> [AS] [Roma] </org> . 
+
+[Vào] <date> [ngay] [30] [tháng] [9] [năm] [2006] </date> , [anh] [ghi] [2] [bàn] [trong] [trận] [mở màn] [mùa] [giải] [khi] <org> [Inter] </org> [đánh bại] <org> [ACF] [Fiorentina] </org> [3-2] . 
+
+[Vào] <date> [ngày] [7] [tháng] [11] [năm] [2007] </date> , [anh] [cùng] <per> [Zlatan Ibrahimovi] [ć] </per> [mỗi] [người] [ghi] [2] [bàn] [trong] [chiến thắng] [4-2] [trước] <org> [PFC CSKA] [Moscow] </org> [ở] [cúp] [C1] . 
+
+[Vào] <date> [ngày] [23] [tháng] [3] [năm] [2009] </date> , <org> [Inter] </org> [cùng] <per> [Cambiasso] </per> [kí] [hợp đồng] [mới] [có] [thời hạn] [đến] <date> [năm] [2014] </date> . 
+
+[Trong] [năm] [mùa] [giải] [cùng] <org> [Inter] </org> , <per> [Cambiasso] </per> [chứng minh] [bản thân] [như là] <job> [cầu thủ] </job> [chủ chốt] [của] [đội] [bóng] , [và] [cũng] [trở thành] [một] [trong] [những] <pos> [tiền vệ] </pos> [hay] [nhất] [Serie] [A] . 
+
+[Nhiều] [fan] <org> [Inter] </org> [mong muốn] [anh] [trở thành] [người] [kế thừa] [chiếc] [băng] <pos> [đội trưởng] </pos> [của] [đội] [bóng] [từ] [tay] <per> [Javier Zanetti] </per> .

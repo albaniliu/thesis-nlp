@@ -1,0 +1,79 @@
+<org> [Google] </org> [là] [một] [công ty] [Internet] [tầm cỡ] [thế giới] [có] [trụ sở] [tại] <loc> [Hoa Kỳ] </loc> , [được] [thành lập] [vào] <date> [năm] [1998] </date> . 
+
+[Sản phẩm] [chính] [của] [công ty] [này] [là] [công cụ] [tìm kiếm] [Google] , [được] [nhiều] [người] [đánh giá] [là] [công cụ] [tìm kiếm] [hữu ích] [và] [mạnh mẽ] [nhất] [trên] [Internet] . 
+
+[Trụ sở] [của] <org> [Google] </org> [tên] [là] " [Googleplex] " [tại] <loc> [Mountain View] , [California] </loc> . 
+
+<org> [Google] </org> [có] [trên] [15.000] [nhân viên] , <pos> [giám đốc] </pos> [là] [Tiến sĩ] <per> [Eric Schmidt] </per> , [trước đây] [là] [giám đốc] <org> [công ty] [Novell] </org> . 
+
+[Tên] " [Google] " [là] [một] [lối] [chơi chữ] [của] [từ] [googol] , [bằng] [10100] . 
+
+<org> [Google] </org> [chọn] [tên] [này] [để] [thể hiện] [sứ mệnh] [của] [công ty] [để] [sắp xếp] [số lượng] [thông tin] [khổng lồ] [trên] [mạng] . 
+
+<loc> [Googleplex] </loc> , [tên] [của] [trụ sở] <org> [Google] </org> , [có] [nghĩa là] [10googol] .
+
+[Theo] [nguồn] [từ] [trang] [Compete.com] , [có] [3,073,914,775] [người] [truy cập] [vào] [tên miền] [www.google.com] [trong] [nửa] [năm] [2010] . 
+
+[Tên miền] [này] [hiện tại] [đứng] [thứ] [01] [trong] [danh sách] [của] [Alexa] . 
+
+[Đầu tiên] ( [1996] ) <org> [Google] </org> [là] [một] [công trình] [nghiên cứu] [của] <per> [Larry Page] </per> [và] <per> [Sergey Brin] </per> , [hai] [nghiên cứu sinh] [tại] <org> [trường] [Đại học] [Stanford] </org> . 
+
+[Họ] [có] [giả thuyết] [cho] [rằng] [một] [công cụ] [tìm kiếm] [dựa] [vào] [phân tích] [các] [liên hệ] [giữa] [các] [website] [sẽ] [đem] [lại] [kết quả] [tốt] [hơn] [cách] [đang] [được] [hiện hành] [lúc] [bấy giờ] ( [1996] ) . 
+
+[Đầu tiên] [nó] [được] [gọi là] [BackRub] ( [Gãi] [lưng] ) [tại] [vì] [hệ thống] [này] [dùng] [các] [liên kết] [đến] [để] [ước tính] [tầm] [quan trọng] [của] [trang] . 
+
+<per> [Page] </per> [và] <per> [Brin] </per> [tin] [rằng] [những] [trang] [có] [nhiều] [liên kết] [đến] [nhất] [từ] [các] [trang] [thích hợp] [khác] [sẽ] [là] [những] [trang] [thích hợp] [nhất] . 
+
+[Họ] [đã] [quyết định] [thử nghiệm] [giả thuyết] [trong] [nghiên cứu] [của] [họ] , [tạo] [nền móng] [cho] [công cụ] [Google] [hiện đại] [bây giờ] ( [http] : / / [www.google.com] ) . 
+
+[Tên miền] [www.google.com] [được] [đăng ký] <date> [ngày] [15] [tháng] [9] [năm] [1997] </date> . 
+
+[Họ] [chính thức] [thành lập] <org> [công ty] [Google] </org> , [Inc] . <date> [ngày] [7] [tháng] [9] [năm 1998] </date> [tại] [một] [ga ra] [của] [nhà] [một] [người] [bạn] [tại] <loc> [Menlo Park] , [California] </loc> . 
+
+[Trong] <date> [tháng] [2] [năm] [1999] </date> , [trụ sở] [dọn] [đến] <loc> [Palo Alto] </loc> , [là] [thành phố] [có] [nhiều] [trụ sở] [công ty] [công nghệ] [khác] . 
+
+[Sau] [khi] [đổi] [chỗ] [hai] [lần] [nữa] [vì] [công ty] [quá] [lớn] , [trụ sở] [nay] [được] [đặt] [tại] <loc> [Mountain View] , [California] </loc> [tại] [địa chỉ] <loc> [1600] [Amphitheater Parkway] </loc> [vào] <date> [năm] [2003] </date> . 
+
+[Công cụ] [tìm kiếm] [Google] [được] [nhiều] [người] [ủng hộ] [và] [sử dụng] [vì] [nó] [có] [một cách] [trình bày] [gọn] [và] [đơn giản] [cũng như] [đem] [lại] [kết quả] [thích hợp] [và] [nâng] [cao] . 
+
+[Trong] <date> [năm] [2000] </date> , <org> [Google] </org> [đã] [bắt đầu] [bán] [quảng cáo] [bằng] [từ khóa] [để] [đem] [lại] [kết quả] [thích hợp] [hơn] [cho] [người] [dùng] . 
+
+[Những] [quảng cáo] [này] [chỉ] [dùng] [văn] [chứ] [không] [dùng] [hình] [để] [giữ] [chất] [đơn giản] [của] [trang] [và] [tránh] [sự] [lộn xộn] [và] [đồng thời] [để] [trang] [được] [hiển thị] [nhanh] [hơn] . 
+
+<org> [Google] </org> [nhận] [được] [bằng sáng chế] [cho] [kỹ thuật] [sắp xếp] [trang web] [PageRank] <date> [ngày] [4] [tháng] [9] [năm] [2001] </date> . 
+
+[Bằng] [đưa] [quyền] [cho] <org> [Đại học] [Stanford] </org> [và] [liệt kê] <per> [Larry Page] </per> [là] [người] [sáng chế] . 
+
+[Trong] <date> [tháng] [2] [năm 2003] </date> <org> [Google] </org> [mua] [được] <org> [Pyra Labs] </org> , [công ty] [chủ] [của] [Blogger] , [một] [trong] [những] [website] [xuất bản] [weblog] [lớn] [nhất] . 
+
+[Đầu] <date> [năm] [2004] </date> , [khi] <org> [Google] </org> [ở] [tột đỉnh] , <org> [Google] </org> [đã] [xử lý] [trên] [80%] [số lượng] [tìm kiếm] [trên] [Internet] [qua] [website] [của] [họ] [và] [các] [website] [của] [khách hàng] [như] <org> [Yahoo] </org> , <org> [AOL] </org> , [và] <org> [CNN] </org> .
+
+[Sau] [khi] <org> [Yahoo] ! </org> [bỏ] <org> [Google] </org> [để] [dùng] [kỹ thuật] [họ] [tự] [sáng chế] [vào] <date> [tháng] [2] [năm] [2004] </date> , [số] [này] [đã] [bị] [tuột] [xuống] . 
+
+[Phương châm] [của] <org> [Google] </org> [là] " [Không] [làm] [ác] " ( [Don] ' [t] [be] [evil] ) . 
+
+[Biểu trưng] [của] [họ] [có khi] [được] [sửa đổi] [một cách] [dí dỏm] [vào] [dịp] [những] [ngày] [đặc biệt] [như] [ngày] [lễ] [hay] [sinh nhật] [của] [một] [nhân vật] [quan trọng] . 
+
+[Giao diện] [của] [Google] [gồm] [trên] [100] [ngôn ngữ] , [kể cả] [tiếng] [Việt] [và] [một số] [ngôn ngữ] [dí dỏm] [như] [tiếng] [Klingon] [và] [tiếng] [Leet] . 
+
+[Vào] [ngày] [Cá] [tháng] [tư] ( [tiếng] [Pháp] : [poisson] [d] ' [avril] , [tiếng] [Anh] : [April Fool] ' [s] [Day] ) [Google] [thường] [tung] [ra] [nhiều] [tin] [hài hước] [về] [công ty] . 
+
+[Từ] <date> [năm] [2001] </date> , <org> [Google] </org> [đã] [mua] [được] [nhiều] [công ty] [nhỏ] [mới] [thành lập] , [thường] [là] [công ty] [có] [nhiều] [sản phẩm] [và] [đội ngũ] [nhân viên] [tốt] . 
+
+[Một] [trong] [những] [công ty] [mà] <org> [Google] </org> [mua] [lại] [sớm] [nhất là] <org> [Pyra Labs] </org> . 
+
+[Họ] [chính] [là] [những] [người] [sáng tạo] [ra] [Blogger] , [một] [nền tảng] [của] [việc] [xuất bản] [weblog] , [giới thiệu] [lần] [đầu tiên] [vào] <date> [năm] [1999] </date> . 
+
+<org> [Pyra Labs] </org> [ban đầu] [được] [lập] [ra] [bởi] <per> [Evan Williams] </per> , [khi] [anh] [này] [rời] <org> [Google] </org> [vào] <date> [năm] [2004] </date> . 
+
+[Đầu] <date> [năm] [2006] </date> , <org> [Google] </org> [mua] [lại] <org> [Upstartle] </org> , [một] [công ty] [chịu] [trách nhiệm] [xử lý] [từ ngữ] [trên] [mạng] , [Writely] . 
+
+[Công nghệ] [của] [sản phẩm] [này] [rốt cuộc] [đã] [được] <org> [Google] </org> [sử dụng] [để] [tạo] [ra] [Google Docs] [&] [Spreadsheets] . 
+
+<date> [Tháng] [2] [năm] [2006] </date> , <org> [công ty] [phần mềm] [Adaptive Path] </org> [bán] [Measure Map] , [một] [ứng dụng] [thống kê] [weblog] [cho] <org> [Google] </org> . 
+
+[Cuối] <date> [năm] [2006] </date> , <org> [Google] </org> [mua] [lại] [trang web] [chia sẻ] [video] [trực tuyến] [YouTube] [với] [giá] [1,65 tỷ] [USD] [bằng] [cổ phần] . 
+
+[Không] [lâu] [sau] , <date> [31] [tháng] [10] [năm] [2006] </date> , <org> [Google] </org> [công bố] [họ] [đã] [mua] [lại] <org> [Jotspot] </org> , [một] [nhà phát triển] [của] [công nghệ] [wiki] [cho] [các] [website] [cộng đồng] . 
+
+<date> [Ngày] [13] [tháng] [4] [năm] [2007] </date> , <org> [Google] </org> [đạt] [được] [thỏa thuận] [mua] [lại] <org> [DoubleClick] </org> .

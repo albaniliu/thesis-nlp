@@ -1,0 +1,31 @@
+ <per> [Andrew]  " [Andy] " [Murray] </per> ( [sinh] <date> [ngày] [15] [tháng] [5] [năm] [1987] </date> [tại] <loc> [Glasgow] </loc> ) [là] [một] [tay vợt] [người] <loc> [Scotland] </loc> , [hiện nay] , <per> [Murray] </per> [là] [tay vợt] [Anh] [có] [thứ hạng] [cao] [nhất] [trong] [bảng] [xếp hạng] [ATP] . 
+
+[Hiện nay] <per> [Murray] </per> [đứng] [hạng] [3] [trên] [bảng] [xếp hạng] [ATP] . 
+
+<date> [Năm] [2005] </date> , [Andy] [giành] [được] [giải] [Nhân vật] [thể thao] <loc> [Scotland] </loc> [trong] [năm] [của] [BBC] ( <org> [BBC] [Scotland Sports Personality] [of] [the] [Year] </org> ) . 
+
+[Anh] [của] <per> [Andy] </per> [là] <per> [Jamie Murray] </per> [là] [cũng] [là] [một] [tay vợt] , [thường] [thi đấu] [ở] [thể loại] [đánh đôi] . 
+
+[Hiện tại] , [huấn luyện viên] [của] <per> [Murray] </per> [là] <per> [Miles Maclagan] </per> . 
+
+[Trước đây] , [anh] [cũng] [từng] [được] [huấn luyện] [bởi] [huấn luyện viên] [người] [Mỹ] [nổi tiếng] <per> [Brad Gilbert] </per> . 
+
+<per> [Murray] </per> [từng] [là] [học sinh] [của] <loc> [trường] [tiểu học]  [Dunblane] </loc> [từ] <date> [năm] [1992] </date> [đến] <date> [năm] [1999] </date> . 
+
+<date> [Năm] [1999] </date> , [anh] [học] [ở] <loc> [trường] [trung học] [Dunblane] </loc> . 
+
+[Năm 11] [đến] [13] [tuổi] , <per> [Andy] </per> [là] [thành viên] [của] [3] [đội] [quần vợt] [nhỏ tuổi] [tại] [câu lạc bộ] <org> [Next Generation] </org> [ở] <<loc> [Newhaven]  , [Edinburgh] </loc> - [nơi] [anh] [thi đấu] [thường xuyên] . 
+
+[Vào] [tuổi] [14] , <per> [Murray] </per> [đến]  <loc> [Barcelona] </loc>  [ở] <loc> [Tây Ban Nha] </loc> , [nơi] [anh] [đã] [học] <loc> [truờng] [Schiller International] </loc> [và] [tập luyện] [trên] [mặt] [sân] [đất] [nện] [của] <loc> [học viện] [Sanchez-Casal] </loc> , [nơi] [mà] [anh] [được] [cho] [biệt danh] " <per> [Lazy English] </per> " ( [người] [Anh] [lười] ) . 
+
+<per> [Murray] </per> [giành] [giải] [nam] [trẻ] [tại] [US] [Open] <date> [năm] [2004] </date> [và] [tốt nghiệp] [sau] [đó] [một] [năm] . 
+
+<date> [Tháng] [3] [năm] [2005] </date> , [lần] [đầu tiên] <per> [Andy] </per> [được] [gọi] [vào] [đội tuyển] <org> [Davis Cup] </org> [của] <loc> [Anh] </loc> [và] [trở thành] [tay vợt] [trẻ] [tuổi] [nhất] [của] <loc> [Anh] </loc> [tham dự] [Davis Cup] . 
+
+<per> [Murray] </per> [và] <per> [David Sherwood] </per> [đã] [thắng] [cặp] [đôi] [của] <loc> [Israeli] </loc> - [lúc] [đó] [đang] [đứng] [thứ] [8] [thế giới] , [vào] [đến] [bán kết] [Winbledon] <date> [năm] [2003] </date> , [giúp] [đội tuyển] [giành] [chiến thắng] [3-2] . 
+
+[Tay vợt] [người] <loc> [Anh] </loc> [này] [vào] [đến] [bán kết] [giải] [trẻ] <loc> [Pháp] </loc> [mở rộng] , [để] [thua] [tay vợt] [người] <per> [Croatia Marin Cilic] </per> . 
+
+[Điều] [này] [chứng tỏ] [đây] [là] [bước] [đột phá] [cuối cùng] [của] [anh] [tại] [giải] [trẻ] [Grand Slam] . 
+
+<per> [Murray] </per> [tham gia] [hầu hết] [tất cả] [các] [kết quả] [ATP] [tour] [đều] [đến] [từ] [mặt] [sân cỏ] [và] [mặt] [sân] [cứng] , [mặt] [dù] [anh] [thích] [chơi] [trên] [sân] [đất] [nện] .

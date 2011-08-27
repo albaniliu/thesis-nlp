@@ -1,0 +1,91 @@
+<org> [Werder Bremen] </org> [là] [một] [câu lạc bộ] [bóng đá] <loc> [Đức] </loc> [hiện] [đang] [chơi] [tại] <loc> [German Bundesliga] </loc> [được] [biết] [như] [đội] [bóng] [nổi tiếng] [nhất] [của] [thành phố] <loc> [Bremen] </loc> [nói riêng] [và] [của] [nước] <loc> [Đức] </loc> [nói chung] . 
+
+<org> [Bremen] </org> [được] [thành lập] [vào] <date> [ngày] [4] [tháng] [2] [năm 1889] </date> [với] [cái] [tên] <org> [Fu] [ß] [ballverein] [Werder] </org> [bởi] [một] [nhóm] [gồm] [16] [học sinh] [trường] [dạy] [nghề] . 
+
+[Những] [người] [này] [đã] [đặt] [cái] [tên] [đội] [bóng] [theo] [tiếng địa phương] <loc> [Đức] </loc> [để] [miêu tả] [một] [bờ] [sông] , [nơi] [họ] [lần] [đầu] [chơi] [bóng] [cùng] [nhau] . 
+
+[Đội] [bóng] [tiền thân] <org> [SV] [Werder] </org> [chơi] [trận] [đấu] [đầu tiên] [của] [họ] [vào] <date> [ngày] [10] [tháng] [9] [năm 1899] </date> [gặp] <org> [ASC] [1898] [Bremen] </org> [và] [ra] [về] [với] [chiến thắng] [1] - [0] . 
+
+[Vào] <date> [năm] [1900] </date> <org> [FV] [Bremen] </org> [là] [thành viên] [của] <org> [liên đoàn] </org> [bóng đá] <loc> [Đức] </loc> [từ] [khi] [mới] [thành lập] [ở] <loc> [Leipzig] </loc> . 
+
+[Đội] [bóng] [sau] [đó] [đã] [có] [một số] [thành công] [sớm] , [tham dự] [vào] [nhiều] [giải] [đấu] [và] [vô địch] [một số] [giải] [địa phương] . 
+
+[FV] [tham dự] [vào] [giải] [Fussball Verband] ( [NFV] ) , [một] [trong] [7] [giải] [đấu] [khu vực] [sau] [khi] [chuyển] [sang] [thế kỉ] [mới] , [nhưng] [không thể] [tiến hành] . 
+
+[Họ] [trở thành] [đội] [bóng] [đầu tiên] [thu] [tiền] [khán giả] [để] [được] [vào] [xem] [họ] [thi đấu] [và] [dựng] [hàng rào] [trong] [sân đấu] [của] [họ] . 
+
+[Vào] <date> [tháng] [4] [năm] [1914] </date> , [đội] [bóng] [trở thành] [một] [phần] [của] <org> [Allgemeiner Bremer Turnverein] </org> [1860] [và] [được] [biết] [tới] [với] [tên] <org> [Sportabteilung Werder] [des] [ABTV] </org> . 
+
+[Tuy nhiên] , [mối] [quan hệ] [chỉ] [tồn tại] [được] [trong] [một] [thời gian] [ngắn] [và] [hai] [đội] [bóng] [lại] [tách] [ra] [sau] [gần] [2] [tháng] . 
+
+[Sự] [phát triển] [vững chãi] [sau] [Chiến tranh] [thế giới] [thứ] [nhất] [đã] [đưa] [câu lạc bộ] [tới] [với] [những] [môn] [thể thao] [khác] [và] [vào] <date> [ngày] [19] [tháng] [1] [năm] [1920] </date> [họ] [đội] [tên] [thành] [cái] [tên] [hiện tại] <org> [Sportverein Werder Bremen] </org> . 
+
+[Bóng] [đã] [vẫn] [còn] [quan tâm] [nhiều] [tới] [thời kì] [đầu] [của] [họ] [bởi] [vào] <date> [năm] [1922] </date> [họ] [là] [đội] [bóng] <loc> [Đức] </loc> [đầu tiên] [thuê] [một] [huấn luyện viên] [chuyên nghiệp] . 
+
+[Đội] [bóng] [thường xuyên] [góp mặt] [trong] [những] [năm] [cuối] [của] [NFV] [vào] [những] <date> [năm] [1920] </date> [và] [đầu] [những] <date> [năm] [1930] </date> [nhưng] [không] [giành] [được] [thành công] [nào] . 
+
+[Bóng đá] <loc> [Đức] </loc> [được] [tổ chức] [lại] [dưới] [thời] <loc> [Đức] </loc> [quốc] [xã] [vào] <date> [năm] [1933] </date> [lập] [nên] [giải] [đấu] [hạng] [cao] [nhất] [với] [16] [đội] [có] [tên] <org> [Gauligen] </org> [và] <org> [Werder Bremen] </org> [là] [thành viên] [của] [giải] [Gauliga Niedersachsen] . 
+
+[Đội] [bóng] [giành] [được] [thành công] [thật sự] [đầu tiên] [của] [họ] , [giành] [ngôi] [vô địch] [những] <date> [năm] [1934] </date> , <date> [1936] </date> [và] <date> [1937] </date> , [và] [tham dự] [vào] [vòng] [đấu loại] [trực tiếp] [lần] [đầu tiên] [để] [lên] [chơi] [ở] [giải] [vô địch] [quốc gia] . 
+
+[Cấu trúc] [của] [giải] [Gauligen] [được] [thay đổi] [qua] [quãng] [thời gian] [chiến tranh] [thế giới] [thứ hai] [và] [năm] <date> [năm] [1939] </date> [giải] [Gauliga Niedersachsen] [được] [tách] [thành] [hai] [hạng] [đấu] . 
+
+<org> [SV] </org> [chơi] [ở] [giải] [Gauliga Niedersachsen] / [Nord] [nơi] [họ] [có] [chức] [vô địch] [thứ] [4] <date> [năm] [1942] </date> . 
+
+[Do] [chiến tranh] [diễn] [ra] [trên] [toàn] [đất nước] , [giải] [Gauligen] [mang] [tính chất] [địa phương] [ngày một] [cao] [hơn] . 
+
+[Giải Gauliga Niedersachsen] / [Nord] [trở thành] [giải] [Gauliga Weser] - [Ems] [và] [sau] [đó] [là] [giải] [Gauliga Weser] - [Ems/Bremen] [trong] [2] [năm] [sau] [đó] . 
+
+[Mùa] [giải] [1944-45] [của] <org> [Werder] </org> [bị] [dừng] [lại] [chỉ] [sau] [2] [trận] . 
+
+[Giống] [những] [giải] [đấu] [khác] [trên] [toàn] [nước] [Đức] , [đội] [bóng] [bị] [giải tán] [do] [sự] [chiếm đóng] [của] [những] [quân] [đồng minh] [hùng mạnh] [sau] [cuộc chiến] . 
+
+[Họ] [được] [thành lập] [lại] [vào] <date> [ngày] [10] [tháng] [11] [năm] [1945] </date> [với] [tên] <org> [Turn-und] [Sportverein Werder] </org> [1945] [Bremen] , [cái] [tên] [sau] [đó] [được] [chuyển] [thành] <org> [Sport-Club] [Gr] [ü] [n-Wei] [ß] [99] [Bremen] </org> [vào] <date> [ngày] [4] [tháng] [2] [năm] [1946] </date> . 
+
+[Đội] [bóng] [chơi] [ở] [giải] [Stadtliga Bremen] , [và] [sau] [khi] [giành] [danh hiệu] [ở] [đó] , [họ] [tham dự] [giải] [vô địch] [phía] [bắc] <org> [Đức] </org> , [vào] [tới] [vòng] [tứ kết] . 
+
+[Họ] [được] [đặt] [lại] [cái] [tên] <org> [SV] [Werder] </org> [vào] <date> [ngày] [25] [tháng] [3] [năm] [1946] </date> [trước] [khi] [tham dự] [vào] [trận] [playoff] . 
+
+[Vào] [thời điểm] [đó] , [bóng đá] [chuyên nghiệp] [bị] [cấm] [ở] [các] [trận] [đấu] [ở] <loc> [Đức] </loc> , [do vậy] [các] <job> [cầu thủ] </job> [thường] [làm] [những] [công việc] [khác] , [thường] [là] [cho] [các] [nơi] [ở] [trong] [vùng] [của] [câu lạc bộ] . 
+
+[Trong] [trường hợp] [của] <org> [Werder] </org> , [một số] <job> [cầu thủ] </job> [làm việc] [ở] [công ty] [sợi] [thuốc lá] , [do vậy] [họ] [được] [đặt] [biệt danh] [Texas] [11] [theo] [tên] [của] [một] [trong] [những] [loại] [thuốc lá] [nổi tiếng] [của] [công ti] . 
+
+[Trong] [khoảng] [thời gian] [giữa] [cuộc] [chiến tranh] [và] [sự] [thành lập] [của] <org> [Bundesliga] </org> [vào] <date> [năm] [1963] </date> [đội] [bóng] [tiếp tục] [thi đấu] [tốt] , [được] [đánh giá] [là] [một] [trong] [2] [đội] [bóng] [hàng đầu] [của] [miền] <loc> [Bắc Đức] </loc> [cùng] <org> [Hamburg] [SV] </org> . 
+
+[Vào] <date> [năm] [1961] </date> [họ] [có] [danh hiệu] [cúp] [quốc gia] <loc> [Đức] </loc> [đầu tiên] . 
+
+[Màn] [trình diễn] [của] [họ] [đủ] [để] [họ] [có] [một] [vị trí] [đặc quyền] [ở] <org> [Bundesliga] </org> , [và] [ở] [giải] [VĐQG] [họ] [có] [lần] [thứ hai] [vô địch] . 
+
+[Họ] [về] [đích] [ở] [vị trí] [thứ] [nhì] [mùa] [giải] [1967-68] , [nhưng] [sau] [đó] [lại] [sa sút] [và] [về] [đích] [ở] [vị trí] [giữa] [bảng] [xếp hạng] [trong] [khoảng] [hơn] [10] [mùa] [giải] [sau] [đó] . 
+
+[Nhằm] [cải thiện] [phong độ] [họ] [đã] [mua] [một] [loạt] [tài năng] [giá] [cao] [để] [tạo] [ra] [sự] [đổi mới] , [họ] [được] [gán] [biệt danh] [Triệu phú] [và] [có] [một] [đội hình] [đắt giá] . 
+
+[Câu lạc bộ] [bị] [đánh bật] [ra] [khỏi] <org> [Bundesliga] </org> [lần] [đầu tiên] [và] [cũng] [là] [duy nhất] , [bị] [xuống] [hạng] [hai] [Bundesliga-Nord] [ở] [mùa] [giải] [1980-81] [sau] [khi] [về] [đích] [ở] [vị trí] [thứ] [17] . 
+
+<org> [Werder Bremen] </org> [lấy] [lại] [phong độ] [dưới] [sự] [dẫn dắt] [của] <per> [Otto Rehhagel] </per> , [người] [dẫn dắt] [đội] [bóng] [tới] [những] [thành công] : [về] [nhì] [Bundelsiga] <date> [1983] </date> , <date> [1985] </date> [và] <date> [1986] </date> , [vô địch] <date> [năm] [1988] </date> ; [xuất hiện] [ở] [chung kết] [DFB-Pokal] <date> [1989] </date> [và] <date> [1990] </date> [với] [một] [chức] [vô địch] [ở] [đó] <date> [năm] [1991] </date> ; [theo] [sau] [đó] [là] [chức] [vô địch] [Siêu] [cúp] [bóng đá] <loc> [châu] [Âu] </loc> <date> [1992] </date> . 
+
+[Vào] <date> [năm] [1993] </date> , [câu lạc bộ] [có] [danh hiệu] [vô địch] <org> [Bundesliga] </org> [lần] [thứ] [3] [và] [trong] [năm] [sau] [đó] , [họ] [có] [Cúp] [quốc gia] [thứ] [3] . 
+
+<per> [Rehhagel] </per> [rời] [đội] [bóng] [vào] <date> [tháng] [6] [năm] [1995] </date> [sau] [quãng] [thời gian] [ấn tượng] [này] [và] [có] [một] [thời gian] [ngắn] [ở] <org> [Bayern Munich] </org> . 
+
+[Ảnh hưởng] [của] [sự] [ra đi] [của] <per> [Rehhagel] </per> [xảy] [đến] [tức thì] , [và] [những] <job> [huấn luyện viên] </job> [kế nhiệm] ( <per> [Aad] [de] [Mos] </per> , <per> [Dixie] [Dö] [rner] </per> , <per> [Wolfgang Sidka] </per> [và] <per> [Felix Magath] </per> ) [dẫn dắt] [đội] [bóng] [tới] [những] [vị trí] [khó] [có thể] [chấp nhận] . 
+
+[Vào] <date> [tháng] [5] [năm] [1999] </date> [cựu] <pos> [hậu vệ] </pos> [và] <job> [huấn luyện viên] </job> [nghiệp dư] <per> [Thomas Schaaf] </per> [tiếp quản] [đội] [bóng] [và] [giúp] [đội] [bóng] [tránh] [xuống] [hạng] [và] [đưa] [đội] [bóng] [đến] [chức] [vô địch] [quốc gia] [vài] [tuần] [sau] . 
+
+[Phong] [đội] [của] [toàn] [đội] [được] [cải thiện] [trong] [những] [mùa] [giải] [sau] [đó] [khi] [họ] [thường xuyên] [đứng] [ở] [nửa] [trên] [bảng] [xếp hạng] . 
+
+[Vào] <date> [năm] [2004] </date> , [họ] [giành] [đượ] [cả] [chức] [vô địch] [Bundesliga] [và] [DFB-Pokal] - [một] [trong] [4] [đội] [bóng] <loc> [Đức] </loc> [giành] [được] [cú] [ăn] [đôi] . 
+
+[Sự thể] [hiện] [của] [họ] [giúp] [họ] [được] [tham dự] [cúp] [C1] [2004-05] [và] [vào] [tới] [vòng] [16] [đội] [trước] [khi] [bị] [loại] [bởi] [Olympique Lyonnais] [với] [tổng] [tỉ số] [10-2] . 
+
+<org> [Werder] </org> [lại] [được] [tham dự] [cúp] [C1] [vào] <date> [năm] [2005] </date> , [lần] [này] [họ] [bị] <org> [Juventus] </org> [loại] [với] [luật] [bàn] [thắng] [sân khách] [sau] [khi] [hoà] [nhau] [với] [tổng] [tỉ số] [4-4] . 
+
+[Một] [vị trí] [thứ] [2] [ở] [giải] [VĐQG] [đảm bảo] [xuất] [dự] [Champions League] [cho] [họ] . 
+
+[Ở] [mùa] [giải] [2006-07] , <org> [Werder Bremen] </org> [là] " [nhà vô địch] [mùa đông] " [sau] [khi] [đứng] [đầu bảng] [ở] <org> [Bundesliga] </org> [trước] [kì] [nghỉ] [đông] , [nhưng] [cuối cùng] [vẫn] [về] [đích] [ở] [vị trí] [thứ] [3] [sau] [khi] <org> [VfB] [Stuttgart] </org> [và] <org> [Schalke] </org> [04] . 
+
+[Vị trí] [thứ ba] [ở] [vòng] [bảng] [cúp] [C1] [đã] [đẩy] <org> [Bremen] </org> [xuống] [cúp] [UEFA] [sau] [khi] [thua] [trước] <org> [RCD] [Espanyol] </org> . 
+
+[Sau] [mùa] [giải] [đó] <org> [Bremen] </org> [để] [mất] <pos> [tiền đạo] </pos> [chủ lực] <per> [Miroslav Klose] </per> [vào] [tay] <org> [Bayern Munich] </org> . 
+
+[Ở] [mùa] [giải] [trước] [đó] <org> [Bayern] </org> [kết thúc] [ở] [vị trí] [thứ ba] [ở] [vòng] [bảng] [cúp] [C1] , [nhưng] [lần] [này] [họ] [thua] [ở] [vòng] [1/16] [trước] <org> [Rangers] [FC] </org> .

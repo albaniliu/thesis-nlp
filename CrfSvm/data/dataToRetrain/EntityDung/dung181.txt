@@ -1,0 +1,23 @@
+ <per> [Lucimar Ferreira]  [da] [Silva] </per> ( [sinh] <date> [ngày] [8] [tháng] [5] , [1978] </date> [tại] <loc> [Brasília] </loc> ) , [thường] [gọi] <per> [Lúcio] </per> , [là] <pos> [một] [hậu vệ] </pos> [bóng đá] [người] <loc> [Brasil] </loc> [hiện] [đang] [chơi] [cho] <org> [Inter Milan] </org> [và] [là] <pos> [đội trưởng] </pos> [tuyển] <loc> [Brasil] </loc> . 
+
+<per> [Lucio] </per> [nổi tiếng] [thế giới] [kể] [từ] [khi] [anh] [có mặt] [trong] [đội hình] [tuyển] <loc> [Brasil] </loc> [vô địch] [World Cup] [2002] . 
+
+[Anh] [đã] [cưới] [cô] <per> [Dione] </per> [và] [có] [3] [con] : <per> [Victoria] </per> , <per> [João Victor] </per> , <per> [Valentinna] </per> . [ [1] ] [Anh] [là] [một] [trong] [những] <pos> [trung vệ] </pos> [giỏi] [nhất] [của] [tuyển] <loc> [Brasil] </loc> [và] [là] <job> [cầu thủ] </job> [chủ chốt] [của] [hàng] [thủ] [đội] [bóng] [này] . 
+
+[Anh] [còn] [được] [biết] [tới] [với] [khả năng] [tấn công] , [khi] [thường xuyên] [có mặt] [trên] [phần] [sân] [đối thủ] , [sử dụng] [những] [tố chất] [kỹ thuật] [và] [trình độ] [không chiến] [để] [ghi bàn] . 
+
+[Vào] [kỳ] [World Cup] [2002] , [trong] [trận] [gặp] <loc> [Anh] </loc> , <per> [Lúcio] </per> [đã] [phạm] [một] [sai lầm] [để] [cho] <per> [Michael Owen] </per> [ghi bàn] [mở] [tỉ số] . 
+
+<per> [Scolari] </per> [đã] [bảo vệ] [anh] [trước] [những] [sự] [chỉ trích] , [và] [từ] [đó] [tới] [cuối] [giải] [anh] [không] [mắc] [một] [sai lầm] [nào] [nữa] . 
+
+[Trong] [trận] [chung kết] [gặp] [tuyển] <loc> [Đức] </loc> , <per> [Lúcio] </per> [gặp] [vấn đề] [trong] [một] [pha] [sút] [phạt] [trực tiếp] , [nhưng] [vẫn] [ở] [lại] [chơi] [cho] [đủ] [tổng cộng] [630] [phút] [tại] [giải] [này] . 
+
+[Anh] [là] [một] [trong] [ba] <job> [cầu thủ] </job> [hoạt động] [tốt] [ở] [hàng] [thủ] , [cùng với] <pos> [thủ môn] </pos> [Marcos] [và] <pos> [hậu vệ] </pos> [cánh] [phải] [Cafu] . 
+
+[Trước] [đó] , [anh] [từng] [chơi] [cho] <loc> [Brasil] </loc> [tại] [giải] [football] [tournament] [ở] [Olympic Sidney] [2000] . 
+
+[Tại] [giải] [này] [anh] [chơi] [ở] [vị trí] [trung phong] . 
+
+[Tại World Cup] [2006] , [anh] [lập] [một] [kỷ lục] [FIFA] [sau] [khi] [chơi] [386] [phút] [liên tục] [mà] [không] [mắc] [lỗi] , [thời gian] [có thể] [hơn] [nhưng] <loc> [Brasil] </loc> [đã] [để] <loc> [Pháp] </loc> [đánh bại] [1] - [0] [ở] [trận] [tứ kết] . 
+
+[Vào] <date> [tháng] [8] [năm] [2006] </date> , <per> [Lúcio] </per> [được] <job> [huấn luyện viên] </job> [đương nhiệm] <per> [Dunga] </per> [giao] [cho] [chiếc] [băng] <pos> [đội trưởng] </pos> .

@@ -1,0 +1,27 @@
+<per> [Thierry Daniel Henry] </per> ( [sinh] <date> [ngày] [17] [tháng] [8] [năm] [1977] </date> [tại]  <loc> [Paris]  , [Pháp] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] <loc> [người] [Pháp] </loc> . 
+
+[Nổi tiếng] [vì] [tốc độ] [của] [mình] , <per> [Henry] </per> [hiện] [đang] [chơi] [ở] [vị trí] <pos> [tiền đạo] </pos> [cho] <org> [Đội tuyển] [bóng đá] [quốc gia] [Pháp] </org> [và] [câu lạc bộ] <loc> [Tây Ban Nha] </loc> <org> [Barcelona] </org> . 
+
+<per> [Henry] </per> [được] [câu lạc bộ] <org> [AS] [Monaco] </org> [ký] [hợp đồng] <date> [năm] [1990] </date> . 
+
+[Anh] [bắt đầu] [sự nghiệp] [bóng đá] [chuyên nghiệp] <date> [năm] [1994] </date> [và] [chơi] [ở] <org> [Monaco] </org> [đến] <date> [năm] [1998] </date> , [phong độ] [tốt] [đã] [giúp] [anh] [được] [gọi] [vào] [đội tuyển] [quốc gia] . 
+
+[Sau] [đó] , <per> [Henry] </per> [chuyển] [tới] [chơi] [cho] [câu lạc bộ] [bóng đá] [lớn] <org> [Juventus] </org> [tại] <loc> [Ý] </loc> , [nhưng] [sau] [một] [mùa] [giải] [thất vọng] [chơi] [ở] [vị trí] <pos> [tiền vệ] [cánh] </pos> , [anh] [gia nhập] [câu lạc bộ] [Anh] <org> [Arsenal] </org> [với] [giá] [chuyển nhượng] [10,5] [triệu] [bảng] [Anh] <date> [năm] [1999] </date> . 
+
+[Sự nghiệp] [huy hoàng] [của] <per> [Thierry Henry] </per> [gắn] [liền] [với] <org> [Arsenal] </org> . 
+
+[Tại] [đây] [anh] [đã] [tạo dựng] [được] [tên tuổi] [cũng như] [thương hiệu] [của] [mình] . 
+
+[Những] [bàn] [thắng] , [những] [pha] [đi] [bóng] [tuyệt vời] [chinh phục] [tất cả] [những] [người] [khó tính] [nhất] . 
+
+[Những] [biệt danh] " [Đứa] [con] [của] [thần] [gió] " , " [người] [săn tìm] [những] [bàn] [thắng] [đẹp] " [đã] [được] [đặt] [cho] [anh] [bởi] [những] [phẩm chất] [cùng] [những] [pha] [bóng] [tuyệt vời] [của] <per> [Henry] </per> . 
+
+[Thời] [niên thiếu] <per> [Henry] </per> [thi đấu] [cho] [một số] [đội] [bóng] [nghiệp dư] <org> [Les Ulis] </org> , <org> [Pallaiseau] </org> , <org> [Viry Chatillon] </org> . 
+
+[Năm] [15] [tuổi] [anh] [được] [tuyển] [vào] [học viện] [bóng đá] [danh tiếng] <org> [Claire Fontaine] </org> [cùng] [lứa] [với] [những] <per> [Trezeguet] </per> , <per> [Gallas] </per> ... 
+
+[Anh] [bắt đầu] [thi đấu] [chuyên nghiệp] [từ] <date> [năm] [1995] </date> [cho] <org> [Monaco] </org> , [tại] [đây] [anh] [đã] [phần nào] [thể hiện] [được] [khả năng] [của] [mình] [bằng] [20] [bàn] [thắng] [trong] [110] [lần] [được] [ra] [sân] ( [tỉ lệ] [5.5] [trận/bàn] ) , [cùng với] [CLB] [đoạt] [được] [1] [chức] [Vô địch] [quốc gia] [và] [1] [Cúp] [quốc gia] <loc> [Pháp] </loc> . 
+
+<date> [Năm] [1998] </date> [anh] [chuyển] [sang] [câu lạc bộ] <org> [Juventus] </org> [sau] [khi] [toả] [sáng] [bằng] [3] [bàn] [thắng] [ở] [World Cup] ( [2] [trong] [trận] [gặp] <org> [Ả] [Rập Saudi] </org> [và] [1] [trong] [trận] [gặp] <org> [Nam Phi] </org> ) . 
+
+[Nhưng] [tại] [đây] [anh] [đã] [không] [thích nghi] [được] [với] [lối] [chơi] [của] <org> [Juve] </org> [và] [chỉ] [ghi] [được] [3] [bàn] [qua] [16] [trận] ( [tỉ lệ] [5.3] [trận/bàn] ) .

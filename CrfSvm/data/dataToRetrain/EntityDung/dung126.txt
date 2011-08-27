@@ -1,0 +1,29 @@
+<per> [Luís Carlos Almeida] [da] [Cunha] </per> ( [sinh] <date> [ngày] [17] [tháng] [11] [năm] [1986] </date> [tại]  <loc> [Praia] , [Cape Verde] </loc> ) , [được] [biết] [với] [tên] <per> [Nani] </per> , [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Bồ Đào Nha] </loc> . 
+
+<per> [Nani] </per> [đang] [thi đấu] [cho] [CLB] [bóng đá] [Ngoại hạng] [Anh] <org> Manchester United] </org> [và] <org> [Đội tuyển] [bóng đá] [quốc gia] [Bồ Đào Nha] </org> 
+
+[Cái] [tên] <per> [Nani] </per> [là] [do] [chị gái] [của] [anh] [đặt để] [dễ] [giao tiếp] [hơn] [so] [với] [tên] [gọi] [quá] [dài] [khi] [xưa] <per> [Luís Carlos Almeida] [da] [Cunha] </per> . 
+
+[Gia đình] <per> [Nani] </per> [di cư] [từ] <loc> [Praia] </loc> [đến] <loc> [Bồ Đào Nha] </loc> [rất] [sớm] . 
+
+<per> [Nani] </per> [được] [nuôi dưỡng] [bởi] [người] [dì] [ở] <loc> [quận] [Amadora] , [thủ đô] [Lisbon] </loc> . 
+
+[Khi] [còn] [thơ ấu] [anh] [thường] [chơi] [bóng] [với] [người] [bạn] <per> [Manuel Fernandes] </per> , [hiện] [đang] [là] <job> [cầu thủ] </job> [đang] [thi đấu] [ở] [vị trí] <pos> [tiền vệ] </pos> [cho] <org> [CLB] [Valencia] </org> . 
+
+<per> [Nani] </per> [đam mê] [bóng đá] [từ] [khi] [còn] [nhỏ] [và] [anh] [thường] [chơi] [bóng đá] [ngoài] [đường phố] [sau] [mỗi] [giờ] [đi] [học] [về] . 
+
+[Lúc] [đó] , [anh] [được] [các] [trẻ] [nhỏ] [ở] [đó] [ngưỡng mộ] [với] [kĩ thuật] [cá nhân] [điêu luyện] [và] [tốc độ] [chạy] [đáng] [khen] . 
+
+[Anh] [trưởng thành] [từ] [lò] [đào tạo]  <org> [FC] [Porto] </org>  , [và] [anh] [đã] [chơi] [cho] [đội] [trẻ] [trong] [một] [thời gian] [dài] [trước] [khi] [gia nhập] <org> [CLB] [Sporting Lisbon] </org> . 
+
+<per> [Nani] </per> [chuyển] [sang] [thi đấu] [cho] <org> [Manchester United] </org> [với] [giá] [chuyển nhượng] [không] [được] [tiết lộ] , [nhưng] [nằm] [trong] [khoảng] [từ] [14] [đến] [17] [triệu] [bảng] . 
+
+<per> [Nani] </per> [đã] [vượt] [qua] [kỳ] [kiểm tra] [y tế] [vào] <date> [ngày] [6] [tháng] [6] [năm] [2007] </date> , [và] [sau] [đó] [ký] [hợp đồng] [thi đấu] [5] [năm] [với] <org> [Manchester United] </org> . 
+
+<per> [Nani] </per> [đã] [ghi bàn] [ngày] [trong] [trận] [đấu giao hữu] [trước] [mùa] [giải] [với] <org> [CLB] [Trung Quốc Thượng Hải] </org> , [trận] [đấu] [mà] <org> [MU] </org> [chiến thắng] [với] [tỷ số] [6] - [0] . 
+
+[Anh] [cũng] [ghi bàn] [thắng] [ngay] [trận] [sau] [đó] . 
+
+<per> [Sir Alex Ferguson] </per> [không] [hài lòng] [với] [màn] [ăn mừng] [bằng] [cách] [lộn] [Santo] [vì] [cho] [rằng] [sẽ] [gây] [chấn thương] [cho] <per> [Nani] </per> . 
+
+[Nhưng] [anh] [không] [đồng ý] [và] [cho] [rằng] " [Ông] [ấy] ( <per> [Ferguson] </per> ) [không] [nên] [khuyên] [tôi] , [và] [tôi] [tiếp tục] [sẽ] [ăn mừng] [như thế] [nếu] [ghi] [được] [bàn] [thắng] " . 

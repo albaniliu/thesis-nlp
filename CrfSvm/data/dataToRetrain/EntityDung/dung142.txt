@@ -1,0 +1,35 @@
+<per> [Alessandro] [dos] [Santos] </per> [sinh] <date> [ngày] [20] [tháng] [7] , [1977] </date> [tại] <loc> [Maringá] , [Brasil] </loc> [là] [một] <job> [cầu thủ] </job> [bóng đá] [sinh ra] [tại] <loc> [Brasil] </loc> [và] [chơi] [cho] [Đội tuyển] [bóng đá] [quốc gia] <loc> [Nhật Bản] </loc> . 
+
+[Anh] [đến] <loc> [Nhật Bản] </loc> <date> [năm] [1994] </date> , [trở thành] [công dân]  <loc> [Nhật] </loc>  <date> [năm] [2001] </date> [và] [chơi] [cho] [đội tuyển] <loc> [Nhật] </loc> [tại] [World Cup] [2002] . 
+
+<per> [Alex] </per> [hiện] [đang] [chơi] [cho] [câu lạc bộ] <org> [Urawa Red Diamonds] </org> [của] [J] . 
+
+[League] . 
+
+<per> [Alex] </per> [rời] <loc> [Brasil] </loc> [năm 16] [tuổi] [để] [chơi] [bóng đá] [ở] [trình độ] [trung học] [tại] <loc> [Nhật Bản] </loc> [và] [đã] [gia nhập] [câu lạc bộ] <org> [Shimizu] [S-Pulse] </org> [của] [J] . 
+
+[League] [ngay] [sau] [khi] [học] [xong] [trung học] [năm] [1997] . 
+
+[Vào] <date> [năm] [1999] </date> [anh] [đoạt] [giải] [cầu thủ] [nổi tiếng] [nhất] [năm] [của] [J][League] . 
+
+[Do đó] [khi] [anh] [xin] [vào] [quốc tịch] <loc> [Nhật Bản] </loc> <date> [năm] [2001] </date> , [anh] [đã] [được] [chấp thuận] [nhanh chóng] . 
+
+[Anh] [khoác áo] [lần] [đầu tiên] [cho] [đội tuyển] <loc> [Nhật Bản] </loc> [vào] <date> [ngày] [21] [tháng] [3] [năm] [2002] </date> [trong] [trận] [đấu] [với] <org> [Ukraina] </org> . 
+
+[Anh] [cũng] [được] <job> [huấn luyện viên] </job> <per> [Philippe Troussier] </per> [chọn] [cho] [đội tuyển] <loc> [Nhật Bản] </loc> [để] [tham dự] [Giải] [vô địch] [bóng đá] [thế giới] [của] [năm] [đó] . 
+
+<per> [Alex] </per> [trở thành] [người] [sinh] [tại] [nước ngoài] [thứ hai] [chơi] [cho] <loc> [Nhật Bản] </loc> [tại] [World Cup] ; [người] [đầu tiên] [là] <per> [Wagner Lopes] </per> , [cũng] [sinh] [tại] <loc> [Brasil] </loc> , [đã] [chơi] [cho] [đội tuyển] <loc> [Nhật Bản] </loc> [tại] [World Cup] [1998] . 
+
+[Trước] [Al<per>  </per>ex] [và] <per> [Lopes] </per> [đã] [có] <per> [Ruy Ramos] </per> , [cũng] [sinh] [tại] <loc> [Brasil] </loc> , [trở thành] [công dân] <loc> [Nhật Bản] </loc> [để] [chơi] [cho] [đội tuyển] [quốc gia] <loc> [Nhật Bản] </loc> [trong] <date> [năm] [1994] </date> , [nhưng] <loc> [Nhật Bản] </loc> [đã] [không] [vượt] [qua] [được] [vòng loại] [cho] [World Cup] [1994] [ [1] ] . 
+
+[Vào] <date> [tháng] [8] [năm] [2002] </date> , <per> [Alex] </per> [bằng lòng] [gia nhập] [câu lạc bộ] <org> [Charlton Athletic] </org> [của] [Premier League] . 
+
+[Tuy nhiên] , [vì] [chưa] [có] [đủ] [số] [lần] [khác] [áo] [cho] [một] [đội tuyển] [quốc gia] ( [một] [đòi hỏi] [cho] [tất cả] [các] <job> [cầu thủ] </job> [sinh ra] [ngoài] [Liên minh] <loc> [châu] [Âu] </loc> [muốn] [chơi] [cho] [một] [câu lạc bộ] [tại] <loc> [châu] [Âu] </loc> ) , [anh] [đã] [bị] [chính phủ] <loc> [Anh] </loc> [từ chối] [cấp] [giấy tờ] [cho phép] [hành nghề] ; [anh] , [do đó] , [đã] [phải] [trở lại] [với] <org> [Shimizu] </org> [cho đến] [hết] [mùa] [năm] [đó] . [ [2] ] [Vào] <date> [tháng] [1] [năm] [2004] </date> , [anh] [rời] <org> [Shimizu] </org> [để] [gia nhập] <org> [Urawa Red Diamonds] </org> . 
+
+[Sau] [khi] <per> [Zico] </per> ( [một] [cựu] <job> [cầu thủ] </job> [nổi tiếng] [của] <loc> [Brasil] </loc> ) [trở thành] <job> [huấn luyện viên] </job> [cho] [đội tuyển] [quốc gia] <loc> [Nhật Bản] </loc> , <per> [Alex] </per> [đã] [được] [chọn] [đặc biệt] [cho] [cánh] [bên] [trái] [của] [đội tuyển] <loc> [Nhật Bản] </loc> . 
+
+<per> [Alex] </per> [thường] [giữ] [vị trí] [fullback] [khi] [đội tuyển] [chơi] [với] [hình thái] [4-4] - [2] [hay] [vị trí] [midfield] [khi] [đội tuyển] [chơi] [với] [hình thái] [3-5] - [2] . 
+
+<per> [Alex] </per> [đã] [được] [chọn] [cho] [đội tuyển] <loc> [Nhật Bản] </loc> [tham dự] [World Cup] [2006] . 
+
+[Trong] [vòng] [đấu] [bảng] [của] [World Cup] [2006] , [anh] [đã] [giúp] <per> [Tamada Keiji] </per> [ghi] [một] [bàn] [thắng] [trong] [trận] [đấu] [với] [đội] [nơi] [anh] [sinh ra] , [đội]  <loc> [Brasil] </loc>  .

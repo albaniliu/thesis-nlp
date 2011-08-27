@@ -1,0 +1,39 @@
+<org> [BASF] </org> [là] [một] [công ty] <loc> [Đức] </loc> [đồng thời] [là] [hãng] [hóa chất] [lớn] [nhất] [thế giới] . 
+
+<org> [BASF] </org> [nguyên] [là] [viết] [tắt] [của] [cụm từ] [tiếng] [Đức Badische Anilin] - [und] [Soda-Fabrik] ( [tiếng] [Việt] : [Xí nghiệp] [Anilin] [và] [Sôđa Baden] ) . 
+
+[Ngày nay] [cụm từ] [BASF] [là] [nhãn hiệu] [thương mại] [của] [công ty] , [còn] [bản thân] [công ty] [đã] [niêm yết] [trên] [các] [sàn] [giao dịch] [chứng khoán] [như] <loc> [Frankfurt] </loc> , <loc> [London] </loc> , [và] <loc> [Zurich] </loc> . 
+
+<org> [Tổ hợp] [BASF] </org> [có] [hơn] [160] [công ty con] [và] [liên doanh] , [vận hành] [hơn] [150] [nhà máy] [khắp] [thế giới] . 
+
+[Trụ sở] [chính] [của] [hãng] [đặt] [tại] <loc> [Ludwigshafen] [am] [Rhein] ( [Rhineland-Palatinate] , [Đức] ) </loc> . 
+
+[Khách hàng] [của] <org> [BASF] </org> [ở] [hơn] [200] [quốc gia] , [được] [công ty] [cung ứng] [rất] [nhiều] [sản phẩm] [cho] [đủ] [mọi] [ngành nghề] . 
+
+[Dù] [là] [một] [hãng] [khổng lồ] [và] [hiện diện] [khắp] [toàn cầu] [nhưng] <org> [BASF] </org> [ít] [được] [công chúng] [chú ý] [do] [chính sách] [không] [sản xuất] [hàng hóa] [trực tiếp] [đến] [người] [tiêu dùng] [trong] <date> [thập niên] [1990] </date> [của] [hãng] . 
+
+[Vào] [thời điểm] [cuối] <date> [năm] [2008] </date> , [hãng] [có] [khoảng] [96.000] [nhân viên] , [riêng] [tại] <loc> [Đức] </loc> [là] [47.000] [nhân viên] . 
+
+<org> [BASF] </org> [có] [doanh thu] [62 tỉ] [€] [Euro] , [lợi nhuận] [trước] [thuế] [là] [6,8 tỉ] [€] [Euro] [trong] [năm] [tài khóa] [2008] . 
+
+[Hãng] [đang] [tiếp tục] [mở rộng] [các] [hoạt động] [kinh doanh] [tại] [ngoại quốc] , [tập trung] [chủ yếu] [vào] <loc> [châu] [Á] </loc> .
+
+[Từ] <date> [năm] [1990] </date> [đến] <date> [2005] </date> [hãng] [đã] [đầu tư] [5,6 tỉ] [€] [Euro] [ở] <loc> [châu] [Á] </loc> , [chẳng hạn] [cho] [các] [nhà máy] [tại] <loc> [Nam Kinh] </loc> [hay] <loc> [Thượng Hải] </loc> [ở] <loc> [Trung Quốc] </loc> , <loc> [Katipalla] </loc> [ở] <loc> [Ấn] [Độ] </loc> . 
+
+[Ông] <per> [Friedrich Engelhorn] </per> [thành lập] <org> [hãng] [BASF] </org> <date> [năm] [1865] </date> [ở] <loc> [Mannheim] , [nước] [Đức] </loc> [để] [sản xuất] [thuốc nhuộm] . 
+
+[Chính quyền] <loc> [thành phố] [Mannheim] </loc> [lo ngại] [nhà máy] [hóa chất] [của] <org> [BASF] </org> [sẽ] [gây] [ô nhiễm] [làm] [ảnh hưởng] [đến] [đời sống] [của] [người dân] [nên] [đã] [dời] [nó] [qua] [bờ] [bên] [kia] <loc> [sông] [Rhine] </loc> [thuộc] <loc> [Ludwigshafen] </loc> . 
+
+<date> [Năm] [1867] </date> [phương pháp] [tổng hợp] [bột] [nhuộm] [chàm] [giá] [rẻ] [ra đời] [và] [rất] [thành công] [do] [trước kia] [màu] [nhuộm] [này] [rất] [đắt] [vì] [phải] [chiết xuất] [từ] [cây] [chàm] , [từ] [đó] [quá trình] [sản xuất] [dựa] [trên] [quy mô] [giúp] [hạ] [giá thành] [tăng trưởng] [nhanh chóng] . 
+
+[Quy trình] [Haber] [được] [phát triển] [từ] <date> [năm] [1908] </date> [đến] <date> [1912] </date> [đã] [tổng hợp] [thành công] [ammonia] ( [dùng] [sản xuất] [phân bón] [và] [vũ khí hóa học] ) [nên] <date> [năm] [1913] </date> [hãng] [mở] [thêm] [nhà máy] [tại] <loc> [Oppau] </loc> [và] [bắt đầu] [sản xuất] [phân bón] . 
+
+[Hãng] [cũng] [mua] [lại] [một] [mỏ] [anhydrite] [ở] <loc> [Kohnstein] </loc> <date> [năm] [1917] </date> [để] [khai thác] [thạch cao] .  
+
+[Do] [được] [độc quyền] [nên] <date> [năm] [1916] </date> [hãng] [đã] [mở] [thêm] [nhà máy] [ở] <loc> [Leuna] </loc> [sản xuất] [chất nổ] [dùng] [trong] [thế chiến] [thứ] [nhất] . 
+
+<date> [Tháng] [9] [năm] [1921] </date> [xảy ra] [một] [tai nạn] [lớn] [nhất] [trong] [lịch sử] [công nghiệp] <loc> [Đức] </loc> [là] [vụ] [nổ] [tại] [nhà máy] [của] [hãng] [ở] <loc> [Oppau] </loc> [làm] [chết] [565] [người] . 
+
+<date> [Năm] [1925] </date> , <org> [BASF] </org> [cùng] <org> [Bayer] </org> , <org> [Hoescht] </org> [và] [ba] [hãng] [khác] [bị] [sát nhập] [thành] [một] [công ty] [lấy] [tên] [là] <org> [IG] [Farben] </org> [nên] [cái] [tên] <org> [BASF] </org> [chỉ] [còn] [tồn tại] [trên] [danh nghĩa] . 
+
+[Cổ phần] [của] [hãng] [được] [luân chuyển] [giữa] [các] [hãng] [cùng] [sát nhập] , [nhiều] [sản phẩm] [mới] [như] [cao su] , [xăng] , [sơn] [được] [thêm] [vào] . 

@@ -1,0 +1,45 @@
+ <org> [Associazione Sportiva Roma] </org> ( <org> [Hiệp hội] [Thể thao] [Roma] </org> ) [là] [một] [đội] [bóng] [thủ đô] [của] <loc> [Ý] </loc> , [các] [biệt danh] [là] <org> [Giallorossi] </org> ( [vàng-đỏ] ) , <org> [La Magica] </org> , [I Lupi] , [Capitolini] . 
+
+[Hiện tại] [đang] [thi đấu] [tại] [Serie] [A] . 
+
+[Trang phục] [truyền thống] [là] [màu] [mận] [chín] [với] [viền] [vàng] , [quần] [trắng] [và] [vớ] [đen] . 
+
+[Sân vận động] [chính] [hiện tại] [của] [đội] [bóng] [là] <loc> [Olimpico] </loc> [có] [sức] [chứa] [72.700] [người] , [là] [nơi] [thường xuyên] [diễn] [ra] [các] [trận] [đấu] [quan trọng] [của] [đội tuyển] [quốc gia] <loc> [Ý] </loc> . 
+
+ <loc> [Olympico] </loc>  [cũng] [là] [sân nhà] [của] [câu lạc bộ] [cùng] [thành phố] <org> [SS] [Lazio] </org> [và] [trận] [đấu] [giữa] [hai] [đội] [thường] [là] [những] [trận] [derby] [căng thẳng] . 
+
+[Câu lạc bộ] [này] [thành lập] [vào] <date> [năm] [1927] </date> , [muộn] [hơn] [kình địch] <org> [Lazio] </org> [27] [năm] ( <org> [CLB] [Lazio] </org> [thành lập] <date> [năm] [1900] </date> ) . 
+
+[Chức] [vô địch] [Scudetto] [lần] [đầu tiên] [họ] [giành] [được] [vào] [mùa] [giải] [1941-1942] . 
+
+<org> [Associazione Sportiva Roma] </org> [được] [thành lập] [vào] [mùa hè] <date> [năm] [1927] </date> [bởi] <per> [Italo Foschi] </per> , [ [1] ] [người] [đã] [khởi nguồn] [cho] [việc] [hợp nhất] [ba] [câu lạc bộ] [đã] [tồn tại] [ở] <loc> [Roma] </loc> [là] : <org> [Roman] </org> , <org> [Alba-Audace] </org> [và] <org> [Fortitudo] </org> . 
+
+[ [1] ] [Người] [mong muốn] [sự] [hợp nhất] [này] [là] [nhà] [độc tài] <per> [Benito Mussolini] </per> , [với] [mong muốn] [có] [một] [đội] [bóng] [mạnh] [ở] [thủ đô] [đủ] [để] [cạnh tranh] [với] [các] [câu lạc bộ] [miền] [Bắc] <loc> [Italia] </loc> . [ [1] ] [Chỉ] [một mình] <org> [Lazio] </org> [là] [câu lạc bộ] [lớn] [duy nhất] [ở] <loc> [Roma] </loc> [vẫn] [đứng] [độc lập] [vì] [đã] [có] [một] [vị thế] [nhất định] [tại] [thời điểm] [đó] . 
+
+[ [2] ][Đội] [thi đấu] [những] [mùa] [bóng] [đầu tiên] [tại] [sân vận động] <loc> [Motovelodromo Appio] </loc> , [ [3] ] [trước] [khi] [chuyển] [về] [khu] [lao động] <loc> [Testaccio] </loc> , [thi đấu] [tại] [sân] <loc> [Campo Testaccio] </loc> ; [với] [đặc điểm] [là] [khán đài] [hoàn toàn] [bằng] [gỗ] [được] [khánh thành] [vào] <date> [tháng] [11] [năm] [1929] </date> . [ [4] ] [Lần] [đầu tiên] <loc> [Roma] </loc> [để] [lại] [dấu ấn] [của] [mình] [là] [tại] [mùa] [giải] [1930] [–] [31] , [khi] [đội] [giành] [ngôi] [á quân] [và] [chỉ] [chịu] [đứng] [sau] <org> [Juventus] </org> .
+
+ [ [5] ] <pos> [Đội trưởng] </pos> <per> [Attilio Ferraris] </per> [cùng] <per> [Guido Masetti] </per> , <per> [Fulvio Bernardini] </per> [và] <per> [Rodolfo Volk] </per> [là] [những] [trụ cột] [của] <loc> [Roma] </loc> [trong] [giai đoạn] [này] . [ [6] ] <org> [A] S] [Roma] </org> [giành] [chức] [vô địch] [Serie] [A] [lần] [đầu tiên] [và] [một cách] [khá] [bất ngờ] [vào] [mùa] [giải] [1941] [–] [42] . [ [7] ] [Đóng góp] [cho] [danh hiệu] [này] [phải] [kể] [đến] [18] [bàn] [thắng] [của] <pos> [tiền đạo] </pos> <per> [Amedeo Amadei] </per> [và] [sự] [chỉ đạo] [của] <job> [huấn luyện viên] </job> <per> [Alfréd Schaffer] </per> . 
+
+[Trong] [chiến tranh] [thế giới] [thứ hai] , <org> [Roma] </org> [thi đấu] [tại] [sân vận động] <loc> [Stadio] [del] [Partito Nazionale Fascista] </loc> . [ [8] ] [Trong] [những] [năm] [sau] [cuộc chiến] , <org> [Roma] </org> [đã] [không thể] [tìm] [lại] [vị thế] [của] [mình] . [ [5] ] [Đội xếp] [ở] [nửa] [dưới] [của] [bảng] [xếp hạng] [Serie] [A] [trong] [năm] [mùa] [giải] [liên tiếp] , [trước] [khi không] [tránh] [khỏi] [phải] [xuống] [chơi] [tại] [Serie] [B] [vào] [cuối] [mùa] [bóng] [1950] [–] [51] ; [ [9] ] [ [5] ] [đây] [cũng] [là] [lần] [xuống] [hạng] [duy nhất] [của] <org> [A] S] [Roma] </org> . 
+
+[Dưới] [sự] [dẫn dắt] [của] [người] [sau này] [sẽ] [là] <job> [huấn luyện viên] </job> [trưởng] [của] [đội tuyển] <loc> [Ý] </loc> , <per> [Giuseppe Viani] </per> , [đội] [ngay lập tức] [quay] [lại] [Serie] [A] [vào] <date> [năm] [1952] </date> . [ [10] ][Các] [danh hiệu] [tiếp theo] [mà] <org> [Roma] </org> [danh] [được] [gồm] [1960] [–] [61] [Cúp] [các] [hội chợ] [liên] [thành phố] ( [tiền thân] [của] [Cúp] [UEFA] ) [vào] [năm] [1960] [–] [61] [sau] [khi] [đánh bại] <org> [Birmingham City] </org> [với] [tỉ số] [4] [–] [2] [ở] [chung kết] .
+
+ [ [11] ] [Đội] [cũng] [giành] [Cúp] [quốc gia] [đầu tiên] [của] [mình] [vào] <date> [năm] [1963] </date> [–] [64] , [sau] [khi] [vượt] [qua] <org> [Torino] </org> [với] [tỉ số] [1] [–] [0] [ở] [trận] [đấu] [cuối cùng] . [ [12] ] [Chiếc Cúp] [quốc gia] [thứ hai] [được] [mang] [về] [phòng] [truyển] [thống] [của] [đội] [vào] <date> [năm] [1968] </date> [–] [69] . [ [12] ] <org> [Roma] </org> [giành] [được] [chức] [vô địch] [Serie] [A] [thứ ba] [của] [mình] [vào] [mùa] [giải] [2000] [–] [01] ; [đội] <org> [scudetto] </org> [chỉ] [giành] [được] [danh hiệu] [này] [tại] [vòng] [đấu] [cuối cùng] , [khi] [đánh bại] <org> [Parma] </org> [với] [tỉ số] [3] [–] [1] [trên] [sân nhà] , [để] [hơn] [đội xếp] [thứ] [nhì] [là] <org> [Juventus] </org> [đúng] [hai] [điểm] .
+
+ [ [5] ] <pos> [Đội trưởng] </pos> [của] [đội] , <org> [Francesco Totti] </org> , [là] [người] [góp] [công] [lớn] [cho] [danh hiệu] [lần] [này] [và] [có lẽ] [anh] [là] [một] [trong] [những] <job> [cầu thủ] </job> [vĩ đại] [nhất] [trong] [lịch sử] [của] [câu lạc bộ] , [ [14] ] . 
+
+[Các] <job> [cầu thủ] </job> [quan trọng] [khác] [đóng góp] [cho] [thành công] [năm] [đó] [phải] [kể] [đến] <per> [Aldair] </per> , <per> [Cafu] </per> , <per> [Gabriel Batistuta] </per> [và] <per> [Vincenzo Montella] </per> . [ [18] ] [Tại] [mùa] [giải] [năm] [sau] , [dù] [rất] [nỗ lực] [nhưng] <org> [Roma] </org> [đã] [không thể] [bảo vệ] [thành công] [danh hiệu] [của] [mình] [khi] [kém] <org> [Juventus] </org> [đúng] [một] [điểm] [vào] [cuối] [mùa] [bóng] . [ [5] ] [Đây] [là] [khởi đầu] [cho] [hàng loạt] [ngôi] [á quân] [mà] [câu lạc bộ] [giành] [được] [trong] [thập niên] [vừa qua] . 
+
+[Từ] [khi] <job> [HLV] </job> <per> [Spalletti] </per> [lên] [nắm] [đội] <date> [năm] [2005] </date> , [ông] [đã] [biến] <org> [AS] [Roma] </org> [thành] [1] [trong] [những] [CLB] [có] [lối] [chơi] [tấn công] [quyến rũ] [vào] [bậc] [nhất] <loc> [châu] [Âu] </loc> . 
+
+[Bất chấp] [việc] [không] [hề] [dư dả] [về] [tài chính] [như] [các] [đại gia] [của] [SeriA] , <org> [AS] [Roma] </org> [liên tiếp] [về] [nhì] [trong] [các] [mùa] [05-06] , [06-07] , [07-08] . 
+
+[Đội] [bóng] [đi] [vào] [lịch sử] [với] [11] [trận] [thắng] [liên tiếp] [ở] [SeriA] [mùa] [bóng] [2005-06] [trước] [khi] [bị] <org> [Inter] </org> [phá] [vỡ] [ở] [mùa] [bóng] [sau] . 
+
+[CLB] [cũng] [vào] [đến] [tứ kết] [Champions League] [2] [năm] [liên tiếp] [2006-07] [và] [2007-08] , [trước] [khi] [bị] [loại] [bởi] <org> [Manchester United] </org> . 
+
+[Mùa] [2008-2009] [được] [coi] [là] [thất bại] [với] [đội] [bóng] [bã trầu] [khi] [họ] [chỉ] [đứng] [thứ] [6] [và] [phải] [đá] [Europa League] [mùa] [2009-2010.CLB] [vào] [đến] [vòng] [knock] - [out] [của] [Champions League] [và] [bị] [loại] [bởi] <org> [Arsenal] </org> [bằng] [loạt] [đá] [penalty] . 
+
+[Họ] [khởi đầu] [mùa] [bóng] [2009-2010] [một cách] [tồi tệ] [khi] [thua] [2] [trận] [đầu tiên] [và] <job> [HLV] </job> <per> [Spalletti] </per> [đã] [từ chức] . 
+
+[Thay] [ông] [là] <job> [HLV] </job> <per> [Ranieri] </per>.[Sau] [khởi đầu] [chuệch choạc] , [đội] [bóng] [dần] [lấy] [lại] [sức mạnh] [và] [dần] [đạt] [mục tiêu] [trong] [top] [3] , [khi] [mùa] [giải] [sắp] [kết thúc] .

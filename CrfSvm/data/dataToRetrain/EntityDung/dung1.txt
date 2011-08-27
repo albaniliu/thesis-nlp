@@ -1,0 +1,41 @@
+<org> [Vinamilk] </org> [là] [tên] [gọi] [tắt] [của] [<org> Công ty] [Cổ phần] [Sữa Việt Nam] </org> ( [Vietnam Dairy Products Joint Stock Company] ) [một] [công ty] [sản xuất] , [kinh doanh] [sữa] [và] [các] [sản phẩm] [từ] [sữa] [cũng như] [thiết bị] [máy móc] [liên quan] [tại] <loc> [Việt Nam] </loc> . 
+
+[Theo] [thống kê] [của] [Chương trình] [Phát triển] [Liên Hiệp Quốc] , [đây] [là] [công ty] [lớn] [thứ] [15] [tại] <loc> [Việt Nam] </loc> [vào] <date> [năm] [2007] </date> . [ [1] ]
+
+[Mã] [giao dịch] [trên] [sàn] [giao dịch] [chứng khoán] <loc> [Thành phố] [Hồ Chí Minh] </loc> [là] [VNM] .
+
+[Công ty] [là] [doanh nghiệp] [hàng đầu] [của] [ngành] [công nghiệp] [chế biến] [sữa] , [hiện] [chiếm lĩnh] [75%] [thị phần] [sữa] [tại] <loc> [Việt Nam] </loc> . 
+
+[Ngoài] [việc] [phân phối] [mạnh] [trong] [nước] [với] [mạng lưới] [183] [nhà] [phân phối] [và] [gần] [94.000] [điểm] [bán] [hàng] [phủ] [đều] [64 tỉnh] [thành] , [sản phẩm] [Vinamilk] [còn] [được] [xuất khẩu] [sang] [nhiều] [nước] <loc> [Mỹ] </loc> , <loc> [Pháp] </loc> , <loc> [Canada] </loc> , <loc> [Ba Lan] </loc> , <loc> [Đức] </loc> , <loc> [khu vực] [Trung Đông] </loc> , <loc> [Đông Nam] [Á] </loc> ...
+
+[Sau] [hơn] [30] [năm] [ra mắt] [người] [tiêu dùng] , [đến] [nay] <org> [Vinamilk] </org> [đã] [xây dựng] [được] [8] [nhà máy] , [1] [xí nghiệp] [và] [đang] [xây dựng] [thêm] [3] [nhà máy] [mới] , [với] [sự] [đa dạng] [về] [sản phẩm] , <org> [Vinamilk] </org> [hiện] [có] [trên] [200] [mặt hàng] [sữa] [tiệt trùng] , [thanh trùng] [và] [các] [sản phẩm] [được] [làm] [từ] [sữa] . 
+
+[Khu vực] [hoạt động] : <loc> [Việt Nam] </loc> , <loc> [Iraq] </loc>
+
+[Thành viên] [chủ chốt] : <per> [Mai Kiều Liên] </per> <job> [Chủ tịch] [Hội đồng] [Quản trị] </job> [kiêm] <job> [Tổng Giám Đốc] </job>
+
+[Ngành nghề] : [Sữa] [và] [các] [chế phẩm] [từ] [sữa]
+
+[Dịch vụ] : [Sữa] , [phòng khám] [đa khoa] , [bia] , [nước] [trái cây] , [đầu tư] [tài chính]
+
+[Năm] [1976] , [lúc] [mới] [thành lập] , <org> [Công ty] [Sữa Việt Nam] ( [Vinamilk] ) </org> [có] [tên] [là] <org> [Công ty] [Sữa] – [Cà Phê Miền Nam] </org> , [trực thuộc] [Tổng cục] [Thực phẩm] , [sau] [khi] [chính phủ] [quốc hữu hóa] [ba] [xí nghiệp] [tư nhân] [tại] <loc> [miền] [nam] [Việt Nam] </loc> : <org> [Thống Nhất] </org> ( [thuộc] [một] [công ty] [Trung Quốc] ) , <org> [Trường Thọ] </org> ( [thuộc] [Friesland] ) , [và] <org> [Dielac] </org> ( [thuộc] [Nestle] ) [ [2] ] . 
+
+[Năm] [1982] , <org> [công ty] [Sữa] – [Cà phê] [Miền Nam] </org> [được] [chuyển giao] [về] [bộ] [công nghiệp] [thực phẩm] [và] [đổi] [tên] [thành] <org> [xí nghiệp] [liên hiệp] [Sữa] - [Cà phê] – [Bánh kẹo] [I] </org> .
+
+[Lúc] [này] , [xí nghiệp] [đã] [có] [thêm] [hai] [nhà máy] [trực thuộc] , [đó] [là] : * <org> [Nhà máy] [bánh kẹo] [Lubico] </org> . 
+
+* <org> [Nhà máy] [bột] [dinh dưỡng] [Bích Chi] ( [Đồng Tháp] ) </org> . 
+
+[Tháng] [3] [năm] [1992] , <org> [Xí nghiệp] [Liên hiệp] [Sữa] – [Cà phê] – [Bánh kẹo] [I] </org> [chính thức] [đổi] [tên] [thành] <org> [Công ty] [Sữa Việt Nam] ( [Vinamilk] ) </org> - [trực thuộc] [Bộ] [Công] [nghiệp] [nhẹ] , [chuyên] [sản xuất] , [chế biến] [sữa] [và] [các] [sản phẩm] [từ] [sữa] . 
+
+[Năm] [1994] , <org> [Công ty] [Sữa Việt Nam] ( [Vinamilk] ) </org> [đã] [xây dựng] [thêm] [một] [nhà máy] [sữa] [ở] <loc> [Hà Nội] </loc> [để] [phát triển] [thị trường] [tại] <loc> [miền] [Bắc] </loc> , [nâng] [tổng số] [nhà máy] [trực thuộc] [lên] [4] [nhà máy] . 
+
+[Việc] [xây dựng] [nhà máy] [là] [nằm] [trong] [chiến lược] [mở rộng] , [phát triển] [và] [đáp ứng] [nhu cầu] [thị trường] <loc> [Miền Bắc Việt Nam] </loc> . 
+
+[1996] : [Liên doanh] [với] <org> [Công ty] [Cổ phần] [Đông lạnh] [Quy Nhơn] </org> [để] [thành lập] [Xí Nghiệp Liên Doanh Sữa Bình Định] . 
+
+[Liên doanh] [này] [tạo] [điều kiện] [cho] [Công ty] [thâm nhập] [thành công] [vào] [thị trường] <loc> [Miền Trung Việt Nam] </loc> . 
+
+[2000] : <org> [Nhà máy] [sữa] [Cần Thơ] </org> [được] [xây dựng] [tại] <loc> [Khu Công Nghiệp Trà Nóc] , [Thành phố] [Cần Thơ] </loc> , [nhằm] [mục đích] [đáp ứng] [nhu cầu] [tốt] [hơn] [của] [người] [tiêu dùng] [tại] <loc> [đồng bằng] [sông] [Cửu Long] </loc> . 
+
+[Cũng] [trong] [thời gian] [này] , [Công ty] [cũng] [xây dựng] <org> [Xí Nghiệp Kho Vận] </org> [có] [địa chỉ] [tọa lạc] [tại] : <loc> [32] [Đặng Văn Bi] , [Thành phố] [Hồ Chí Minh] </loc> .

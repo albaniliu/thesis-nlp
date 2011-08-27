@@ -1,0 +1,17 @@
+<per> [Javier Adelmar Zanetti] </per> ( [sinh] <date> [10] [tháng] [8] [năm] [1973] </date> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Argentina] </loc> . 
+
+[Anh] [gia nhập] [CLB] [bóng đá] <org> [Inter Milan] </org> <date> [năm] [1995] </date> [và] [là] <pos> [đội trưởng] </pos> [CLB] [này] [từ] <date> [năm] [1999] </date> . 
+
+<per> [Zanetti] </per> [đã] [tham dự] [hai] [kỳ] [World Cup] [cùng] [Đội tuyển] [bóng đá] [quốc gia] <loc> [Argentina] </loc> . 
+
+<loc> [Zanetti] </loc> [là] <job> [cầu thủ] </job> [có] [nhiều] [lần] [khoác áo] [nhất] [cho] [đội tuyển] <loc> [Argentina] </loc> [với] [117] . 
+
+[Anh] [cũng] [là] <pos> [đội trưởng] </pos> [của] [đội tuyển] <loc> [Argentina] </loc> . 
+
+[Nổi tiếng] [tại] <loc> [Argentina] </loc> [với] [cái] [tên] <per> [Pupi] </per> , [anh] [còn] [được] [đặt] [nickname] [là] [Il Trattore] ( [máy kéo] ) [sau] [khi] [chuyển] [tới] <loc> [Ý] </loc> [nhờ] [thể lực] , [sự] [dẻo dai] [và] [khả năng] [vượt] [qua] <pos> [hậu vệ] </pos> [đối phương] [khi] [lên] [tham gia] [tấn công] [từ] [vị trí] <pos> [hậu vệ] </pos> [cánh] [phải] . 
+
+[Từ] [khi] [trở thành] <pos> [đội trưởng] </pos> , [anh] [còn] [gắn] [biệt danh] [Il Capitano] ( <pos> [Đội trưởng] </pos> ) . 
+
+<date> [Năm] [2004] </date> , [Pelé] [chọn] <per> [Janetti] </per> [vào] [danh sách] [125] [huyền thoại] [sống] [của] [bóng đá] [thế giới] [trong] [danh sách] [FIFA] [100] . 
+
+<per> [Zanetti] </per> [cũng] [được] [biết] [đến] [nhiều] [với] [các] [việc làm] [từ thiện] , [hiện] [anh] [đang] [hoạt động] [một] [tổ chức] [từ thiện] [giúp đỡ] [trẻ em] [bất hạnh] [tại] <loc> [Argentina] </loc> .

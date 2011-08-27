@@ -1,0 +1,15 @@
+<org> [Công ty] [Toyota] </org> [sẽ] [cực lực] [bảo vệ] [thành tích] [an toàn] , [chống] [lại] [những] [vụ kiện] [và] [những] [sự] [suy đoán] [về] [uy tín] [của] [công ty] . 
+
+[Phó giám đốc] [cao cấp] [của] <org> [Toyota] </org> [tại] <loc> [Hoa Kỳ] </loc> , [ông] <per> [Don Esmone] </per> , [tuyên bố] [như] [vừa] [kể] [hồi] [chiều] [thứ ba] . 
+
+[Tuy nhiên] [viên chức] [này] [cho biết] <org> [công ty] [Toyota] </org> [chưa] [quyết định] [chống] [lại] [lệnh] [phạt] [16,4 triệu] [đô la] [do] [viên chức] [an toàn] [của] <per> [Mỹ] </per> [tuyên phạt] [hôm] [thứ hai] [hay] [không] . 
+
+[Lệnh] [phạt] [được] [ban hành] [sau] [khi] <org> [bộ] [Giao thông] [Mỹ] </org> [duyệt] [lại] [70 ngàn] [trang] [tài liệu] , [và] [kết luận] [rằng] <org> [Toyota] </org> [cố tình] [dấu] [diếm] [với] [các] [viên chức] <loc> [Mỹ] </loc> [một] [khiếm khuyết] [nguy] [hỉểm] [trong] [nhiều] [tháng] , [không] [có] [hành động] [gì] [để] [bảo vệ] [cho] [hằng] [triệu] [người] [sử dụng] [và] [gia đình] [họ] . 
+
+[Các] [viên chức] [về] [an toàn] [còn] [cảnh báo] [rằng] <org> [Toyota] </org> [còn] [có thể] [bị] [phạt] [thêm] [sau] [khi] [tổng kết] [cuộc] [điều tra] [về] [cách thức] [mà] [công ty] [này] [giải quyết] [những] [vấn đề] [liên quan] [tới] [hơn] [50] [vụ] [chết] [người] [khiến] [công ty] [phải] [thu hồi] [hơn] [8 triệu] [xe] . 
+
+<org> [Toyota] </org> [hiện] [đang] [phải] [đương đầu] [với] [gần] [100] [vụ kiện] [đòi] [bồi thường] [cho] [những] [vụ] [bị thương] [hay] [thiệt mạng] [liên quan] [tới] [việc] [xe] [đột nhiên] [tăng] [tốc độ] , [và] [138] [vụ kiện] [tập thể] [của] [những] [khách hàng] [đòi] [đền bù] [vì] [xe] [bị] [mất giá] [sau] [khi] [có] [lệnh] [thu hồi] . 
+
+[Phó giám đốc] <per> [Don Esmond] </per> [cho biết] [nguyên do] [của] [vịêc] [tăng tốc] [bất ngờ] [của] [xe] [thường] [là] [lỗi] [của] [người] [lái] , [và] <org> [công ty] [Toyota] </org> [đã] [thành lập] [một] [nhóm] [chuyên viên] [để] [nhanh chóng] [điều tra] [từng] [sự kiện] . 
+
+[Ông] [nói] [cách] [hay] [nhất] [để] [tự] [bảo vệ] [thành tích] [cho] [công ty] [là] [những] [chứng cứ] [khoa học] .

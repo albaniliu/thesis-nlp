@@ -1,0 +1,23 @@
+ <org> [Real Madrid] </org>  - [tên] [đầy đủ] [là] <org> [Real Madrid Club] [de] [Fútbol] </org> ( [viết] [gọn] [là] <org> [Real Madrid] [CF] </org> ) ( [theo] [tiếng] <loc> [Tây Ban Nha] </loc> : " [Câu lạc bộ] [Bóng đá] [Hoàng gia] [Madrid] " ) - [là] [một] [câu lạc bộ] [bóng đá] [nổi tiếng] [của] <loc> [Tây Ban Nha] </loc> , [được] <org> [Liên đoàn] [Bóng đá] [Thế giới] </org> ( [FIFA] ) [chọn] [là] [câu lạc bộ] [xuất sắc] [nhất] [thế kỷ] [20] . 
+
+[Thành lập] <date> [ngày] [6] [tháng] [3] [năm] [1902] </date> , [thi đấu] [ở] [giải] [bóng đá] [hạng] [nhất] <loc> [Tây Ban Nha] </loc> ( [Primera Liga] ) , [câu lạc bộ] [không] [hề] [bị] [xuống] [hạng] [kể] [từ] [khi] [có] [giải] [quốc gia] <loc> [Tây Ban Nha] </loc> ( [1928] ) . 
+
+[Ban đầu] [có] [tên] [là] <org> [Madrid Club] [de] [Fútbol] </org> ( [Câu lạc bộ] [bóng đá] [Madrid] ) , [câu lạc bộ] [đã] [được] [phép] [dùng] [danh xưng] [Real] ( [Hoàng gia] ) [sau] [khi] [Vua] <per> [Alfonso] </per> [XIII] [chính thức] [bảo trợ] [cho] [họ] [vào] <date> [tháng] [6] [năm] [1920] </date> . 
+
+[Đội] [bóng] [mặc] [đồ] [thi đấu] [toàn] [màu] [trắng] , [nên] [có] [biệt danh] [là] <org> [Los Blancos] </org> ( [Đội] [quân] [trắng] ) . 
+
+[Sân nhà] [của] [họ] [là] [sân vận động] <loc> [Santiago Bernabéu] </loc> [ở] <loc> [Chamartín] </loc> , <org> [Madrid] </org> , [khánh thành] <date> [ngày] [14] [tháng] [12] [năm] [1947] </date> , [sức] [chứa] [hiện nay] [là] [80.354] [khán giả] [và] [kích thước] [đường] [chạy] [là] [106x72] [mét] . 
+
+[Từ] [giữa] [thế kỷ] [20] , <org> [Real Madrid] </org> [luôn luôn] [ở] [trong] [số] [những] [câu lạc bộ] [bóng đá] [hàng đầu] <loc> [châu] [Âu] </loc> . 
+
+[Thành tích] [rực rỡ] [của] [câu lạc bộ] [trên] [đấu trường] [quốc tế] ( [đoạt] [Cúp] [các] [đội] [vô địch] [quốc gia] [châu] [Âu] [5] [mùa] [bóng] [đầu tiên] [tổ chức] [Cúp] [này] ) [bắt đầu] [với] [việc] [ông] <pos> [chủ tịch] </pos> <per> [Santiago Bernabéu] </per> [mua] [được] <job> [cầu thủ] </job> [xuất chúng] <per> [Alfredo] [di] [Stéfano] </per> . 
+
+[Trong] [quãng] [thời gian] [này] [bắt đầu] [có] [những] [luồng] [dư luận] [chỉ trích] [rằng] [chính quyền] [độc tài] [của] <per> [Francisco Franco] </per> [xem] [đội] [bóng] [là] [hình ảnh] [để] [tuyên truyền] [nên] [có] [xu hướng] [thiên vị] [cho] [họ] [ở] [các] [giải] [đấu] [trong] [nước] . 
+
+[Nhưng] [một số] [khác] [thì] [lại] [cho] [rằng] [quyền lực] [của] <per> [Franco] </per> [không] [ảnh hưởng] [mấy] [đến] [sự] [thành công] [của] <org> [Real Madrid] </org> , [bằng chứng] [là] [trong] [thập niên] [40] [thời] [cực thịnh] [nhất] [của] [nhà] [độc tài] <org> [Real] </org> [không] [có] [1] [giải] [vô địch] [quốc gia] [nào] . 
+
+[Hiện nay] [ở] <loc> [Tây Ban Nha] </loc> , [người ta] [vẫn] [tranh cãi] [gay gắt] [về] [mức độ] [ảnh hưởng] [của] [sự] [ủng hộ] [này] , [còn] [câu lạc bộ] [thì] [luôn] [cố] [tránh né] [dính] [vào] [chính trị] . 
+
+[Với] [khả năng] [tài chính] [hùng mạnh] [và] [những] [ngôi sao] [như] <per> [Di Stéfano] </per> , <per> [Francisco Gento] </per> , <per> [Ferenc Puskás] </per> , [về] [sau] [như] , <per> [Emilio Butrague] [ñ] [o] </per> , [và] [nay] [như] <per> [Raúl González] </per> , <per> [Zinedine Zidane] </per> ... , <org> [Real Madrid] </org> [đã] [31] [lần] [vô địch] [quốc gia] ( [kỷ lục] ) [và] [9] [lần] [giành] [được] [Cúp] [các] [đội] [vô địch] [quốc gia] <loc> [châu] [Âu] </loc> / [Champions League] ( [cũng] [là] [kỷ lục] ) . 
+
+[Sự] [kình địch] [giữa] <loc> [Real Madrid] </loc> [và] <loc> [FC] [Barcelona] </loc> , [đặc biệt] [là] [những] [trận] [đối đầu] [của] [2] [đội] [được] [gọi là] [siêu] [kinh điển] ( [superclassico] ) , [đi] [vào] [huyền thoại] , [mang] [nhiều] [sắc thái] [chính trị] [và] [xã hội] , [vượt] [xa] [ngoài] [khuôn khổ] [thể thao] .

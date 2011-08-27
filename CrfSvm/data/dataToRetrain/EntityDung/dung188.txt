@@ -1,0 +1,45 @@
+ <per> [Gianluigi Buffon] </per> ( [sinh] <date> [ngày] [28] [tháng] [1] [năm] [1978] </date> [tại] <loc> [Carrara] </loc> , <loc> [Ý] </loc> ) [biệt danh] <per> [Gigi] </per> , [là] [một] [trong] [những] [nhà vô địch] [World Cup]  [2006] . 
+
+[Hiện nay] <per> [Buffon] </per> [đang] [chơi] [cho] [câu lạc bộ] <org> [Juventus] </org> [và] [là] <pos> [đội trưởng] </pos> [của] [Đội tuyển] [bóng đá] [quốc gia] <loc> [Ý] </loc> . 
+
+<date> [Ngày] [15] [tháng] [11] [năm] [2008] </date> , [anh] [và] <per> [Peter Schmeichel] </per> [được] [IFFHS] [bầu] [là] [hai] <pos> [thủ môn] </pos> [giỏi] [nhất] [trong] [khoảng] [20] [năm] [trở lại] ( <date> [1988] - [2008] </date> ) <per> [Gianluigi Buffon] </per> [sinh] [trong] [một] [gia đình] [theo] [nghiệp] [thể thao] . 
+
+[Mẹ] [anh] , <per> [Maria Stella] </per> , [là] [một] <job> [vận động viên] </job> [ném] [dĩa] , [cha anh] , <per> [Adriano] </per> , [là] <job> [lực sĩ] </job> [cử tạ] , [hai] [chị em gái] <per> [Veronica] </per> [và] <per> [Guendalina] </per> [chơi] <job> [bóng chuyền] </job> [và] [người] [bác] , <per> [Angelo Masocco] </per> , [là] [một] <job> [vận động viên] [bóng rổ] </job> . 
+
+[Anh] [còn] [là] [cháu] [trai] [của] <pos> [thủ môn] </pos> [huyền thoại] <per> [Lorenzo Buffon] </per> . 
+
+<per> [Buffon] </per> [cưới] [người mẫu] <loc> [Séc] </loc> <per> [Alena] [Š] [eredova] </per> . 
+
+<per> [Š] [eredova] </per> [đã] [sinh] [cho] [anh] [1] [con] [vào] <date> [ngày] [28] [tháng] [12] [năm] [2007] </date> , [đặt] [tên] <per> [Louis Thomas] </per> <per> [Buffon] </per> [ra mắt] [khán giả] [Serie] [A] [vào] <date> [ngày] [19] [tháng] [11] [năm] [1995] </date> , [ở] [độ] [tuổi] [17] , [với] [màu] [áo] <org> [Parma] </org> , [trong] [trận] [mà] [đội] [này] [hòa] [0] - [0] [với] <org> [AC] [Milan] </org> . 
+
+[Sau] [bốn] [mùa] [bóng] [tại] [đây] , [anh] [đã] [đoạt] [được] [Cúp] [UEFA] . 
+
+[Anh] [được] [chuyển] [sang] [chơi] [cho] <org> [Juventus] </org> [vào] <date> [năm] [2001] </date> , [với] [một] [kỷ lục] [thế giới] [về] [giá] [chuyển nhượng] [dành] [cho] [một] <pos> [thủ môn] </pos> : [52] [triệu] [Euro] . 
+
+<date> [Năm] [2003] </date> , [anh] [đoạt] [danh hiệu] [cầu thủ] [giỏi] [nhất] [cúp] [UEFA] [và] [thủ môn] [giỏi] [nhất] , [tháng] [3] [năm] [sau] , [anh] [được] [vua] [Pelé] [ghi] [tên] [vào] [danh sách] [125] [cầu thủ] [còn] [sống] [vĩ đại] [nhất] . 
+
+[Trong] [một] [trận] [đấu] [gặp] [lại] <org> [Milan] </org> [vào] <date> [tháng] [8] [năm] [2005] </date> , <per> [Buffon] </per> [va chạm] [với] <pos> [tiền vệ] </pos> <per> [Kaká] </per> [của] [đội] [bạn] [trong] [một] [pha] [tranh] [bóng] , [khiến] [anh] [bị] [trật] [khớp] [vai] , [phải] [đi] [phẫu thuật] . 
+
+[Ca] [mổ] [thành công] , [anh] [trở lại] [sân] [bóng] [vào] [tháng] [11] , [nhưng] [chỉ] [chơi] [một] [trận] [trước] [khi] [một] [chấn thương] [khác] [đưa] [anh] [ra] [ngoài] [đường biên] [cho đến] [tận] [tháng] [1] [năm] [sau] . 
+
+[Trở lại] [lần] [này] , [anh] [góp] [công] [lớn] [đưa] <org> [Juventus] </org> [giành] [chức] [vô địch] [nước] <loc> [Ý] </loc> [lần] [thứ] [2] [liên tiếp] , [và] [cũng] [là] [lần] [thứ] [4] [anh] [đoạt] [được] [danh hiệu] [này] [trong] [màu] [áo] [sọc] [đen trắng] . 
+
+[Vào] <date> [tháng] [5] [năm] [2006] </date> , <per> [Buffon] </per> [và] <pos> [thủ môn] </pos> [trước] [đó] [của] <org> [Juventus] </org> [là] <per> [Antonio Chimenti] </per> , [cùng] [nhiều] [cầu thủ] [nữa] , [bị] [tình nghi] [có] [liên can] [đến] [một] [vụ] [dàn xếp] [tỉ số] [tại] [Serie] [A] [trong] [trận] [gặp] <org> [Parma] </org> . 
+
+[Hôm sau] [khi] [nghe] [tin] [đó] , [anh] [tự ý] [đến] <org> [tòa án] </org> [ở] <loc> [Turin] </loc> [trả lời] [tra vấn] [để] [bảo tồn] [danh dự] [cho] [mình] . 
+
+[Anh] [thừa nhận] [là] [mình] [có] [tham dự] [cá cược] [trong] [thể thao] , [nhưng] [kiên quyết] [nói] [không] [cá cược] [trong] [các] [trận] [bóng đá] <loc> [Ý] </loc> . 
+
+[Nhiều] [người] [lo ngại] [rằng] [chuyện] [này] [sẽ] [làm] [ảnh hưởng] [đến] [cơ hội] [tham dự] [World Cup] [2006] [của] [anh] , [nhưng] [đến] <date> [ngày] [15] [tháng] [5] </date> , [lại] [thấy] <per> [Buffon] </per> [có] [tên] [trong] [danh sách] [tuyển thủ] [đến] [nước] <loc> [Đức] </loc> . 
+
+[Các] <job> [cầu thủ] </job> [dính líu] [sau] [đó] [đều] [được] [xóa] [án] [vào] <date> [ngày] [27] [tháng] [6] [năm] [2007] </date> . 
+
+[Tuy vậy] , <org> [Juventus] </org> [bị] [đẩy] [xuống] [Serie] [B] [từ] <date> [ngày] [14] [tháng] [6] </date> [với] [âm] [30] [điểm] [xuất phát] , [đó] [là] [phán quyết] [đầu tiên] [sau] [vụ] [điều tra] [giàn] [xếp] [tỉ số] [nổi tiếng] ; [điểm] [âm] [sau] [đó] [được] [giảm] [bớt] , [còn] [17] [rồi] [9] [điểm] , [song] [chức] [vô địch] [nước] <loc> [Ý] </loc> [gần] [đây] [nhất] [của] <org> [Juventus] </org> [bị] [xóa] [khỏi] [bảng] [thành tích] . 
+
+[Người ta] [đồn] [rằng] <per> [Buffon] </per> [muốn] [rời] [đội] [vì] [chuyện] [này] , [khiến] [cho] [rất] [nhiều] [câu lạc bộ] [rất] [quan tâm] . 
+
+[Song] [anh] [vẫn] [ở] [lại] <org> [Juventus] </org> [sau] [đó] , [còn] [nói] [rằng] : " [Serie] [B] [là] [một] [giải] [đấu] [mà] [tôi] [chưa] [từng] [chiến thắng] [và] [tôi] [muốn] [thử] [làm] [điều] [đó] " . 
+
+<pos> [Phó chủ tịch] </pos> <org> [Milan] </org> [lúc] [này] , [ông] <per> [Adriano Galliani] </per> [lên tiếng] [chiêu dụ] [anh] [từ] <date> [tháng] [4] [năm] [2007] </date> [để] [thay thế] <per> [Dida] </per> [đang] [xuống] [phong độ] , [nhưng] [sau] [nhiều] [tin đồn] [về] [sự] [qua lại] , [cuối cùng] [anh] [lên tiếng] [bác bỏ] [ [3] ] . 
+
+[Sau] [khi] <org> [Juventus] </org> [đoạt] [Cadetti] [với] [số] [điểm cao] [nhất] [tại] [Serie] [B] [và] [trở lại] [giải] [đấu] [Serie] [A] , <per> [Buffon] </per> [ký] [tiếp] [một] [hiệp đồng] [với] [câu lạc bộ] , [có] [thời hạn] [cho đến] <date> [năm] [2012] </date> .

@@ -1,0 +1,31 @@
+<org> [Allianz] </org> ( [trước kia] [là] [AG] , [FWB:] [ALV] , [NYSE:] [AZ] ) [là] [một] [trong] [những] [tổ chức] [dịch vụ] [tài chính] [lớn] [nhất] [thế giới] , [trụ sở] [đặt] [tại] <loc> [Munich] , [Đức] </loc> . 
+
+[Lĩnh vực] [kinh doanh] [trọng tâm] [là] [bảo hiểm] . 
+
+[Với] [tổng] [doanh thu] [92,5 tỷ] [€] <date> [năm] [2008] </date> , <org> [Allianz] </org> [là] [định chế] [bảo hiểm] [quốc tế] [và] [dịch vụ] [tài chính] [thứ hai] [trên] [thế giới] . 
+
+<org> [Allianz] </org> [gần] [đây] ( <date> [tháng] [08] [năm] [2008] </date> ) [tuyên bố] [kế hoạch] [bán] [quyền sở hữu] <org> [Ngân hàng] [Dresdner] </org> [cho] <org> [Commerzbank] </org> , [chủ yếu] [là] [để] [đổi] [lấy] [cổ phiếu] [của] [ngân hàng] [này] . 
+
+[Nếu] [việc] [sáp nhập] [thành công] , <org> [Allianz] </org> [sẽ] [nắm] [giữ] [30%] [cổ phiếu] [của] [tổ hợp] [hai] <org> [ngân hàng] [Commerzbank/Dresdner] </org> . 
+
+<per> [Allianz Global Investors] </per> [đứng] [trong] [nhóm] [5] [nhà] [quản lý] [đầu tư] [năng động] [nhất] [toàn cầu] [nắm] [trong] [tay] [lượng] [tài sản] [970 tỷ] [€] , [trong] [đó] [725 tỷ] [là] [tài sản] [của] [bên] [thứ ba] [từ] [các] [tổ chức] [quản lý] [tài sản] [như] <org> [PIMCO] </org> ( [quỹ] [trái phiếu] ) , <org> [RCM] </org> ( [quỹ] [cổ phiếu] [vốn] ) , <org> [AAAm] </org> ( [quỹ] [đầu tư] [rủi ro] ) , <org> [Degi] </org> ( [quỹ] [bất động sản] ) , [v] . [v] . . 
+
+<org> [Allianz] [AG] </org> [ra đời] <date> [năm] [1890] </date> [tại] <loc> [Berlin] </loc> , [sau] [đó] [chuyển] [đầu não] [về] <loc> [Munich] </loc> <date> [năm] [1949] </date> . 
+
+[Bước đi] [đầu tiên] [đánh dấu] [sự] [chinh phục] [thị trường] [quốc tế] [là] [việc] [mở] [văn phòng] [chi nhánh] [tại] <loc> [London] </loc> [cuối] <date> [thế kỷ] [19] </date> . 
+
+[Sau] [Đệ nhị] [thế chiến] , [các] [hoạt động] [kinh doanh] [quốc tế] [dần] [được] [tái tạo] . 
+
+<org> [Allianz] </org> [mở] [văn phòng] [tại] <loc> [Paris] </loc> [cuối] [những] <date> [năm] [1950] </date> [và] [một] <org> [văn phòng] [quản lý] [thị trường] [Ý] </org> [những] <date> [năm] [1960] </date> . 
+
+[Đến] [những] <date> [năm] [1970] </date> , [việc] [mở rộng] [tiếp tục] [thực hiện] [sang] <loc> [Anh] [quốc] </loc> , <loc> [Hà Lan] </loc> , <loc> [Tây Ban Nha] </loc> , <loc> [Brazil] </loc> [và] <loc> [Hoa Kỳ] </loc> . 
+
+<date> [Năm] [1986] </date> , <org> [Allianz] </org> [mua] <org> [công ty] [Cornhill Insurance] </org> [ở] <loc> [London] </loc> [và] [mua] [cổ phiếu] <org> [Riunione Adriatica] [di] [Sicurità] ( [RAS] ) </org> , <loc> [Milan] </loc> , [tăng cường] [sự] [hiện diện] [ở] <loc> [Tây] [và] [Nam Âu] </loc> [trong]  [thập kỷ] <date> [1980] </date>  . 
+
+[Vào] <date> [tháng] [2] [năm] [2006] </date> , [cổ đông] <org> [RAS] </org> [phê chuẩn] [sự] [sáp nhập] [với] <org> [Allianz] </org> . 
+
+<date> [Năm] [1990] </date> , <org> [Allianz] </org> [bắt đầu] [bành trướng] [sang] [các] [nước] <loc> [Đông Âu] </loc> [với] [việc] [xuất hiện] [ở] <loc> [Hungary] </loc> . 
+
+[Cũng] [trong] [thập kỷ] [này] , <org> [Allianz] </org> [thôn tính] <org> [Fireman] [’] [s] [Fund] </org> , [một] [công ty] [bảo hiểm] [ở] <loc> [Hoa Kỳ] </loc> , [tiếp] [sau] [đó] [là] [mua] <org> [công ty] [Assurances Generales] [de] [France] ( [AGF] ) </org> , <loc> [Paris] </loc> . 
+
+[Những] [hoạt động] [thâu tóm] [này] [được] [tiếp] [bước] [bằng] [tiến] [vào] <loc> [Châu] [Á] </loc> [qua] [các] [liên doanh] [và] [mua] [lại] [doanh nghiệp] [ở] <loc> [Trung Quốc] </loc> [và] <loc> [Hàn Quốc] </loc> . 

@@ -1,0 +1,17 @@
+<per> [Edwin] [van] [der] [Sar] </per> ( [sinh] <date> [29] [tháng] [10] [năm] [1970] </date> [ở] <loc> [Voorhout] , [Hà Lan] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Hà Lan] </loc> . 
+
+<per> [Van der Sar] </per> [chơi] [ở] [vị trí] <pos> [thủ môn] </pos> . 
+
+<per> [Edwin van der Sar] </per> [là] <pos> [đội trưởng] </pos> [của] <org> [Đội tuyển] [quốc gia] [Hà Lan] </org> [và] [đang] [chơi] [cho] <org> [câu lạc bộ] [bóng đá] [Manchester United] </org> [ở] [giải] [English Premier League] . 
+
+[Anh] [là] [một] [thành viên] [của] <date> [2006] </date> / <date> [2007] </date> [PFA] [Team] [of] [the] [Year] . 
+
+<per> [Van] [der] [Sar] </per> [bắt đầu] [sự nghiệp] [tại] <org> [Foreholte] </org> ( [đội] [bóng] [địa phương] [của] <loc> [Voorhout] </loc> ) , [sau] [đó] [chuyển] [đến] <org> [VV] [Noordwijk] </org> . 
+
+[Trong] [mùa] [bóng] [2008-2009] <per> [Van Der Sar] </per> [liên tục] [xô] [ngã] [những] [kỷ lục] [giữ] [sạch] [lưới] [lần lượt] [của] [Premier League] , <loc> [Vương Quốc Anh] </loc> [và] <loc> [Châu Âu] </loc> . 
+
+<date> [Ngày] [27] - [1] - [2009] </date> [anh] [phá] [kỷ lục] [giữ] [sạch] [lưới] [của] [Premier League] [với] [thời gian] [1032] [phút] [sau] [trận] [thắng] <org> [West Bromwich Albion] </org> [5] - [0] ( [kỷ lục] [cũ] [là] [1025] [phút] [của] <pos> [thủ môn] </pos> <org> [Chelsea] </org> <per> [Petr Cech] </per> ) . 
+
+<date> [Ngày] [8] - [2] - [2009] </date> <per> [Van Der Sar] </per> [phá] [kỷ lục] [1,155] [phút] [giữ] [sạch] [lưới] [toàn] <loc> [Vương Quốc Anh] </loc> [của] <per> [Bobby Clark] </per> [với] [1212] [phút] ( [tính] [đến] [hết] [trận] [thắng] <org> [West Ham United] </org> [1] - [0] ) [một] [kỷ lục] [mà] [chưa] [có] [một] <pos> [thủ môn] </pos> [nào] [tại] [các] [giải] [vô địch] [quốc gia] [thuộc] <loc> [Vương Quốc Anh] </loc> ( [gồm] [4] [quốc gia] <loc> [Anh] </loc> , <loc> [Ireland] </loc>  , <loc> [Scotland] </loc> ) [đạt] [được] . 
+
+[Kỷ lục] [của] [anh] [dừng] [ở] [trong] [trận] [đấu] [gặp] <org> [Newcastle] </org> [khi] [anh] [bất cẩn] [bắt] [bóng] [không] [dính] [và] [để] <per> [Lovenkrands] </per> [ghi bàn] .

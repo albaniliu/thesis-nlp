@@ -1,0 +1,15 @@
+<per> [Holger Badstuber] </per> ( [sinh] <date> [ngày] [13] [tháng] [3] [năm] [1989] </date> [ở] <loc> [Memmingen] </loc> [ [1] ] ) [là] [một] [cầu thủ] [bóng đá] [người] <loc> [Đức] </loc> [chơi] [ở] [vị trí] [hậu vệ] [hay] [tiền vệ] [cho] <org> [Bayern Munich] </org> . 
+
+<per> [Badstuber] </per> [là] [một] [sản phẩm] [của] [lò] [đào tạo] [trẻ] <org> [Bayern Munich] </org> [và] [được] [thử thách] [qua] [các] [đọi] [trẻ] [và] [dự bị] [trước] [khi] [kí] [hợp đồng] [chuyên nghiệp] [vào] <date> [tháng] [7] [năm] [2009] </date> , [cùng với] [đồng đội] <per> [Thomas] [Mü] [ller] </per> , [trở thành] [một] [cầu thủ] [dự bị] [nhưng] [không] [được] [dùng] [đến] [ở] [đầu] [mùa] [giải] [2008-09] . 
+
+[Anh] [có] [trận] [ra mắt] [ở] [giải] [vô địch] [quốc gia] [ở] [mùa] [giải] [2009-10] , [tiếp] [TSG] [1899] <org> [Hoffenheim] </org> [và] [kể] [từ] [đó] [có] [vị trí] [quan trọng] [trong] [hàng] [phòng thủ] . 
+
+[Anh] [có] [bàn] [thắng] [đầu tiên] [trong] [trận] [gặp] <org> [Borussia] [Mö] [nchengladbach] </org> [vào] <date> [ngày] [4] [tháng] [12] [năm] [2009] </date> . 
+
+[Anh] [cùng] <per> [Bastian Schweinsteiger] </per> [là] [những] [lựa chọn] [hàng đầu] [để] [thực hiện] [các] [quả] [phạt] . 
+
+[Ban đầu] [là] [một] [trung vệ] , [song] [anh] [đã] [chuyển] [sang] [chơi] [ở] [vị trí] [hậu vệ] [trái] [và] <per> [Philipp Lahm] </per> [chơi] [ở] [vị trí] [hậu vệ] [phải] , [một] [vị trí] [có] [vấn đề] . 
+
+[Cầu thủ] [trẻ] [này] [đã] [gây] [ấn tượng] [và] [cùng với] <per> [Lahm] </per> [và] <per> [Schweinsteiger] </per> [là] [3] [cầu thủ] [ra] [sân] [ở] [tất cả] [các] [trận] . 
+
+[Sau] [đó] , [anh] [được] [gọi] [vào] [đội tuyển] [U-21] [Đức] , [có] [trận] [ra mắt] [trong] [trận] [thua] [3-1] [trước] <loc> [Thổ Nhĩ Kỳ] </loc> .

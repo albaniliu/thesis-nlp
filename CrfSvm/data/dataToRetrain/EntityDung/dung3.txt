@@ -1,0 +1,17 @@
+<org> [Advanced Micro Device] ( [AMD] ) </org> ( [NYSE:] [AMD] ) [là] [nhà sản xuất] [linh kiện] [tích hợp] [bán dẫn] [có] [trụ sở] [tại] <loc> [Sunnyvale] , [California] , [Hoa Kỳ] </loc> . 
+
+<org> [AMD] </org> [là] [nhà sản xuất] [bộ vi xử lý] ( [CPU] ) [x] [86] [lớn] [thứ hai] [thế giới] [sau] <org> [Intel] </org> [và] [là] [một] [trong] [những] [nhà sản xuất] [bộ nhớ] [flash] [hàng đầu] [trên] [thế giới] ; [ngoài ra] <org> [AMD] </org> [còn] [sản xuất] [chipset] [và] [các] [linh kiện] [điện tử] [bán dẫn] [khác] . 
+
+<org> [AMD] </org> [thành lập] <date> [năm] [1969] </date> [từ] [một] [nhóm] [kỹ sư] [thành viên] [tách] [ra] [từ] <org> [Fairchild Semiconductor] </org> , [trong] [số] [đó] [có] [cả] <per> [Jerry Sanders] </per> ; [ngày nay] <org> [AMD] </org> [trở thành] [một] [công ty] [đa] [quốc gia] [với] [hàng] [chục ngàn] [nhân viên] [tại] <loc> [châu] [Âu] </loc> , <loc> [Nhật Bản] </loc> , <loc> [Hoa Kỳ] </loc> ... [với] [tổng] [doanh số] ( [2003] ) [là] [3,5 tỷ] [đôla] [Mỹ] . 
+
+<org> [AMD] </org> [nổi tiếng] [với] [dòng] [sản phẩm] [Athlon] [cho] [thị trường] [cao cấp] [và] [Duron] [cho] [thị trường] [cấp] [thấp] [giá] [rẻ] . 
+
+[Một số] [linh kiện] [của] [các] [thế hệ] [đời] [trước] [của] [máy tính] [Apple] [cũng] [do] <org> [AMD] </org> [cung cấp] . 
+
+[Thế hệ] [vi xử lý] [mới] [nhất] [của] [hãng] [hiện nay] ( [đời] [thứ] [8] ) [hỗ trợ] [tập] [lệnh] [mở rộng] [AMD64] [cho] [điện toán] [64] [bit] [là] [AMD] [Athlon] [64] [cho] [thị trường] [máy tính để bàn] [và] [AMD] [Opteron] [cho] [thị trường] [máy chủ] [và] [trạm] [làm việc] . 
+
+<date> [Năm] [2007] </date> <org> [AMD] </org> [đã] [mua] [lại] [hãng] [sản xuất] [chip] [đồ hoạ] : <org> [ATI] [Technologies] </org> [càng] [làm] [đa dạng] [thêm] [các] [sản phẩm] [của] [mình] . 
+
+[Hiện nay] <org> [ATI] </org> [đang] [có] [model] [card] [đồ họa] [mạnh] [nhất] [thế giới] [ATI] [Radeon] [HD] [5970] .
+
+[Cho đến] [hiện tại] [đối thủ] [chính] [trên] [thị trường] [đồ họa] [là] <org> [NVIDIA] </org> [vẫn] [chưa thể] [phản công] .

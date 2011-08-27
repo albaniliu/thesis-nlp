@@ -1,0 +1,41 @@
+<org> [Olympique] [de] [Marseille] </org> ( [hay] [l] ' [OM] [ [lo] ' [ɛ] [m] [ɘ] ] [hoặc] <org> [Marseille] </org> ) [là] [một] [câu lạc bộ] [bóng đá] [chuyên nghiệp] [tại] [thành phố] <loc> [Marseille] , [Pháp] </loc> ; [được] [thành lập] [và] [phần lớn] [chơi] [ở] [các] [giải] [bóng đá] [hàng đầu] [nước] <loc> [Pháp] </loc> [suốt] [lịch sử] [tồn tại] . 
+
+<org> [Marseille] </org> [đã] [tám] [lần] [vô địch] [giải] [hạng] [nhất] [Pháp Ligue] [1] , [mười] [lần] [đoạt] [Cúp] [nước] <loc> [Pháp] </loc> [và] [là] [đội] [bóng] <loc> [Pháp] </loc> [duy nhất] [từng] [đoạt] [chức] [vô địch] [UEFA] [Champions League] [sau] [trận] [thắng] <org> [AC] [Milan] </org> [1] - [0] [bằng] [bàn] [thắng] [của] <pos> [hậu vệ] </pos> <per> [Basile Boli] </per> <date> [ngày] [26] [tháng] [05] [năm] [1993] </date> . 
+
+[Sau] [chức] [vô địch] [Cúp] [C1] [này] [không] [lâu] , <org> [OM] </org> [bị] [phát hiện] [dính] [vào] [vụ] [bán độ] [đầy] [tai tiếng] [với] [đội] [bóng] <org> [Valenciennes] </org> [trong] [cùng] [mùa] [giải] [1992-1993] , [kết quả] [là] [dù] [vô địch] <loc> [Pháp] </loc> [năm] [đó] <org> [Marseille] </org> [vẫn] [bị] [tước] [danh hiệu] [đồng thời] [bị] [phạt] [rớt] [xuống] [hạng] [nhì] . 
+
+[Từ] [mùa] [1996-1997] , <org> [Olympique Marseille] </org> [trở lại] [chơi] [tại] [Giải] [hạng] [nhất] [Pháp Ligue] [1] [nhưng] [từ] [đó] [đến] [nay] [đội] [vẫn] [chưa] [giành] [thêm] [được] [bất cứ] [chức] [vô địch] [quốc gia] [nào] . 
+
+[Sân vận động] <loc> [Stade Vélodrome] </loc> [có] [sức] [chứa] [60] [031] [khán giả] [là] [sân nhà] [của] [đội] <org> [OM] </org> , [nằm] [ở] [phía] [nam] [thành phố] <loc> [Marseille] </loc> . 
+
+<org> [OM] </org> [đã] [chơi] [tại] [đây] [từ] <date> [năm] [1937] </date> . 
+
+[Từ] <date> [năm] [1997] </date> , [chủ sở hữu] [đội] [bóng] [là] [tỉ phú] [người]  <loc> [Thụy Sĩ] </loc>    <per> [Robert Louis] - [Dreyfus] </per> . 
+
+[Áo] [thi đấu] [truyền thống] [của] <org> [Olympique] [de] [Marseille] </org> [có] [màu] [trắng] [với] [những] [đường] [viền] [phụ] [màu] [lục] [nhạt] . 
+
+[Khẩu hiệu] [bằng] [tiếng] <loc> [Pháp] </loc> [của] [đội] [Droit Au But] [có] [nghĩa là] " [Thẳng] [tiến] [tới] [khung thành] " [được] [in] [trên] [áo] [cùng với] [một] [ngôi sao] [tượng trưng] [cho] [một] [chức] [vô địch] [Champions League] [đã] [giành] [được] . 
+
+<org> [Marseille] </org> [còn] [là] [đội] [bóng] [được] [yêu thích] [nhất] [nước] <loc> [Pháp] </loc> , [có] [lực lượng] [cổ động viên] [trung thành] [rất] [hùng hậu] [thường] [lấp] [đầy] [các] [khán đài] [sân] <loc> [Stade Vélodrome] </loc> [giúp] <org> [OM] </org> [đạt] [số lượng] [trung bình] [khán giả] [đến] [sân] [lớn] [nhất] [tại] <loc> [Pháp] </loc> , [chẳng hạn] [chỉ số] [cho] [mùa] [2007-2008] [là] [52] [600] [khán giả] / [trận] [Theo] [ông] <per> [André Gascard] </per> , [người] [đã] [từng] [chơi] [bóng] [cho] <org> [OM] </org> [trước] [thế chiến] [thứ] [nhất] , [sau] [đó] [trở thành] <job> [huấn luyện viên] </job> , [tham gia] [công tác] [điều hành] , [rồi] [là] [người] [lưu trữ] [sử liệu] [của] [câu lạc bộ] , [thì] <org> [Olympique] [de] [Marseille] </org> [được] [thành lập] [bởi] [ông]  <per> [René Dufaure]  [de] [Montmirail] </per> [ [2] ] [vào] <date> [năm 1892] </date> [ [3] ] , [nhưng] [đến] <date> [năm 1899] </date> [đội] [mới] [sử dụng] [tên] [gọi] [như] [ngày nay] [là] <org> [Olympique] [de] [Marseille] </org> . 
+
+[Trước] [đó] [đội] [lần lượt] [mang] [tên] <org> [Sporting Club] </org> , <org> [US] [Phocéenne] </org> , [rồi] <org> [Football Club] [de] [Marseille] </org> . 
+
+[Các] [điều lệ] [của] [câu lạc bộ] [được] [đại hội] [thành viên] [thông qua] [vào] <date> [tháng] [8] [năm 1899] </date> [ [4] ] . 
+
+[Khẩu hiệu] " [Thẳng] [tiến] [tới] [khung thành] " ( [Droit] [au] [but] ) [bắt nguồn] [từ] [môn] [bóng bầu dục] [vốn] [là] [môn] [thể thao] [chính] [của] [câu lạc bộ] [lúc] [bấy giờ] . 
+
+[Cũng] [theo] <per> [André Gascard] </per> , [sau] [khi] [gia nhập] [USFSA] <date> [năm 1898] </date> , [mãi] [đến] <date> [năm] [1902] </date> [nhờ] [người] <loc> [Anh] </loc> [và] [người] <loc> [Đức] </loc> [mà] [môn] [bóng đá] [mới] [bắt đầu] [được] [chơi] [tại] [l] ' [OM] . 
+
+[Do] [có] [nguồn lực] [tài chính] [mạnh] [hơn] [và] [tổ chức] [tốt] [hơn] [các] [đội] [bóng] [khác] [cùng] [thành phố] <loc> [Marseille] </loc> [như] <org> [Stade] </org> , <org> [Phocéenne] </org> ... [nên] <org> [OM] </org> [đã] [trở thành] [câu lạc bộ] [thống trị] [làng] [túc cầu] [thành phố] [cảng] [lúc] [đó] . 
+
+[Đội] [thời] [đó] [thi đấu] [ở] [sân] <loc> [stade] [de] [l] ' [Huveaune] </loc> [ [5] ] . 
+
+<date> [Năm] [1904] </date> [ [6] ] [đội] [giành] [chức] [vô địch] [Championnat] [du] [Littoral] ( [Giải] [vô địch] [vùng] <loc> [Duyên hải] </loc> ) [lần] [đầu] [sau] [khi] [đánh bại] [nhiều] [đội] [bóng] [khác] [ở] <org> [Marseille] </org> [và] [vùng] [phụ cận] , [rồi] [giành] [quyền] [dự] [vòng] [chung kết] [của] [giải] [vô địch] [bóng đá] <loc> [Pháp] </loc> . 
+
+[Thời] [đó] , [từ] " [football] " [dùng] [cho] [môn] [bóng bầu dục] , [còn] [môn] [bóng đá] [được] [gọi là] " [association] " . 
+
+[Ở] [giải] [đấu] [cấp] [quốc gia] , [đội] [liên tiếp] [bốn] [lần] [thất bại] [tại trận] [bán kết] [vào] [các] <date> [năm] [1904] </date> , <date> [1905] </date> , <date> [1906] </date> , <date> [1908] </date> . [ [6] ] [Nhưng] [tiếp tục] [vô địch] [vùng] <loc> [Duyên hải] </loc> [thêm] [năm] [năm] [liên tiếp] [nữa] . 
+
+[Phải] [đến] [cuối] <date> [thập niên] [1910] </date> , [với] [sự] [trưởng thành] [của] <org> [Stade Helvétique] [de] [Marseille] </org> , <org> [OM] </org> [mới] [hết] [làm mưa làm gió] [ở] [miền] [Nam] [nước] <loc> [Pháp] </loc> . 
+
+<org> [Stade Helvétique] </org> [sau] [đó] [làm] [điều] [mà] <org> [Olympique] [de] [Marseille] </org> [không] [làm] [được] [là] [đoạt] [3] [chức] [vô địch] [giải] [bóng đá] <loc> [Pháp] </loc> [do] [USFSA] [tổ chức] [trước] [khi] [thế chiến] [thứ] [nhất] [bùng nổ] .

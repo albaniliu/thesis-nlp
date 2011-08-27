@@ -1,0 +1,63 @@
+<org> [Olympique Lyonnais] </org>  , [còn] [gọi] [tắt] [là]  [Lyon]  [hay] [OL] , [là] [câu lạc bộ] [bóng đá] [ở] [thành phố] <loc> [Lyon] , [Pháp] </loc> . 
+
+[Câu lạc bộ] [thành lập] [vào] <date> [năm] [1950] </date> [từ] [việc] [sát nhập] [giữa] [ba] [đội] <org> [FC] [Lyon] </org> , <org> [AS] [Villeurbanne] </org> [và] <org> [Lyon Olympique Universitaire] </org> [ [2] ] - [một] [câu lạc bộ] [tồn tại] [từ] <date> [năm 1899] </date> . 
+
+[OL] [hiện nay] [lấy] [sân] <loc> [Gerland] </loc> [làm] [sân nhà] . 
+
+<pos> [Chủ tịch] </pos> [của] [câu lạc bộ] [từ] [tháng] <date> [năm] [1987] </date> [là] [ông] <per> [Jean-Michel] [Aulas] </per> , <job> [huấn luyện viên] </job> [hiện tại] [của] [đội] [là] [ông] <per> [Claude Puel] </per> . 
+
+[Mùa] [bóng] [năm] [nay] <loc> [Lyon] </loc> [đang] [thi đấu] [tại] [Ligue] [1] [và] [cúp] [C1] <loc> [châu] [Âu] </loc> . 
+
+[Câu lạc bộ] [là] [một] [trong] [những] [đội] [bóng] [giàu] [thành tích] [nhất] [của] [bóng đá] <loc> [Pháp] </loc> , [với] [bảy] [chức] [vô địch] [quốc gia] [liên tiếp] [giành] [được] [từ] <date> [năm] [2002] </date> [cho đến] <date> [năm] [2008] </date> . 
+
+[Đội] [bóng] [nữ] [của] [câu lạc bộ] [hiện nay] [cũng] [là] [đội] [bóng] [số một] [của] [nền] [bóng đá] [đất nước] [hình] [lục lăng] , [sau] [khi] [giành] [chức] [vô địch] <loc> [Pháp] </loc> [trong] [hai] [mùa] [giải] [gần] [đây] [nhất] , [nâng] [số] [chức] [vô địch] [quốc gia] [mà] [họ] [đã] [giành] [được] [lên] [tổng cộng] [6] [lần] [trong] [lịch sử] [tồn tại] [của] [mình] . 
+
+[«] <org> [Lyon Olympique] </org> [»] , [là] [một] [câu lạc bộ] [thể thao] ( [gồm] [nhiều] [bộ môn] [khác nhau] ) [được] [thành lập] [vào] <date> [năm 1896] </date> [dưới] [cái] [tên] [Racing Club] [de] [Lyon] , [đội] [bóng đá] [của] [câu lạc bộ] [được] [thành lập] [sau] [đó] [ba] [năm] ( [vào] <date> [năm 1899] </date> ) . 
+
+[Đây] [chính] [là] [đội] [bóng đá] [đầu tiên] [ở] <loc> [Lyon] </loc> [lọt] [vào] [vòng] [chung kết] [giải] [vô địch] [bóng đá] <loc> [Pháp] </loc> [do] [liên đoàn] [USFSA] [tổ chức] [vào] <date> [năm] [1906] </date> . 
+
+[Tại] [giải] [đấu] [năm] [đó] , [đội] [đã] [gặp] <org> [Olympique] [de] [Marseille] </org> [ở] [vòng] [1/8] . 
+
+[Sau] [trận] [hòa] [2-2] [ở] [lượt đi] , [đội] [bóng] [thành phố] <loc> [Lyon] </loc> [đã] [không] [đến] <loc> [Marseille] </loc> [để] [chơi] [trận] [lượt về] . 
+
+[Những] [năm] [sau] [đó] , [đội] [mang] [tên] [«] <org> [Lyon Olympique Universitaire] </org> [»] ( [thường] [được] [gọi] [tắt] [là] [«] [LOU] [»] ) [có] [gặt hái] [được] [một số] [thành công] [nhất định] [nhưng] [sự] [phát triển] [còn] [hạn chế] [do] [vẫn] [chỉ] [là] [đội] [nghiệp dư] [thành viên] [của] [một] [câu lạc bộ] [thể thao] ( [gồm] [nhiều] [bộ môn] [khác nhau] ) , [chứ] [không] [phải] [là] [một] [câu lạc bộ] [bóng đá] [biệt lập] . [ [3] ] [Đồng thời] , [thành phố] <loc> [Lyon] </loc> , [và] [nhất là] [thị trưởng] [thời] [đó] [là] [ông] <per> [Édouard] [Herriot] </per> [không] [thực sự] [ủng hộ] [bóng đá] . 
+
+[Chính sách] [của] [thành phố] [thời] [đó] [là] [phát triển] [phong trào] [thể thao] [quần chúng] [hơn] [là] [đầu tư] [vào] [một] [đội] [bóng] [chuyên nghiệp] . [ [4] ] [Phải] [đến] [cuối] [Chiến tranh] [thế giới] [thứ hai] , [kế hoạch] [chuyên nghiệp] [hóa] [đội] [bóng đá] [của] <per> [LOU] </per> [mới] [được] [triển khai] . [ [3] ] <per> [Felix Louot] </per> , [một] [doanh nhân] [của] [thành phố] [trong] [lĩnh vực] [buôn bán] [giày] , [lên] [nắm] [đội] [bóng đá] [của] [Lyon Olympique Universitaire] [và] [đầu tư] [vào] [đó] [từ] <date> [năm] [1944] </date> [cho đến] <date> [năm] [1950] </date> [tổng cộng] [hơn] [13] [triệu] [franc] [để] [xây dựng] [nền] [bóng đá] [chuyên nghiệp] [ở] <loc> [Lyon] </loc> [ [5] ] . 
+
+[Câu lạc bộ] [ngay lập tức] [giành] [chức] [vô địch] [bóng đá] <loc> [Pháp] </loc> [miền] [Nam] [vào] <date> [năm] [1945] </date> [và] [lọt] [vào] [tứ kết] [cúp] [nước] <loc> [Pháp] </loc> [năm] [đó] . [ [3] ] [Tuy nhiên] , [những] [phức tạp] [nảy sinh] [trong] [việc] [đội] [bóng đá] [vẫn] [không] [phải] [là] [một] [tổ chức] [độc lập] , [việc] [va chạm] [với] [phần] [còn] [lại] [của] <per> [LOU] </per> [vẫn] [hoạt động] [nghiệp dư] , [khiến] <per> [Trillot] </per> [và] [một số] [người] [bạn] [của] [ông] [có] [ý tưởng] [thành lập] [một] [mô hình] [hoạt động] [mới] . [ [3] ] [Cuộc] [họp] [đầu tiên] [bàn] [về] [vấn đề] [này] [được] [tổ chức] <date> [ngày] [19] [tháng] [05] [năm] [1950] </date> [tại] [quán] <loc> [Brasserie] [de] [la] [Republique] </loc> [ [6] ] . 
+
+[4] [ngày sau] [đó] , [tức] <date> [ngày] [23] [tháng] [05] [năm] [1950] </date> , [câu lạc bộ] [bóng đá] [«] <org> [Olympique] [de] [Lyon] [et] [du] [Rhône] </org> [»] [được] [tuyên bố] [thành lập] [tại] [quán] <loc> [Café Neuf] </loc> [ [7] ] [Bác sĩ] <per> [Marcel Trillat] </per> [đề nghị] [chọn] [hai] [màu] [đỏ] [và] [xanh] , [màu] [biểu tượng] [của] [thành phố] <loc> [Lyon] </loc> , [làm] [màu] [của] [câu lạc bộ] . 
+
+<date> [Ngày] [27] [tháng] [05] </date> , [điều lệ] [hoạt động] [được] [soạn thảo] [xong] . 
+
+[Đến] <date> [ngày] [mùng] [05] [tháng] [06] </date> , <per> [OL] </per> [và] <per> [LOU] </per> [ký] [thỏa thuận] [đồng ý] [cho] [việc] [chuyển giao] . 
+
+<per> [Oscar Heisserer] </per> , [cựu] [đội trưởng] [đội tuyển] <loc> [Pháp] </loc> , <job> [huấn luyện viên] </job> [của] <per> [LOU] </per> [vào] [mùa] [bóng] [trước] [đó] , [tiếp tục] [được] [giao] [đảm nhận] [nhiệm vụ] [này] [tại] <per> [OL] </per> . 
+
+<date> [Ngày] [26] [tháng] [08] [năm] [1950] </date> , <org> [Olympique Lyonnais] </org> [thi đấu] [trận] [đầu tiên] [của] [mình] [tại] [giải] [hạng] [hai] <loc> [Pháp] </loc> . 
+
+<org> [Olympique Lyonnais] </org> [ở] [lại] [giải] [hạng] [nhì] [trong] [6] [năm] , [ngân sách] [của] [đội] [không] [đủ] [mạnh] [để] [cho phép] [ngay lập tức] [trở lại] [hạng] [nhất] . [ [15] ] <date> [Năm] [1987] </date> , [sau] [những] [năm] [CLB] [phải] [chơi] [ở] [giải] [D2] , <per> [Jean-Michel] [Aulas] </per> , [một] [chủ] [doanh nghiệp] [trong] [lĩnh vực] [công nghệ thông tin] [đầu tư] [vào] [CLB] [và] [giành] [quyền] [kiểm soát] . 
+
+[Ông] [đặt] [ra] [tham vọng] " [tham dự] [đấu trường] <loc> [châu] [Âu] </loc> [trong] [5] [năm] " . 
+
+<per> [Aulas] </per> [đã] [gây] [ngạc nhiên] [khi] [sa thải] [huấn luyện viên] <per> [Robert Nouzaret] </per> , [một] [trong] [những] [biểu tượng] [của] [CLB] . 
+
+[Tuy nhiên] , [đội] [bóng] [dưới] [sự] [điều hành] [của] [ông] [đã] [thăng hạng] [lên] [Ligue] [1] <date> [năm] [1989] </date> [dưới] [sự] [dẫn dắt] [của] <per> [Raymond Domenech] </per> . [ [15] ] [Việc] [giành] [quyền] [tham dự] [đấu trường] <loc> [châu] [Âu] </loc> [cũng] [được] [hoàn thành] [chỉ] [sau] [2] [mùa] [giải] [ở] [Ligue] [1] . 
+
+[Như vậy] , <per> [Aulas] </per> [đã] [thực hiện] [được] [mục tiêu] [đặt] [ra] [trước] [đó] . 
+
+[Tuy vậy] , [câu lạc bộ] [lại] [đối mặt] [với] [cuộc chiến] [trụ] [hạng] [mùa] [giải] [ngay] [sau] [đó] . 
+
+[Trong suốt] [thập niên] [1990] , <loc> [Lyon] </loc> [có] [thành tích] [khá] [thất thường] , [đội] [thường] [xếp] [ở] [khoảng] [giữa] [của] [bảng] [xếp hạng] . 
+
+[Nổi bật] [nhất] [có lẽ] [là] [mùa] [giải] [1994-1995] [khi] [OL] [đứng] [thứ hai] [chung cuộc] [sau] <org> [FC] [Nantes] </org> , [nhờ] [vào] [thế hệ] <job> [cầu thủ] </job> [đi] [lên] [từ] [lò] [đào tạo] [của] [đội] [bóng] [như] <per> [Florian Maurice] </per> [hay] <per> [Bruno] [N] ' [gotty] </per> . [ [16] ] <date> [Năm] [1999] </date> , [việc] [đầu tư] [15] [triệu] [euro] [của] [tập đoàn] [Pathé] [vào] [OL] [đổi] [lấy] [một] [phân] [ba] [cổ phần] [của] [CLB] [cho phép] <per> [Jean-Michel] [Aulas] </per> [tăng cường] [đáng kể] [về] [lực lượng] , [ngôi sao] [lớn] [đầu tiên] [về] [vùng] <loc> [Rhônes] </loc> [có lẽ] [là] [tiền đạo] [đội tuyển] <per> [Brasil Sonny Anderson] </per> ( [với] [giá] [chuyển nhượng] [kỷ lục] [của] [bóng đá] <loc> [Pháp] </loc> [vảo] [thời điểm] [đó] [ [17] ] ) , [đánh dấu] [một] [sự] [khời] [đầu] [kỉ nguyên] [của] [CLB] . 
+
+<date> [Năm] [2002] </date> , [OL] [giành] [danh hiệu] [vô địch] [Ligue] [1] [lần] [đầu tiên] [trong] [lịch sử] [vào] [vòng] [đấu] [cuối cùng] [của] [mùa] [giải] . 
+
+[Trước] [vòng] [cuối cùng] , <org> [OL] </org> [đứng] [thứ hai] [với] [2] [điểm] [ít] [hơn] <org> [RC] [Lens] </org> . 
+
+[Lịch] [thi đấu] [vô tình] [xếp] [chính] [hai] [đội] [sẽ] [đối đầu] [với] [nhau] [tại] [lượt] [trận] [cuối cùng] [ở] <loc> [Gerland] , [Lyon] </loc> [giành] [chiến thắng] [với] [tỉ số] [3-1] [để] [giành] [ngôi] [quán quân] . 
+
+[Sau] [chức] [vô địch] [đầu tiên] [này] [là] [chuỗi] [7] [chức] [vô địch] [liên tiếp] ( [kỷ lục] [của] [bóng đá] <loc> [Pháp] </loc> ) , [tính] [đến] [hết] [mùa] [giải] [2007-2008] . [ [17] ] <org> [OL] </org> [đã] [trở thành] [một] [thế lực] [bóng đá] [không chỉ] [ở] <loc> [Pháp] </loc> [mà còn] [là] [ở] <loc> [châu] [Âu] </loc> . 
+
+[Đội] [bóng] [cũng] [là] [thành viên] [của] [G14] ( [tổ chức] [của] [18] [CLB] [đứng] [đầu] <loc> [châu] [Âu] </loc> ) .

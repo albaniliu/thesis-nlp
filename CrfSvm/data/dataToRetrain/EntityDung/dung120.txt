@@ -1,0 +1,19 @@
+<per> [Nemanja Vidic] </per> [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Serbia] </loc> [đang] [thi đấu] [cho] <org> [CLB] [Manchester United] </org> [và] [đội tuyển] [quốc gia] <loc> [Serbia] </loc> . 
+
+<per> [Vidic] </per> [trưởng thành] [từ] <org> [CLB] [Red Star Belgrade] </org> , [anh] [là] [một] <pos> [trung vệ] </pos> [chơi] [xông xáo] [năng nổ] [và] [thiên] [về] [thể lực] , [chiều cao] . 
+
+<per> [Vidic] </per> [chuyển] [tới] <org> [Manchester United] </org> [vào] <date> [tháng] [1-2006] </date> [từ] <org> [CLB] [Spartak Moscow] </org> [và] [thi đấu] [trận] [đầu tiên] [cho] <org> [Manchester United] </org> <date> [ngày] [25-1-2006] </date> [trong] [trận] [gặp] <org> [Blackburn Rovers] </org> [tại] <loc> [sân] [Old Trafford] </loc> ( [Carling Cup] ) . 
+
+[Việc] [thi đấu] [thành công] [trong] [màu] [áo] [đội tuyển] [quốc gia] [tại] [vòng loại] [World Cup] [trong] <date> [năm] [2005] </date> , [đã] [khiến] [hàng loạt] [các] [câu lạc bộ] [hàng đầu] <loc> [châu Âu] </loc> [tới] [gõ cửa] [nhà] <pos> [hậu vệ] </pos> <per> [Nemanja Vidic] </per> [của] <org> [Spartak Moscow] </org> . 
+
+[Bất chấp] [mọi] [lời] [đề nghị] [từ] <org> [Liverpool] </org> [hay] <org> [Fiorentina] </org> ... , <pos> [hậu vệ] </pos> [24] [tuổi] [này] [đã] [gia nhập] <org> [Manchester United] </org> [vào] <date> [tháng] [1-2006] </date> [bằng] [việc] [đặt] [bút kí] [vào] [bản] [hợp đồng] [có] [thời hạn] [4] [năm] [tại] [Old Traford] . 
+
+[Việc] [chỉ] [để] [lọt lưới] [1] [bàn] [duy nhất] [tại] [vòng loại] [World Cup] <date> [2005] </date> ( [bàn] [thắng] [của] <per> [Raul] </per> ) , [ngay lập tức] [hàng] [phòng ngự] [của] <org> [Serbia] [&] [Montenegro] </org> [được] [đặt] [cho] [biệt danh] [là] [“] [Bộ] [tứ] [kì diệu] " , [với] <per> [Vidic] </per> [được] [biết] [đến] [nhiều] [nhất] [như là] [một] [ngôi sao] . 
+
+[Mặc dù] [còn] [trẻ] , <per> [Vidic] </per> [đã] [chiếm] [một] [vị trí] [quan trọng] [trong] [hang] [phòng ngự] [của] <org> [Spartak Moscow] </org> [trong] [2] [năm] [trước] [khi] [số] [tiền] [chuyển nhượng] [của] [anh] [được] [chuyển] [tới] [từ] <org> [United] </org> . 
+
+[Với] [12] [thẻ vàng] [trong] [30] [trận] [đấu] [cho] <org> [Spartak Moscow] </org> [trong] <date> [năm] [2005] </date> , <per> [Vidic] </per> [đã] [nhanh chóng] [đạt] [tới] [sự] [danh tiếng] [như] [một] <pos> [trung vệ] </pos> [có] [lối] [chơi đẹp] [với] [khả năng] [chơi] [độc lập] [cực] [tốt] . 
+
+[Trước] [khi] [chơi] [cho] <org> [Spartak] </org> , <per> [Vidic] </per> [đã] [học] [bong] [đá] [tại] <org> [lò] [đào tạo] [Red Star] </org> , [nơi] [mà] [tân binh] [này] [là] [chốt] [chặn] [cuối cùng] [với] [mức] [12] [bàn] [trong] [67] [lần] [ra] [sân] [và] [thậm chí] [còn] [là] [đội trưởng] [của] [đội] . 
+
+[Đến Old] [trafford] , [anh] [là] [người] [thay thế] [xứng đáng] [cho] <per> [Jap stamp] </per> , [cùng với] <per> [R] [Ferdinand] </per> [tạo] [thành] [1] [bộ] [đôi] <pos> [trung vệ] </pos> [thép] [cho] [hàng] [thủ] <org> [MU] </org> , [là] [nhân tố] [chính] [cho] [thành công] [của] [lối] [chơi] [vững chắc] [của] <pos> [MU] </pos> [khi] [đoạt] [chức] [vô địch] [Premier League] [và] [UEFA] [Champions League] [mùa] [giải] <date> [2007-2008] </date> .

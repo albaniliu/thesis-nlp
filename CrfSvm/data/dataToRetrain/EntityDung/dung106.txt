@@ -1,0 +1,35 @@
+<per> [Zlatan Ibrahimovic] </per> ( [sinh] <date> [ngày] [3] [tháng] [10] [năm] [1981] </date> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Thụy Điển] </loc> . 
+
+[Anh] [có] [cha mẹ] [là] [người] <loc> [Bosna] </loc> [và] <loc> [Croatia] </loc> [hiện] [đang] [chơi] [ở] [vị trí] <pos> [tiền đạo] </pos> [cho] [câu lạc bộ] <org> [AC][Milan] </org> , [được] [cho] [mượn] [từ] <org> [FC] [Barcelona] </org> , [và] <org> [Đội tuyển] [bóng đá] [quốc gia] [Thụy Điển] </org> . 
+
+ <per> [Ibrahimovic] </per> [bắt đầu] [sự nghiệp] [tại] <org> [Malm] [ö] [FF] </org> [vào] [cuối] <date> [thập niên] [1990] </date> [dưới] [thời] <job> [huấn luyện viên] </job> <per> [Roland Andersson] </per> . 
+
+[Anh] [được] <org> [Ajax] </org> [ký] [hợp đồng] , [và] [dần] [được] [biết] [đến] [dưới] [sự] [huấn luyện] [của] <per> [Ronald Koeman] </per> . 
+
+[Vài] [năm] [sau] , [anh] [ký] [hợp đồng] [với] <org> [Juventus] </org> [với] [giá] [16] [triệu] [€] . 
+
+ <per> [Ibrahimovic] </per> [nổi tiếng] [tại] [Serie] [A] [với] [vai trò] [đá] [cặp] [với] <per> [Alessandro Del Piero] </per> . 
+
+<date> [Năm] [2006] </date> , [anh] [ký] [hợp đồng] [với] [địch thủ] [của] <org> [Juventus] </org> , <org> [Internazionale] </org> , [tại] [đó] [anh] [giành] [được] [những] [danh hiệu] [cá nhân] [như] [Oscar] [del] [Calcio] , [Guldbollen] , [và] [có] [tên] [trong] [Đội tuyển] [xuất sắc] [nhất] <date> [năm] [2007] </date> [của] [UEFA] , [khi] [là] <job> [cầu thủ] </job> [ghi] [nhiều] [bàn] [nhất] [năm] <date> [2008] </date> - <date> [09] </date> [cùng với] [3] [lần] [giành] [được] [Scudetto] [liên tiếp] . 
+
+[Vào] [mùa] [hè] [năm] <date> [2008] </date> - <date> [09] </date>, [anh] [chuyển] [tới] <org> [FC] [Barcelona] </org> . 
+
+<date> [Tháng] [2] [năm] [2009] </date> , <per> [Ibrahimovic] </per> [và] <pos> [tiền vệ] </pos> <per> [Kaká] </per> [của] <org> [Real Madrid] </org> [là] [những] <job> [cầu thủ] </job> [được] [trả] [lương] [cao] [nhất] [trên] [thế giới] , [mỗi] [người] [nhận] [lương] [hàng] [năm] [9] [triệu] [euro] . 
+
+[Anh] [hiện] [đang] [giữ] [kỷ lục] [là] <job> [cầu thủ] </job> [có] [phí] [chuyển nhượng] [cao] [thứ hai] [trong] [lịch sử] , [tổng cộng] [69] [triệu] [euro] [khi] [chuyển] [từ] <org> [Internazionale] </org> [đến] <org> [Barcelona] </org> . 
+
+<per> [Ibrahimovic] </per> [sinh ra] [tại] <loc> [Thụy Điển] </loc> [trong] [một] [gia đình] [bố mẹ] [là] [dân] [nhập cư] [từ] <loc> [Nam Tư] </loc> [cũ] . 
+
+[Bố] [là] [người] <loc> [Bosnia] </loc> , [tên] <per> [Sefik] </per> , [sinh ra] [tại] <loc> [Bijeljina] </loc> [và] [mẹ] [là] [người] <loc> [Croatia] </loc> [có] [quê] [tại] <loc> [Zadar] </loc> . 
+
+[Bố mẹ] [anh] [đã] [gặp] [nhau] [tại] <loc> [Thụy Điển] </loc> [và] <per> [Zlatan] </per> [đã] [lớn] [lên] [tại] <loc> [Rosengard] </loc> , [một] [khu phố] [ở] <loc> [Malmo] </loc> [nổi tiếng] [là] [nơi] [có] [các] [cộng đồng] [dân] [nhập cư] , . 
+
+[Dù] [sau] [đó] [đỗ] [vào] <org> [Borgarskolan] </org> [ở] <loc> [Malm] [ö] </loc> , [anh] [đã] [sớm] [bỏ] [học] [để] [tập trung] [vào] [nghề] [bóng đá] . 
+
+[Sau] [khi] [nhận] [được] [một] [đôi] [giày] [đá] [bóng] , <per> [Ibra] </per> [bắt đầu] [chơi] [bóng] [năm] [lên] [6] [tuổi] . 
+
+[Trong] [một] [cuộc] [phỏng vấn] [anh] [cho biết] [hồi] [nhỏ] [khi] [đá] [bóng] , [trong] [một] [trận] [đấu] , [sau] [khi] [hiệp] [một] [kết thúc] , [đội] [bóng] [của] [anh] [bị] [dẫn] [4] - [0] , [thế nhưng] [ở] [hiệp] [2] [anh] [vào] [sân] [và] [bất ngờ] [ghi] [8] [bàn] [thắng] . 
+
+[Hồi] [niên thiếu] , [anh] [là] [thành viên] [quen thuộc] [của] [đội] [trẻ]  <org> [Malm] [ö] [FF] </org>  . 
+
+[Vào] [năm] [15] [tuổi] , <per> [Ibrahimovic] </per> [chút] [nữa] [đã] [rời] [bỏ] [đá] [bóng] , [bởi] [anh] [thích] [làm việc] [ở] [một] [cảng] [biển] [ở] <loc> [Malmo] </loc> , [nhưng] <job> [huấn luyện viên] </job> [đã] [động viên] [anh] [tiếp tục] [chơi] [bóng] .

@@ -1,0 +1,27 @@
+<per> [Trương Gia Bình] </per> ( [1956] - ) [là] [một] [doanh nhân] <loc> [Việt Nam] </loc> , [Chủ tịch] [Hội đồng quản trị] [của] <org> [tập đoàn] [FPT] </org> . 
+
+[Ngoài ra] [ông] [còn] [là] [phó giáo sư] ( [1991] ) , [tiến sĩ] ( [1982] ) , [trưởng khoa] [của] <org> [khoa] [Quản trị] [kinh doanh] </org> [của] <org> [Đại học] [Quốc gia] [Hà Nội] </org> , [chủ tịch] [hội đồng quản trị] [của] <org> [Đại học] [FPT] </org> , [chủ tịch] [của] <org> [Hiệp hội] [doanh nghiệp] [phần mềm] [Việt Nam] </org> , [Chủ tịch] [của] <org> [Hội đồng] [các] [nhà doanh nghiệp] [Trẻ] [Việt Nam] </org> ( [1998-2005] ) . 
+
+[Sinh] [năm] [1956] , [học sinh] [chuyên] [toán] <org> [trường] [Chu Văn An] [Hà Nội] </org> . 
+
+[Tốt nghiệp] <org> [khoa] [Toán] [cơ] </org> ,<org>  [Đại học] [Tổng hợp] [Moscow] </org> [năm] [1979] . 
+
+[Bảo vệ] [thành công] [luận án] [PTS] [tại] <org> [Đại học] [Tổng hợp] [Moscow] </org> [năm] [1983] . 
+
+[Được] [nhà nước] [phong tặng] [danh hiệu] [Phó giáo sư] [năm] [1990] . 
+
+[Hiện] [là] [Chủ tịch] [HĐQT] , [TGĐ] <org> [FPT] </org> . 
+
+[Là] [người] [sáng lập] <org> [FPT] </org> , [là] [thủ lĩnh] , [là] [linh hồn] [của] <org> [FPT] </org> , [là] [nhà] [kiến trúc sư] [tài ba] , [tác giả] [mô hình] [của] <org> [tập đoàn] [FPT] </org> , [là] [trung tâm] [tập hợp] [lực lượng] . 
+
+[Tất cả] [những] [danh hiệu] [đó] [chưa] [nói] [hết] [được] [vai trò] [to lớn] [của] [anh] <per> [Bình] </per> [đối với] <org> [FPT] </org> . 
+
+<per> [Trịnh Văn Bô] </per> [là] [một] [nhà tư sản] [cách mạng] , [chủ] [hiệu buôn] [tơ lụa] [nổi tiếng] [mang] [tên] [Phúc Lợi] [tại] <loc> [số] [48] [phố] [Hàng Ngang] [quận] [Hoàn Kiếm] [Hà Nội] </loc> , [trước] [Cách mạng] [tháng] [Tám] . 
+
+[Nhà] [của] [ông] [là] [nơi] [mà] [chủ tịch]<per> [Hồ Chí Minh] </per> [ở] [dịp] [cuối] [tháng] [8] [đầu] [tháng] [9] [năm] [1945] , [và] [là] [nơi] [ra đời] [bản] [Tuyên ngôn] [Độc lập] [khai sinh] [ra] <loc> [nước] [Việt Nam] [Dân Chủ] [Cộng Hòa] </loc> . 
+
+[Khi] [cách mạng] [vừa] [thành công] , [toàn bộ] [ngân khố] [của] <org> [Chính phủ] [Cách mạng] [Lâm thời] </org> [chỉ] [có] [1.200.000] [đồng] [tiền] <loc> [Đông Dương] </loc> , [gia đình] [ông] <per> [Bô] </per> [đã] [ủng hộ] [thêm] [cho] <org> [chính phủ] </org> [5147] [lượng] [vàng] , [tương đương] [với] [2.000.000] [đồng] <loc> [Đông Dương] </loc> ( [theo] [thời giá] [lúc đó] ) . 
+
+[Triết lý] [kinh doanh] [của] <per> [Trịnh Văn Bô] </per> [là] : [Buôn bán] [10] [đồng] [thì] [giữ lại] [7] , [còn lại] [giúp đỡ] [người] [nghèo] [và] [làm việc] [phúc đức] . 
+
+[Khi] [cần] [nuôi] [nền] [độc lập] [thì] [cống hiến] [tất cả] .

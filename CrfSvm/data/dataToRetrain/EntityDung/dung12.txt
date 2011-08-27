@@ -1,0 +1,31 @@
+[Cái] [tên] <org> [Nokia] </org> [được] [nhắc] [đến] [lần] [đầu tiên] [vào] <date> [năm] [1865] </date> [với] [sự] [ra đời] [của] <org> [Nhà máy] [gỗ] [công nghiệp] [Nokia] </org> [ở] <loc> [Tây Nam Phần Lan] </loc> [do] <job> [kỹ sư] [mỏ] </job> <per> [Fredrik Idestam] </per> [khởi xướng] . 
+
+[Tiếp theo] [là] [sự] [ra đời] [của] <org> [Công ty] [Sản phẩm] [cao su] [Phần Lan] </org> [và] <date> [năm] [1912] </date> [là] <org> [công ty] [Sản phẩm] [cáp] [Phần Lan] </org> . 
+
+[Dần dần] , [cùng với] [thời gian] , [quyền] [làm chủ] [của] [2] [công ty] [trên] [và] <org> [Nokia] </org> [được] [chuyển] [vào] [tay] [của] [một vài] [người] [chủ] . 
+
+[Cuối cùng] , [vào] <date> [năm] [1967] </date> , [3] [công ty] [trên] [sát nhập] [thành] <org> [tập đoàn] [Nokia] </org> . 
+
+[Ngay] [từ] [trong] [những] [ngày] [đầu] [thành lập] , <org> [Nokia] </org> [đã] [hoạt động] [trong] [lĩnh vực] [thông tin] [vì] [nó] [sản xuất] [giấy] , [một] [phương tiện] [thông tin] [cơ bản] . 
+
+[Tiếp] [sau] [đấy] [là] [lĩnh vực] [kỹ thuật] [với] [sự] [ra đời] [của] <org> [nhà máy] [Sản phẩm] [cao su] [Phần Lan] </org> [vào] [đầu] [thế kỷ] [20] . 
+
+[Cao su] , [hoá chất] [các] [loại] [là] [những] [nghành] [công nghiệp] [mũi nhọn] [cơ bản] [vào] [thời] [bấy giờ] . 
+
+[Vào] [đầu] [thế kỷ] [20] [diễn] [ra] [một] [sự] [thay đổi] [lớn lao] [nữa là] [sự] [phát triển] , [mở rộng] [của] [công nghiệp] [điện] [và] [điều] [này] [đã] [dẫn] [đến] [sự] [ra đời] [của] <org> [nhà máy] [sản phẩm] [cáp] [Phần Lan] </org> [vào] <date> [năm] [1912] </date> . 
+
+[Một cách] [tự nhiên] , [nhà máy] [này] [dần dần] [còn] [sản xuất] [cả] [dây cáp] [cho] [ngành] [công nghiệp] [điện tín] [và] [cho] [một] [thiết bị] [tiên tiến] [nữa là] [điện thoại] . 
+
+[Sau] [50] [năm] [hoạt động] , [một] [Bộ phận] [điện tử] [đã] [được] [thành lập] [tại] <org> [công ty] [sản phẩm] [cáp] [Phần Lan] </org> [và] [điều] [này] [đã] [mở đường] [cho] [sự] [phát triển] [của] [công ty] [ở] [một] [lĩnh vực] [mới] [là] [viễn thông] . 
+
+<date> [Năm] [1967] </date> <org> [tập đoàn] [Nokia] </org> [được] [thành lập] [bằng] [việc] [sát nhập] <org> [công ty] [Nokia] </org> [kinh doanh] [trong] [lĩnh vực] [sản xuất] [giấy] [với] <org> [công ty] [Sản phẩm] [cao su] [Phần Lan] </org> [và] <org> [công ty] [Sản phẩm] [cáp] [Phần Lan] </org> . 
+
+[Vào] [đầu] [những] <date> [năm] [1980] </date> , <org> [Nokia] </org> [đẩy mạnh] [vị trí] [của] [mình] [trên] [thị trường] [công nghệ thông tin] [và] [điện tử] [tiêu dùng] [bằng] [việc] [mua] [các] <org> [công ty] [Mobira] </org> , <org> [Salora] </org> , <org> [Televa] </org> [và] <org> [Luxor] [của] [Thuỵ Điển] </org> . 
+
+<date> [Năm] [1987] </date> , <org> [Nokia] </org> [tiếp tục] [nắm] [quyền] [kiểm soát] [mảng] [điện tử] [tiêu dùng] , [một] [phần] [mảng] [linh kiện] [của] <org> [công ty] [Standard Elektrik Lorenz] </org> [của] <loc> [Đức] </loc> [và] [mảng] [điện tử] [tiêu dùng] [của] <loc> [công ty] [Oceanic] </loc> [đến] [từ] <loc> [nước] [Pháp] </loc> . 
+
+<date> [Năm] [1987] </date> , <org> [Nokia] </org> [tiếp tục] [mua] <org> [công ty] [cáp] [cơ khí] [Maillefer] </org> [của] <loc> [Thuỵ Sỹ] </loc> . 
+
+[Cuối] [những] <date> [năm] [1980] </date> , <org> [Nokia] </org> [đã] [trở thành] [công ty] [công nghệ thông tin] [lớn] [nhất] <loc> [Bắc Âu] </loc> [thông qua] [việc] [mua] <org> [bộ phận] [Dữ liệu] [hệ thống] [của] [tập đoàn] [Ericsson] </org> . 
+
+<date> [Năm] [1989] </date> , <org> [Nokia] </org> [đã] [bước] [một] [bước tiến] [lớn] [trên] [thị trường] [cáp] [công nghiệp] [bằng] [việc] [thâu tóm] <org> [công ty] [NKF] </org> [của] <loc> [Hà Lan] </loc> . 

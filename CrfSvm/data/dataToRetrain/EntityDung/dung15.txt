@@ -1,0 +1,17 @@
+[Nguồn] [tin] [từ] <org> [báo] [Tiền Phong] </org> [cho biết] , <pos> [Tổng giám đốc] </pos> <org> [Ngân hàng] [Mizuho Corporate] , [Ltd] [chi nhánh] [Hà Nội] </org> [đã] [có] [thư] [gửi] [ông] <per> [Nguyễn Hồng Trường] </per> , <pos> [Chủ tịch] </pos> <org> [Tập đoàn] [Công nghiệp] [tàu thủy] [Việt Nam] ( [Vinashin] ) </org> , [đề nghị] [một] [buổi] [gặp] [lãnh đạo] [chủ chốt] [của] [tập đoàn] [này] [và] [tham quan] <org> [xưởng] [đóng] [tàu] [Cam Ranh] </org> , [thuộc] <org> [Tổng công ty] [Công nghiệp] [tàu thủy] [Nha Trang] </org> [và] <org> [xưởng] [đóng] [tàu] [Nam Triệu] </org> , [thuộc] <org> [Tổng công ty] [Công nghiệp] [tàu thủy] [Nam Triệu] </org> . 
+
+[Đồng thời] , [phía] <org> [Mizuho] </org> [sẽ] [cử] [một] [đoàn] [cán bộ] , [đứng] [đầu] [là] [ông] <per> [Hasegawa] </per> - <pos> [Giám đốc] </pos> <org> [Ban] [tài chính] [doanh nghiệp] [số] [9] , [Hội sở] [chính] [Tokyo] </org> - [sang] [làm việc] [với] [hai] [nhà] [máy nói] [trên] [vào] [đầu] <date> [tháng] [9] </date> [này] . 
+
+[Trao đổi] [với] [phóng viên] [chiều] [nay] , <pos> [Tổng giám đốc] </pos> [mới] [được] [bổ nhiệm] [của] <org> [Vinashin] </org> , [ông] <per> [Nguyễn Quốc Ánh] </per> [xác nhận] [có] [bức] [thư] [như] [trên] .
+
+[“] [Họ] [có] [nói] [rất] [quan tâm] , [còn] [cụ thể] [chi tiết] [thì] [chưa] [có] [gì] [”] , [ông] <per> [Ánh] </per> [cho biết] . 
+
+[Cũng] [trong] [cuộc] [trao đổi] , <pos> [Tổng giám đốc] </pos> <org> [Vinashin] </org> [cho biết] , <org> [Mizuho] </org> [trước đây] [đã] [có] [từng] [gặp gỡ] , [tìm hiểu] [về] <org> [Vinashin] </org> . 
+
+[Ông] <per> [Ánh] </per> [nói] [thêm] : [“] [Thực ra] [không chỉ] [có] [mình] [ngân hàng] [này] [”] . 
+
+[Theo] <pos> [Tổng Giám Đốc] </pos> <org> [Vinashin] </org> , [nếu] [có] [khả năng] [hợp tác] [nào] [với] [đối tác] <loc> [Nhật Bản] </loc> , [tập đoàn] [sẽ] [phải] [báo cáo] [và] [xin] [ý kiến] [ban] [chỉ đạo] [tái] [cơ cấu] <org> [Vinashin] </org> . 
+
+<org> [Ngân hàng] [Mizuho] </org> [được] [thành lập] [vào] <date> [tháng] [1/2003] </date> , [hiện] [đứng] [thứ hai] [tại] <loc> [Nhật Bản] </loc> [trong] [thị phần] [khách hàng] [giao dịch] [bán lẻ] , [tập đoàn] [và] [các] [cơ sở] [nhà nước] [địa phương] . 
+
+<org> [Mizuho] </org> [có] [hai] [chi nhánh] [tại] <loc> [Hà Nội] </loc> ( [từ] <date> [năm] [1996] </date> ) [và] <loc> [Tp.HCM] </loc> ( [từ] <date> [năm] [2006] </date> ) .

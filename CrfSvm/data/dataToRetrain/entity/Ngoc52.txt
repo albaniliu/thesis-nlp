@@ -1,0 +1,139 @@
+[Người ta] [biết] [đến] <org> [công ty] [Advanced Micro Divices] ( [AMD] ) </org> [chuyên] [sản xuất] [bộ vi xử lý] [cho] [máy tính] [với] [tư cách] [là] [đối thủ] [lớn] [nhất] [của] [người] [khổng lồ] - <org> [tập đoàn] [Intel] </org> . 
+
+[Và] [nói] [đến] [thành công] [của] <org> [AMD] </org> [trong] [việc] [chế tạo] [những] [bộ vi xử lý] [hàng đầu] , [người ta] [không thể] [không] [nhắc] [tới] [vai trò] [to lớn] [của] <per> [Hector De J. Ruiz] </per> - [Giám đốc] [điều hành] . 
+
+<org> [ADM] </org> [được] [ông] <per> [W.J. Sanders III] </per> [thành lập] [vào] [năm] [1969] , [tuy nhiên] , [trong] [suốt] [một] [thời gian] [dài] , [hãng] [thường xuyên] [gặp] [thất bại] [do] [phải] [đối mặt] [với] [những] [vấn đề] [trong] [quá trình] [sản xuất] [cũng như] [mắc] [phải] [những] [sai lầm] [trong] [chiến lược] . 
+
+[Thế nhưng] [năm] [2000] [đã] [đánh dấu] [một] [bước ngoặt] [của] <org> [AMD] </org> , [và] [cũng] [là] [của] <per> [Ruiz] </per> . 
+
+[Ông] <per> [Sanders] </per> , [khi đó] [còn] [là] [Chủ tịch] [của] <org> [AMD] </org> , [đã] [đưa] <per> [Ruiz] </per> [vào] [bộ máy] [điều hành] [của] <org> [AMD] </org> , [do] [nhìn] [thấy] [ở] [ông] [tiềm tàng] [khả năng] [đem] [lại] [thành công] [cho] [công ty] . 
+
+[Và] [kể] [từ] [năm] [2002] , [sau khi] <per> [Ruiz] </per> [trở thành] [Giám đốc] [điều hành] [của] <org> [AMD] </org> , [công ty] [này] [đã] [không] [ngừng] [đạt] [được] [những] [bước tiến] [đáng kể] . 
+
+[Cho] [tới] [tận] [thời gian] [gần] [đây] , [con] [chip] [Opteron] [mà] <org> [AMD] </org> [giới thiệu] [năm] [2003] , [vẫn] [được] [coi là] [tốt] [hơn] [so] [với] [các] [sản phẩm] [cùng] [loại] [khác] [của] [đối thủ] <org> [Intel] </org> . 
+
+[Dưới] [sự] [điều hành] [của] <per> [Ruiz] </per> , [hầu như] [không] [có] [một] [sai lầm] [nào] [mắc] [phải] [trong] [quá trình] [sản xuất] , [và] [do đó] , [sản phẩm] [của] [công ty] [đã] [được] [sử dụng] [cho] [hàng loạt] [sản phẩm] [của] [các] [tập đoàn] [lớn] : <org> [IBM] </org> [và] <org> [HP] </org> , [những] [hãng] [sản xuất] [máy tính] [vốn] [trước đây] [chỉ] [sử dụng] [bộ vi xử lý] [của] <org> [Intel] </org> . 
+
+[Trước đây] , <org> [AMD] </org> [chiếm] [thị phần] [bằng] [không] [trong] [lĩnh vực] [máy chủ] ( [server] ) [nhưng] [hiện nay] , [hãng] [đã] [đạt] [thị phần] [tới] [25%] [tại] [thị trường] [đầy] [lợi nhuận] [này] . 
+
+[Vài] [tháng] [trước] , <org> [hãng] [sản xuất] [máy tính] [Dell] </org> [vốn] [trung thành] [với] [con] [chip] [của] <org> [Intel] </org> [cũng] [đã] [bắt đầu] [sử dụng] [bộ vi xử lý] <org> [AMD] </org> [cho] [các] [sản phẩm] [của] [mình] . 
+
+<org> [IBM] </org> [mới đây] [thì] [công bố] [sẽ] [tăng cường] [việc] [sử dụng] [con] [chip] [của] <org> [AMD] </org> . 
+
+[Mặc dù] <org> [AMD] </org> [vẫn] [chỉ] [là] [một] [công ty] [nhỏ] [hơn] [nhiều] [so] [với] <org> [Intel] </org> , [với] [mức] [định giá] [thị trường] [chỉ] [bằng] [1/10] [so] [với] [người] [khổng lồ] [này] , [nhưng] [với] <org> [Intel] </org> , <org> [AMD] </org> [đã] [thực sự] [trở thành] [một] [đối thủ] [cạnh tranh] [đáng] [gờm] . 
+
+[Những] [thành tích] [đáng] [nói] [kể] [trên] [mà] <org> [AMD] </org> [đạt] [được] [xuất phát] [phần lớn] [từ] [tài] [lãnh đạo] [của] [Giám đốc] [điều hành] <per> [Ruiz] </per> , [người] [có] [tính cách] [và] [phong cách] [làm việc] [khác] [hẳn] [so] [với] [cựu] [Chủ tịch] <per> [Sanders] </per> . 
+
+<per> [Ruiz] </per> [khá] [trầm tĩnh] , [thường] [đưa] [ra] [quyết định] [một cách] [nhanh chóng] , [nhưng] [không bao giờ] [thay đổi] [quyết định] [của] [mình] . 
+
+[Theo] <per> [Thomas M. McCoy] </per> , [một] [nhà quản lý] [dưới] [quyền] <per> [Ruiz] </per> , [phong cách] [lãnh đạo] [của] <per> [Sanders] </per> [là] [mọi người] [phải] [xin] [ý kiến] [ông] [trước khi] [làm] [bất cứ] [điều] [gì] . 
+
+[Ngược lại] , [với] <per> [Ruiz] </per> , [ai] [cảm thấy] [việc gì] [cần] [phải] [làm] [thì] [có thể] [tiến hành] [ngay] . 
+
+[Mặc dù] <per> [Ruiz] </per> [là] [người] [không] [thích] [kể] [về] [bản thân] [mình] [nhưng] [nếu] [được] [biết] [quá trình] [học tập] , [trưởng thành] [của] [ông] [và] [làm] [thế nào] [ông] [đạt] [được] [vị trí] [hiện nay] , [người ta] [sẽ] [không thể] [không] [cảm phục] [ông] . 
+
+<per> [Ruiz] </per> [là] [con] [út] [trong] [một] [gia đình] [nghèo] [có] [5] [con] [tại] <loc> [Piedras Negras] </loc> , [một] [thị trấn] [nhỏ] [ở] <loc> [Mexico] </loc> . 
+
+[Thời] [thơ ấu] , [ông] [mơ ước] [trở thành] [một] [thợ] [sửa chữa] [ôtô] . 
+
+[Nhưng] [dường như] [số phận] [đã] [định] [sẵn] [tất cả] . 
+
+[Năm] <per> [Ruiz] </per> [lên] [14] [tuổi] , [một] [người] [hàng xóm] [của] [gia đình] [ông] , [vốn] [đã] [nhận thấy] [trí] [thông minh] [và] [tiềm năng] [hơn] [người] [của] [ông] , [đã] [dành] [cho] [ông] [sự] [quan tâm] [đặc biệt] [và] [đưa] [ông] [đến] [học] [tại] [trường] [trung học] [ở] <loc> [Eagle Pass] , [Texas] ( [Mỹ] ) </loc> , [cách] [nơi] [gia đình] [ông] [đang] [sống] [khoảng] [45] [phút] [đi] [bộ] . 
+
+[Khi] [mới] [bắt đầu] [vào] [học] [tại] [đây] , [ông] [còn] [không] [thạo] [tiếng] <loc> [Anh] </loc> [nhưng] [đến khi] [tốt nghiệp] , [ông] [đã] [là] [thủ khoa] [của] [khóa] [học] . 
+
+[Nhờ] [vậy] , <loc> [Ruiz] </loc> [có] [được] [một] [suất] [học bổng] [toàn phần] [của] <org> [trường] [Đại học] [Texas] </org> . 
+
+[Tại] [trường] [đại học] , [ông] [tiếp tục] [là] [một] [sinh viên] [xuất sắc] . 
+
+[Trước khi] [hoàn thành] [khóa] [học] [tại] <loc> [Đại học] [Texas] </loc> , [ông] [đã] [có] [được] [bằng] [Tiến] [sỹ] [điện tử học] [lượng tử] [của] <org> [trường] [đại học] [Rice] </org> . 
+
+[Sau đó] [ông] [vào] [làm việc] [cho] <org> [Texas Instruments] </org> , [một] [hãng] [sản xuất] [chất bán dẫn] . 
+
+[Rời] <loc> [Texas Instruments] </loc> , [ông] <per> [Ruiz] </per> [vào] [làm việc] [cho] <org> [hãng] [Motorola] </org> [trong] [vòng] [hơn] [20] [năm] [và] [chính] [tại] [đó] , [ông] [đã] [học] [được] [phương pháp] [làm việc] [của] [một] [nhà quản lý] . 
+
+[Công việc] [đầu tiên] [mà] [ông] [được] [giao] [ở] <loc> [Motorola] </loc> [là] [theo] [giám sát] [việc] [xây dựng] [một] [nhà máy] [của] [hãng] [ở] <loc> [Scotland] </loc> [và] [công việc] [sau cùng] [của] [ông] [ở] [công ty] [này] [là] [giám đốc] [bộ phận] [sản xuất] [chất bán dẫn] , [khi] [ấy] [đang] [ở] [trong] [tình trạng] [khủng hoảng] [về] [tài chính] . 
+
+<per> [Ruiz] </per> [nhớ] [lại] : " [Chỉ] [90] [ngày] [sau khi] [tiếp quản] [công việc] [này] , [tôi] [nhận] [thấy] [rằng] [vấn đề] [chính] [là] [ở] [chỗ] [bộ phận] [này] [có] [quá] [nhiều] [nhà máy] . 
+
+[Do đó] , [tôi] [đã] [đến] [gặp] [ban giám đốc] [và] [nói] [với] [họ] [rằng] [cách] [duy nhất] [để] [giải quyết] [vấn đề] [là] [đóng cửa] [bớt] [một số] [nhà máy] " . 
+
+[Kết quả] [là] , [7] [trong] [tổng số] [21] [nhà máy] [sau đó] [đã] [bị] [đóng cửa] [với] [khoảng] [20.000] [công nhân viên] [bị] [cắt giảm] , [đưa] [lợi nhuận] [trở lại] [với] [bộ phận] [sản xuất] [chất bán dẫn] . 
+
+[Mặc dù] [khi đó] , <per> [Ruiz] </per> [không thể] [có] [một] [lựa chọn] [nào] [khác] [nhưng] [đối với] [ông] , [đó] [là] [một] [kỷ niệm] [không] [vui] . 
+
+[Ông] [nói] : " [Vai trò] [của] [một] [giám đốc] [điều hành] [là] [đem] [lại] [cơ hội] [cho] [mọi] [người] . 
+
+[Từ] [tận] [đáy] [lòng] [mình] , [tôi] [tin] [là] [như vậy] . 
+
+[Nếu] [một] [người] [ở] [cương vị] [đó] [không] [làm] [được] [như vậy] [thì] [quả là] [một] [thất bại] [thảm hại] " . 
+
+[Tuy nhiên] , [sau đó] , <per> [Ruiz] </per> [trở nên] [có] [uy tín] [hơn] [tại] [công ty] . 
+
+[Phong thái] [trầm tĩnh] [của] [ông] [khiến] [người ta] [cảm thấy] [tin tưởng] , [và] [cách] [ông] [cho phép] [cấp] [dưới] [được] [đưa] [ra] [quyết định] [trong] [một số] [trường hợp] [mà] [không] [cần] [phải] [tham khảo] [ý kiến] [của] [ông] [trước] [có] [tác dụng] [rất] [tích cực] . 
+
+[Điều] [này] [càng] [trở nên] [rõ ràng] [hơn] [sau khi] <per> [Sanders] </per> [đưa] <per> [Ruiz] </per> [vào] [làm việc] [tại] <loc> [AMD] </loc> , [nơi] [ông] [trở thành] [nhân vật] [quyền lực] [thứ hai] . 
+
+[Sự] [có mặt] [của] <per> [Ruiz] </per> [tại] <loc> [AMD] </loc> [đã] [thu hút] [một] [lượng] [lớn] [nhân tài] [trong] [ngành] [công nghiệp] [bán dẫn] [vào] [làm việc] . 
+
+[Cũng] [vào] [thời kỳ] [đó] , [ngành] [công nghiệp] [chất bán dẫn] [lâm] [vào] [tình trạng] [tồi tệ] [nhất] . 
+
+[Năm] [2000] [chứng kiến] [sự] [bùng nổ] [của] [Internet] , <org> [AMD] </org> [bắt đầu] [thu] [được] [lợi nhuận] [nhưng] [chỉ] [hai] [năm] [sau đó] , [khi] <per> [Ruiz] </per> [trở thành] [Giám đốc] [điều hành] , [hãng] [chịu] [một] [khoản] [lỗ] [tương đương] [1,3] [tỷ] [USD] [và] [giá] [cổ phiếu] [sụt giảm] [nghiêm trọng] . 
+
+<per> [McCoy] </per> [nói] : " [Vào] [những] [thời điểm] [khó khăn] [như vậy] , [chúng tôi] [đều] [hy vọng] [vào] [sự] [sáng suốt] [của] [lãnh đạo] [hãng] . 
+
+<per> [Sanders] </per> [và] <per> [Ruiz] </per> [là] [những] [nhà lãnh đạo] [tài năng] [và] [giàu] [kinh nghiệm] . 
+
+[Họ] [thuyết phục] [chúng tôi] [một khi] [họ] [còn] [có thể] [nhìn] [thẳng] [về] [phía] [trước] , [tất cả] [mọi] [việc] [rồi] [sẽ] [ổn] " . 
+
+[Một] [lần] [nữa] , <per> [Ruiz] </per> [phải] [tiến hành] [cắt giảm] [nhân công] [mặc dù] [với] [số lượng] [ít] [hơn] [lần] [trước] . 
+
+[Ông] [nhận] [thấy] [rằng] [con] [chip] [Opteron] , [khi đó] [còn] [chưa] [được] [sản xuất] , [sẽ] [đem] [lại] [lợi thế] [lớn] [cho] <org> [AMD] </org> [so với] [Intel] [vào] [thời điểm] [đó] [chưa] [có] [một] [sản phẩm] [nào] [để] [cạnh tranh] [trực tiếp] [với] [loại] [con] [chip] [này] . 
+
+[Bởi vậy] , [ông] [đã] [không] [ngừng] [đầu tư] [cho] [công tác] [nghiên cứu] [và] [phát triển] . 
+
+[Trước] [đó] , <org> [AMD] </org> [chỉ] [sản xuất] [bộ vi xử lý] [cho] [desktop] [và] [đây] [là] [mảng] [thị trường] [ít] [lợi nhuận] [nhất] . 
+
+[Sau khi] [cân nhắc] [kỹ] , <per> [Ruiz] </per> [đưa] [ra] [một] [quyết định] [sống còn] , [đó] [là] [con] [chip] [Opteron] [trước hết] [sẽ] [nhằm] [vào] [thị trường] [server] , [nơi] [đem] [lại] [lợi nhuận] [lớn] [nhất] . " [Chuyển] [từ] [thị trường] [máy tính để bàn] ( [desktop] ) [sang] [thị trường] [server] [không] [phải] [là] [một] [điều] [đơn giản] . 
+
+[Đó] [là] [hai] [thị trường] [hết sức] [khác nhau] [và] [chúng tôi] [phải] [thay đổi] [hoàn toàn] [cách] [tư duy] [về] [những] [gì] [mà] [chúng tôi] [sẽ] [làm] " , <per> [Ruiz] </per> [nói] . 
+
+[Sau khi] [đưa] [ra] [quyết định] , <per> [Ruiz] </per> [tiến hành] [gặp gỡ] [với] [các] [hãng] [sản xuất] [máy tính] [để] [giới thiệu] [với] [họ] [kế hoạch] [của] [công ty] [ông] [và] [thuyết phục] [họ] [mua] [Opteron] . 
+
+[Phong cách] [làm việc] [của] [ông] [đã] [thuyết phục] [được] [nhiều] [khách hàng] . 
+
+[Khi] [Opteron] [được] [giới thiệu] [vào] [tháng] [4] [năm] [2003] , <org> [IBM] </org> [ngay lập tức] [tuyên bố] [sẽ] [sử dụng] [con] [chip] [này] . 
+
+[Sau đó] , <org> [HP] </org> [cũng] [bắt đầu] [dùng] [Opteron] [cho] [sản phẩm] [server] [của] [mình] . 
+
+[Để] [trả đũa] , <org> [Intel] </org> [sau đó] [tung] [ra] [con] [chip] [Core2Duo] , [một] [sản phẩm] [có] [các] [tính năng] [vượt trội] . 
+
+[Theo] [nhận định] [của] [giới] [chuyên gia] , [ưu thế] [giờ đây] [đang] [thuộc] [về] <org> [tập đoàn] [Intel] </org> [và] [đó] [chính] [là] [lý do] [để] <per> [Ruiz] </per> [và] <org> [AMD] </org> [phải] [tiếp tục] [nỗ lực] [sản xuất] [một] [thế hệ] [bộ vi xử lý] [mới] . 
+
+[Bản thân] <per> [Sanders] </per> , [người sáng lập] [và] [giữ] [vị trí] [Chủ tịch] <org> [AMD] </org> [cho] [tới] [năm] [2005] , [cũng] [lớn] [lên] [trong] [nghèo khó] [ở] <loc> [Chicago] </loc> . 
+
+[Tuy nhiên] , [khi] <per> [Sanders] </per> [nói] [về] <per> [Ruiz] </per> , [sự] [khen ngợi] [của] [ông] [dường như] [là] [miễn cưỡng] . 
+
+[Mặc dù] <per> [Sanders] </per> [nói] <per> [Ruiz] </per> [đã] " [hoàn thành] [xuất sắc] [vai trò] [của] [mình] " [nhưng] [ngay lập tức] [sau đó] [lại] [khẳng định] [rằng] [con] [chip] [Opteron] [đã] [ra đời] [trước khi] [có] [sự] [tham gia] [của] <per> [Ruiz] </per> . 
+
+[Khi] [người ta] [nhắc] [đến] [việc] <per> [Ruiz] </per> [quyết định] [chuyển hướng] [sang] [thị trường] [server] , <per> [Sanders] </per> [lại] [nói] [rằng] [thực ra] [đó] [chính] [là] [ý tưởng] [của] [ông] [và] [khẳng định] [mình] [có] [đủ] [tài liệu] [để] [chứng minh] [cho] [điều] [này] . 
+
+<per> [Sanders] </per> [cho] [rằng] [những] [gì] [mà] [ông] [đã] [làm] [được] [bị] [đánh giá] [thấp] [trong] [khi] [thành công] [của] <per> [Ruiz] </per> [lại] [được] [đánh giá] [quá] [cao] . 
+
+<per> [Sanders] </per> [không] [chịu] [chấp nhận] [một] [sự thật] [rằng] [chính] [việc] [ông] [nhận] [ra] [tiềm năng] [của] <per> [Ruiz] </per> [và] [chuyển giao] [công việc] [lãnh đạo] [cho] <per> [Ruiz] </per> [là] [một] [trong] [những] [điều] [tốt đẹp] [nhất] [mà] [ông] [đem] [lại] [cho] <org> [AMD] </org> . 
+
+[Còn] <per> [Ruiz] </per> [thì] [cho biết] : " [Khi] [tôi] [học] [trung học] , [nhiều] [giáo viên] [yêu quý] [và] [giúp đỡ] [tôi] . 
+
+[Khi] [lên] [đại học] , [tôi] [cũng] [đã] [có] [rất] [nhiều] [cơ hội] . 
+
+[Và] [khi] [tôi] [trở thành] [một] [thành viên] [của] <org> [AMD] </org> , [công ty] [đã] [có] [một] [tổ chức] [sản xuất] [rất] [tốt] . 
+
+[Chúng tôi] [đã] [sản xuất] [được] [những] [sản phẩm] [có tiếng] [trong] [lĩnh vực] [của] [mình] . 
+
+[Từ] [trước] [tới] [giờ] , [mọi người] [đều] [cho] [tôi] [là] [người] [may mắn] [và] [quả thực] [tôi] [không thể] [phủ nhận] [được] [điều] [đó] " . 
+
+[Điều] [mà] <per> [Ruiz] </per> [muốn] [gửi gắm] [chính] [là] : [Con người ta] [sẽ] [quên] [đi] [những] [gì] [là] [khó khăn] [và] [thất bại] [trong] [cuộc đời] , [giống] [như] [ông] [không] [còn] [nhớ] [gì] [đến] [những] [khó khăn] [ông] [gặp] [phải] [trong] [những] [ngày] [đầu] [ở] [trường] [trung học] [khi] [ông] [không] [nói] [được] [tiếng] <loc> [Anh] </loc> [hoặc] [sự] [dằn vặt] [của] [ông] [khi] [phải] [cho] [công nhân] [của] [mình] [nghỉ việc] . 
+
+[Nhưng] [bản thân] [tác giả] [của] [bài viết] [này] [lại] [có] [một] [suy nghĩ] [khác] . 
+
+[Đó] [là] , [có] [những] [người] [biết] [cách] [tạo] [ra] [vận may] [cho] [chính] [mình] , [và] <per> [Ruiz] </per> [chính] [là] [một] [trong] [những] [người] [như vậy] .

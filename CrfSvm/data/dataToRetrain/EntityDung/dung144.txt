@@ -1,0 +1,23 @@
+<per> [Frank James Lampard] , [Jr] </per> . ( [sinh] <date> [ngày] [20] [tháng] [6] [năm] [1978] </date> ) [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Anh] </loc> [hiện] [đang] [thi đấu] [cho] [câu lạc bộ] <org> [Chelsea] [FC] </org> [và] [đội tuyển] <loc> [Anh] </loc> . 
+
+[Vị trí] [của] [anh] [là] <pos> [tiền vệ] </pos> [trung tâm] [và] [cũng] [chơi] [ở] [vị trí] <pos> [tiền vệ] </pos> [công] . 
+
+[Hiệu suất] [ghi bàn] [của] [anh] [không] [thua kém] [gì] [một] <pos> [tiền đạo] </pos> . 
+
+[Hiện nay] , <per> [Lampard] </per> [đang] [nắm] [giữ] [một số] [kỷ lục] [như] [164] [trận] [liên tiếp] [xuất hiện] [trong] [đội hình] [xuất phát] [ở] [Giải] [bóng đá] [ngoại hạng] <loc> [Anh] </loc> , <pos> [tiền vệ] </pos> [ghi bàn] [nhiều] [nhất] [cho] <org> [Chelsea] </org> , [ [2] ] <pos> [tiền vệ] </pos> [thứ hai] [trong] [lịch sử] [Giải] [bóng đá] [ngoại hạng] <loc> [Anh] </loc> [ghi] [được] [hơn] [100] [bàn] , [sau] <per> [Matthew Le Tissier] </per> . 
+
+[Anh] [là] [một] [trong] [những] <pos> [tiền vệ] </pos> [xuất sắc] [nhất] [thế giới] [với] [thành tích] [đứng] [nhì] [trong] [hai] [cuộc] [bầu chọn] <job> [Cầu thủ] </job> [xuất sắc] [nhất] [năm] [của] [FIFA] [và] [Quả] [bóng] [vàng] [châu] <loc> [Âu] </loc> [vào] <date> [năm] [2005] </date> . [ [4] ] [Mùa] [giải] [2007-08] , [anh] [được] [bầu] [là] <pos> [Tiền vệ] </pos> [xuất sắc] [nhất] [năm] [của] [Cúp] [các] [đội] [vô địch] [bóng đá] [quốc gia] <loc> [châu] [Âu] </loc> . [ [5] ] <per> [Lampard] </per> [bắt đầu] [sự nghiệp] [tại] <org> [West Ham United] </org> [vào] <date> [năm] [1994] </date> , [nơi] [cha anh] [từng] [thi đấu] . 
+
+[Bắt đầu từ] [mùa] [giải] [1998-99] , [anh] [mới] [bắt đầu] [có mặt] [trong] [đội hình] [chính thức] [của] <org> [West Ham] </org> [và] [có] [được] [chiếc] [cúp] [vô địch] [UEFA] [Intertoto] <date> [năm] [1999] </date> . 
+
+<date> [Năm] [2001] </date> , [anh] [chính thức] [chuyển] [đến] [thi đấu] [cho] <org> [Chelsea] </org> [với] [giá] [11] [triệu] [bảng] [Anh] [và] [hiện nay] [anh] [vẫn] [đang] [gắn bó] [cùng] [câu lạc bộ] . 
+
+[Tại ]<org> [Chelsea] </org> , <per> [Lampard] </per> [đã] [giành] [được] [hai] [chức] [vô địch] [Giải] [bóng đá] [ngoại hạng] <loc> [Anh] </loc> , [Cúp] [FA] [và] [Cúp Liên] [đoàn] [bóng đá] <loc> [Anh] </loc> . 
+
+<date> [Tháng] [8] [năm] [2008] </date> , [anh] [đã] [gia hạn] [hợp đồng] [với] [câu lạc bộ] [thành] <loc> [London] </loc> [thêm] [5] [năm] [nữa] , [thời hạn] [đến] [hết] [mùa] [giải] [2013-2014] [và] [trở thành] [một] [trong] [những] <job> [cầu thủ] </job> [được] [trả] [lương] [cao] [nhất] [tại] [Giải] [bóng đá] [ngoại hạng] <loc> [Anh] </loc> . 
+
+[Trong] [màu] [áo] [đội tuyển] <loc> [Anh] </loc> , <per> [Lampard] </per> [đã] [từng] [tham gia] [Euro] [2004] ( [ghi] [được] [3] [bàn] [tại] [giải] [đấu] [này] ) , [World Cup] [2006] [và] [World Cup] [2010] . 
+
+<date> [Ngày] [13] [tháng] [10] [năm] </date> [2009] , [anh] [đã] [có] [trận] [đấu] [thứ] [75] [cho] [đội tuyển] [trong] [trận] [đấu] [với] <org> [Ukraina] </org> [tại] [vòng loại] [Giải] [vô địch] [bóng đá] [thế giới] [2010] . 
+
+[Anh] [hiện] [có] [2] [con gái] , <per> [Luna] </per> [và] <per> [Isla] </per> , [với] [người] [vợ] [cũ] <per> [Elen Rives] </per> .

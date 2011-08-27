@@ -1,0 +1,23 @@
+<per> [Marcel Desailly] </per> ( [sinh] <date> [7] [tháng] [9] [năm] [1968] </date> [tại] <loc> [Accra] , [Ghana] </loc> ) [là] [cầu thủ] [bóng đá] [người] <loc> [Pháp] </loc> [và] [là] [ngôi sao] [của] [đội tuyển] <org> [bóng đá] [quốc gia] [Pháp] </org> [giành] [Cúp] [vô địch] [thế giới] <date> [năm] [1998] </date> [và] [Cup] [vô địch] <loc> [châu] [Âu] </loc> <date> [năm] [2000] </date> . 
+
+[Anh] [cũng] [có] [dự] [nghiệp] [khá] [nổi bật] [ở] [một số] [câu lạc bộ] [lớn] [của] <loc> [châu] [Âu] </loc> . 
+
+[Sinh ra] [tại] <loc> [Ghana] </loc> , <per> [Desailly] </per> [đã] [thay đổi] [số phận] [của] [mình] [khi] [mẹ] [của] [anh] [lấy] [một] [nhà] [ngoại giao] [người] <loc> [Pháp] </loc> , [người] [mà] [luôn] [nhận] [nuôi] [các] [đứa] [trẻ] . 
+
+[Anh] [chuyển] [đến] <loc> [Pháp] </loc> [năm 4] [tuổi] [và] [khởi đầu] [sự nghiệp] [tại] [câu lạc bộ] <org> [Nantes Atlantique] </org> <date> [năm] [1986] </date> . 
+
+<date> [Năm] [1992] </date> [anh] [chuyển] [đến] <org> [Olympique] [de] [Marseille] </org> [và] [giành] [được] [cúp] [C1] <loc> [châu] [Âu] </loc> [vào] [năm] [sau] [đó] . 
+
+<date> [Năm] [1994] </date> [khi] [anh] [đang] [chơi] [cho] <org> [AC] [Milan] </org> [anh] [lại] [giành] [được] [Cup] [C1] , [anh] [trở thành] [cầu thủ] [đầu tiên] [giành] [được] [Cup] [C1] [trong] [2] [năm] [liên tục] [với] [2] [câu lạc bộ] [khác nhau] . 
+
+[Trong] [thời gian] [chơi] [ở] <org> [Milan] </org> [anh] [đoạt] [được] [2] [cup] [vô địch] <loc> [Ý] </loc> . 
+
+[Mặc dù] [anh] [thích] [chơi] [ở] [vị trí] [trung vệ] [nhưng] [thỉnh thoảng] [anh] [cũng] [chơi] [ở] [vị trí] [tiền vệ] . 
+
+[Sau] [đó] [anh] [chuyển] [tới] [chơi] [cho] <org> [Chelsea] [FC] </org> . , [tại] [đây] [anh] [chơi] [ở] [vị trí] [hậu vệ] [cánh] [cho] [tời] [khi] [kết thúc] [mùa] [bóng] [2003/04] . 
+
+[Anh] [bắt đầu] [chơi] [cho] [đội tuyển] [quốc gia] [từ] <date> [năm] [1993] </date> . 
+
+[Anh] [là] [thành viên] [quan trọng] [góp phần] [vào] [chiến thắng] [của] [đội tuyển] <loc> [Pháp] </loc> [ở] [World Cup] [1998] [và] [Euro] [2000] . 
+
+[Sau Euro] [2004] [anh] [chia tay] [đội tuyển] [quốc gia] [với] [kỉ lục] [116] [lần] [thi đấu] [cho] [đội tuyển] , [tuy nhiên] [kỉ lục] [này] [bị] [phá] [vỡ] [vào] [World Cup] [2006] [bởi] <per> [Lilian Thuram] </per> .

@@ -1,0 +1,45 @@
+[Lịch sử] [thương hiệu] <org> [Adidas] </org> [bắt nguồn] [từ] <per> [Adolph Adi Dassler] </per> , [người] [được] [xem] [là] [ông tổ] [của] [ngành] [sản xuất] [sản phẩm] [thể thao] . 
+
+[Từ] [nhỏ] [ông] [thường] [làm] [ra] [dép] [từ] [ba lô] [bỏ] [đi] [của] [những] [người] [lính] . 
+
+<date> [Năm] [1920] </date> [ông] [nghiên cứu] [và] [chế tạo] [các] [loại] [giày] [nhằm] [nâng] [cao] [thành tích] [của] [các] [vận động viên] [trong] [từng] [bộ môn] . 
+
+[Thế vận hội] <date> [1928] </date> <per> [Jesse Owen] </per> [sử dụng] [đôi] [giày] [Adidas] [đoạt] [4] [huy chương] [vàng] [làm] [cho] <per> [Hitler] </per> [vô cùng] [tức tối] . 
+
+<date> [Năm] [1936] </date> <per> [Armin Hary] </per> [cũng] [lập] [được] [kỷ lục] [thế giới] [với] [thành tích] [100m] [dưới] [10] [giây] [nhờ] [sử dụng] [đôi] [giày] [Adidas] . 
+
+<per> [Dasler] </per> [cũng] [đã] [sáng tạo] [ra] [đội] [giày đinh] [trong] [môn] [bóng đá] [nhờ] [đó] [mà] [vào] <date> [1954] </date> [đội tuyển] <loc> [Đức] </loc> [thắng] [liên tiếp] [và] [đoạt] [luôn] [ngôi] [vô địch] . 
+
+[Và] [ông] [cũng] [là] [người] [chế tạo] [ra] [đôi] [giày] [điền kinh] [có] [đinh] [nhỏ] [nhằm] [tạo] [độ] [bám] [khi] [gặp] [những] [khúc] [quanh] . 
+
+[Trong] [lúc] [chế tạo] [ông] [luôn] [thử nghiệm] [tất cả] [các] [nguyên vật liệu] ( [da] [cá mập] [hoặc] [da] [chuột túi] ... ) [nhằm] [đảm bảo] [rằng] [đôi] [giày] [luôn] [đáp ứng] [tốt] [nhất] [cho] [các] [vận động viên] [chuyên nghiệp] . . 
+
+[Đến] <date> [năm] [1949] </date> [mỗi] [đôi] [giày] [Adidas] [đều] [có] [3] [đường] [sọc] [chéo] [bên] [hông] [nhằm] [phân biệt] [với] [những] [đôi] [giày] [khác] . 
+
+[Và] [đến] <date> [năm] [1996] </date> [logo] [ba] [sọc] [chéo] [đó] [trở thành] [biểu tượng] [của] [công ty] . 
+
+[Ngày nay] [Adidas] [không chỉ] [là] [nhãn hiệu] [thể thao] [chuyên nghiệp] [mà còn] [là] [một] [sản phẩm] [thời trang] . 
+
+[Adidas] [đã] [phân chia] [các] [dòng] [sản phẩm] [của] [mình] [thành] [3] [phân] [nhóm] :[1.Thành] [tích] [thể thao] : [tập trung] [vào] [tính năng] [của] [sản phẩm] [đáp ứng] [cho] [các] [VDV] [chuyên nghiệp][2.Di] [sản] [thể thao] : [những] [sản phẩm] [truyền thống] [đã] [mang] [lại] [danh tiếng] [3.Thời] [trang] [thể thao] : [nhằm] [vào] [người] [tiêu dùng] [và] [do] [nhà tạo mẫu] [danh tiếng] [người] <loc> [Nhật] </loc> <per> [Yamamoto] </per> [thiết kế] . 
+
+[Trong] [đó] [nhóm] [1] [chiếm] [70%] [doanh thu] , [nhóm] [2] [chiếm] [25%] [doanh thu] [và] [nhóm] [3] [chiếm] [5%] [còn] [lại] . 
+
+[Họ] [cũng] [đã] [ký] [hợp đồng] [với] <per> [David Beckham] </per> [trị giá] [161] [triệu] [USD] [suốt] [đời] [với] [tư cách] [là] [phát ngôn viên] [của] [Adidas] . 
+
+[Bài] [hát] " [My Adidas] " [do] [ban nhạc] <org> [Run] [DMC] </org> [trình bày] [được] [xem] [là] [bài] [hát] [được] [ưu] [thích] [nhất] <date> [năm] [1986] </date> [thì] [nó] [tạo] [ra] [một] [làn sóng] [ảnh hưởng] [rộng rãi] [đến] [giới] [trẻ] . 
+
+[Ngày nay] [tuy] [đứng] [sau] <org> [Nike] </org> [nhưng] <org> [Adidas] </org> [luôn] [vững chắc] [tiến] [lên] [trong] [khi] <org> [Nike] </org> [luôn] [gặp] [những] [chỉ trích] [về] [phong cách] [kinh doanh] [của] [họ] . 
+
+<org> [Adidas] </org> [luôn] [có giá] [tri] [rất] [riêng] [cùa] [nó] [và] [người] [mang] [nó] [cũng] [muốn] [thể hiện] [mình] [khác] [với] [những] [người] [mang] [giày] <org> [Nike] </org> . 
+
+[Và] [như vậy] [dù] [muốn] [dù] [không] [cả] [hai] [cũng] [cần] [có] [sự] [hiện diện] [của] [đối thủ] [trên] [cùng] [1] [sàn] [đấu] [để] [tôn vinh] [chính] [mình] . 
+
+[Và] [điều] [này] [làm] [cho] [cả] [hai] [cùng] [đứng] [trên] [đỉnh] [của] [nghành] [trang phục] [thể thao] . 
+
+[Vào] <date> [năm] [1948] </date> , <per> [Rudi] </per> [và] <per> [Adi] </per> [tách] [công ty] [ra] [và] <org> [adidas] </org> [ra đời] . <org> [adidas] </org> [tồn tại] [dưới] [sự] [quản lý] [của] [gia đình] <per> [Dassler] </per> [cho đến] <date> [năm] [1989] </date> . 
+
+[Sáu] [năm] [sau] [đó] , <org> [adidas] </org> [đã] [trở thành] [công ty] [được] [công chúng] [biết] [đến] [trên] [sàn] [giao dịch] [chứng khoán] . 
+
+<org> [Adidas] </org> - [không] [có] [gì] [là] [không thể] ( [nothing] [impossible] ) [Việc] [quảng bá] [hình tượng] [của] [công ty] [một cách] [hiệu quả] , [luân chuyển] [vốn] [và] [vị trí] [của] [cổ phiếu] [cho] [thấy] <org> [adidas] </org> [không chỉ] [đã] [trở thành] [người] [dẫn đầu] [trên] [thị trường] [về] [trang phục] [thể thao] [mà còn] [trở thành] [nhãn hiệu] [được] [ưa chuộng] [nhất] [vào] [cuối] [những] <date> [năm] [1990] </date> . 
+
+[Cùng] [lúc] [đó] [một] [chiến dịch] [chu đáo] [nhằm] [xây dựng] [lại] [một] [hình tượng] [tươi trẻ] [và] [hợp thời] [trang] [đã] [giúp] <org> [adidas] </org> [bước] [vào] [thể] [kỷ] [21] [với] [tư cách] [là] [một] [thương hiệu] [trẻ] [và] [hội nhập] [nhanh nhất] .

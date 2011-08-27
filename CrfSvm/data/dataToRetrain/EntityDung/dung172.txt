@@ -1,0 +1,31 @@
+<per> [Gennaro Ivan] " [Rino] " [Gattuso] </per> ( [sinh] <date> [ngày] [9] [tháng] [1] [năm] [1978] </date> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Ý] </loc> [hiện] [đang] [chơi] [ở] [giải] [Serie] [A] [cho] [câu lạc bộ] <org> [AC] [Milan] </org> . 
+
+[Anh] [chủ yếu] [chơi] [ở] [vị trí] <pos> [tiền vệ] </pos> [phòng ngự] . 
+
+[Khi] [còn] [ở] [đỉnh cao] [phong độ] , <per> [Gattuso] </per> [là] [một] <job> [cầu thủ] </job> [thi đấu] [rất] [quyết liệt] [và] [mạnh mẽ] , [luôn] [có mặt] [khắp] [mọi] [điểm nóng] [trên] [sân] [và] [được] [coi] [là] [một] [trong] [những] [tiền vệ] [phòng ngự] [tốt] [nhất] [trên] [thế giới] . 
+
+[Ông] [đã] [được] [liên hệ] [bởi] [câu lạc bộ] <org> [Al-Ahli] [Dubai] </org> [trong] [những] [tuần] [gần] [đây] [nhưng] [đã] [tuyên bố] [mong muốn] [của] [mình] [là] [thi đấu] [tại] <loc> [Anh] </loc> [cho] [câu lạc bộ] <org> [Middlesbrough] </org> [và] [dưới] [sự] [dẫn dắt] [của] <job> [huấn luyện viên] </job> <pos> [Gordon Strachan] </pos> . 
+
+[Trong suốt] [sự nghiệp] [tại] <org> [Milan] </org> , <per> [Gattus] </per> [đã] [giành] [được] [hai] [Cúp] [UEFA] [Champions League] [mùa] [giải] [2002-03] [và] [2006-07] , [danh hiệu] [Serie] [A] [mùa] [giải] [2003-04] . 
+
+[Ông] [cũng] [đã] [có] [một] [vai trò] [quan trọng] [trong] [chiến thắng] [của] [đội tuyển] [quốc gia] [trước] <loc> [Pháp] </loc> [tại] [World Cup] [2006] [và] [giúp] [họ] [nâng] [cao] [chiếc] [cúp] [danh giá] [này] . 
+
+<per> [Gattuso] </per> [bắt đầu] [sự nghiệp] [thi đấu] [chuyên nghiệp] [tại] <org> [CLB] [Perugia] </org> , [nhưng] [tới] [năm 19] [tuổi] , [anh] [đã] [bị] [đẩy] [tới] <org> [Rangers] </org> [dưới] [dạng] [hợp đồng] [cho] [mượn] [và] [được] [CLB] [này] [mua] [vào] [chính] [mùa] [giải] [sau] [đó] . 
+
+<date> [Năm] [1998] </date> , <per> [Gattuso] </per> [trở lại] [Serie] [A] [thi đấu] [cho] <org> [Salernitana] </org> . 
+
+<date> [Năm] [1999] </date>  , <per> [Gattuso] </per> [tới] <org> [AC] [Milan] </org> [với] [giá trị] [chuyển nhượng] [là] [8] [triệu] [bảng] [Anh] . 
+
+[Tuy nhiên] , [dưới] [thời] [của] [hai] <job> [HLV] </job> <per> [Arrigo Sacchi] </per> [và] <per> [Fatih Terim] </per> , [anh] [không] [được] [ra] [sân] [trong] [đội hình] [chính] [thường xuyên] [và] [hầu hết] [chỉ] [được] [ra] [sân] [từ] [băng] [ghế] [dự bị] . 
+
+[Cuối] <date> [năm] [2002] </date> , <per> [Carlo Ancelotti] </per> [trở thành] <job> [HLV] </job> [trưởng] [của] <org> [Milan] </org> [và] [tiến hành] [những] [công cuộc] [cải cách] [mới] [mạnh mẽ] [trên] [toàn bộ] [chiến thuật] [và] [phong cách] [của] [đội] [bóng] . 
+
+[Cùng với] [sự] [xuất hiện] [của] <per> [Pirlo] </per> [và] <per> [Seedorf] </per> , <per> [Gattuso] </per> [được] [bố trí] [là] <pos> [tiền vệ] </pos> [phòng ngự] [đá] [bên cạnh] <per> [Pirlo] </per> [và] [làm] [chốt] [chặt] [hiệu quả] [cho] <org> [Milan] </org> [cùng với] <per> [Ambrosini] </per> . 
+
+[Biệt danh] " [Rino] " ( [tê giác] ) [cũng] [xuất hiện] [từ] [đây] , [khi] [anh] [thể hiện] [là] [một] [trong] [những] [tiền vệ] [quét] [tài năng] [nhất] [thế giới] . 
+
+[Cùng với] <per> [Pirlo] </per> [đá] [thiên] [về] [kĩ thuật] , <per> [Gattuso] </per> [là] [mẫu] <job> [cầu thủ] </job> [năng nổ] [và] [thiên] [về] [sức mạnh] [là] [sự] [kết hợp] [hiệu quả] [cho] [tuyến] [tiền vệ] [của] <org> [Milan] </org> . 
+
+<per> [Gattuso] </per> [đã] [chơi] [trận] [chung kết] [UEFA] [Champions League] [lần] [đầu tiên] [trong] [sự nghiệp] [khoác áo] <org> [AC] [Mian] </org> [vào] [mùa] [giải] <date> [2002-2003] </date> [và] [giành] [chức] [vô địch] [cùng] <org> [Milan] </org> [sau] [khi] [chiến thắng] [trước] <org> [Juventus] </org> [trên] [loạt] [sút] [luân lưu] . [ [1] ] [Mùa] [giải] [2004-05] , <org> [AC] [Milan] </org> [lại] [vào] [chung kết] [Cúp] [C1] <date> [năm] [2005] </date> , [song] [đã] [thất bại] [trước] <org> [Liverpool] [FC] </org> . 
+
+[4-3] [trên] [chấm] [luân lưu] .

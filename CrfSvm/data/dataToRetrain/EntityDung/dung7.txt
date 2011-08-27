@@ -1,0 +1,15 @@
+<org> [Texas Instruments] </org> ( [thường] [được] [viết] [tắt] [là] [TI] ) [là] [một] [trong] [những] [tập đoàn] [lớn] [nhất] <loc> [Hoa Kỳ] </loc> , [đặt] [trụ sở] [tại] <loc> [Dallas] , [Texas] </loc> [và] [tại] <loc> [châu] [Âu] </loc> [có] [trụ sở] [chính] [tại] <loc> [Freising] </loc> , [gần] <loc> [München] , [Đức] </loc> . 
+
+<org> [TI] </org> [sản xuất] [chất bán dẫn] , [phụ tùng] [máy điện toán] [và] [bàn tính] . 
+
+[Hai] [trong] [những] [ngành] [công nghiệp] [mũi nhọn] [của] <org> [TI] </org> [hiện nay] [là] [sản xuất] [những] [sản phẩm] [DLP] ( [Digital Light Processing] , [một] [kỹ thuật] [sử dụng] [trong] [công nghệ] [sản xuất] [truyền hình] ) [và] [bộ vi xử lý] [DSP] ( [Digital] [signal] [processors] ) . 
+
+<org> [TI] </org> [được] [thành lập] [bởi] <per> [Cecil] [H] . [Green] </per> , <per> [Jon Erik Jonsson] </per> , <per> [Eugene Mc] [Dermott] </per> [và] <per> [Henry Bates Peacock] </per> [vào] [ngày] [6] [tháng] [12] [năm] [1941] . 
+
+[Ngày] [18] [tháng] [10] [năm] [1954] , [công ty] [thông báo] [sản xuất] [chiếc] [máy] [phát thanh] ( [radio] ) [transistor] [đầu tiên] . 
+
+[1958] , [bộ] [vi mạch] [đầu tiên] [được] <per> [Jack] [S] . [Kilby] </per> [của] <org> [TI] </org> [phát triển] . 
+
+[Trong] [lãnh vực] [vũ khí] [quân sự] , <org> [TI] </org> [cũng] [rất] [thành công] , [thí dụ] [như] [sản xuất] [tên lửa] [AGM-88] [HARM] [và] [các] [loại] [radar] . 
+
+[Năm] [1997] , <org> [TI] </org> [sang nhượng] [bộ phận] [sản xuất] [quân sự] [cho] <org> [Raytheon Corporation] </org> .

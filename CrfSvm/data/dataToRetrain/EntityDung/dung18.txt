@@ -1,0 +1,37 @@
+<per> [Mark Shuttleworth] </per> ( [sinh] [ngày] <date> [18/09/1973] </date> ) [là] [một] [người] <loc> [Nam Phi] </loc> [và] [là] [người] <loc> [Châu Phi] </loc> [đầu tiên] [du hành] [vào] [vũ trụ] . 
+
+<per> [Shuttleworth] </per> [sáng lập] [ra] <org> [Canonical Ltd] </org> [và] [là] [người] [tài trợ] [cho] [các] [dự án] [phân phối] [hệ điều hành] [Ubuntu] . 
+
+[Hiện tại] , [ông] [đang] [sống] [tại] <loc> [London] </loc> . 
+
+[Ông] [vừa] [là] [công dân] [của] <loc> [Nam Phi] </loc> [vừa] [là] [công dân] [của] <loc> [Anh] [Quốc] </loc> . 
+
+[Sau] [khi] [theo] [học] [tại] <org> [trường] [trung học] [Diocesan College] </org> , <per> [Mark Shuttleworth] </per> [vào] <org> [đại học] [Cap] </org> [và] [tốt nghiệp] [với] [2] [tấm] [bằng] [về] [Kinh Tế] [và] [Quản trị] [hệ thống] [thông tin] . 
+
+[Ông] [sáng lập] <org> [Thawte] </org> <date> [năm] [1995] </date> , [một] [công ty] [chuyên] [về] [bảo mật] [Internet] . 
+
+[Đến] <date> [12/1999] </date> [ông ta] [bán] [nó] [cho] <org> [VeriSign] </org> [với] [giá] [hơn] [500 triệu] [đô] [vào] [thời] [đó] . 
+
+[Sau] [đó] , <per> [Shuttleworth] </per> [lập] <org> [HBD] [Venture Capital] </org> , [công ty] [chuyên] [về] [đầu tư] [mạo hiểm] , [và] [thiết lập] [<org> quỹ] [Shuttleworth] </org> [để] [tài trợ] [cho] [các] [dự án] [giáo dục] [ở] <loc> [Nam Phi] </loc> . 
+
+[Giữa] [những] <date> [năm] [1990] </date> , [ông] [tham gia] [vào] [việc] [phát triển] [hệ điều hành] [Debian] . 
+
+[Đến] <date> [năm] [2004] </date> , [ông] [quay] [trở lại] [thế giới] [mã] [nguồn] [mở] [bằng] [việc] [sáng lập] [ra] [Ubuntu] , [một] [bản] [phân phối] [Linux] [mới] ( [với] [mục tiêu] [là] [phổ biến] [nó] [đến] [mọi] [người] ) [thông qua] [công ty] [của] [ông ta] [là] <org> [Canonical Ltd] </org> . 
+
+<date> [Năm] [2005] </date> , [ông] [lập] [thêm] <org> [quỹ] [Ubuntu Foundation] </org> [với] [số] [tiền] [đầu tư] [ban đầu] [là] [10 triệu] [đô la] . 
+
+[Mục đích] [là] [trả] [công] [cho] [những] [nhà phát triển] [Ubuntu] . 
+
+<date> [15] [tháng] [10] , [2006] </date> , <per> [Shuttleworth] </per> [trở thành] [nhà] [bảo trợ] [đầu tiên] [của] [KDE] , [với] [mức] [đầu tư] [cao] [nhất] [chưa] [từng] [có] . 
+
+<date> [Ngày] [25] [tháng] [4] , [2002] </date> , <per> [Shuttleworth] </per> [trở nên] [nổi tiếng] [khắp] [thế giới] [khi] [làm] [hành khách] [du hành] [vào] [vũ trụ] [trên] [tên lửa] [Soyuz] [TM-34] [của] <loc> [Nga] </loc> ( [Giá] [vé] [cho] [chuyến] [đi] [là] [20 triệu] [đô la] [Mỹ] ) . 
+
+[2] [ngày sau] [khi] [phóng] , [tàu vũ trụ] [Soyuz] [đã] [cập] <loc> [trạm] [vũ trụ] [quốc tế] [ISS] </loc> [và] [ở] [đó] [trong] [8] [ngày] [để] [tham gia] [vào] [các] [cuộc] [thí] [nghiêm] [về] [AIDS] [và] [Genome] . 
+
+<date> [Ngày] [5/5] </date> , <per> [Shuttleworth] </per> [đã] [trở về] [Trái Đất] [an toàn] . 
+
+[Để] [chuẩn bị] [cho] [chuyến] [bay] [này] , [ông] [được] [huấn luyện] [và] [luyện tập] [trong] [vòng] [1] [năm] , [hết] [7] [tháng] [ở] <loc> [Star] [city] , [Max-cơ-va] </loc> . 
+
+[Biệt danh] [của] <per> [Shuttleworth] </per> [là] [SABDFL] ( [Self-Appointed] [Benevolent Dictator] [for] [Life] ) . 
+
+[Nhờ] [có] [những] [đóng góp] [to lớn] [của] <per> [Shuttleworth] </per> , [chúng ta] [mới] [có thể] [yêu cầu] [gửi] [đĩa] [cài đặt] [Ubuntu] [và] [Kubuntu] [mà] [không] [phải] [tốn] [đồng] [nào] .

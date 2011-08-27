@@ -1,0 +1,91 @@
+<org> [Liverpool] [FC] </org> . ( <org> [Liverpool Football Club] </org> ) [là] [một] [trong] [hai] [câu lạc bộ] [bóng đá] [nổi tiếng] [nhất] [của] [thành phố] <loc> [Liverpool] , [Anh] </loc> ( [đội] [kia] [là] <org> [Everton] </org> ) . 
+
+[Từ] [khi] [thành lập] [vào] <date> [năm 1892] </date> [đến] [nay] , <org> [Liverpool] </org> [đã] [18] [lần] [vô địch] [bóng đá] <loc> [Anh] </loc> , [giành] [được] [bảy] [cúp] [FA] [và] [cúp] <org> [Liên đoàn] </org> [bóng đá] <loc> [Anh] </loc> , [14] [cúp] [Charity Shield] , [5] [cúp] [các] [đội] [vô địch] [bóng đá] [quốc gia] <loc> [châu] [Âu] </loc> [hoặc] [UEFA] [Champions League] ( [cúp] [C1] ) , [ba] [cúp] [UEFA] ( [cúp] [C3] ) [và] [ba] [siêu] [cúp] [bóng đá] <loc> [châu] [Âu] </loc> . 
+
+[Bảng] [thành tích] [cho] [thấy] [bề dày] [tryền] [thống] [của] [đội] [bóng] . 
+
+[Sân vận động] [của] [đội] [là] [sân] <loc> [Anfield] </loc> [có] [sức] [chứa] [45.362] [người] , [cách] [trung tâm] <loc> [Liverpool] </loc> [khoảng] [bốn] [km] . 
+
+<org> [Liverpool] </org> [đã] [chơi] [bóng] [ở] [sân] [này] [từ] [khi] [được] [thành lập] [vào] <date> [năm] [1892] </date> [cho] [tới] [ngày nay] . 
+
+[Tuy nhiên] , [kế hoạch] [xây] [sân] [bóng] [mới] [sau] [khi] [CLB] [được] [chuyển giao] [cho] [hai] [ông] [chủ] [người] <loc> [Mỹ ] </loc><per> [Tom Hicks] </per> [và] <per> [George Gillett] </per> [đã] [được] [khởi động] [vào] [mùa] [Hè] <date> [năm] [2007] </date> . 
+
+[Sân] [bóng] [mới] [dự kiến] [có] [70.000] [chỗ] [ngồi] [ở] [gần] <loc> [Stanley] </loc> . 
+
+<org> [Liverpool] </org> [có] [một] [lực lượng] [cổ động viên] [hùng hậu] [và] [rất] [trung thành] . 
+
+[Những] [kình địch] [lâu đời] [và] [nhất] [của] [đội] [bóng] [bao gồm] [câu lạc bộ] [cùng] [thành phố] <org> [Everton] </org> [và] <org> [Manchester United] </org> . 
+
+[Câu lạc bộ] [cũng] [có mặt] [trong] [hai] [sự kiện] [đáng] [buồn] [của] [bóng đá] <loc> [châu] [Âu] </loc> : [Heysel] [năm] [1985] [trước] [trận] [chung kết] [Cúp] [C1] , [nơi] [39] [cổ động viên] <org> [Juventus] </org> ( [đối thủ] [của] <org> [Liverpool] </org> [trong] [trận] [này] ) [đã] [thiệt mạng] [khi] [một] [bức] [tường] [khán đài] [sập] [xuống] [và] [Hillsborough] <date> [năm] [1989] </date> [khi] [96] [cổ động viên] <org> [Liverpool] </org> [thiệt mạng] [vì] [chen lấn] [xô đẩy] . 
+
+<org> [Liverpool] [FC] </org> . [được] [thành lập] [sau] [một] [cuộc] [tranh chấp] [nhiều] [mặt] [giữa] <org> [Uỷ ban] </org> <org> [Everton] </org> [và] <per> [John Houlding] </per> , [chủ sở hữu] [khu] [đất] [ở] <loc> [Anfield] </loc> [và] <pos> [chủ tịch] </pos> [của] <org> [Everton] </org> . 
+
+[Câu lạc bộ] <org> [Everton] </org> [được] [thành lập] [và] [chơi] [ở] <loc> [Anfield] </loc> [từ] <date> [năm] [1884] </date> [tới] <date> [1892] </date> . 
+
+[Nguyên nhân] [leo thang] [tranh chấp] [là] [khi] [các] [chủ] [đất liền] [kề] [muốn] [chạy] [một] [con] [đường] [mặc dù] [khán đài] [chính] [vừa] [được] [xây dựng] . 
+
+[Khác biệt] [cơ bản] [nổi] [lên] [trong] [việc] [câu lạc bộ] [nên] [hoạt động] [như thế nào] [khi] [các] [câu lạc bộ] [có] [ý định] [mua] [toàn bộ] [khu] [đất] [ở] <loc> [Anfield] </loc> . 
+
+[Houlding] [bị] [cáo buộc] [đối] [vì] [động cơ] [lợi ích] [tài chính] [cá nhân] . 
+
+<org> [Everton] </org> [đã] [được] [chơi] [tại] <loc> [Anfield] </loc> [cho] [tám] [năm] [tách] [khỏi] [Houlding] [và] [Anfield] [di chuyển] [đến] [một] [sân vận động] [mới] [tại] [Goodison Park] . 
+
+[Câu lạc bộ] <org> [Liverpool] </org> [đã] [được] [thành lập] [bởi] [Houlding] [và] [chơi] [tại] [Anfield] [đang] [bỏ] [trống] . 
+
+[Tên] [ban đầu] [là] [được] <org> [Everton] [FC] </org> . [and] <org> [Athletic Grounds] </org> , [Ltd] , [hoặc] <org> [Everton Athletic] </org> [cho] [ngắn] , [nhưng] [nó] [đã] [được] [thay đổi] [thành] <org> [Liverpool] [FC] </org> [vào] <date> [tháng] [6] [năm 1892] </date> [khi] <org> [Liên đoàn] </org> [bóng đá] <loc> [Anh] </loc> [từ chối] [công nhận] [cái] [tên] <org> [Everton] </org> . 
+
+[Đội] [bóng] [vô địch] [giải] [Lancashire League] [trong] [mùa] [giải] [đầu tiên] [của] [họ] , [và] [sau] [đó] [đã] [được] [lên] [chơi] [ở] [giải] [hạng] [hai] [trong] [mùa] [giải] [sau] [đó] . 
+
+[Họ] [vô địch] [giải] [đấu] [và] [được] [thăng hạng] [lên] [hạng] [nhất] . 
+
+[Họ] [vô địch] [lần] [đầu tiên] [vào] [mùa] [giải] [1900-01] , [và] [vô địch] [lần] [nữa] [vào] [mùa] [giải] [1905-06] . 
+
+[Họ] [vào] [tới] [trận] [chung kết] [cúp] [FA] [vào] <date> [năm] [1914] </date> [nhưng] [thua] [1] - [0] [trước] <org> [Burnley] </org> . 
+
+[Câu lạc bộ] [vô địch] [hai] [năm] [liên tiếp] [vào] [các] [mùa] [giải] [1921-22] [và] [1922-23] , [nhưng] [sau] [đó] [câu lạc bộ] [không] [vô địch] [danh] [hiệ] [nào] [tới] [mùa] [giải] [1946-47] [khi] [họ] [vô địch] [giải] [quốc gia] [lần] [thứ năm] . 
+
+[Câu lạc bộ] [vào] [đến] [trận] [chung kết] [cúp] [FA] [vào] <date> [năm] [1950] </date> , [nhưng] [thua] <org> [Arsenal] </org> . 
+
+<org> [Liverpool] </org> [bị] [xuống] [hạng] [vào] [mùa] [giải] [1953-54] . 
+
+[Trong] [giai đoạn] [này] [họ] [đã] [phải] [chịu] [một] [trận] [thua] [2-1] [ở] [cúp] [FA] [trước] [đội] [bóng] [nghiệp dư] <org> [Worcester City] [FC] </org> [vào] [mùa] [giải] [1958-59] . 
+
+[Không] [lâu] [sau] [kết quả] [đánh] [mất mặt] [này] , <per> [Bill Shankly] </per> [được] [bổ nhiệm] [làm] <job> [huấn luyện viên] </job> [và] [ông] [sa thải] [24] [cầu thủ] . 
+
+[Ông] [cũng] [thay đổi] [một] [phòng] [ở] <loc> [Anfield] </loc> [ban đầu] [được] [dùng] [để] [khởi động] [thành] [một] [phòng] [mà] [các] [cầu thủ] [cùng] <job> [huấn luyện viên] </job> [có thể] [bàn bạc] [chiến thuật] [và] [uống] [trà] . 
+
+<per> [Shankly] </per> [cùng] [các] [thành viên] [ban đầu] [của] <per> [Boot Room] </per> [gồm] <per> [Joe Fagan] </per> , <per> [Reuben Bennett] </per> , [và] <per> [Bob Paisley] </per> [bắt đầu] [cải tổ] [lại] [đội] [bóng] . 
+
+[Lên] [hạng] [nhất] [vào] [mùa] [giải] [1961-62] , [và] [đội] [bóng] [vô địch] [giải] [này] [lần] [đầu tiên] [sau] [17] [năm] [vào] [mùa] [giải] [1963-64] . 
+
+[Một] [danh hiệu] [vô địch] [khác] [nữa] [đến] [vào] [mùa] [giải] [1965-66] , [sau] [khi] [đội] [bóng] [vô địch] [cúp] [FA] [vào] [mùa] [giải] [trước] [đó] . 
+
+[Đội] [bóng] [vô địch] [giải] [hạng] [Nhất] [và] [cúp] [UEFA] [vào] [mùa] [giải] [1972-73] [và] [cúp] [FA] [một] [năm] [sau] ; [sau] [thành công] [này] , <per> [Shankly] </per> [rời] [đội] [bóng] [và] [được] [thay thế] [bởi] <pos> [trợ lí] </pos> <per> [Bob Paisley] </per> . 
+
+<per> [Paisley] </per> [thậm chí] [còn] [giành] [được] [nhiều] [thành công] [hơn] <per> [Shankly] </per> [khi] [giúp] [đội] [bóng] [vô địch] [giải] [hạng] [Nhất] [và] [cúp] [UEFA] [vào] [mùa] [giải] [1975-76] , [mùa] [giải] [thứ hai] [ông] [làm] <job> [huấn luyện viên] </job> . 
+
+[Mùa] [giải] [sau] [đó] [họ] [bảo vệ] [thành công] [danh hiệu] , [vô địch] [Cúp] <loc> [châu] [Âu] </loc> [lần] [đầu tiên] , [nhưng] [thua] [trong] [trận] [chung kết] [cúp] [FA] , [bỏ] [lỡ] [cơ hội] [giành] [cú] [ăn] [ba] . 
+
+<org> [Liverpool] </org> [bảo vệ] [thành công] [ngôi] [vô địch] [cúp] <loc> [châu] [Âu] </loc> [mùa] [giải] [sau] [đó] , [và] [họ] [vô địch] [giải] [nội địa] [lần] [nữa] [với] [số] [điểm] [68-số] [điểm] [kỉ lục] [ở] [giải] [hạng] [Nhất] <loc> [Anh] </loc> , [chỉ] [để] [thủng] [lưới] [16] [bàn] [trong] [42] [trận] . 
+
+[Trong] [9] [mùa] [giải] <per> [Paisley] </per> [dẫn dắt] [đội] [bóng] , <org> [Liverpool] </org> [vô địch] [21] [danh hiệu] , [bao gồm] [3] [chức] [vô địch] [cúp] <loc> [châu] [Âu] </loc> , [một] [cúp] [UEFA] , [sáu] [chức] [vô địch] [giải] [vô địch] [quốc gia] [và] [3] [Cúp] <org> [liên đoàn] </org> . 
+
+[Danh hiệu] [duy nhất] [ông] [không] [giành] [được] [là] [cúp] [FA] . 
+
+<per> [Paisley] </per> [rời] [băng] [ghế] [huấn luyện] [vào] <date> [năm] [1983] </date> [và] ( [cũng] [giống] [như] <per> [Shankly] </per> [đã] [làm] ) [để] [lại] [chiếc] [ghế] [huấn luyện] [cho] [thành viên] [của] <org> [Boot Room] </org> , <pos> [trợ lí] </pos> <job> [huấn luyện viên] </job> <per> [Joe Fagan] </per> . 
+
+[Liverpool] [vô địch] [3] [danh hiệu] [trong] [mùa] [giải] [đầu tiên] <per> [Fagan] </per> [tiếp quản] : [Giải] [vô địch] [quốc gia] , [cúp] [liên đoàn] [và] [cúp] [C1] . 
+
+<org> [Liverpool] </org> [vào] [tới] [trận] [chung kết] [cúp] [C1] [một] [lần] [nữa] [vào] <date> [năm] [1985] </date> . 
+
+[Trận] [gặp] <org> [Juventus] </org> [ở] [sân vận động] <loc> [Heysel] </loc> . 
+
+[Trước] [khi] [trận] [đấu] [bắt đầu] , [một] [thảm hoạ] [đã] [xảy ra] : [Các] [cổ động viên] <org> [Liverpool] </org> [đã] [phá] [vỡ] [bức] [tường] [ngăn cách] [hai] [nhóm] [cổ động viên] [và] [tấn công] [các] [cổ động viên] <org> [Juventus] </org> . 
+
+[Kết quả] [là] [bức] [tường] [bị] [đổ] [sập] , [giết] [chết] [39] [cổ động viên] , [chú] [yếu] [là] [người] <loc> [Ý] </loc> . 
+
+[Trận] [đấu] [sau] [đó] [vẫn] [diễn] [ra] [và] <org> [Liverpool] </org> [thua] [1] - [0] . 
+
+[Các] [đội] [bóng] <loc> [Anh] </loc> [sau] [đó] [đã] [bị] [cấm] [thi đấu] [ở] [các] [giải] [đấu] <loc> [châu] [Âu] </loc> [trong] [5] [năm] ; <org> [Liverpool] </org> [nhận] [mức] [phạt] [là] [10] [năm] , [sau] [đó] [được] [giảm] [xuống] [còn] [6] [năm] . 
+
+[14] [cổ động viên] [của] [họ] [phải] [nhận] [mức] [án] [tù] [cho] [tội] [ngộ sát] .

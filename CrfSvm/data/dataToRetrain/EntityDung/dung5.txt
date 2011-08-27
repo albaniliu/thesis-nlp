@@ -1,0 +1,63 @@
+<org> [Công ty] [EMC] </org> ( [Mã] [chứng khoán] [tại] [NYSE:] [EMC] ) [là] [nhà sản xuất] [phần mềm] [và] [phần cứng] [về] [quản lý] [thông tin] [và] [lưu trữ] [dữ liệu] [số] [thuộc] [danh] [sánh] [Fortune] [500] [và] [S&] [P] [500] . 
+
+[Trụ sở] [chính] [đặt] [tại] <loc> [Hopkinton] , [Massachusetts] , [USD] </loc> . <org> [EMC] </org> [sản xuất] [một] [dải] [rộng] [các] [sản phẩm] [lưu trữ] [quy mô] [doanh nghiệp] [bao gồm] [các] [dãy] [đĩa] [lưu trữ] [phần cứng] [và] [phần mềm] [quản lý] [lưu trữ] . 
+
+[Dòng] [sản phẩm] [chủ] [đọa] , [Symmetrix] , [là] [nền tảng] [của] [hệ thống] [mạng] [lưu trữ] [trong] [nhiều] [trung tâm] [dữ liệu] [lớn] . 
+
+[Dòng] [sản phẩm] [CLARRiiOn] [có] [được] [thông qua] [việc] <org> [EMC] </org> [mua] [lại] <org> [công ty] [Data General] </org> [vào] [năm] [1999] . 
+
+<org> [EMC] </org> [được] [sáng lập] [vào] [năm] [1979] . 
+
+[Những] [người] [sáng lập] [bao gồm] <per> [Richard] ( [Dick] ) [Egan] </per> [và] <per> [Roger Marino] </per> , [được] [viết] [tắt] [thành] [chữ] [E] [và] [M] [trong] [tên] [công ty] . ( [Ban đầu] , <org> [EMC] </org> [không] [sử dụng] [biểu tượng] [EMC²] [để] [ám chỉ] [công thức] [nổi tiếng] [của] [Einsteinn] , [E=] [mc] [²] . 
+
+[Chữ] [C] [đầu tiên] [là] [viết] [tắt] [của] [người] [sáng lập] [thứ ba] [nhưng] [đã] [rời] [công ty] [trước] [khi] [công ty] [được] [thành lập] [và] [chữ] [C] [cuối cùng] [viết] [tắt] [của] [chữ] [Corporation] ( [công ty] ) . 
+
+[Tiền thân] [là] [một] [công ty] [sản xuất] [bảng] [mạch] [bộ nhớ] , <org> [EMC] </org> [mở rộng] [lĩnh vực] [ra] [khỏi] [lĩnh vực] [bộ nhớ] [và] [sang] [các] [hệ thống] [đĩa cứng] . 
+
+[Với] [các] [thành tựu] [của] <per> [Moshe Yanai] </per> ( [hiện] [đang] [làm việc] [cho] <org> [XIV] [Storage] </org> ) , <org> [EMC] </org> [vươn] [lên] [trở thành] [công ty] [hàng đầu] [với] [các] [nền tảng] [lưu trữ] [lớn] [và] [cách tân] . 
+
+<per> [Joseph Tucci] </per> [trở thành] [Giám đốc] [điều hành] [năm] [2001] , [thay thế] <per> [Michael Ruettgers] </per> [người] [vẫn] [giữ] [cương vị] [chủ tịch] [cho] [tới] [năm] [2006] . 
+
+[Trong] [lĩnh vực] [lưu trữ] , [đối thủ] [cạnh tranh] [chính] [của] <org> [EMC] </org> [là] <org> [IBM] </org> , <org> [Network Applicance] </org> , <org> [Hewlett-Packard] </org> , <org> [Hitachi Data Systems] </org> [là] [một] [đối thủ] [mới] [nổi] . 
+
+<org> [EMC] </org> [đã] [chuyển đổi] [từ] [một] [công ty] [đơn thuần] [sản xuất] [phần cứng] [thành] [một] [công ty] [cung cấp] [hỗn hợp] [phần cứng] , [phần mềm] [và] [dịch vụ] [chuyên nghiệp] . 
+
+[Một] [động lực] [lớn] [cho] [tương lai] [của] [công ty] [đến] [từ] [các] [giải pháp] [ảo hóa] [gồm] [VMware] , [Invista] [và] [Rainfinity] . 
+
+[Nam] [2006] , <org> [EMC] </org> [khai trương] <org> [Văn phòng] [Nghiên cứu] [và] [Phát triển] </org> [tại] <loc> [Thượng Hải] , [Trung] [quốc] </loc> [để] [tận dụng] [nguồn] [lao động] [dồi dào] [của] [nước] [này] [và] [hỗ trợ] [việc] [mở rộng] [thị phần] [tại] [quốc gia] [này] . 
+
+[Ngày] [7] [tháng] [7] [năm] [2007] , <org> [EMC] </org> [tuyên bố] [sẽ] [đầu tư] [160 triệu] [Đô la] [Mỹ] [vào] <loc> [Singapore] </loc> [để] [thiết lập] [phòng thí nghiệm] [phát triển] [rộng] [khoảng] [1400] [m] [²] [và] [sẽ] [bắt đầu] [đi] [vào] [hoạt động] [trong] [năm] [2007] . 
+
+[Ông] <per> [Nair Predeep] </per> [đã] [được] [bổ nhiệm] [làm] [giám đốc] [trung tâm] [thí nghiệm] [phát triển] [này] . 
+
+[Một] [chuỗi] [các] [thương vụ] [mua bán] [và] [hợp tác] [đối tác] [đã] [giúp] [đưa] <org> [EMC] </org> [trở thành] [nhà cung cấp] [lớn] [nhất] [về] [các] [nền tảng] [lưu trữ] [trên] [thế giới] . 
+
+[Mới] [nhất] , [vào] [ngày] [12] [tháng] [11] [năm] [2007] , <org> [EMC] </org> [hợp tác] [với] <org> [NetQoS] </org> [để] [cung cấp] [các] [giải pháp] [về] [phát hiện] [hạ tầng] [và] [theo dõi] [hiệu suất] [tích hợp] . 
+
+[Năm] [2002] , <org> [EMC] </org> [mua] [lại] <org> [công ty] [Prisa Networks] </org> [để] [có] [được] [dòng] [sản phẩm] [Quản trị] [mạng] [lưu trữ] [và] [Quản trị] [tài nguyên] [lưu trữ] ( [tương đương] [với] [các] [sản phẩm] [VisualSAN] [và] [VisualSRM] ) . 
+
+[Tiền thân] [là] [công ty] [phần cứng] , [năm] [2003] , <org> [EMC] </org> [đa dạng hóa] [thành] [công ty] [mà] [phần mềm] [và] [dịch vụ] [chiếm] [tỉ trọng] [lớn] [hơn] . 
+
+[Bắt đầu từ] [khi] [giám đốc] [điều hành] [mới] <per> [Joe Tucci] </per> [nhậm chức] [năm] [2001] , <org> [EMC] </org> [mua] [lại] <org> [công ty] [Legato System Inc] </org> [với] [giá] [1.3 tỉ] [Đô la] [Mỹ] [vào] [tháng] [7] [và] [tiếp theo] [là] [mua] <org> [công ty] [Documentum] </org> , [một] [nhà cung cấp] [phần mềm] [quản trị] [nội dung] [doanh nghiệp] [cho] [các] [công ty] [toàn cầu] [vào] [tháng] [10] , [và] [VMWare] [vào] [tháng] [12] . 
+
+[Tiếp theo] [đà] [này] , <org> [EMc] </org> [tuyên bố] [mua] [lại] <org> [công ty] [phần mềm] [quản lý] [mạng] [System Management Arts Inc] </org> ( [còn] [được] [gọi là] [SMARTS] ) . 
+
+[Gần] [đây] , <org> [EMC] </org> [cũng] [hoạt động] [mạnh] [trong] [lĩnh vực] [Quản lý] [Vòng] [đời] [Thông tin] ( [ILM] ) [và] [đã] [bổ sung] [thêm] [các] [sản phẩm] [phần cứng] [bảo mật] [bao gồm] [Giải pháp] [Quản trị] [Phân tích] [Bảo mật] . 
+
+[Thương vụ] [mua] [lại] <org> [công ty] [Rainfinity] </org> [vào] [tháng] [8] [năm 2005] [mở rộng] [thêm] [các] [sản phẩm] [về] [ảo hóa] [hiện] [có của] [công ty] [và] [nhắm] [vào] [Ảo hóa] [Hệ thống] [Tập tin] . 
+
+[Thông qua] [việc] [mua] [một] [công ty] [của] [Bỉ] [tên] [là] <org> [FilePool] </org> , <org> [EMC] </org> [phát triển] [thành] [sản phẩm] [lưu trữ] [dữ liệu] [lâu dài] [tên] [là] [Centera] . 
+
+[Phần cứng] [chuyên dụng] [để] [lưu trữ] [nội] [dụng] [này] [đáp ứng] [yêu cầu] [cụ thể] [về] [lưu trữ] [dữ liệu] [lâu dài] [trong] [Quản lý] [vòng] [đời] [thông tin] [trong] [các] [môi trường] [thay đổi] [nhanh chóng] [về] [công nghệ] . 
+
+[Ngày] [29] [tháng] [6] [năm] [2006] , <org> [EMC] </org> [tuyên bố] [là] [sẽ] [mua] [lại] <org> [công ty] [Bảo mật] [RSA] </org> .
+
+[Thương vụ] [này] [đã] [hoàn tất] [và] <org> [RSA] </org> [hiện giờ] [là] <org> [Bộ phận] [Bảo mật] [thông tin] [của] [EMC] </org> .
+
+[Ngày] [12] [tháng] [7] [năm] [2007] , <org> [EMC] </org> [mua] [lại] <org> [công ty] [X-Hive] </org> , [một] [công ty] [dẫn đầu] [về] [công nghệ] [XML] [có] [trụ sở] [tại] <loc> [Rotterdam] , [Hà Lan] </loc> . 
+
+<org> [X-Hive] </org> [nổi tiếng] [về] [cung cấp] [ccacs] [sản phẩm] [dựa] [trên] [XML] [với] [quy mô] [doanh nghiệp] [cho] [các] [ngành] [công nghiệp] [hàng không] [và] [xuất bản] . 
+
+[Đây] [là] [một] [bằng chứng] [cho] [sự] [cam kết] [của] <org> [EMC] </org> [đối với] [thế hệ] [mới] [về] [quản lý] [thông tin] [và] [XML] .
+
+<org> [X-Hive] </org> , [với] [các] [sản phẩm] [và] [kiến thức] [về] [XML] [trên] [nền] [Java] [được] [kỳ vọng] [là] [sẽ] [có] [vị trí] [nổi bật] [trong] [các] [giải pháp] [phần mềm] [của] <org> [EMC] </org> [thông qua] [tích hợp] [XML] [vào] [Documentum] [để] [hình thành] [sản phẩm] [hạ tầng] <org> [EMC] </org> [của] [chính] <org> [EMC] </org> .

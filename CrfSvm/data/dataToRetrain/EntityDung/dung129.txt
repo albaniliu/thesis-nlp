@@ -1,0 +1,9 @@
+<per> [Dimitar Ivanov Berbatov] </per> [là] [một] <job> [cầu thủ] </job> [bóng đá] [người]  <loc> [Bulgaria] </loc>  , [chơi] [ở] [vị trí] <pos> [tiền đạo] </pos> , [hiện] [đang] [khoác áo] <org> [câu lạc bộ] [Manchester United] </org> [tại] [Premier League] [và] <org> [đội tuyển] [Bulgaria] </org> . 
+
+[Anh] [từng] [4] [lần] [nhận] [danh hiệu] <job> [Cầu thủ] </job> [xuất sắc] [nhất] <loc> [Bulgaria] </loc> . 
+
+[Cha] [của] <per> [Berbatov] </per> , <per> [Ivan] </per> , [là] [một] <job> [cầu thủ] </job> [bóng đá] [chuyên nghiệp] [của] <org> [câu lạc bộ] [địa phương] [Pirin Blagoevgrad] </org> . 
+
+[Mẹ] [anh] , <per> [Margarita] </per> , [là] [một] <job> [cầu thủ] [bóng ném] </job> [chuyên nghiệp] . 
+
+[Khi] [còn] [niên thiếu] , <per> [Berbatov] </per> [thích] <org> [câu lạc bộ] [AC] [Milan] </org> [và] [thần tượng]  <per> [Marco]  [van] [Basten] </per> , [đến] [khi] [Euro] <date> [1996] </date> [diễn] [ra] [tại] <loc> [Anh] </loc> , [cậu] [trai] [15] [tuổi] [có] [thần tượng] [mới] [là] <per> [Alan Shearer] </per> , [cựu] [cầu thủ] [của] <org> [Newcastle United] </org> .

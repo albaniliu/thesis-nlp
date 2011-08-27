@@ -1,0 +1,65 @@
+[Ông] <per> [Phạm Phú Ngọc Trai] </per> , [sinh] [ngày] [20] [tháng] [2] [năm] [1955] , [là] [một] [trong] [những] [nhà quản trị] [doanh nghiệp] [xuất sắc] [nhất] [ở] <loc> [Việt Nam] </loc> . 
+
+[Ông] [từng] [là] [cán bộ] [của] <org> [Vụ] [Xuất nhập khẩu] ( [Bộ] [Ngoại thương] ) </org> , [Phó giám đốc] [của] <org> [Công ty] [nước giải khát] [quận] [3] </org> , [Chủ tịch] [của] <org> [công ty] [nước giải khát] [Tribeco] </org> , <org> [công ty] [SPco] </org> [rồi] <org> [công ty] [nước giải khát] [quốc tế] [IBC] </org> [trước] [khi] [trở thành] [chủ tịch] [kiêm] [tổng giám đốc] [của] <org> [công ty] [PepsiCo] [Đông Dương] </org> . 
+
+[Sau] [gần] [30] [năm] [làm việc] , [từ] [năm] [2010] , [ông] <per> [Trai] </per> [chính thức] [nghỉ hưu] [sớm] [để] [chuyển sang] [công việc] [của] [một] [nhà tư vấn] [chiến lược] [kinh doanh] [cho] [các] [doanh nghiệp] [ở] <loc> [Việt Nam] </loc> . 
+
+[Ông] [và] [những] [cộng sự] [của] [mình] [sáng lập] [ra] <org> [công ty] [tư vấn] [kinh doanh] [hội nhập] [toàn cầu] [GIBC] </org> . 
+
+[Ông] [là] [hậu duệ] [của] [nhà cải cách] <per> [Phạm Phú Thứ] </per> [vĩ đại] [vào] [cuối] [thế kỉ] [thứ] [19]  . 
+
+[Tiến sĩ] <per> [Trung Dũng] </per> , [sinh] [năm] [1967] ( [thường] [được] [biết] [dưới] [tên] [tiếng] <loc> [Anh] </loc> <per> [Trung Dung] </per> ) [là] [lập trình viên] , [tỷ phú] [người] <loc> [Mỹ] </loc> [gốc] <loc> [Việt] </loc> . 
+
+[Khi] [bước] [chân] [lên] [đất] <loc> [Mỹ] </loc> [năm] [1985] , [ông] [chỉ] [có] [2] [USD] [nhưng] [15] [năm] [sau] , [ông] [đã] [chuyển nhượng] <org> [công ty] [OnDisplay] </org> [của] [ông] [cho] <org> [tập đoàn] [Vignette Corp] </org> [với] [giá] [gần] [1,8] [tỉ] [USD] . 
+
+[Câu chuyện] [về] [thành công] [của] [ông] [đã] [trở thành] " [huyền thoại] " [trong] [giới] [công nghệ cao] , [và] [được] [nhiều] [tạp chí] [nổi tiếng] [như] <org> [Forbes] </org> , <org> [Fortune] </org> , <org> [Financial Times] </org> , <org> [Wall Street Journal] </org> , <org> [San Francisco Chronicle] </org> ... [tường thuật] [và] [in] [trong] [cuốn sách] [The American Dream] ( [Giấc mơ] <loc> [Mỹ] </loc> ) [của] [biên tập viên] <per> [Dan Rather] </per> [của] <org> [đài] [CBS] </org> . 
+
+[Có] [thông tin] [cho rằng] [ông] [thật ra] [là] [họ] [Dũng] , [là] [họ] [của] [nguời] [dân tộc] [Chăm] , [cha] [của] [ông] [là] [người] <loc> [Chăm] </loc> [đất] <loc> [Phan Rí] </loc> [và] [mẹ] [là] [người] <loc> [Việt] </loc> . 
+
+[Cha] [là] <per> [Dũng Văn Đối] </per> , [trung tá] [của] <org> [Quân lực] [Việt Nam Cộng Hòa] </org> , [thị trưởng] [một] [tỉnh lỵ] [tại] <loc> [miền] [Nam] </loc> [và] [sau] [1975] [phải] [đi] [học tập] [cải tạo] , [tài sản] [gia đình] [bị] [tịch thu] . 
+
+[Gia đình] [túng quẫn] , [ông] [phải] [vừa] [học] [vừa] [bán hàng] [để] [phụ] [gia đình] . 
+
+[Vượt] [biển] [đến] <loc> [Indonesia] </loc> [năm] [1984] , [sau] [hai] [lần] [thất bại] [và] [đến] <loc> [Hoa Kỳ] </loc> [tị nạn] [từ] [năm] [1985] . 
+
+[Thời gian] [đầu] [ông] [cùng] [chị gái] [sống] [tại] <loc> [Louisiana] </loc> , [sau đó] [hai] [chị em] [chuyển] [sang] <loc> [Boston] </loc> . 
+
+[Một] [năm] [sau] , [ông] [ghi tên] [vào] [học] <org> [trường] [Đại học] [Massachusetts] , [Boston] </org> . 
+
+[Ông] [vừa] [học] [vừa] [làm] [đủ] [thứ] [công việc] , [từ] [rửa] [chén] [trong] [nhà hàng] [đến] [làm] [kỹ thuật viên] , [để] [nuôi sống] [mình] [và] [gia đình] . 
+
+[Hàng tháng] , [ông] [vẫn] [gửi] [về] <loc> [Việt Nam] </loc> [300-400] [USD] [để] [giúp] [gia đình] . 
+
+[Đến] [năm] [1990] , [gia đình] [ông] [được] [đoàn tụ] . 
+
+[Tốt nghiệp] [cử nhân] [khoa học] [máy tính] [và] [toán học] [ứng dụng] <org> [của] [Đại học] [Massachusetts] , [Boston] </org> [năm] [1988] . 
+
+[Lấy] [bằng] [cao học] ( [master] ) , [đang] [học] [tiến sĩ] [thì] [bỏ dở] [vì] [mẹ] [bệnh] [ung thư] [nặng] . 
+
+[Sau này] , [năm] [1992] [ông] [lấy] [bằng] [Tiến sĩ] [ngành] [Khoa học] [máy tính] [của] <org> [trường] [Đại học] [Boston] </org> . 
+
+[Vợ] [của] [ông] [là] [bác sĩ] <per> [Nam Phương] </per> [tốt nghiệp] <org> [Đại học] [Stanford] </org> [về] [ngành] [ung thư] . 
+
+[Làm] [kỹ sư] [trưởng] [cho] <org> [công ty] [Open Market] </org> . 
+
+[Bỏ] [việc làm] [tại] <org> [Open Market] </org> , [thành lập] <org> [công ty] [On Display Inc] </org> [năm] [1996] . 
+
+[Lúc] [đầu] [khó khăn] [nhưng] [sau] [nhờ] [sự hỗ trợ] [của] <per> [Mark Pine] </per> , [ủy viên] [quản trị] <org> [công ty] [Sybase Inc] </org> , [nhiều] [nhà đầu tư] [đã] [giúp] [vốn] [cho] [ông] . 
+
+[Công ty] [đặt] [trụ sở] [chính] [tại] <loc> [San Ramon] , [California] </loc> [và] [được] [xem] [là] [một] [trong] [10] [công ty] [IPO] ( [công ty] [lần] [đầu] [lên] [sàn chứng khoán] ) [thành đạt] [nhất] <loc> [Hoa Kỳ] </loc> [của] [năm] [1999] . 
+
+[Năm] [2000] , [chuyển nhượng] <org> [công ty] [OnDisplay] </org> [cho] <org> [Vignette Corp] </org> [với] [giá] [gần] [1,8] [tỉ] [USD] . 
+
+[Năm] [2001] , [sáng lập] [và] [hiện] [là] [giám đốc] [điều hành] [của] <org> [công ty] [Fogbreak] </org> [ở] <loc> [Walnut Creek] , [Bắc] [California] </loc> . 
+
+[Công ty] [phát triển] [dây chuyền] [phân phối] & [hợp tác] [dịch vụ] [phần mềm] . 
+
+[Công ty] [được] [các] [công ty] [lớn] [như] <org> [Matrix Partners] </org> , <org> [Greylock] </org> , [và] <org> [Sigma Partners] </org> [góp] [vốn] [đầu tư] . 
+
+[Tháng] [5] [năm] [2004] , [được] [trao tặng] [Giải] [Đuốc Vàng] [từ] [Đại hội] [Liên hoan] [Người] <loc> [Mỹ] </loc> [gốc] <loc> [Việt] </loc> [Toàn] [quốc] ( [VANG] ) . 
+
+[Năm] [2005] , [ông] [thành lập] [và] [là] [giám đốc] [điều hành] [của] <org> [tập đoàn] [V-Home Group] </org> , [gồm] [những] [doanh nhân] [người] <loc> [Mỹ] </loc> [gốc] <loc> [Việt] </loc> [thành đạt] [muốn] [tìm kiếm] [cơ hội] [đầu tư] [tại] <loc> [Việt Nam] </loc> . 
+
+[Năm] [2006] , [được] [nhận] [danh hiệu] [vinh danh] [nước] <loc> [Việt] </loc> . 
+
+[Ông] [nói] [tiếng] <loc> [Việt] </loc> [và] <loc> [Anh] </loc> [lưu loát] , [hiếu thảo] [và] [bản tính] [khiêm tốn] , [có] [lòng] [với] [sinh hoạt] [cộng đồng] [và] [thường] [tham gia] [những] [sinh hoạt] [cộng đồng] [người] <loc> [Việt] </loc> [tại] <loc> [Hoa Kỳ] </loc> .

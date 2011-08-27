@@ -1,0 +1,67 @@
+<per> [James Watt] </per> - [Đứa trẻ] [học nghề] [thông minh] 
+
+[Lúc] [nhỏ] [vì] [nhà] [nghèo] [không] [có] [tiền] [mua] [đồ chơi] [nên] [đồ chơi] [của] <per> [Watt] </per> [đều] [do] [bố] [làm] , [đồ chơi] [của] [bố] [làm] [đẹp] [không] [kém] [gì] [mua] . 
+
+[Cậu] [nghĩ] [nếu] [mình] [cũng] [biết] [làm] [thì] [tốt] [biết mấy] ! 
+
+[Không chỉ] [để] [chơi] [mà còn] [có thể] [bán] [một ít] [để] [lấy] [tiền] [mua] [sách] . 
+
+[Vì vậy] [mỗi ngày] [sau khi] [đi học] [về] <per> [Watt] </per> [đều] [chạy] [đến] [xưởng] [bố] [làm] . 
+
+[Cha] [cậu] [là] [một] [công nhân] [kỹ thuật] [tay nghề] [cao] , [ông] [mở] [xưởng] [nhỏ] [ở] [ngoài] [thị trấn] [chuyên] [sản xuất] [và] [sửa chữa] [các] [thiết bị] [và] [dụng cụ] [đo lường] [dùng] [cho] [tàu thuyền] . 
+
+<per> [Watt] </per> [rất] [thích] [xem] [những] [bác] [thợ lành nghề] [làm] [mô hình] , [sửa] [la bàn] [và] [dụng cụ] [đo lường] [như] : [dụng cụ] [đo] [góc vuông] , [kính viễn vọng] , ... 
+
+[Cha] [cậu] [thấy] [con] [thích] [công việc] [của] [những] [người] [thợ] [này] [tỏ] [ra] [rất] [vui] , [cha] [đã] [dành] [cho] [cậu] [một] [gian phòng] [nhỏ] , [trong] [đó] [có] [rất] [nhiều] [công cụ] [và] [vật liệu] [các] [loại] . 
+
+[Như vậy] <per> [Watt] </per> [nhỏ] [cũng] [có thể] [học] [kỹ thuật] [chế tạo] [và] [sửa chữa] . 
+
+[Cậu] <per> [Watt] </per> [nhỏ] [thông minh] [đã] [rất] [nhanh] [biết] [sử dụng] [công cụ] [trong] [xưởng] , [biết] [làm] [đồ chơi] [và] [chế tạo] [mô hình] . 
+
+[Những] [hoạt động] [ngoài] [giờ học] [này] [đã] [ngốn] [của] <per> [Watt] </per> [không] [ít] [thời gian] [nhưng] [không] [hề] [ảnh hưởng] [đến] [việc] [học tập] [trên] [lớp] . 
+
+[Sau] [khi] [tốt nghiệp] [trung học] , <per> [Watt] </per> [chuẩn bị] [vào] [đại học] . 
+
+[Đúng] [lúc] [này] [cha] [cậu] [bị] [trục trặc] [trong] [công việc] , [sau] [đó] [mẹ] [mất] , <per> [Watt] </per> [đành] [phải] [bỏ] [ý định] [đi học] [đại học] . 
+
+[Năm] [1755] , <per> [Watt] </per> [tròn] [18] [tuổi] [cậu] [sang] <loc> [London] </loc> [học] [thủ công nghệ] . 
+
+[Sang] <loc> [London] </loc> [cậu] [rất] [vất vả] [mới] [tìm] [được] [sư phụ] <per> [Moocgan] </per> , [nhưng] [thời gian] [học tập] [là] [4] [năm] . 
+
+[Bốn] [năm] ? 
+
+[Dài] [quá] ! 
+
+[Đối với] [Watt] [4] [năm] [là] [quá] [dài] . 
+
+[Cậu] [muốn] [học] [nhanh] [để] [sớm] [về] [giúp] [cha] [kiếm] [sống] . 
+
+<per> [Watt] </per> [nói] [với] [thầy] : " [Con] [muốn] [học] [được] [nghề] [trong] [thời gian] [một] [năm] " . 
+
+[Ông] <per> [Moocgan] </per> [hỏi] <per> [Watt] </per> : " [Một] [năm] ? [Cậu] [có học] [được] [không] ? "
+
+" [Được] [ạ] ! " - <per> [Watt] </per> [quả quyết] 
+
+[Thầy] <per> [Moocgan] </per> [rất] [kinh ngạc] , [ông] [dạy] [bấy lâu nay] [biết bao nhiêu] [học trò] , [chưa] [có] [ai] [có thể] [học] [trong] [thời gian] [một] [năm] ! 
+
+<per> [Watt] </per> [chấp nhận] : " [Vâng] [ạ] ! " 
+
+[Để] [gom] [được] [20] [bảng] [học phí] [với] <per> [Watt] </per> [lúc đó] [không] [phải] [là] [việc làm] [đơn giản] , [cuối cùng] [thì] [cậu] [cũng] [bắt tay] [vào] [học tập] . 
+
+[Vì] [lúc] [nhỏ] [cũng] [được] [đào tạo] [nghề] [thủ công] [lại] [thêm] [tư chất] [thông minh] [nên] <per> [Watt] </per> [học] [thủ công nghệ] [rất] [nhanh] , [đến] [mức] [thầy] <per> [Moocgan] </per> [cũng] [không] [dám] [tin] , [ông] [chưa] [từng] [gặp] [cậu] [học sinh] [nào] [thông minh] [đến] [thế] . 
+
+[Tháng] [7] <per> [Watt] </per> [học] [nghề] , [ngày] [5] [tháng] [8] [bắt đầu] [làm] [một] [thiết bị] [đo] [góc vuông] [dùng] [để] [xác định] [phương vị] , [già] [nửa] [tháng] [hoàn thành] . 
+
+<per> [Watt] </per> [học] [nhanh] [kỳ lạ] , [tháng] [10] [cậu] [làm] [thước] [đẳng] , [tháng] [11] [học] [làm] [la bàn] [phương vị] , ... 
+
+[Ban ngày] <per> [Watt] </per> [học] [nghề] [ở] [xưởng] , [tối] [về] [tự] [làm] , [đã] [làm] [là] [miệt mài] [đến] [khuya] . 
+
+[Ngày] [hôm sau] [trời] [mới] [sáng] [là] [cậu] [lại] [dậy] [tiếp tục] [làm] . 
+
+[Cậu] [luôn] [là] [người] [dậy] [sớm] [nhất] . 
+
+<per> [Watt] </per> [tranh thủ] [mọi] [thời gian] [và] [thời cơ] [để] [học tập] [không chỉ] [học] [thầy] [mà còn] [học] [bạn] . 
+
+[Cậu] [cần cù] [học tập] , [tiết kiệm] [ăn tiêu] , [nên] [vốn] [đã] [xanh] [gầy] [nay] [càng] [gầy] [xanh] [hơn] , [nhưng] [tay nghề] [cậu] [vững vàng] [lên] [rất] [nhiều] . 
+
+[Tháng] [7] [năm 1756] , <per> [Watt] </per> [đã] [học] [được] [nghề] [thủ công] , [bắt đầu] [tự] [kiếm] [sống] .

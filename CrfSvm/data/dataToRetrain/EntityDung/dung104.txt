@@ -1,0 +1,33 @@
+<per> [David Villa Sánchez] </per> ( [sinh] <date> [ngày] [3] [tháng] [12] [1981] </date> [tại] <loc> [Langreo] , [Asturias] , [Tây Ban Nha] </loc> ) , [biệt danh] [El Guaje] ( [Đứa] [trẻ] [trong] [tiếng] <loc> [Tây Ban Nha] </loc> ) [là] <job> [cầu thủ] </job> [bóng đá] [đang] [thi đấu] [ở] [vị trí] <pos> [tiền đạo] </pos> [cho] [câu lạc bộ] <org> [Barcelona] </org> [và] <org> [Đội tuyển] [bóng đá] [quốc gia] [Tây Ban Nha] </org> . 
+
+<per> [Villa] </per> [sinh] [tại] <loc> [Asturias] , [miền] [bắc] [Tây Ban Nha] </loc> . 
+
+[Anh] [bắt đầu] [thi đấu] [chuyên nghiệp] [từ] [câu lạc bộ] [địa phương]  <org> [Sporting]  [de] [Gijón] </org> [nơi] [anh] [có mặt] [trong] [đội hình] [chính] [từ] [mùa] [giải] <date> [2000] </date> / <date> [2001] </date> . 
+
+[Mùa] [giải] [tiếp theo] [anh] [được] [ra] [sân] [thường xuyên] [và] [trong] [3] [mùa] [giải] [cho] [câu lạc bộ] [này] , [anh] [có] [được] [hơn] [50] [bàn] [thắng] . 
+
+[Ấn tượng] [vì] [thành tích] [ghi bàn] [trên] [của] <per> [Villa] </per> , [câu lạc bộ] [vừa] [thăng hạng] [La Liga] , <org> [Real Zaragoza] </org> [đã] [mua] [anh] [vào] <date> [mùa hè] [2003] </date> . 
+
+[Ngay] [mùa] [giải] [đầu tiên] [thi đấu] [cho] <org> [Zaragoza] </org> , <per> [Villa] </per> [đã] [ghi] [17] [bàn] . 
+
+[Anh] [còn] [đưa] <org> [Zaragoza] </org> [đến] [chức] [vô địch] [cúp] [nhà vua] <loc> [Tây Ban Nha] </loc> [khi] [thắng] [1] [câu lạc bộ] [khác] [ở] [La Liga] 
+
+<org> [Valencia] </org> [quyết định] [đem] <per> [Villa] </per> [về] [sân] <org> [Mestalla] </org> [để] [tăng cường] [hàng] [công] [khi] [quyết định] [chi] [12] [triệu] [€] ( [tương đương] [8.2] [triệu] [£] ) [để] [có] [anh] [vào] <date> [mùa hè] [2005] </date> 
+
+[Tại] [La Liga] [2005] / [2006] , <per> [Villa] </per> [ghi] [25] [bàn] [trong] [35] [trận] [và] [xếp] [thứ] [nhì] [cho] [danh hiệu] [vua phá lưới] [sau] <per> [Samuel Eto] ' [o] </per> [của] <org> [Barcelona] </org> . 
+
+[Anh] [có] [được] [hat] - [trick] [đầu tiên] [cho] <org> [Valencia] </org> [trong] [trận] [gặp] <org> [Athletic Bilbao] </org> [vào] <date> [ngày] [23] [tháng] [4] [2006] </date> . 
+
+<per> [Villa] </per> [lại] [có] [1] [mùa] [giải] [tuyệt vời] [nữa] [cho] <org> [Valencia] </org> [trong] [mùa] [bóng] [2006] / [2007] [với] [người] [cùng] [anh] [đá] [cặp] [trên] [hàng] [công] [là] [cựu] <job> [cầu thủ] </job> [của] <org> [Real Madrid] </org> <per> [Fernando Morientes] </per> . 
+
+<per> [Villa] </per> [và] <per> [Morientes] </per> [đã] [ghi] [40] [bàn] [cho] <org> [Valencia] </org> [trên] [mọi] [mặt trận] . 
+
+[Tại] [vòng] [2] [UEFA] [Champion League] <date> [2005] </date> / <date> [2006] </date> [gặp] <org> [Inter Milan] </org> , <per> [Villa] </per> [ghi] [1] [bàn] [thắng] [tuyệt] [đẹp] [từ] [quả] [đá] [phạt] [trực tiếp] [đưa] <org> [Valencia] </org> [vào] [tứ kết] [và] [thua] <org> [Chelsea] [FC] </org> . 
+
+[Tuy nhiên] [đến] [mùa] [giải] <date> [2007] </date> / <date> [2008] </date> , <org> [Valencia] </org> [thi đấu] [cực kì] [thiếu] [ổn định] . 
+
+[Họ] [bị] [loại] [sớm] [tại] [UEFA] [Champion League] <date> [2007] </date> / <date> [2008] </date> [và] <per> [Villa] </per> [chỉ] [ghi] [được] [1] [bàn] [thắng] . 
+
+[Tại] [La Liga] , <per> [Villa] </per> [ghi] [được] [18] [bàn] [thắng] [nhưng] <org> [Valencia] </org> [chỉ] [xếp hạng] [10] [chung cuộc] [và] [suýt nữa] [đã] [xuống] [hạng] . 
+
+[Với] [kết quả] [này] , [họ] [không] [được] [tham dự] [UEFA] [Champion League] [mùa] [bóng] [sau] .

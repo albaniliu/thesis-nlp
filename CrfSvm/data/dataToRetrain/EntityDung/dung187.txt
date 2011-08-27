@@ -1,0 +1,9 @@
+<per> [Diego Alberto Milito] </per> ( [sinh] <date> [ngày] [12] [tháng] [6] [năm] [1979] </date> [tại] <loc> [Bernal] , [Buenos Aires] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Argentina] </loc> , [hiện nay] [đang] [chơi] [cho] [câu lạc bộ] [vô địch] [giải] [Serie] [A] [của] <loc> [Italia] </loc> [là] [Câu lạc bộ] <org> [Inter Milan] </org> , [anh] [mang] [số] [áo] [22] [và] [là] [một] [trong] [hai] <pos> [tiền đạo] </pos> [chủ lực] [của] [đội] [bên cạnh] <org> [Samuel Eto] ' [o] </org> . 
+
+<per> [Milito] </per> [cũng] [đang] [là] [một] [thành viên] [của] [Đội tuyển] [bóng đá] [quốc gia] <loc> [Argentina] </loc> <date> [Năm] [1999] </date> , <per> [Milito] </per> [bắt đầu] [sự nghiệp] [bóng đá] [trong] [đội hình] <org> [Racing] </org> , [nơi] [hai] [năm] [sau] [giành] [giải] [vô địch] <loc> [Argentina] </loc> . 
+
+[Cùng] [lúc] [đó] , [em trai] <per> [Diego Milito] </per> [là] <per> [Gabriel Alejandro Milito] </per> [cũng] [chơi] [cho] [câu lạc bộ] [đối thủ] [là] <org> [Club Atlético Independiente] </org> . 
+
+<date> [Năm] [2004] </date> , <per> [Diego Milito] </per> [chuyển] [sang] [chơi] [cho] [Series] [B] [của] [bóng đá] <loc> [Ý] </loc> , [đội] <org> [Genoa] [C][FC] </org> . 
+
+[Dưới] [sự] [dẫn dắt] [của] <job> [huấn luyện viên] </job> [Serse Cosmi] .

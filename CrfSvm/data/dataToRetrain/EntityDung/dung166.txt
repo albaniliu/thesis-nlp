@@ -1,0 +1,25 @@
+<per> [Cesare Maldini] </per> ( <date> [5] [tháng] [2] [năm] [1932] </date> ) [đã] [từng] [là] <job> [cầu thủ] </job> [bóng đá] [và] [nay] [là] <pos> [huấn luyện viên] </pos> [người] <loc> [Ý] </loc> . 
+
+[Khi] [còn] [chơi] [bóng] [ông] [là] [một] <pos> [trung vệ] </pos> [thép] [của] <org> <loc> [AC][Milan </loc> </org>] [và] [hiện nay] [con trai] [ông] , [<per> Paolo Maldini </per>] , [cũng] [đang] [nắm] [giữ] [vị trí] [đó] [ở] [<org> Milan </org>] . 
+
+[<per> Paolo </per>] [là] [<pos> đội trưởng] </pos> [của] <org> [AC][Milan </org>] , [giành] [chức] [vô địch] [C1] <date> [năm] [2003] </date> , [sau]  [40] [năm]  [khi] [cha anh] [cũng] [giành] [được] [gianh] [hiệu] [đó] . 
+
+<per> [Cesare Maldini] </per> [sinh ra] [tại] <loc> [Trieste] , [Venezia Giulia] </loc> . 
+
+[Ông] [là] <pos> [đội trưởng] </pos> [của] <org> [AC] [Mlan] </org> [giành] [cúp] [C1] [mùa] [bóng] [1962-63] . 
+
+[Ông] [là] <job> [huấn luyện viên] </job> [của] [đội tuyển] [bóng đá] [quốc gia] <loc> [Ý] </loc> [giành] [chức] [vô địch] [World Cup] [1982] [được] [tổ chức] [trên] [sân nhà] . 
+
+[Ông] [đã] [làm] [huấn luyện viên] [cho] [U21] <loc> [Ý] </loc> [trong] [10] [năm] [và] [cũng] [đã] [giành] [được] [cúp] <loc> [châu] [Âu] </loc> [cho] [lứa] [tuổi] [U21] . 
+
+[Ông] [trở lại] [làm] <job> [huấn luyện viên] </job> [đội tuyển] <loc> [Ý] </loc> [ở] [World Cup] [1998] , [với] [con trai] <per> [Paolo] </per> [ông] [là] <pos> [đội trưởng] </pos> . 
+
+[Ở] [giải] [đó] <loc> [Ý] </loc> [đã] [bị] <loc> [Pháp] </loc> [loại] [ở] [trận] [tứ kết] [sau] [loạt] [đá] [11m] . 
+
+[Ông] [làm] <job> [huấn luyện viên] </job> [cho] [đội tuyển] [bóng đá] [quốc gia] <loc> [Paraguay] </loc> [và] [tham gia] [World Cup] [2002] [tổ chức] [tại] <loc> [Nhật Bản] </loc> [và] <loc> [Hàn Quốc] </loc> . 
+
+[Đội tuyển] [của] [ông] [lại] [bị] [loại] [ở] [vòng] [16] [đội] [bởi] <loc> [Đức] </loc> . 
+
+[Sau] [đó] <pos> [huấn luyện viên] </pos> [lão luyện] [này] [trở lại] <org> [AC][Milan] </org> [trong] [vai trò] [là] [người] [tìm kiếm] [tài năng] [trẻ] . 
+
+[Hiện nay] [ông] [đang] [là] <job> [bình luận viên] </job> [cho] [kênh] [thể thao] [Al-Jazeera] [cùng với] [Al-Jazeera] <per> [Alessandro Altobelli] </per> .

@@ -1,0 +1,35 @@
+<per> [Branislav Ivanovi] [ć] </per> ( [tiếng] <loc> [Serbia] </loc> : [Б] [р] [а] [н] [и] [с] [л] [а] [в] [И] [в] [а] [н] [о] [в] [и] [ћ] ; ) [là] <job> [cầu thủ] </job> [bóng đá] [chuyên nghiệp] [người] <loc> [Serbia] </loc> [đang] [thi đấu] [cho] [câu lạc bộ] <org> [Chelsea] </org> [tại] [Premier League] [và] [Đội tuyển] [bóng đá] [quốc gia] <loc> [Serbia] </loc> . 
+
+[Vị trí] [thi đấu] [của] [anh] [là] <pos> [hậu vệ] </pos> [phải] , <pos> [trung vệ] </pos> [và] [cả] <pos> [tiền vệ] </pos> [phòng ngự] . 
+
+<per> [Branislav Ivanovic] </per> [sinh] <date> [ngày] [22] [tháng] [2] [năm] [1984] </date> [tại] <loc> [Sremska Mitrovica] </loc> [thuộc] <loc> [Nam Tư] </loc> [cũ] . 
+
+<per> [Branislav] </per> [sinh ra] [trong] [một] [gia đình] [có] [truyền thống] [về] [thể thao] . 
+
+[Ngay] [từ] [khi] [còn] [nhỏ] , [anh] [đã] [tham gia] [vào] [hệ thống] [đào tạo] [trẻ] [của] [đội] [bóng] [quê hương] <org> [FK] [Srem] </org> , [câu lạc bộ] [nơi] [cha anh] [đã] [từng] [thi đấu] [chuyên nghiệp] [ở] [vai trò] [một] [tiền vệ] [phòng ngự] <date> [Ngày] [15] [tháng] [1] [năm] [2008] </date> , <org> [Chelsea] </org> [đã] [tuyên bố] [họ] [và]  <org> [Lokomotiv] </org>  [đã] [đồng ý] [mức] [phí] [chuyển nhượng] [9] [triệu] [bảng] [Anh] [cho] <per> [Ivanovi] [ć] </per> . [ [3] ] [Sau] [khi] [thỏa thuận] [xong] [các] [điều khoản] [cá nhân] [và] [vượt] [qua] [cuộc] [kiểm tra] [y tế] , [anh] [đã] [chính thức] [trở thành] [cầu thủ] [của] <org> [Chelsea] </org> . 
+
+[Để] [có] [được] <per> [Ivanovi] [ć] </per> , <org> [Chelsea] </org> [đã] [phải] [vượt] [qua] [sự] [cạnh tranh] [từ] [các] [câu lạc bộ] [khác] [như] <org> [AC] [Milan] </org> , <org> [AFC] [Ajax] </org> , <org> [Juventus] </org> [và] <org> [Internazionale] </org> . [ [4] ] <org> [Lokomotiv Moscow] </org> [đã] [thông báo] [mức] [phí] [chuyển nhượng] [của] <per> [Ivanovi] [ć] </per> [là] [13] [triệu] [Euro] ( [9,7] [triệu] [bảng] [Anh] ) . 
+
+[Đây] [là] [thương vụ] [chuyển nhượng] [lớn] [nhất] [từ] [trước] [đến] [nay] [của] [bóng đá] <loc> [Nga] </loc> . [ [5] ] <per> [Ivanovi] [ć] </per> [đã] [kí] [hợp đồng] [3,5] [năm] [và] [nhận] [áo] [thi đấu] [số] [2] . [ [6] ] [Mặc dù] [phải] [bỏ] [ra] [một số] [tiền] [lớn] [để] [có] <per> [Ivanovi] [ć] </per> , [anh] [đã] [không] [đã] [không] [một] [lần] [được] [ra] [sân] [ở] [mùa] [bóng] [2007-08] [dưới] [thời] <job> [huấn luyện viên] </job> <per> [Avram Grant] </per> . 
+
+[Lí] [dó] [mà] <org> [Chelsea] </org> [đưa] [ra] [là] [anh] [không] [đủ] [điều kiện] [thể lực] [vì] [giải] [ngoại hạng] <loc> [Nga] </loc> [đã] [kết thúc] [vài] [tháng] [trước] [khi] [anh] [đến] <org> [Chelsea] </org> . 
+
+[Tuy nhiên] , <per> [Ivanovic] </per> [cũng] [đã] [thi đấu] [2] [trận] [với] [đội hình] <org> [Chelsea] </org> [B] [trong] [mùa] [giải] [này] . 
+
+[Do] [không] [được] [ra] [sân] [thi đấu] [chính thức] [trong suốt] [màu] [giải] [2007-08] , <per> [Ivanovi] [ć] </per> [đã] [lên tiếng] [chỉ trích] [ban] [lãnh đạo] <org> [Chelsea] </org> , [đồng thời] [khẳng định] [mình] [còn] [tài năng] [hơn] [cả] [2] [người] [đồng đội] [là] <per> [Ricardo Carvalho] </per> [và] <per> [Alex] </per> : [“] [Tôi] [còn] [chơi] [tốt] [hơn] <per> [Alex] </per> [và] <per> [Carvalho] </per> [nhiều] . 
+
+[Tôi] [đang] [rất] [nóng lòng] [được] [thi đấu] . 
+
+[Đáng] [buồn] [thay] , [mặc dù] [phải] [bỏ] [ra] [9] [triệu] [bảng] [để] [có] [tôi] [nhưng] <org> [Chelsea] </org> [vẫn] [chưa] [tạo] [cơ hội] [cho] [tôi] [thi đấu] [trận] [đầu tiên] . 
+
+[Nếu] [tình hình] [vẫn] [cứ] [như vậy] , [tôi] [hy vọng] [The Blues] [sẽ] [để] [tôi] [sang] <org> [Juventuc] </org> [theo] [hợp đồng] [cho] [mượn] [”] , <per> [Ivanovi] [ć] </per> [nói] . [ [8] ] [Trong suốt] [thời gian] [của] [kì] [chuyển nhượng] [mùa hè] <date> [năm] [2008] </date> , [nhiều] [câu lạc bộ] [đã] [ngỏ] [ý] [với] <org> [Chelsea] </org> [muốn] [có] [sự] [phục vụ] [của] [anh] [như] <org> [AC] [Milan] </org> [ [9] ] [và] <org> [Juventus] </org> .
+
+ [ [10] ] [Tuy nhiên] , [cuối cùng] <per> [Ivanovi] [ć] </per> [đã] [quyết định] [tiếp tục] [gắn bó] [với] <org> [Chelsea] </org> [sau] [khi] [tân] <job> [huấn luyện viên] </job> <per> [Luiz Felipe Scolari] </per> [khẳng định] [anh] [nằm] [trong] [kế hoạch] [của] [ông] [cho] [mùa] [bóng] [mới] . [ [11] ] [Đến] <date> [ngày] [24] [tháng] [9] [năm] [2008] </date> , [tức là] [phải] [hơn] [8] [tháng] [sau] [khi] [ký] [hợp đồng] [với] <org> [Chelsea] </org> , <per> [Ivanovi] [ć] </per> [mới] [có] [trận] [ra mắt] [đội] [bóng] [mới] [khi] [tiếp] <org> [Portsmouth] </org> [tại trận] [đấu] [vòng] [ba] [Carling Cup] . [ [11] ] [Hai] [tuần] [sau] , [anh] [có] [màn] [ra mắt] [tại] [Premier League] [trong] [trận] <org> [Chelsea] </org> [thắng] <org> [Aston Villa] </org> [2] - [0] [tại] [sân] [Stamford Bridge] . 
+
+[Dưới] [thời] [Big Phil] , <per> [Ivanovi] [ć] </per> [đã] [chơi] [9] [trận] [cho] <org> [Chelsea] </org> . [ [11] ] [Vào] [kì] [chuyển nhượng] <date> [tháng] [1] [năm] [2009] </date> , <per> [Ivanovi] [ć] </per> [tiếp tục] [trở thành] [mục tiêu] [cho] [một] [đội] [bóng] [khác] [ở] [Serie] [A] [là] <org> [Fiorentina] </org> . 
+
+[Đại diện] [của] <per> [Ivanovi] [ć] </per> [là] <per> [Vlado Borozan] </per> [khẳng định] [đã] [có] [cuộc] [gặp] [với] <pos> [Giám đốc] </pos> [thể thao] <org> [Fiorentina Pantaleo Corvino] </org> [để] [bàn] [về] [tương lai] [của] [anh] . [ [12] ] [Nhưng] [đến] <date> [ngày] [1] [tháng] [2] </date> , <pos> [chủ tịch] </pos> <per> [Ernesto Broseti] </per> [của] <org> [Fiorentina] </org> [đã] [thông báo] <org> [Chelsea] </org> [không] [có] [ý định] [bán] <per> [Ivanovi] [ć] </per> [và] [anh] [này] [sẽ] [tiếp tục] [ở] [lại] <loc> [London] </loc> . [ [13] ] [Trận] [đấu] [đầu tiên] [của] <per> [Ivanovi] [ć] </per> [dưới] [sự] [dẫn dắt] [của] <job> [huấn luyện viên] </job> <per> [Guus Hiddink] </per> [là] [trận] [đấu] [với] <org> [Newcastle United] </org> [vào] <date> [ngày] [4] [tháng] [4] </date> . 
+
+[Anh] [được] [xếp] [đá] [chính] [ngay] [từ] [đầu] [bên cạnh] <pos> [đội trưởng] </pos> <per> [John Terry] </per> . 
+
+[Đó] [là] [lần] [xuất hiện] [đầu tiên] [của] [anh] [tại] [giải] [ngoại hạng] .

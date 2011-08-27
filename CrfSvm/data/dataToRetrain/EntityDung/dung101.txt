@@ -1,0 +1,53 @@
+<per> [Lionel Messi] </per> ( [sinh] <date> [ngày] [24] [tháng] [6] [năm] [1987] </date> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Argentina] </loc> [hiện] [đang] [chơi] [cho] <org> [FC] [Barcelona] </org> [và] [đội tuyển] [bóng đá] [quốc gia] <loc> [Argentina] </loc> . 
+
+[Được] [đánh giá] [là] [một] [trong] [những] <job> [cầu thủ] </job> [xuất sắc] [nhất] [thế giới] [ở] [lứa] [tuổi] [của] [anh] [và] [thường] [được] [đánh giá] [là] <job> [cầu thủ] </job> [hay] [nhất] [thế giới] . 
+
+<per> [Messi] </per> [nhận] [nhiều] [giải] [Ballon] [d] ' [Or] [và] [Quả] [bóng] [vàng] <loc> [châu] [Âu] </loc> [vào] [năm] [21] [và] [cả] [năm] [22] [tuổi] . 
+
+[Lối] [chơi] [của] [anh] [được] [so sánh] [với] [huyền thoại] <per> [Diego Maradona] </per> , [người] [tự] [coi] <per> [Messi] </per> [là] " [truyền] [nhân] " [của] [mình] . 
+
+[Nhiều] [khán giả] [túc cầu] [nói] : " [Muốn] [lấy] [bóng] [trong] [chân] <per> [Messi] </per> , [chỉ] [có] [một cách] [là] [phải] [phạm] [lỗi] " . 
+
+[Anh] [có] [khả năng] [cầm] [bóng] [và] [đi] [bóng] [siêu hạng] , [3] - [4] [là] [con số] <job> [cầu thủ] </job> [anh] [thường] [vượt] [qua] [trong] [một] [cú] [solo] . 
+
+[Anh] [có] [đầy đủ] [phẩm chất] [của] [một] <pos> [tiền đạo] </pos> [huyền thoại] : [dứt điểm] [bằng] [chân] [hiệu quả] , [nhãn quan] [chiến thuật] [cực] [tốt] , [kiến tạo] [thông minh] ... 
+
+<per> [Messi] </per> [sinh] <date> [ngày] [24] [tháng] [6] [năm] [1987] </date> [ở] <loc> [Rosario] , [Argentina] </loc> [với] [bố] [là] [ông] <per> [Jorge Horacio Messi] </per> ( [sinh] <date> [năm] [1958] </date> ) , [một] <job> [công nhân] </job> [nhà máy] , [mẹ] [là] [bà] <per> [Celia Maria Cuccittini] </per> , [một] [người] <job> [lao công] </job> . 
+
+[Ban đầu] [gia đình] [anh] [sống] [ở] <loc> [thành phố] [Ancona] </loc> [ở]  [rồi] [chuyển] [sang] <loc> [Argentina] </loc> [vào] <date> [năm] [1983] </date> . 
+
+[Anh] [có] [hai] [người] [anh trai] [tên] <per> [Rodrigo] </per> [và] <per> [Matias] </per> [cũng như] [một] [người] [chị] [tên] [là] <per> [Maria Sol] </per> . 
+
+[Vào] [năm] [5] [tuổi] , [Anh] [bắt đầu] [chơi] [bóng] [cho] <org> [Grandoli] </org> , [một] [đội] [bóng] [địa phương] [được] [dẫn dắt] [bởi] [bố] [anh] . 
+
+[Vào] <date> [năm] [1995] </date> , <per> [Messi] </per> [chuyển] [sang] <org> [Newell] ' [s] [Old Boys] </org> , [đội] [bóng] [nằm] [ở] [thành phố] [quê] [anh] <loc> [Rosario] </loc> . 
+
+[Vào] [năm] [11] [tuổi] , [anh] [được] [chẩn đoán] [gặp] [vấn đề] [với] [hormone] [tăng] [trưởng] . 
+
+<org> [Câu lạc bộ] [River Plate] </org> [đã] [thể hiện] [sự] [quan tâm] [tới] <per> [Messi] </per> , [song] [lại] [không] [đủ] [tiền] [trả] [cho] [việc] [chữa] [bệnh] [của] [anh] , [việc] [này] [tiêu] [tốn] [khoảng] [900] $ [một] [tháng] . 
+
+<per> [Carles Rexach] </per> , <pos> [giám đốc] [thể thao] </pos> [của] <org> [FC] [Barcelona] </org> , [đã] [quan tâm] [tới] [tài năng] [của] [anh] [bởi] <per> [Messi] </per> [có] [người] [quen] [ở] <loc> [Lleida] , [Catalonia] </loc> , [và] <per> [Messi] </per> [cùng] [cha anh] [đã] [sắp xếp] [được] [một] [buổi] [thử] [việc] . 
+
+<org> [Barcelona] </org> [kí] [hợp đồng] [với] [anh] [sau] [khi] [chứng kiến] [anh] [thi đấu] , [đồng ý] [trả] [tiền] [chữa] [bệnh] [cho] [anh] [nếu] [anh] [chuyển] [sang] <loc> [Tây Ban Nha] </loc> . 
+
+[Gia đình] [anh] [chuyển] [tới] <loc> [châu] [Âu] </loc> [và] [anh] [bắt đầu] [chơi] [cho] [đội] [bóng] [ở] [đội] [trẻ] . 
+
+<per> [Messi] </per> [bắt đầu] [chơi] [bóng] [từ] [khi] [còn] [nhỏ] [và] [tài năng] [của] [anh] [đã] [được] [phát hiện] [bởi] <org> [FC] [Barcelona] </org> . 
+
+[Anh] [rời] [đội] [bóng] [quê nhà] <org> [Newell] ' [s] [Old Boys] </org> <date> [năm] [2000] </date> [và] [chuyển] [cả] [gia đình] [tới] <loc> [châu] [Âu] </loc> , [và] <org> [Barcelona] </org> [là] [điểm] [đến] [của] [anh] . 
+
+[Có] [trận] [ra mắt] [vào] [mùa] [giải] <date> [2004] </date> - <date> [2005] </date> , [anh] [phá] [vỡ] [kỉ lục] [của] [La Liga] [cho] <job> [cầu thủ] </job> [trẻ] [nhất] [ra] [sân] , [và] [cũng] [là] <job> [cầu thủ] </job> [trẻ] [nhất] [ghi bàn] [ở] [giải] [này] . 
+
+[Những] [danh hiệu] [đã] [tới] [với] <org> [Barca] </org> [ngay] [trong] [mùa] [đầu tiên] [của] <per> [Messi] </per> [đó] [là] [chức] [vô địch] [La Liga] , [và] [họ] [giành] [cú] [đúp] [khi] [vô địch] [cả] [La Liga] [và] [cúp] [C1] [vào] [mùa] [giải] <date> [2006] </date> . 
+
+[Mùa] [giải] [đột phá] [của] [anh] [là] <date> [2006] </date> - <date> [2007] </date> : [trở thành] <job> [cầu thủ] </job> [quan trọng] [trong] [đội hình] [I] , [ghi] [một] [cú] [hattrick] [trong] [trận] <org> [El Clásico] </org> [và] [kết thúc] [mùa] [giải] [với] [14] [bàn] [trong] [26] [trận] . 
+
+[Có thể] [mùa] [giải] [thành công] [nhất] [của] [anh] [là] [mùa] [giải] <date> [2008] </date> - <date> [2009] </date> , [mùa] [giải] [mà] <per> [Messi] </per> [đã] [ghi] [38] [bàn] [và] [trở thành] [nhân tố] [chủ chốt] [trong] [cú] [ăn] [ba] [của] [đội] [bóng] [xứ] <loc> [Catalan] </loc> . 
+
+<per> [Messi] </per> [là] [vua phá lưới] [giải] [trẻ] <date> [2005] </date> [vói] [6] [bàn] , [bao gồm] [2] [bàn] [ở] [trận] [chung kết] . 
+
+[Một] [thời gian] [không] [lâu] [sau] [đó] , [anh] [được] [gọi] [vào] <org> [đội tuyển] [bóng đá] [quốc gia] [Argentina] </org> . 
+
+[Vào] <date> [năm] [2006] </date> [anh] [trở thành] [cầu thủ] [người] <loc> [Argentina] </loc> [trẻ] [nhất] [được] [chơi] [ở] [World Cup] [và] [về] [đích] [ở] [vị trí] [thứ] [nhì] [ở] [Copa América] [năm] [sau] [đó] . 
+
+[Vào] <date> [năm] [2008] </date> , [ở] <loc> [Bắc Kinh] </loc> , [anh] [giành] [danh hiệu] [đầu tiên] [ở] [cấp độ] [quốc tế] , [một] [huy chương] [vàng] [Olympic] [cùng] [đội] <org> [Olympic Argentina] </org> .

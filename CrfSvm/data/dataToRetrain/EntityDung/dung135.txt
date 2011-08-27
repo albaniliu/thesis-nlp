@@ -1,0 +1,19 @@
+<per> [Andrey Sergeyevich Arshavin] </per> ( [sinh] <date> [ngày] [30] [tháng] [5] [1981] </date> [tại] <loc> [Leningrad] </loc> ) [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Nga] </loc> [đang] [thi đấu] [cho] <org> [Arsenal] [FC] </org> [tại] [giải] [ngoại hạng] <loc> [Anh] </loc> [và] <org> [đội tuyển] [bóng đá] [quốc gia] [Nga] </org> . 
+
+[Ngoài] [vị trí] <pos> [tiền đạo] </pos> , [anh] [cũng] [thi đấu] [ở] [vị trí] <pos> [tiền vệ] [tấn công] </pos> [và] <pos> [tiền vệ] [cánh] </pos> . 
+
+<per> [Arshavin] </per> [thu hút] [sự] [chú ý] [trên] [bình diện] [quốc tế] [đặc biệt] [từ] [giải] [vô địch] <loc> [Châu Âu] </loc> <date> [năm] [2008] </date> [diễn] [ra] [tại] <loc> [Áo] </loc> [và] <loc> [Thuỵ Sỹ] </loc> [khi] [anh] [được] [bầu chọn] [vào] [đội hình] [tiêu] [bểu] [của] [giải] . 
+
+[Anh] [cũng] [đã] [đạt] [được] [những] [thành tích] [đáng kể] [với] [câu lạc bộ] <org> [Arsenal] </org> : [là] <job> [cầu thủ] </job> [xuất sắc] [nhất] [giải] [ngoại hạng] <loc> [Anh] </loc> <date> [tháng] [4] [năm] [2009] </date> ; <job> [cầu thủ] </job> [xuất sắc] [nhất] <date> [tháng] [3] </date> [và] <date> [tháng] [4] [năm] [2009] </date> [của] <org> [CLB] [Arsenal] </org> . 
+
+[Trong] [trận] [gặp] <org> [Liverpool] [FC] </org> , <per> [Arshavin] </per> [đã] [trở thành] <job> [cầu thủ] </job> [đầu tiên] [ghi] [được] [4] [bàn] [thắng] [kể] [từ] <date> [năm] [1946] </date> [trên] <loc> [sân] [Anfield] </loc> . 
+
+<per> [Andrey Sergeyevich Arshavin] </per> [sinh] <date> [ngày] [29] [tháng] [5] [năm] [1981] </date> , [tại] [thành phố] <loc> [Leningrad] </loc> ( [ngày nay] [là] <loc> [Sankt Peterburg] </loc> ) . 
+
+[Anh] [sinh ra] [trong] [một] [gia đình] [lao động] [bình dân] [và] [bố] [anh] - [ông] <per> [Sergey] </per> [là] [một] <job> [cầu thủ] </job> [bóng đá] [không] [chuyên] . 
+
+<per> [Andrei] </per> [bắt đầu] [chơi] [bóng] [từ] [rất] [sớm] [và] [lên] [7] [tuổi] [anh] [đã] [được] [nhận] [vào] [học viện] [bóng đá] <org> [Smena] </org> [của] <loc> [thành phố] [StPeterburg] </loc> . 
+
+[Khi] [còn] [học] [phổ thông] , <per> [Arshavin] </per> [hoàn toàn] [dồn] [tâm trí] [vào] [bóng đá] [và] [có] [triển vọng] [trở thành] [một] <job> [cầu thủ] </job> [chuyên nghiệp] . 
+
+<per> [Arshavin] </per> [gần như] [bị] [quẫn trí] , [khi] [bố] [anh] [qua đời] [do] [bệnh] [trụy tim] [ở] [tuổi] [40] .
