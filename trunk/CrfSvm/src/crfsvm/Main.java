@@ -11,9 +11,9 @@ import crfsvm.crf.een_phuong.TaggedDocument;
 import crfsvm.crf.een_phuong.TaggingTrainData;
 import crfsvm.svm.org.itc.irst.tcc.sre.data.ReadWriteFile;
 import crfsvm.util.Document;
+import crfsvm.util.FileUtils;
 import crfsvm.util.MapUtils;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -23,7 +23,6 @@ import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
-import java.util.logging.Level;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
 
@@ -55,7 +54,7 @@ public class Main {
     /**
      * batch size
      */
-    static int S = 2;
+    static int S = 20;
     /**
      * nguong cho entropy
      */
@@ -105,6 +104,7 @@ public class Main {
             retDoc.append(doc);
         }// end foreach file
         retDoc.print2File(mergePath);
+        logger.debug("Ghep " + fileList.length + " file thanh cong");
     }// end mergeFile method
     // </editor-fold>
 
@@ -376,8 +376,8 @@ public class Main {
     public static void main(String[] args) {
         DOMConfigurator.configure("log-config.xml");
         Main m = new Main();
-        String mainTrain = "tmp/mergeDung.txt";
-        String mainTest = "tmp/dung138.txt";
+        String mainTrain = "tmp/trainDung.txt";
+        String mainTest = "tmp/testDung.txt";
         String mainTrainCopied = "tmp/train.txt";
         String mainTestCopied = "tmp/test.txt";
         // File feature goc tao ra tu file train
@@ -388,11 +388,11 @@ public class Main {
         /*
          * Tao model va file feature dau tien. File feature: oriTrain + .feature
          */
-        logger.info("Tao model va file feature dau tien");
+        logger.info("Tao model va file feature dau tien, dong thoi tinh toan P-R-F");
         CopyFile.copyfile(mainTrain, mainTrainCopied);
         CopyFile.copyfile(mainTest, mainTestCopied);
-        Crf.train(Crf.MANUAL_MODE, mainTrainCopied, mainTestCopied);
-
+        Crf.calcFScore(mainTrainCopied, mainTestCopied);
+        
         /*
          * Tao TrainSet: tmp/TrainSet
          */
@@ -417,6 +417,7 @@ public class Main {
             /*
              * Bat dau thuc hien voi 1 file test trong TestSet
              */
+            FileUtils.removeTag(subTest);
             // Copy file test trong TestSet ra thu muc tmp
             try {
                 CopyFile.copyfile(subTest.getAbsolutePath(), bagTestCopied);
@@ -460,10 +461,9 @@ public class Main {
             logger.info("Them dac trung moi vao file dac trung goc");
             m.processAfterPredict(sList, subTestDoc, mainTrainFeature);
             
-            //Tao model moi tu file dac trung moi duoc them
+            //Tao model moi tu file dac trung moi duoc them + tinh toan P-R-F
             logger.info("Tao model moi tu file dac trung moi them");
-            CopyFile.copyfile(mainTrainFeature, "model/train.txt");
-            Crf.train(Crf.DEFAULT_MODE);
+            Crf.calcFScore(mainTrainFeature, mainTestCopied);
 
         }// end foreach testFile
         // Ket thuc lap semi

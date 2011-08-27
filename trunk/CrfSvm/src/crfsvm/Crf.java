@@ -57,15 +57,39 @@ public class Crf {
         train(MANUAL_MODE, trainFilePath);
 
         // Predict: luu ket qua trong file co ten predictFilePath + .wseg
-        if (testFilePath.endsWith(".tagged")) {
-            predict(DEFAULT_MODEL_DIR, testFilePath);
-        } else {
-            // Neu predictFile la file van ban binh thuong chua tach tu
-            runVnTagger(testFilePath, testFilePath + ".tagged");
-            predict(DEFAULT_MODEL_DIR, testFilePath + ".tagged");
-            CopyFile.copyfile(testFilePath + ".tagged.wseg", testFilePath + ".wseg", true);
-        }
+        predict(DEFAULT_MODEL_DIR, testFilePath);
     }// end runCrf method
+
+    /**
+     * Chay CRF de tinh toan thong so P, R, F.
+     * Sau khi chay, trong thu muc model da co file model.txt. Dong thoi phat sinh them
+     * file giong file dau vao va co duoi .iob, .feature
+     * @param trainPath duong dan file train - file da duoc gan nhan hoac la file feature
+     * @param testPath duong dan file test - file da duoc gan nhan
+     */
+    public static void calcFScore(String trainPath, String testPath) {
+        logger.info("Tinh toan thong so P, R, F");
+        if (trainPath.endsWith(".feature")) {
+            // File feature
+            CopyFile.copyfile(trainPath, DEFAULT_MODEL_DIR + "/train.txt");
+
+            // Chuyen file test sang dang IOB va dac trung roi copy vao thu muc model
+            IOB2Converter.main(new String[]{
+                        testPath,
+                        testPath + ".iob"
+                    });
+            TaggingTrainData.main(new String[]{
+                        testPath + ".iob",
+                        testPath + ".feature",
+                        DEFAULT_MODEL_DIR
+                    });
+            CopyFile.copyfile(testPath + ".feature", DEFAULT_MODEL_DIR + "/test.txt");
+            train(DEFAULT_MODE);
+        } else {
+            train(MANUAL_MODE, trainPath, testPath);
+        }
+        logger.info("Ket thuc viec tinh toan P, R, F");
+    }// end calcFScore method
 
     /**
      * Tach tu doi voi van ban inputFile, luu ket qua tach tu vao file taggedFile
@@ -117,7 +141,7 @@ public class Crf {
     }// end predict method
 
     /**
-     *  Predict file da duoc tach tu, ket qua luu trong file trung ten voi file dau vao + duoi .wseg
+     * Predict file da duoc tach tu, ket qua luu trong file trung ten voi file dau vao + duoi .wseg
      * @param modelDir duong dan den thu muc model
      * @param taggedFile File da duoc tach tu 
      */
@@ -140,7 +164,8 @@ public class Crf {
     /**
      * Run chuong trinh crf.exe voi tham so modelDir va optionFile.
      * File dau vao can copy vao thu muc model voi ten train.txt va test.txt.
-     * Sau khi train se duoc file model.txt trong thu muc model
+     * Sau khi train se duoc file model.txt trong thu muc model, sinh ra file
+     * giong file dau vao va co duoi .iob, .feature
      * @param program duong dan den chuong trinh crf.exe
      * @param modelDir thu muc model
      * @param optionFile duong dan den option file
@@ -173,7 +198,8 @@ public class Crf {
 
     /**
      * Tao file model.txt trong thu muc model tu file train.txt, test.txt trong thu muc model hoac tu file train bat ky.
-     * Luu y qua trinh train chi can 1 file, khong can file test
+     * Luu y qua trinh train chi can 1 file, khong can file test.
+     * Sau khi ket thuc se sinh ra file giong file dau vao va co duoi .iob, .feature
      * @param mode 
      * <ul>
      *    <li>DEFAULT_MODE: che do train file train.txt va test.txt co trong thu muc model. Gom co cac thamso:
@@ -194,6 +220,10 @@ public class Crf {
      *        <ul>
      *            <li>1 tham so: chi ra duong dan file train. Yeu cau can co thu muc model, trong do co file
      * crf.exe, option.txt</li>
+     *        </ul>
+     *        <ul>
+     *            <li>2 tham so: Chi ra duong dan file train va file test. Yeu cau can co thu muc
+     * model, trong do co file crf.exe va option.txt</li>
      *        </ul>
      *        <ul>
      *            <li>4 tham so: chi ra duong dan den file train, crf.exe, thu muc model va ten file option trong model</li>
@@ -232,7 +262,7 @@ public class Crf {
                 }
                 break;
             case MANUAL_MODE:
-                // Che do chay CRF cho phep chon flle train bat ky
+                // Che do chay CRF cho phep chon file train bat ky
                 if (args.length == 1) {
                     // Chay CRF 1 tham so:
                     //     - duong dan file train
@@ -291,7 +321,7 @@ public class Crf {
                     //     - duong dan den chuong trinh CRF
                     //     - duong dan den thu muc model
                     //     - ten file option
-                    
+
                     String iobFile = args[0] + ".iob";
                     String featureFile = args[0] + ".feature";
                     // Convert sang dang iob
