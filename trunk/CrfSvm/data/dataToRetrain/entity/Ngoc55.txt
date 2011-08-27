@@ -1,0 +1,71 @@
+[Nếu như] <org> [tập đoàn] [Microsoft] </org> [có] [tỷ phú] <per> [Bill Gates] </per> [vĩ đại] [thì] <org> [Intel] </org> [cũng] [có] [ông chủ] <per> [Andrew Grove] </per> [huyền thoại] . 
+
+[Cả] [hai] [tỷ phú] [này] [đều] [được] [coi] [là] [những] [con người] [tiên phong] [làm nên] [sự] [biến đổi] [kỳ diệu] [thế giới] [nhờ] [sự] [phát triển] [của] [máy tính] . 
+
+[Tập đoàn] <org> [Intel] </org> [dưới] [sự] [lãnh đạo] [tài tình] [của] <per> [Andrew Grove] </per> [đã] [trở thành] [nhà sản xuất] [bộ] [vi xử lý] [lớn] [nhất] [thế giới] . 
+
+[Tại] <loc> [Intel] </loc> , [ông] <per> [Andrew Grove] </per> [hiện] [là] [thành viên] [sáng lập] [duy nhất] [còn] [trực tiếp] [quản lý] [với] [cương vị] [Chủ tịch] [hội đồng quản trị] [của] [tập đoàn] . 
+
+<per> [Andrew Grove] </per> [vẫn] [có] [quyền uy] [và] [ảnh hưởng] [có] [tính] [quyết định] [đến] [sự] [phát triển] [và] [thành công] [của] <org> [Intel] </org> , [không chỉ] [với] [tư cách] [là] [ông chủ] . 
+
+<org> [Tập đoàn] [Intel] </org> [hiện nay] [có] [hơn] [100] [chi nhánh] [bán] [hàng] [tại] [trên] [30] [nước] . 
+
+[Cơ sở] [sản xuất] [đặt] [ở] [rất] [nhiều] [nước] [với] [gần] [100.000] [người làm] . 
+
+[Cùng với] [sự] [phát triển] [của] [thế giới] [tin học] [và] [máy tính] , [doanh số] [của] [tập đoàn] [liên tục] [tăng trưởng] [qua] [các] [năm] . 
+
+[Năm] [2005] , <org> [tập đoàn] [Intel] </org> [đã] [đạt] [doanh số] [kỷ lục] [với] [38,82] [tỷ] [USD] . 
+
+[Lãi] [của] [cả] [năm] [là] [8,66] [tỷ] [USD] , [vượt] [cả] [năm] [2004] [là] [7,52] [tỷ] [USD] . 
+
+[Cả] [hai] [sản phẩm] [chủ chốt] [của] <org> [Intel] </org> [là] [các] [bộ xử lý] [vi mạch] [và] [hệ thống] [chip] [điện tử] [dùng] [cho] [máy tính] [cá nhân] [và] [máy tính] [xách tay] [đều] [đạt] [kỷ lục] [về] [số lượng] [bán] [ra] . 
+
+[Con người] [của] [nghị lực] , [thận trọng] [và] [kỷ luật] <per> [Andrew Grove] </per> [sinh] [năm] [1936] , [là] [con trai] [của] [một] [thương nhân] <loc> [Hungary] </loc> [gốc] <loc> [Do Thái] </loc> . 
+
+[Ngay] [từ khi] [còn] [đi] [học] , <per> [Andrew Grove] </per> [đã] [tỏ] [ra] [cực kỳ] [thông minh] . 
+
+[Ông] [được] [đánh giá] [là] [giỏi] [toàn diện] , [lại] [rất] [có] [khiếu] [và] [ưa thích] [tìm hiểu] . 
+
+[Trong] [ngành] [chuyên môn] [của] [mình] , <per> [Andrew Grove] </per> [trở thành] [một] [tên tuổi] [với] [hơn] [40] [công trình] [nghiên cứu] [và] [nhiều] [bằng] [phát minh] . 
+
+[Năm] [1967] , <per> [Andrew Grove] </per> [theo] [ông] <per> [Gordon Moore] </per> [về] [làm] [nghiên cứu] [tại] <org> [trung tâm] [Fairchild Semiconductor] </org> , [trước] [khi] [trở thành] [đồng] [sáng lập viên] [và] [Giám đốc] [của] <org> [công ty] [Intel] </org> . 
+
+[Vào] [những] [năm] [80-90] [của] [thế kỷ] [20] , [ông] [là] [một] [nhà khoa học] [có tiếng] , [một] [nhà quản lý] [tài ba] [của] [một] [trong] [100] [tập đoàn] [công nghiệp] [lớn] [nhất] <loc> [nước] [Mỹ] </loc> . 
+
+[Năm] [20] [tuổi] , [tay trắng] <per> [Andrew Grove] </per> [đến] <loc> [đất] [Mỹ] </loc> [lập nghiệp] , [không] [có] [họ hàng] [thân quen] [và] [chưa] [biết] [cả] [một] [chữ] [tiếng] <loc> [Anh] </loc> . 
+
+[Chỉ] [với] [20] [USD] [và] [một] [nghị lực] [kiên cường] , [ông] [đã] [xây dựng] [nên] [một] [cơ đồ] [đáng] [nể] . 
+
+[Ông] [là] [một] [trong] [20] [tỷ phú] [hàng đầu] [của] [lĩnh vực] [công nghệ] [tin học] . 
+
+[Ngay] [từ đầu] , <per> [Andrew Grove] </per> [cùng] [các] [đồng nghiệp] [theo đuổi] [việc] [sản xuất] [các] [con] [chíp] [lưu] [dữ liệu] [bằng] [vật liệu] [bán dẫn] . 
+
+[Từ] [một] [hợp đồng] [nghiên cứu] [của] <org> [công ty] [Busiscom] ( [Nhật] ) </org> , <per> [Andrew Grove] </per> [đã] [có] [ý tưởng] [nghiên cứu] [và] [phát triển] [bộ] [vi xử lý] [dùng] [cho] [máy tính] . 
+
+[Năm] [1971] , <per> [Andrew Grove] </per> [gặp] [hái] [thành công] [đầu tiên] [với] [việc] [công bố] [sản phẩm] [bộ] [vi xử lý] [Intel 4004] . 
+
+[Tất cả] [các] [nhà sản xuất] [máy tính] [đều] [rất] [chuộng] [và] [rất] [cần] [các] [thiết bị] [này] . 
+
+[Nhà] [quản lý] [tài ba] [với] [tầm nhìn] [chiến lược] <per> [Andrrew Grove] </per> [đã] [tiên liệu] [trước] [sự] [phát triển] [của] [công nghệ] [thông tin] [và] [nhu cầu] [máy tính] [cao] [để] [đề ra] [chiến lược] [phát triển] [cho] <org> [Intel] </org> . 
+
+[Ông] [không] [lựa chọn] [con đường] [đi] [của] [nhiều] [nhà sản xuất] [phần cứng] [khác] [là] [lắp ráp] [toàn bộ] [từ] [A] [đến] [Z] [các] [thiết bị] [máy tính] [mà] [chỉ] [tập trung] [vào] [các] [thiết bị] [quan trọng] [nhất] . 
+
+[Xuất phát] [từ] [quan điểm] [chiến lược] [kinh doanh] [như vậy] [nên] <per> [Andrew Grove] </per> [đã] [không] [hề] [tiếc] [tiền] [cho] [việc] [nghiên cứu] [và] [phát triển] . 
+
+[Lợi nhuận] [mà] <org> [Intel] </org> [làm] [ra] [rất] [nhiều] [thế nhưng] <per> [Andrew Grove] </per> [quyết định] [tái] [đầu tư] [trở lại] . 
+
+[Và] <org> [tập đoàn] [Intel] </org> [trong] [hàng] [chục] [năm] [qua] [đã] [liên tục] [và] [không] [ngừng] [cung cấp] [cho] [các] [nhà sản xuất] [máy tính] [những] [con] [chíp] [có] [dung lượng] [lớn] [hơn] , [những] [bộ] [vi xử lý] [có] [tốc độ] [cao] [hơn] . 
+
+[Chính] [nhờ] [đó] [mà] [máy tính] [được] [phổ cập] [và] [các] [phần mềm] [tiên tiến] , [phức tạp] [hơn] [mới] [có] " [đất] " [để] " [dụng võ] " . 
+
+[Nếu như] [khoảng] [95%] [số] [máy tính] [cá nhân] [chạy] [phần mềm] [của] <org> [Microsoft] </org> [thì] [thị phần] [về] [con] [chíp] [và] [bộ] [vi xử lý] [của] <org> [Intel] </org> [cũng] [chẳng] [chịu] [kém] [là] [mấy] [với] [xấp xỉ] [90%] [số] [máy tính] [cá nhân] . 
+
+[Tuy vậy] , [với] [bản tính] [rất] [thận trọng] [vốn] [có] , <per> [Andrew Grove] </per> [luôn luôn] [tỏ] [ra] [rất] [cảnh giác] [với] [mọi] [nguy cơ] [tụt hậu] [của] <org> [Intel] </org> . 
+
+[Là] [người] [rất] [nhạy cảm] [với] [thị trường] , <per> [Andrew Grove] </per> [luôn] [nhìn] [xa] [để] [đảm bảo] [vị thế] [trong] [tương lai] [của] <org> [Intel] </org> . 
+
+[Phong cách] [quản lý] [doanh nghiệp] [của] <per> [Andrew Grove] </per> [rất] [hiện đại] . 
+
+[Ngay] [từ] [năm] [1972] , <org> [Intel] </org> [đã] [có] [quy chế] [dành] [cho] [cán bộ] [quản lý] [cấp cao] [mua] [cổ phiếu] [với] [giá] [ưu đãi] [chỉ] [bằng] [85%] [giá] [thị trường] . 
+
+[Ông] [đã] [đưa] [được] [triết lý] [kinh doanh] [của] [mình] [tới] [nhân viên] [của] [tập đoàn] : " [Hoặc] [là] [tất cả] [chúng ta] [cùng] [thành công] [hoặc] [là] [tất cả] [cùng] [thất bại] " .

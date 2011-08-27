@@ -1,0 +1,16 @@
+ [Khẩu] [Carbine Owen] [được] [biết] [đến] [như] [Owen Machine Carbine] , [là] [một] [loại] [súng] [tiểu liên] [của] <loc> [Úc] </loc> [được] [thiết kế] [bởi]  <per> [Evelyn]  ( [Evo] ) [Owen] </per> <date> [năm] [1939] </date> . 
+
+[Khẩu] [Owen] [là] [khẩu] [hoàn toàn] [được] [làm] [theo] [thiết kế] [của] <loc> [Úc] </loc> [sử dụng] [trong] [Chiến tranh] [thế giới] [thứ hai] [và] [là] [loại] [súng] [chủ lực] [của] [quân đội] <loc> [Úc] </loc> [trong suốt] [chiến tranh] . 
+
+<per> [Owen] </per> [là] [một] [nhà phát minh] [đến] [từ] <loc> [Wollongong] </loc> , [ông] [đã] [thao diễn] [mẫu] [thiết kế] [mới] [của] [mình] [khẩu] [súng] [sử dụng] [loại] [đạn] [22] [cho] [các] [sĩ quan] [quân đội] <loc> [Úc] </loc> [tại] <loc> [doanh trại] [Victoria] </loc> . 
+
+[Loại] [súng] [này] [đã] [bị] [quân đội] [từ chối] [vì] [thời điểm] [này] [họ] [chưa] [thấy] [được] [giá trị] [của] [súng] [tiểu liên] . 
+
+[Với] [việc] [chiến tranh] [bùng nổ] [ông] [tham gia] [quân đội] [với] [vai trò] [binh nhì] . 
+
+[Trong] <date> [tháng] [09] [năm] [1940] </date> , <pos> [giám đốc] </pos> [của] <org> [công ty] [Lysaght] [’] [s] [Works] </org> [tại] <loc> [Port Kembla Vincent Wardell] </loc> [phát hiện] [một] [khẩu] [súng máy] [trong] [bao tải] [đường] [gần] [nhà xe] [của] [mình] [khi] [ông] [trên] [đường] [đi] [làm] [về] . 
+
+[Ông ta] [đã] [cho] [hàng xóm] [của] [mình] [xem] , [cha] [của] <per> [Evelyn] </per> [là] [người] [đã] " [hét] [bể] [nhà] " [với] [sự] [bất cẩn] [của] [con trai] [và] [kể] [lại] [toàn bộ] [câu chuyện] [cho đến] [lúc] [đó] . 
+
+<per> [Wardell] </per> [trở nên] [bị] [hấp dẫn] [bởi] [sự] [đơn giản] [của] [loại] [vũ khí] [này] [và] [đã] [sắp xếp] [để] [chuyển] <per> [Owen] </per> [lên] [Ban] [quân] [chế] , [nơi] [mà] [ông] [bắt đầu] [việc] [tái] [chế tạo] [súng] . 
+

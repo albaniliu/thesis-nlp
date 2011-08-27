@@ -1,0 +1,41 @@
+<per> [Fernando Redondo] </per> [tên] [thật là] <per> [Fernando Carlos Redondo] </per> , [sinh] <date> [ngày] [6] [tháng] [7] [năm] [1969] </date> , [tại] <loc> [Adrogué] , [Buenos Aires] </loc> . 
+
+<per> [Redondo] </per> [là] <job> [cầu thủ] </job> [bóng đá] [chuyên nghiệp] [người] <loc> [Argentina] </loc> . 
+
+<per> [Redondo] </per> [chơi] [ở] [vị trí] <pos> [tiền vệ] [phòng ngự] </pos> , [nhưng] [lối] [chơi] [của] [anh] [phảng phất] [một] [phong cách] [nghệ sĩ] , [khác] [hẳn] [những] <pos> [tiền vệ] [phòng ngự] </pos> [cùng] [thời] [với] [lối] [chơi] [dựa] [trên] [nền tảng] [sức mạnh] . 
+
+<per> [Fernando Redondo] </per> [là] [một] [trong] [số] [những] <pos> [tiền vệ] </pos> [hào hoa] [nhất] [mà] [bóng đá] <loc> [Argentina] </loc> [từng] [sản sinh] [ra] . 
+
+<per> [Redondo] </per> [khởi nghiệp] [tại] [CLB] [quê nhà] <org> [Argentinos Juniors] </org> [vào] <date> [năm] [1985] </date> , [đây] [cũng] [là] [CLB] [khởi nghiệp] [của] [huyền thoại] [bóng đá] [người] <loc> [Argentia] </loc> <per> [Diego Maradona] </per> . 
+
+[Anh] [thi đấu] [ở] [đây] [5] [năm] [trước] [khi] [chuyển] [sang] [thi đấu] [cho] [CLB] <org> [Tenerife] </org> [ở] <loc> [Tây Ban Nha] </loc> . 
+
+[Sau] [khi] [chứng kiến] [phong độ] [chói] [sáng] [của] [anh] [tại] [World cup] <date> [1990] </date> [và] <date> [1994] </date> [trong] [màu] [áo] <org> [tuyển] [quốc gia] [Argentina] </org> , <org> [CLB] [Hoàng gia] [Real Madrid] </org> [đã] [mua] <per> [Redondo] </per> [với] [giá] [chuyển nhượng] [là] [5] [triệu] [USD] [vào] <date> [năm] [1994] </date> . 
+
+[Đây] [là] [một] [bước ngoặt] [đánh dấu] [sự] [xuất hiện] [của] [một] [trong] [số] [những] <pos> [tiền vệ] </pos> [tài hoa] [nổi tiếng] [bậc] [nhất] [của] [bóng đá] [thế giới] . 
+
+<org> [CLB] [Real Madrid] </org> [mua] <per> [Redondo] </per> [về] [để] [tăng cường] [sức mạnh] [trong] [cuộc] [đua] [tới] [chức] [vô địch] [La Liga] [với] <org> [CLB][Barcelona] </org> [được] [chỉ đạo] [bởi] [thuyền trưởng] [người] <loc> [Hà Lan] </loc> <per> [Johan Cruff] </per> . 
+
+<per> [Redondo] </per> [đã] [đáp ứng] [được] [mong mỏi] [của] [Ban] [huấn luyện] [cũng như] [người] [hâm mộ] <org> [Real Madrid] </org> [khi] [dẫn dắt] <org> [Real] </org> [giành] [ngôi] [vô địch] [La Liga] [trước] [đại] [kình địch] <org> [Barcelona] </org> [sau] [4] [năm] [bị] <org> [Barcelona] </org> [thống trị] . 
+
+[Sự nghiệp] [của] <per> [Redondo] </per> [thăng hoa] [khi] [anh] [cùng] <org> [Real] </org> [đoạt] [hai] [chiếc] [cúp] [vô địch] [Châu Âu] [Champion League] [danh giá] [vào] [năm] <date> [1997] </date> - <date> [1998] </date> [và] <date> [1999] </date> - <date> [2000] </date> . 
+
+[Trận] [chung kết] <date> [năm] [1997] </date> - <date> [1998] </date> , <per> [Redondo] </per> [đã] [khóa] [chặt] [ngòi nổ] <per> [Zidane] </per> [của] <org> [Juventus] </org> , [một] [trong] [số] [những] <pos> [tiền vệ] </pos> [xuất sắc] [nhất] [thế giới] [lúc] [bấy giờ] , [góp phần] [đưa] <org> [Real] </org> [đoạt] [chức] [vô địch] . 
+
+[Hai] [năm] [sau] [là] [một] [mùa] [giải] [mà] [dấu ấn] [của] <per> [Redondo] </per> [đã] [in] [đậm] [trong] [tâm trí] [của] [các] [cổ động viên] <org> [Real Madrid] </org> [lẫn] <org> [Manchester United] </org> . 
+
+[Trong] [trận] [bán kết] [gặp] <org> [Manchester United] </org> [tại] <loc> [sân] [Old Trafford] </loc> , <per> [Redondo] </per> [đã] [thực hiện] [một] [trong] [trong] [những] [pha] [bóng] [đẹp] [nhất] [của] [mình] [khi] [đánh] [gót] [vượt] [qua] [sự] [truy] [cản] [của] <pos> [hậu vệ] </pos> <per> [Henning Berg] </per> [trước] [khi] [chuyền] [bóng] [cho] <per> [Raul] </per> [ghi bàn] [thắng] [thứ ba] [cho] <org> [Real Madrid] </org> . 
+
+[Trong] [trận] [đấu] [đó] , [cái] [bóng] [của] <per> [Redondo] </per> [đã] [hoàn toàn] [che phủ] [một] [đồng nghiệp] [của] [anh] [bên] [phía] <org> [Manchester United] </org> , [đó] [chính] [là] <per> [Roy Kean] </per> , [một] [trong] [số] [những] <pos> [tiền vệ] </pos> [xuất sắc] [của] [bóng đá] [thế giới] <date> [thập kỉ] [90] </date> . 
+
+[Trong] [trận] [chung kết] , <org> [Real Madrid] </org> [đã] [đoạt] [chức] [vô địch] [sau] [khi] [vượt] [qua] <org> [CLB] [Valencia] </org> . 
+
+[Sau] [mùa] [giải] [đó] , <per> [Redondo] </per> [đã] [đoạt] [danh hiệu] <job> [Cầu thủ] </job> [xuất sắc] [nhất] [Champion League] . 
+
+<date> [Năm] [2000] </date> , <per> [Redondo] </per> [chuyển] [đến] [thi đấu] [cho] <org> [CLB AC] [Milan] </org> [của] <loc> [Ý] </loc> [với] [giá] [chuyển nhượng] [là] [11] [triệu] [bảng] [Anh] . 
+
+[Tại] [đây] <per> [Redondo] </per> [phải] [vật lộn] [với] [những] [chấn thương] [dai] [dẵng] [trước] [khi] [tuyên bố] [giải nghệ] [vào] <date> [năm] [2004] </date> [ở] [độ] [tuổi] [34] . 
+
+[Tại] <org> [AC] [Milan] </org> , [trong] [giai đoạn] [nghỉ] [dưỡng thương] , <per> [Redondo] </per> [đã] [từ chối] [nhận] [lương] [vì] [lý do] [không] [cống hiến] [được] [cho] [CLB] . 
+
+[Điều] [này] [cho] [thấy] [một] [phẩm chất] [và] [nhân cách] [vĩ đại] [của] <per> [Redondo] </per> .

@@ -1,0 +1,125 @@
+<per> [Hermann Julius Oberth] </per> - [Nhà khoa học] [Tiền phong] [về] [Hỏa tiễn] 
+
+[Công cuộc] [thám hiểm] [không gian] [được] [đặt] [căn bản] [trên] [lý thuyết] [của] [bốn] [nhà khoa học] [tuy] [đồng thời] [với] [nhau] [mà] [không] [hề] [cộng tác] [chung] , [họ] [đã] [nghiên cứu] [song hành] [và] [bổ túc] [cho] [nền] [kỹ thuật] [hỏa tiễn] . 
+
+[Bốn] [nhà khoa học] [này] [là] : [nhà khoa học] <per> [Konstantin Tsiolkovsky] </per> ( [người] <loc> [Nga] </loc> ) , [nhà khoa học] <per> [Robert Goddard] </per> ( [người] <loc> [Mỹ] </loc>) , [nhà khoa học] <per> [Hermann Oberth] </per> ( [người] <loc> [Đức] </loc> ) [và] [nhà khoa học] <per> [Von Karman] </per> ( [người] <loc> [Áo Hung] </loc> ) . 
+
+<per> [Hermann Julius Oberth] </per> [sinh] [ngày] [25] [tháng] [6] [năm] [1894] [tại] <loc> [Hermannstadt] </loc> , [thuộc] <loc> [miền] [Transylvania] </loc> . 
+
+[Miền đất] [này] [lúc] [đầu] [thuộc] [về] [đế quốc] <loc> [Áo Hung] </loc> [nhưng] [sau] [Thế chiến] [Thứ nhất] , [trở thành] [phần] [đất] [của] <loc> [Romania] </loc> [và] [ngày nay] [lại] [thuộc] [về] <loc> [miền] [Đông] [nước] [Đức] </loc> . 
+
+[Trên] [bản đồ] , <loc> [Hermannstadt] </loc> [được] [gọi] [bằng] [tên] [Sibiu] , [một] [danh từ] <loc> [Áo Hung] </loc> [tuy rằng] [dân chúng] [của] [vùng] [này] [đều] [có] [nguồn gốc] [Đức] , [nói] [tiếng] <loc> [Đức] </loc> [và] [theo] [các] [phong tục] [tập quán] [của] [dân tộc] [Nhật Nhĩ Man] . 
+
+<per> [Hermann J. Oberth] </per> [là] [con] [của] [bác sĩ] <per> [Julius Gotthold Oberth] </per> , [vị] [giám đốc] [của] [một] [bệnh viện] [gần] <loc> [Schassburg] </loc> . 
+
+[Ngay] [từ] [thuở] [nhỏ] , <per> [Hermann] </per> [đã] [mơ ước] [trở thành] [một] [kỹ sư] [tài giỏi] [hay] [một] [nhà khoa học] [và] [đã] [cố gắng] [thực hiện] [giấc mơ] [này] . 
+
+[Trong] [thời gian] [theo] [học] [tại] <loc> [trường] [trung học] [Bischof-Teutsch] </loc> [ở] <loc> [Schassburg] </loc> , [cậu bé] <per> [Hermann] </per> [có] [cơ hội] [đọc] [các] [cuốn] [truyện] [của] [hai] [nhà văn] <per> [Jules Vernes] </per> [và] <per> [H. G. Wells] </per> . 
+
+[Những] [điều] [dự tưởng] [khoa học] [trong] [truyện] [đã] [khiến] <per> [Hermann] </per> [thích thú] [và] [do đó] , [đã] [chán nản] [trước] [ngành] [y] [là] [con đường] [mà] [người] [cha] [đã] [vạch] [sẵn] . 
+
+[Năm] [1912] , <per> [Hermann] </per> [tốt nghiệp] [trung học] [và] [đoạt] [phần thưởng] [toán học] [vì] [bài làm] [xuất sắc] . 
+
+[Mặc dù] [có] [năng khiếu] [về] [toán] , <per> [Hermann] </per> [vẫn] [phải] [vâng] [theo] [ý muốn] [của] [cha] [mà] [theo] [học] [ngành] [y] [tại] <loc> [trường] [đại học] [Munich] </loc> . 
+
+[Tuy nhiên] [trong] [thời gian] [này] , <per> [Hermann] </per> [nhận] [thấy] [các] [môn học] [như] [thiên văn] , [vật lý] , [toán học] [thú vị] [hơn] [là] [các] [bài vở] [viết] [về] [cơ thể học] . 
+
+[Vào] [năm] <per> [Hermann Oberth] </per> [20] [tuổi] , [Thế chiến] [Thứ nhất] [bùng nổ] . 
+
+[Ông] [bị] [gọi] [nhập ngũ] [vào] <org> [quân đội] [Áo Hung] </org> , [bị thương] [nhẹ] [rồi] [được] [chuyển] [về] [một] [đơn vị] [quân y] . 
+
+[Từ] [thời gian] [này] , <per> [Oberth] </per> [đã] [viết] [rất] [nhiều] [lý thuyết] [về] [cách] [du hành] [trong] [không gian] [và] [do đó] , [khám phá] [ra] [rằng] [mình] [sẽ] [chẳng] [bao giờ] [trở thành] [một] [người] [thầy thuốc] . 
+
+[Khi] [Thế chiến] [chấm dứt] , <per> [Oberth] </per> [trở lại] [trường] [đại học] , [không] [phải] [để] [theo đuổi] [ngành] [y] [mà] [chuyên tâm] [về] [thiên văn] , [vật lý] [và] [toán học] . 
+
+[Ông] [lập] [gia đình] [với] [cô] <per> [Malthilde Hummel] </per> . 
+
+[Trong] [hai] [năm] [kế tiếp] [kể] [từ] [1920] , <per> [Oberth] </per> [theo] [học] [các] [trường] [đại học] : <org> [Gottingen] </org> ,<org>  [Heidelberg] </org> [và] <org> [Munich] </org> [rồi] [qua] [một] [kỳ] [thi tuyển] [vào] [năm] [1923] [để] [trở thành] [giáo sư] [vật lý] [và] [toán học] . 
+
+<per> [Oberth] </per> [được] [bổ nhiệm] [về] [trường học] [cũ] : <org> [trường] [trung học] [Bischof-Teutsch] </org> [tại] <loc> [Schassburg] </loc> . 
+
+[Năm] [1924] , <per> [Oberth] </per> [đổi] [qua] [dạy học] [tại] <org> [trường] [trung học] [Stefan Ludwig Roth] </org> [ở] <loc> [Mediasch] </loc> . 
+
+[Nơi] [này] [và] <loc> [Schassburg] </loc> [vào] [thời kỳ] [đó] [đều] [thuộc] [về] <loc> [nước] [Romania] </loc> . 
+
+[Vào] [giữa] [thập] [niên] [1920] , <per> [Oberth] </per> [đã] [viết] [xong] [luận án] [tiến sĩ] [có] [tên] [là] " [Dùng] [Hỏa tiễn] [để] [tới] [Không Gian] [Liên Hành Tinh] " ( [By] [Rocket] [to] [Interplanetary Space] ) . 
+
+[Trong] [khi] [luận án] [này] [đang] [được] [in ấn] [thì] <per> [Oberth] </per> [được] [biết] [nhà khoa học] <per> [Robert Goddard] </per> [người] <loc> [Mỹ] </loc> [đã] [phổ biến] [bài] [khảo cứu] " [Một] [Phương pháp] [để] [tới] [các] [Thượng Tầng Cao Độ] " ( [A Method] [of] [Reaching Extremes Altitudes] ) . 
+
+<per> [Oberth] </per> [bèn] [liên lạc] [với] <per> [Goddard] </per> [để] [xin] [một] [bản] [tài liệu] [và] [hứa] [sẽ] [gửi] [tặng] [sách] [của] [mình] [khi] [in] [xong] . 
+
+[Khi] [nhận] [được] [tài liệu] , [ông] [rất] [ngạc nhiên] [vì] [thấy] [nhà tiền phong] [người] <loc> [Mỹ] </loc> [cũng] [khảo cứu] [vấn đề] [thám hiểm] [không gian] . 
+
+[Cuốn sách] [của] <per> [Oberth] </per> [dày] [hơn] [một trăm] [trang] , [chứa đựng] [một] [lý thuyết] [đi] [trước] [thời đại] , [kèm] [theo] [là] [các] [phương trình] [toán học] [cho phép] [các] [nhà kỹ thuật] [chế tạo] [các] [hỏa tiễn] [vượt] [ra] [khỏi] [lớp] [khí quyển] , [lại] [mang] [theo] [được] [nhân viên] [phi hành] . 
+
+<per> [Oberth] </per> [cũng] [mô tả] [trong] [sách] [một] [phi thuyền] [không gian] [và] [các] [cách thức] [mà] [nhà phi hành] [phải] [sinh sống] [và] [làm việc] [ra sao] [trong] [khi] [thám hiểm] [vũ trụ] . 
+
+[Trong] [lý thuyết] [này] , <per> [Oberth] </per> [đề cập] [tới] [nhiều] [phương diện] : [thiên văn] , [toán học] , [vật lý] [và] [cả] [hóa học] . 
+
+[Ở] [vào] [thời đại] [trước] , [các] [nhà khoa học] [thường] [chỉ] [chuyên] [về] [một] [mặt] : [toán gia] [khảo cứu] [toán học] , [nhà thiên văn] [tìm hiểu] [bầu trời] [và] [các] [vì sao] ... , [mỗi] [người] [chỉ] [hiểu biết] [lãnh vực] [của] [mình] . 
+
+[Chính] [vì] [lý do] [này] , [lý thuyết] [của] <per> [Oberth] </per> [đã] [không] [làm] [cho] [các] [nhà khoa học] [khác] [thấu hiểu] [hoàn toàn] . 
+
+[Tuy nhiên] , [cuốn sách] [của] [ông] [vẫn] [bán chạy] [và] [tác giả] [phải] [in] [thêm] [sách] [mới] [đủ] [cung cấp] . 
+
+[Dù cho] [cuốn sách] [viết] [về] [thám hiểm] [vũ trụ] [của] <per> [Oberth] </per> [khó] [hiểu] [đối với] [thời kỳ] [đó] , [nhưng] [cuốn] [này] [cũng] [làm] [cho] [một] [nhóm] [người] [đam mê] [hỏa tiễn] [tại] <loc> [nước] [Đức] </loc> [phải] [hội họp] [với] [nhau] [và] [lập] [ra] <org> [Hội] [Du lịch] [Không gian] [Verein Fur Raumschiffahrt] </org> . 
+
+[Trụ sở] [của] <org> [Hội] </org> [được] [đặt] [tại] <loc> [Breslau] </loc> ( [tên] <loc> [Ba Lan] </loc> [là] [Wroclaw] ) . 
+
+<org> [Hội] </org> [gửi] [giấy] [mời] <per> [Oberth] </per> [tham gia] [và] [ông] [đã] [cộng tác] [với] [Hội] [trong] [nhiều] [năm] . 
+
+[Vào] [năm] [1928] , [nhà sản xuất] [điện ảnh] [danh tiếng] - [ông] <per> [Fritz Lang] </per> [dự tính] [thực hiện] [cuốn] [phim] [có] [tên] [là] " [Người] [Đàn bà] [trên] [Mặt trăng] " . 
+
+[Muốn] [cho] [cuốn] [phim] [của] [mình] [được] [căn cứ] [vào] [khoa học] , <per> [Fritz Lang] </per> [mời] <per> [Oberth] </per> [làm] [cố vấn] [kỹ thuật] . 
+
+[Trong] [khi] [đó] , <per> [Lang] </per> [cũng] [là] [người] [quan tâm] [tới] [hỏa tiễn] , [thêm] [vào] [là] [vài] [đòi hỏi] [của] <per> [Oberth] </per> [và] [ý tưởng] [về] [cách] [quảng cáo] [cho] [cuốn] [phim] [đã] [khiến cho] <per> [Fritz Lang] </per> [và] [công ty] [điện ảnh] [bỏ] [tiền] [cho] <per> [Oberth] </per> [chế tạo] [một] [hỏa tiễn] [thực] [và] [hỏa tiễn] [này] [sẽ] [được] [phóng] [đi] [đúng] [vào] [ngày] [cuốn phim] [bắt đầu] [chiếu] . 
+
+[Khi] [bắt tay] [vào] [việc] [chế tạo] [hỏa tiễn] , <per> [Oberth] </per> [rất] [bối rối] . 
+
+[Xưa nay] , [ông] [chỉ] [trù tính] [các] [sự kiện] [khoa học] [trên] [giấy tờ] [mà] [chưa] [hề] [có] [một] [kinh nghiệm] [thực tế] [nào] . 
+
+[Ông] [lại] [không] [phải] [là] [một] [kỹ sư] [hay] [một] [thợ máy] . 
+
+[Nhiều] [vấn đề] [khác] [như] [kim loại] [và] [nhiên liệu] [sử dụng] [đều] [là] [những] [kỹ thuật] [mới mẻ] . 
+
+<per> [Oberth </per>] [phải] [thuê] [hai] [người] [phụ giúp] [nhưng] [họ] [chỉ] [có] [chút ít] [kinh nghiệm] [mà] [thôi] . 
+
+[Trong] [một] [cuộc] [thí nghiệm] [về] [nhiên liệu] [lỏng] , <per> [Oberth] </per> [đã] [gặp] [một] [tai nạn] , [một] [bình] [chứa] [đã] [phát nổ] [trước] [kỳ hạn] [khiến] [cho] [ông] [bị] [hỏng] [một] [con mắt] . 
+
+[Vào] [ngày] [khai trương] [cuốn] [phim] " [Người] [Đàn bà] [trên] [Mặt trăng] " , [cuộc] [phóng] [hỏa tiễn] [gặp] [thất bại] [hoàn toàn] . 
+
+[Vì] [chán nản] , <per> [Oberth] </per> [trở về] <loc> [miền] [Transylvania] </loc> [dạy học] , [sau] [nhiều] [năm] [giữ] [chức] [hội trưởng] [của] <org> [Hội] [Du lịch] [Không gian] </org> . 
+
+[Dù sao] , [ông] [cũng] [đã] [góp] [công] [rất] [nhiều] [vào] [kỹ thuật] [hỏa tiễn] [do] [các] [khảo cứu] [về] [nhiên liệu] [lỏng] . 
+
+[Năm] [1929] , <per> [Hermann Oberth] </per> [được] <org> [Hội] [Thiên văn] [Pháp quốc] </org> [trao tặng] [giải thưởng] [quốc tế] [Robert Esnault] - [Pelteri-André] [Hirsch] [trị giá] [10,000] [quan] , [do] [cuốn sách] " [Các] [Con đường] [lên] [Không gian] " ( [Ways] [to] [Spaceflight] . 
+
+[Cuốn sách] [này] [đã] [đi] [trước] [thời đại] [hỏa tiễn] [30] [năm] . 
+
+[Vào] [năm] [1931] , <per> [Oberth] </per> [cũng] [nhận] [được] [một] [bằng sáng chế] [về] [hỏa tiễn] [dùng] [nhiên liệu] [lỏng] [của] <per> [văn phòng] [Bằng] [Phát minh] </per> [của] <loc> [nước] [Romania] </loc> , [và] [vào] [tháng] [7] / [1931] , [hỏa tiễn] [đầu tiên] [được] [phóng] [đi] [trong] [khu vực] [ngoại ô] [của] <loc> [thành phố] [Berlin] </loc> . 
+
+[Qua] [năm] [1938] , <org> [Không quân] [Đức] </org> [mời] <per> [Oberth] </per> [tham gia] [vào] [ban] [giảng] [huấn] [của] <org> [trường] [đại học] [kỹ thuật] [Vienna] </org> . 
+
+[Vào] [thời gian] [này] , <loc> [nước] [Đức] </loc> [liên kết] [với] <loc> [nước] [Áo] </loc> [và] <org> [đảng] [Quốc Xã] </org> [tìm] [cách] [đưa] [các] [chuyên viên] [hỏa tiễn] [về] [lãnh thổ] <loc> [Đức] </loc> , [vì] [họ] [e sợ] [rằng] [các] [quốc gia] [thù nghịch] [sẽ] [sử dụng] [những] [người] [tài giỏi] [này] . 
+
+<per> [Oberth] </per> [được] [chuyển] [về] [Dresde] [rồi] [được] [mời] [phục vụ] <org> [quân đội] [Đức] </org> . 
+
+[Ông] [được] [chọn lựa] [giữa] [quốc tịch] <loc> [Đức] </loc> [và] [trại tập trung] . 
+
+<per> [Oberth] </per> [đành] [phải] [phục tùng] [kẻ] [cầm quyền] [mạnh] [thế] [và] [ông] [trở nên] [một] [công dân] <loc> [Đức] </loc> [vào] [năm] [1940] [rồi] [bị] [chuyển] [tới] <loc> [Peenemunde] </loc> [để] [làm việc] [với] <per> [Von Braun] </per> [trong] [chương trình] [chế tạo] [bom bay] [V] - [2] . 
+
+[Vào] [năm] [1943] , <per> [Oberth] </per> [bị] [phái] [đi] [một] [địa điểm] [khác] , [lo] [việc] [sản xuất] [hỏa tiễn] [chống] [máy bay] . 
+
+[Sau] [Thế chiến] [Thứ hai] , <per> [Oberth] </per> [tiếp tục] [dạy học] [và] [âm thầm] [nghiên cứu] . 
+
+[Ông] [di chuyển] [qua] <loc> [nước] [Ý] </loc> [để] [làm việc] [cho] <org> [Hải quân] [Ý] </org> [trong] [chương trình] [chế tạo] [hỏa tiễn] [dùng] [nguyên liệu] [đặc] . 
+
+[Vào] [thời gian] [này] , [cuốn sách] " [Người] [trong] [Không gian] " ( [Men] [in] [Space] ) [của] [ông] [xuất bản] [năm] [1945] [đã] [khiến] [cho] [nhà bác học] <per> [Von Braun] </per> [tại] <loc> [Huntsville] , [tiểu bang] [Alabama] [Hoa Kỳ] </loc> , [nhớ] [lại] [các] [kỷ niệm] [xưa] . 
+
+<per> [Von Braun] </per> [khi đó] [đang] [điều khiển] <org> [cơ xưởng] [Redstone] </org> [chuyên] [chế tạo] [phi đạn] [cho] <org> [Lục quân] [Hoa Kỳ] </org> . 
+
+<per> [Von Braun] </per> [đã] [mời] <per> [Oberth] </per> [tới] <loc> [Huntsville] </loc> [để] [giám sát] [các] [chương trình] [nghiên cứu] [của] [Lục quân] [từ] [năm] [1955] . 
+
+[Năm] [1958] , <per> [Oberth] </per> [hồi hưu] , [ông] [trở lại] [sống] [tại] <loc> [nước] [Đức] </loc> , [cư ngụ] [tại] <loc> [tỉnh] [Feucht] , [gần] [thành phố] [Nurnbert] </loc> . 
+
+<per> [Hermann J. Oberth] </per> [đã] [sống] [một] [cuộc đời] [bình yên] [trong] [nghề] [dạy học] [và] [các] [công trình] [nghiên cứu] [của] [ông] [về] [hỏa tiễn] [đã] [khiến] [cho] [các] [bí ẩn] [của] [vũ trụ] [được] [khám phá] [và] [ngày nay] , [giới] [khoa học] [vẫn] [coi] [ông] [là] [một] [trong] [bốn] [cột trụ] [của] [ngành] [học] [Không gian] .

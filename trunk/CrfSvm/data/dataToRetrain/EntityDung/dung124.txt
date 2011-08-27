@@ -1,0 +1,27 @@
+<per> [Park Chi Song] </per> [sinh] <date> [ngày] [25] [tháng] [1] [năm] [1981] </date> [tại] <loc> [Suwon] , [Gyeonggi-do] </loc> [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Hàn Quốc] </loc> [hiện] [đang] [chơi] [cho] <org> [Manchester United] </org> . 
+
+[Trong] [khi] [những] [cầu thủ] <loc> [châu] [Á] </loc> [thường] [không] [có] [vị trí] [tốt] [tại] [câu lạc bộ] [lớn] [tại] <loc> [châu] [Âu] </loc> [nhưng] [với] <per> [Pak] </per> [thì] [ngược lại] , [anh] [rất] [nhiều] [lần] [được] <per> [Alex Ferguson] </per> [trọng dụng] [trong] [những] [trận] [cầu] [lớn] [của] <org> [Manchester United] </org> [vì thế] [nhiều] [người] [coi] [anh] [là] [cầu thủ] [xuất sắc] [nhất] [của] [bóng đá] <loc> [Châu] [Á] </loc> [hiện] [chơi] [tại] <loc> [Châu Âu] </loc> , <per> [Pak] </per> [được] [biết] [đến] [với] [những] [bước] [chạy] [mạnh mẽ] [và] [thể lực] [dồi dào] [và] [đã] [được] [chứng minh] [là] [một] <job> [cầu thủ] </job> [tấn công] [rất] [hiệu quả] . 
+
+<per> [Park] </per> [rất] [nổi tiếng] [ở] <loc> [Hàn Quốc] </loc> [cũng như] [với] [các] [cổ động viên] [của] <org> [PSV] [Eindhoven] </org> [vì] [là] [trụ cột] [trong] [việc] [đưa] <org> [Hàn Quốc] </org> [tới] [bán kết] [World Cup] <date> [2002] </date> [và] [giúp] <org> [PSV] </org> [vào] [bán kết] [UEFA] [Champions League] , [cũng như] [là] <job> [cầu thủ] </job> <loc> [Hàn Quốc] </loc> [đầu tiên] [chơi] [bóng] [ở] [Premier League] . 
+
+[Một] <job> [cầu thủ] </job> [nổi tiếng] [với] [những] [bước] [chạy] [và] [thể lực] , [những] [đồng đội] [cũ] [của] [anh] [ở] <org> [PSV] </org> [từng] [đùa] [rằng] <per> [Pak] </per> [đeo] [bình] [oxy] [sau] [lưng] [khi] [chơi] [bóng] . 
+
+[Cũng] [với] [lý do] [tương tự] , [các] [cổ động viên] <org> [United] </org> [đã] [gọi] [anh] [là] "  <per>  [Three-Lung]  [Park] </per> " [có] [nghĩa là] [Pak] [ba] [phổi] . 
+
+[Tên] [gọi] [này] [đã] [thể hiện] [tốc độ] [và] [sức mạnh] [của] [anh] , [điều] [đã] [giúp] [anh] [có] [những] [pha] [bứt phá] [tốc độ] [và] [thể lực] [dồi dào] [cho] [90] [phút] [thi đấu] . 
+
+[Với] [các] <job> [huấn luyện viên] </job> [của] [mình] , <per> [Pak] </per> [được] [biết] [đến] [với] [thái độ] [nghiêm túc] [và] [một] [tinh thần] [làm việc] [chăm chỉ] , [chuyên nghiệp] , [những] [điều] [đã] [giúp] [anh] [thành công] [ở] [cả] [hai] [CLB] [cũng như] [đội tuyển] [quốc gia] . 
+
+[Anh] [luôn] [vào] [trận] [với] [một] [quyết tâm] [rất] [lớn] [và] [chơi] [rất] [xông xáo] , [cần mẫn] . 
+
+<per> [Pak] </per> [đã] [được] [mô tả] [là] [một] " [phù thủy] " [với] [trái] [bóng] [ở] [chân] , [người] [có thể] [thiêu] [cháy] [các] [hậu vệ] [bằng] [những] [pha] [bứt phá] [tốc độ] . 
+
+<per> [Pak] </per> [có] [nhãn quan] [chiến thuật] [tốt] [và] [anh] [thường xuyên] [đóng góp] [các] [đường] [chuyền] [chính xác] [cho] [các] [đồng đội] [của] [mình] . 
+
+[Anh] [chơi] [bóng] [rất] [đồng đội] , [luôn] [đặt] [đội] [bóng] [lên] [trước] [bản thân] [mình] . 
+
+<per> [Park] </per> [đã] [chơi] [trong] [ba] [liên tiếp] [giành] [Premier League Manchester United] , [đội] [bóng] [và] [cũng] [đã] [giành] [UEFA] [Champions League] [và] [FIFA] [Club World Cup] . 
+
+<per> [Park] </per> [có thể] [chơi] [ở] [bất cứ] [đâu] [trên] [vị trí] [tiền vệ] [và] [được] [ghi nhận] [là] [mức độ] [về] [lối] [chơi] [cống hiến] [hết mình] [đặc biệt] [của] [mình] . 
+
+[Là] [một] [thành viên] [của] <org> [đội tuyển] [quốc gia] [Hàn Quốc] </org> , <per> [Park] </per> [đã] [giành] [chiến thắng] [85] [trận] [và] [ghi] [được] [11] [bàn] [thắng] , [và] [góp phần] [giúp] <org> [đội tuyển] [Hàn Quốc] </org> [kết thúc] [vị trí] [thứ tư] [tại] [World Cup] <date> [2002] </date> .

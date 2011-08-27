@@ -1,0 +1,25 @@
+<per> [Jérôme Agyenim Boateng] </per> ( [sinh] <date> [ngày] [3] [tháng] [9] [năm] [1988] </date> [ở] <loc> [Berlin] </loc> ) [là] [một] [cầu thủ] [bóng đá] [ngưòi] <loc> [Đức] </loc> [gốc] <loc> [Ghana] </loc> [hiện] [chơi] [cho] <org> [Manchester City] </org> [ở] <loc> [Premier League] </loc> [và] <org> [Đội tuyển] [bóng đá] [quốc gia] [Đức] </org> . 
+
+[Là] [một] [cầu thủ] [đa năng] , <per> [Boateng] </per> [thường] [chơi] [ở] [vị trí] [hậu vệ] [cánh] [nhưng] [vẫn] [có] [khả năng] [chơi] [ở] [vị trí] [trung vệ] . 
+
+<per> [Boateng] </per> [là] [một] [trung vệ] [người] <loc> [Đức] </loc> [gốc] <loc> [Ghana] </loc> . 
+
+[Anh] [là] [một] [cầu thủ] [có] [sức khoẻ] [và] [đa năng] [để] [chơi] [ở] [mọi] [vị trí] [ở] [hàng] [hậu vệ] . 
+
+[Anh] [bắt đầu] [sự nghiệp] [với] [đội] [trẻ] [của] <org> [Tennis Borussia Berlin] </org> [và] [hiện] [chơi] [cho] <org> [Manchester City] </org> [tại] <loc> [Premier League] </loc> . 
+
+<per> [Boateng] </per> [chơi] [cho] <org> [Hertha] [BSC] [Berlin] </org> [từ] <date> [ngày] [1] [tháng] [7] [năm] [2002] </date> [khi] [anh] [mới] [13] [tuổi] , [cho] [tới] <date> [ngày] [22] [tháng] [8] [năm] [2007] </date> . 
+
+[Sau] [khi] [tách] [ra] [khỏi] [đội] [trẻ] , [anh] [chơi] [cho] [đội] [dự bị] [trong] [một] [mùa] [giải] , [trước] [khi] [có] [lần] [đầu tiên] [được] [gọi] [lên] [đội] [1] [vào] <date> [ngày] [13] [tháng] [1] [năm] [2007] </date> . 
+
+[Anh] [có] [trận] [ra mắt] [gặp] <org> [Hannover] </org> [96] [ở] [sân] [AWD-Arena] [ở] [vòng] [đấu] [thứ] [19] [của] [mùa] [giải] [2006-07] . [ [2] ] [Anh] [trở thành] [cầu thủ] [quen thuộc] [trong] [đội hình] [1] [khi] [mới] [18] [tuổi] . 
+
+<per> [Boateng] </per> [được] [liên hệ] [để] [chuyển] [sang] <org> [Hamburger] [SV] </org> [vào] [mùa hè] [2007] . [ [3] ] [Bởi] [điều] [này] , [theo] [như] [giới] [truyền thông] <loc> [Đức] </loc> , <per> [Boateng] </per> [không] [muốn] [kí] [bản] [hợp đồng] [chuyên nghiệp] [5] [năm] [cùng] <org> [Hertha] </org> . 
+
+[Anh] [chuyển] [tới] <org> [Hamburger] [SV] </org> [vào] <date> [ngày] [22] [tháng] [8] [năm] [2007] </date> [với] [mức] [giá] [vào khoảng] [1,1] [triệu] [euro] . [ [4] ] <per> [Boateng] </per> [có] [2] [mùa] [giải] [thành công] [cùng] <org> [Hamburg] </org> , [nơi] [anh] [đã] [trở thành] [một] [vị trí] [quan trọng] [trong] [hàng] [phòng thủ] [ở] [mùa] [giải] [2008/09] , [mùa] [giải] [mà] <org> [Hamburg] </org> [đã] [nằm] [trong] [cuộc] [chạy đua] [tới] [ngôi] [vô địch] [và] [vào] [tới] [bán kết] [cúp] [UEFA] [trong] [cả] [2] [mùa] [giải] [anh] [ở] [đội] [bóng] . 
+
+[Ở] [mùa] [giải] [2009-10] , [anh] [được] [triệu tập] [vào] [đội tuyển] <loc> [Đức] </loc> [sau] [khi] [gây] [ấn tượng] [ở] <org> [Hamburg] </org> . 
+
+[Vào] <date> [ngày] [5] [tháng] [6] [năm] [2010] </date> , <org> [Manchester City] </org> [xác nhận] [họ] [đã] [có] [được] <per> [Boateng] </per> [với] [mức] [phí] [10,4] [triệu] [euro] [theo] [hợp đồng] [5] [năm] . 
+
+[Tại]<org> [Man City] </org> , <per> [Boateng] </per> [sẽ] [được] [khoác] [chiếc] [áo] [số] [17] [mà] [anh] [ưa thích] . [ [5] ] [Anh] [có] [trận] [đấu] [đầu tiên] [cho] [câu lạc bộ] [mới] [trong] [trận] [giao hữu] [trước] [mùa] [giải] [với] <org> [Valencia] </org> .

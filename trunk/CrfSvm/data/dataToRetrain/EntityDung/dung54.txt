@@ -1,0 +1,73 @@
+<org> [Manchester United Football Club] </org> [là] [một] [câu lạc bộ] [bóng đá] <loc> [Anh] </loc> , [trụ sở] [tại] [sân vận động] <loc> [Old Trafford] </loc> [tại] <loc> [Trafford] , [Greater Manchester] </loc> . 
+
+[Đây] [là] [một] [trong] [những] [câu lạc bộ] [thành công] [nhất] [tại] [nước] <loc> [Anh] </loc> , [đã] [từng] [vô địch] [bóng đá] [Anh] [18] [lần] , [đoạt] [Cúp] [FA] [11] [lần] [và] [UEFA] [Champions League] [3] [lần] [nên] [được] [biết] [đến] [như là] [một] [trong] [những] [tên tuổi] [lớn] [nhất] [trong] [thể thao] . 
+
+<org> [Manchester United] </org> [có] [lượng] [khán giả] [đến] [sân] [trung bình] [cao] [nhất] [nước] <loc> [Anh] </loc> [trong] [50] [năm] [qua] , [và] [theo] [đó] [được] [xem] [là] [câu lạc bộ] [lớn] [nhất] [nước] <loc> [Anh] </loc> . 
+
+[Câu lạc bộ] [được] [hình thành] [với] [cái] [tên] <org> [Newton Heath] </org> ( [L] [&] [Y] [RFC] ) [vào] <date> [năm 1878] </date> [và] [là] [một] [đội] [làm việc] [thuộc] [ga] [xe lửa] <loc> [Lancashire] </loc> [and] <loc> [Yorkshire Railway] </loc> [tại] <org> [Newton Heath] </org> . 
+
+[Sau] [khi] [suýt] [phá sản] [vào] <date> [năm] [1902] </date> , [câu lạc bộ] [được] [tiếp quản] [bởi] <per> [JH][Davies] </per> - [người] [đã] [đổi] [tên] [nó] [thành] <org> [Manchester United] </org> [như] [ngày nay] . 
+
+<org> [Manchester United] </org> [chọn] <per> [Sir Matt Busby] </per> [làm] <job> [huấn luyện viên] </job> [sau] [Thế chiến] [thứ hai] , [và] [chính sách] [chưa] [bao giờ] [được] [nghe] [đến] [lúc] [bấy giờ] [của] [ông] [trong] [việc] [lấy] [phần lớn] <job> [cầu thủ] </job> [từ] [đội] [trẻ] [đã] [mang] [lại] [thành công] , [với] [việc] [đội] [bóng] [đoạt] [giải] [vô địch] [quốc gia] [vào] <date> [năm] [1956] </date> [và] <date> [1957] </date> . 
+
+[Thành công] [ấy] [bị] [tạm] [dừng] [bởi] [thảm họa] [máy bay] [tại] [Mü] [nchen] [vào] <date> [năm] [1958] </date> , [trong] [đó] [tám] <job> [cầu thủ] </job> [của] [đội] [đã] [thiệt mạng] . 
+
+[Nhiều] [người] [đã] [nghĩ] [đội] [bóng] [có lẽ] [đã] [gục] [ngã] , [nhưng] [một] [lần] [nữa] <per> [Busby] </per> [sau] [khi] [bình phục] [đã] [xây dựng] [một] [đội hình] [mạnh] [khác] [mà] [sau] [đó] [đã] [đoạt] [giải] [vô địch] [quốc gia] [các] <date> [năm] [1965] </date> [và] <date> [1967] </date> , [và] [trở thành] [đội] [bóng] <loc> [Anh] </loc> [đầu tiên] [vô địch] [Cúp] [C1] [châu] [Âu] <date> [năm] [1968] </date> . 
+
+<org> [Manchester United] </org> [không] [có] [được] [những] [thành công] [lớn] [như vậy] [cho đến] <date> [thập niên] [1990] </date> [và] [những] [năm] [đầu] <date> [2000] </date> , [khi] <per> [Sir Alex Ferguson] </per> [dẫn dắt] [đội] [đoạt] [8] [chức] [vô địch] [giải] [ngoại hạng] [trong] [11] [mùa] [giải] . 
+
+[Vào] <date> [năm] [1999] </date> , <org> [Manchester United] </org> [trở thành] [đội] [bóng] [đầu tiên] [đoạt] [ba] [chức] [vô địch] [trong] [một] [mùa] [giải] - [ngoại hạng] <loc> [Anh] </loc> , [cúp] [FA] [và] [UEFA] [Champions League] - [một] [kỉ lục] [đến] [giờ] [vẫn] [chưa] [bị] [phá] [vỡ] . 
+
+[Câu lạc bộ] [được] [vận hành] [dưới] [dạng] [công ty] [hữu hạn] [cổ phần] [từ] <date> [1991] </date> , [và] [khả năng] [bị] [giành] [quyền] [kiểm soát] [là] [rất] [cao] . 
+
+[Sự] [cố gắng] [tiếp quản] [câu lạc bộ] [của] <per> [Rupert Murdoch] </per> [đã] [bị] [ngăn chặn] [bởi] [chính phủ] <loc> [Anh] </loc> [vào] <date> [năm] [1999] </date> , [nhưng] [vào] <date> [năm] [2005] </date> <per> [Malcolm Glazer] </per> [hoàn thành] [một] [cuộc] [tiếp quản] [không] [thân thiện] , [bất chấp] [sự] [ngăn cản] [đáng kể] [từ] [nhiều] [cổ động viên] [của] <org> [United] </org> . 
+
+<org> [Manchester United] </org> [được] [thành lập] <date> [năm ][1878] </date> , [mặc dù] [dưới] [một] [cái] [tên] [hoàn toàn] [khác] - <org> [Newton Heath] </org> [LYR] ( [Công ty] [Đường sắt] [Lancashire] [và] [Yorkshire] ) . 
+
+[Một chút] [hoài nghi] [về] [ảnh hưởng] [của] [mình] [đối với] [cuộc chơi] [trong] [nước] , [thậm chí] [trên] [thế giới] , [những] [người] [công nhân] [trong] [khu] [đường sắt] [tại] <loc> [Newton Heath] </loc> [chỉ] [muốn] [hưởng thụ] [niềm] [đam mê] [của] [mình] [qua] [những] [trận] [đấu] [với] [đội] [bóng] [của] [những] [bộ phận] [khác] [của] [công ty] [đường sắt]  <org> [Lancashire] </org>  [và] <org> [Yorkshire] </org> [hay] [những] [công ty] [đường sắt] [khác] . 
+
+[Thật ra] , [khi] <org> [Liên đoàn] </org> [bóng đá] <loc> [Anh] </loc> [được] [thành lập] <date> [năm] [1888] </date> , <per> [Newton Heath] </per> [không] [nghĩ] [rằng] [họ] [đủ] [khả năng] [để] [trở thành] [những] [thành viên] [sáng lập] [như] [những] [câu lạc bộ] [khác] [trong] [đó] [có] <org> [Blackburn Rovers] </org> [và] <org> [Preston North End] </org> . 
+
+[Thay] [vào] [đó] [họ] [đã] [chờ] [đến] <date> [năm] [1892] </date> [mới] [bắt đầu] [bước] [vào] [cuộc chơi] . 
+
+[Tuy nhiên] , [họ] [bắt đầu] [mùa] [bóng] [đầu tiên] [thật] [tệ hại] , [đứng] [cuối] [bảng] [và] [phải] [đá] [trận] [play] - [off] [với] [Small Heath] ( [nay] [là] <org> [Birmingham City] </org> ) [để] [trụ] [lại] . 
+
+[Đoạn] [phim] [được] [biết] [đến] [sớm] [nhất] [của] <org> [Manchester United] </org> [là] [trận] [thắng] [2] [–] [0] [tại] <loc> [Burnley] </loc> [vào] <date> [ngày] [6] [tháng] [12] [năm] [1902] </date> , [quay] [bởi] <per> [Mitchell] </per> [and] <per> [Kenyon] </per> . 
+
+[Đội] <org> [Manchester United] </org> [team] [vào] [mùa] [giải] [1905/6] . 
+
+[Họ] [đã] [giành] [ngôi] [á quân] [giải] [hạng] [nhì] [và] [được] [lên] [hạng] [Những] [năm] [sau] [đó] , <per> [Newton Heath] </per> [gặp] [rất] [nhiều] [khó khăn] [về] [tài chính] , [thậm chí] [khi] [bắt đầu] [bước] [vào] [thế kỷ] [20] , [họ] [đã] [dự định] [giải thể] [đội] [bóng] . 
+
+[Tuy nhiên] , [một] [ông] [chủ] [nhà máy] [bia] [ở] [địa phương] , <per> [John Henry Davies] </per> , [đã] [đứng] [ra] [cứu] [câu lạc bộ] . 
+
+[Chuyện] [kể] [rằng] <per> [John Henry Davies] </per> [chỉ] [biết] [về] [tình hình] [khó khăn] [của] [đội] [bóng] [khi] [ông] [bắt gặp] [một] [con] [chó] [của] <pos> [đội trưởng] </pos> <per> [Newton Heath] </per> , <per> [Harry Stafford] </per> . 
+
+<per> [Davies] </per> [quyết định] [đầu tư] [vào] [đội] [bóng] [chỉ] [với] [mong muốn] [được] [điều hành] [nó] . 
+
+[Điều] [này] [đã] [dẫn] [đến] [việc] [thay đổi] [tên] [của] [đội] [bóng] , [sau] [một vài] [lựa chọn] [như] <org> [Manchester Central] </org> [và] <org> [Manchester Celtic] </org> [bị] [từ chối] , [cái] [tên] <org> [Manchester United] </org> [đã] [ra đời] [vào] [cuối] <date> [tháng] [4] [đầu] [tháng] [5] [năm] [1902] </date> . 
+
+[Nhân vật] [có] [ảnh hưởng] [tiếp theo] [đến] [với] <org> [Manchester United] </org> [là] <per> [Ernest Mangnall] </per> , [người] [được] [bổ nhiệm] [làm] [thư ký] [cho] [đội] [bóng] [vào] <date> [tháng] [9] [năm] [1903] </date> [nhưng] [được] [biết] [đến] [nhiều] [hơn] [như là] <job> [huấn luyện viên] </job> [đầu tiên] [của] [câu lạc bộ] . 
+
+[Câu lạc bộ] [của] <org> [Ernest Mangnall] </org> , [cùng với] [những] <job> [cầu thủ] </job> [mới] [ký] [được] [như] [thủ môn] <per> [Harry Moger] </per> [và] <pos> [tiền đạo] </pos> <per> [Charlie Sagar] </per> , [đã] [kết thúc] [ở] [vị trí] [thứ ba] [giải] [hạng] [hai] [mùa] [giải] <date> [1903/04] </date> [và] <date> [1904/05] </date> . 
+
+[Mùa] [giải] [tiếp theo] , <date> [1905/06] </date> , [đã] [chứng tỏ] [là] [một] [trong] [những] [mùa] [giải] [vĩ đại] [nhất] [trong] [giai đoạn] [đầu] [của] [Manchester United] . 
+
+[Hàng] <pos> [trung vệ] </pos> [với] <per> [Dick Duckworth] </per> , <per> [Alex Bell] </per> [và] <pos> [đội trưởng] </pos> <per> [Charlie Roberts] </per> [có] [công] [rất] [lớn] [khi] [đưa] [đội] [vào] [tới] [vòng] [tứ kết] [cúp] [FA] , [nhưng] [quan trọng] [hơn] [là] [đội] [bóng] [đã] [kết thúc] [mùa] [giải] [với] [vị trí] [thứ hai] [giải] [hạng] [hai] . 
+
+[12] [năm] [sau] [khi] [bị] [xuống] [hạng] , <org> [Manchester United] </org> [đã] [giành] [lại] [được] [vị trí] [của] [mình] [trong] [nhóm] [đầu] . 
+
+[Để] [chào mừng] [chiến thắng] [trở lại] [giải] [hạng] [nhất] , <per> [Mangnall] </per> [đã] [ký] [hợp đồng] [với] <org> [Billy Meredith] </org> [từ] [đối thủ] [kình] [định] [cùng] [thành phố] <org> [Manchester City] </org> . 
+
+[Còn] [được] [đặt] [biệt danh] [là] [Phù thuỷ] [Xứ Uên] , <per> [Meredith] </per> [đã] [từng] [dính] [vào] [một] [vụ] [sì] - [căng-đan] [bán độ] [tại] [Manchester City] [và] [bị] [đưa] [ra] [bán đấu giá] [cùng với] [17] <job> [cầu thủ] </job> [khác] . 
+
+<per> [Mangnall] </per> [nhanh chóng] [quyết định] [và] [đã] [có] [được] [chữ ký] [của] <per> [Meredith] </per> [trước] [khi] [cuộc] [đấu giá] [bắt đầu] [Sự] [gia nhập] [của] <job> [cầu thủ] </job> [chạy] [cánh] [này] [đã] [mang] [lại] [cảm hứng] [cho] [toàn] [đội] - <per> [Meredith] </per> [đã] [kiến thiết] [vô số] [bàn] [thắng] [cho] [Sandy Turnbull] [trong] [mùa] [giải] [1907/08] [khi] <org> [Manchester United] </org> [đoạt] [chức] [Vô địch] [Giải] [bóng đá] <loc> [Anh] </loc> ( [Football League Championship] ) [lần] [đầu tiên] . 
+
+[Danh hiệu] [thứ ba] [được] [bổ sung] [vào] [bảng] [danh dự] [của] [câu lạc bộ] [là] [cúp] [FA] , [tại] [cuối] [mùa] [giải] [khốc liệt] <date> [năm] [1909] </date> . 
+
+<org> [Manchester United] </org> [đánh bại] <org> [Bristol City] </org> [1] - [0] [trong] [trận] [chung kết] [với] [bàn] [thắng] [của] [Sandy Turnbull] . 
+
+[Là] [nhà vô địch] , [năm] <date> [1908] </date> <org> [Manchester United] </org> [đã] [chơi] [trận] [đấu tranh] [cúp] [Charity Shield] [lần] [đầu tiên] [trong] [lịch sử] [của] [mình] . 
+
+[Họ] [đã] [đánh bại] [đội] [đoạt] [cúp] [FA] , <org> [Queen Park Rangers] </org> [với] [tỷ số] [4] - [0] [nhờ] [vào] [một] [cú] [hat] - [trick] [của] <job> [cầu thủ] </job> [cùng] [họ] [với] [Sandy] , <per> [Jimmy Turnbull] </per> . 
+
+[Và] [như vậy] [chương] [đầu tiên] [trong] [lịch sử] [câu lạc bộ] [đã] [kết thúc] [trong] [tiếng tăm] [lừng lẫy] , [hứa hẹn] [nhiều] [thành tích] [hơn nữa] [trong] [giai đoạn] [tiếp theo] , [trong] [đó] [có] [việc] [chuyển] [sang] [một] [sân vận động] [mới] , [một] [thánh địa] [bất diệt] [đã] [ra đời] [–] [Old Trafford] .

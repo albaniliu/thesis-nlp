@@ -1,0 +1,35 @@
+<org> [Juventus Football Club] </org> , [thường] [gọi] [ngắn gọn] [là] <org> [Juventus] </org> ( [tiếng] <loc> [Latinh] </loc> : " [Tuổi trẻ] " ) [hay] <org> [Juve] </org> [là] [một] [trong] [những] [câu lạc bộ] [bóng đá] [lâu đời] [nhất] [và] [là] [câu lạc bộ] [thành công] [nhất] [nước] <loc> [Ý[] </loc> [cần] [dẫn] [nguồn] ] . 
+
+<org> [Juventus] </org> [là] [câu lạc bộ] [đầu tiên] [giành] [đủ] [3] [cúp] [bóng đá] <loc> [châu] [Âu] </loc> ( [sau] [có] [thêm] <org> [Ajax Amsterdam] </org> , <org> [FC] [Barcelona] </org> [và]  <org> [FC] [Bayern]  [Mü] [nchen] </org> [đạt] [được] [thành tích] [đó] ) . 
+
+<org> [Juventus] [FC] </org> [ra đời] [vào] <date> [ngày] [1] [tháng] [11] [năm 1897] </date> . 
+
+<org> [Juventus] [FC] </org> [có] [các] [biệt danh] [như] " [Bà] [đầm già] " ( [La Vecchia Signora] ) , " [Trắng] - [Đen] " ( [Bianconeri] ) , " [Ngựa vằn] " ( [Zebre] ) [và] " [Gobbi] " . 
+
+[Trụ sở] [chính] [của] <org> [Juventus] </org> [đặt] [tại] [thành phố] <loc> [Torino] </loc> . 
+
+[Sân nhà] [của] <org> [Juventus] [FC] </org> [là] [sân] <loc> [Delle Alpi] </loc> [có] [sức] [chứa] [69.041] [người] . 
+
+[Sau] [khi] [kết thúc] [mùa] [giải] [2005/06] [với] [chức] [vô địch] [Serie] [A] , <org> [Juventus] </org> ( [cùng] [ba] [câu lạc bộ] [khác] [là] <org> [AC] [Milan] </org> , <org> [SS] [Lazio] </org> [và] <org> [FC] [Fiorentina] </org> ) [chính thức] [bị] <org> [Liên đoàn] </org> [bóng đá] <loc> [Ý] </loc> ( [FIGC] ) [và] [các] [viện] [công tố] [các] [thành phố] <loc> [Torino] </loc> [và] <loc> [Napoli] </loc> [điều tra] [về] [tội] [gian lận] [trong] [thể thao] ( [móc ngoặc] ) [và] [mua chuộc] [trọng tài] [để] [dàn xếp] [tỷ số] . 
+
+<date> [Ngày] [4] [tháng] </date> [7] , <org> [Tòa án] </org> [thể thao] <loc> [Ý] </loc> [ra] [bản án] [sơ thẩm] [đề nghị] [giáng] <org> [Juventus] </org> [xuống] [hạng] [Serie] [C1] ( [tương đương] [hạng] [3] ) . 
+
+[Chính] [vì] [bê bối] [này] [mà] [toàn bộ] [ban] [lãnh đạo] [câu lạc bộ] [đã] [từ chức] . 
+
+[Tân] [giám] [đội] ( [Team Manager] ) <per> [Gianluca Pessotto] </per> [cũng] [đã] [ngã] [từ] [lầu] [ba] [của] [trụ sở] [câu lạc bộ] [xuống] [đất] [vào] <date> [ngày] [27] [tháng] [6] </date> [nhưng] [không] [chết] . 
+
+[Nhiều] [nguồn] [tin] [cho] [rằng] <per> [Gianluca Pesstto] </per> [vì] [vụ] " [xì-căng-đan] " [này] [mà] [tự tử] , [nhiều] [nguồn] [tin] [khác] [cho] [rằng] [ông] [tự tử] [vì] [quan hệ] [gia đình] [vì] [khi] [ngã] [xuống] [đất] , [trên] [tay] <per> [Gianluca Pessotto] </per> [cầm] [một] [bông] [hồng] . 
+
+[Ngoài ra] , <job> [huấn luyện viên] </job> [trưởng] <per> [Fabio Capello] </per> [cũng] [cắt] [đứt] [hợp đồng] [để] [sang] <org> [Real Madrid] </org> . 
+
+<date> [Ngày] [17] [tháng] [7] [năm] [2006] </date> , <org> [toà án] </org> [của] <org> [Liên đoàn] </org> [bóng đá] <loc> [Ý] </loc> [đã] [có] [phán quyết] [về] [bản án] [sơ thẩm] [dành] [cho] [4] [đội] [bóng] [liên quan] . 
+
+[Trong] [đó] , <org> [Juventus] </org> [bị] [xử] [tuột] [hạng] [xuống] [Serie] [B] , [bị] [tước] [chức] [vô địch] [2] [mùa] [bóng] [2004/05] [và] [2005/06] , [đồng thời] <org> [Juventus] </org> [cũng] [sẽ] [bắt đầu] [mùa] [bóng] [mới] [với] [số] [điểm] [trừ] - [30] . 
+
+[Tòa] [phúc thẩm] , <date> [ngày] [25] [tháng] [7] </date> , [vẫn] [giữ] [nguyên bản] [án] [sơ thẩm] , [ngoài] [việc] [giảm] [số] [điểm] [bị] [trừ] [của] [mùa] [bóng] [mới] [chỉ] [còn] - [17] [điểm] . 
+
+[Ngoài ra] , <org> [Juventus] </org> [còn] [bị] [cấm] [thi đấu] [trên] [sân nhà] [3] [trận] . 
+
+[Hai] [quan chức] [câu lạc bộ] [là] <per> [Luciano Moggi] </per> [và] <per> [Antonio Giraudo] </per> [bị] [phạt] [tiền] [và] [cấm] [hoạt động] [trong] [phạm vi] [bóng đá] [trong] [5] [năm] . 
+
+[Một số] <job> [cầu thủ] </job> [cũng] [đã] [chuyển] [sang] [các] [câu lạc bộ] [khác] [vì] [ảnh hưởng] [của] [vụ án] [này] : <per> [Zlatan Ibrahimovic] </per> [và] <per> [Patrick Vieira] </per> [đến] [với] <org> [Inter Milan] </org> ; <per> [Emerson] </per> [và] <per> [Fabio Cannavaro] </per> [đến] [với] <org> [Real Madrid] </org> ; [còn] <per> [Lilian Thuram] </per> [và] <per> [Gianluca Zambrottta] </per> [thì] [chuyển] [sang] <org> [Barcelona] </org> .

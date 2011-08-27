@@ -1,0 +1,13 @@
+[Tên] [đầy đủ] <per> [Éric] [Daniel Pierre Cantona] </per> [ [1] ][Ngày sinh] <date> [24] [tháng] [5] , [1966] </DATE> ( [44] [tuổi] )[Nơi] [sinh] <loc> [Marseille] , [Pháp] </loc>[Chiều cao] [6] [ft] [2] [in] ( [1,88] [m] )<pos> [Vị trí] [Tiền đạo] </pos> ( [đã] [giải nghệ] ) <per> [Eric Daniel Pierre Cantona] </per> [là] [một] <job> [diễn viên] </job> [và] [là] [cựu] <job> [cầu thủ] [bóng đá] </job> [người] <loc> [Pháp] </loc> . 
+
+[Ông] [kết thúc] [sự nghiệp] [bóng đá] [chuyên nghiệp] [của] [mình] [tại] [câu lạc bộ] <org> [Manchester United] </org> , [nơi] [ông] [giành] [được] [bốn] [danh hiệu] [Ngoại hạng] <loc> [Anh] </loc> [trong] [5] [năm] , [trong] [đó] [có] [hai] [Cúp Liên Đoàn] [và] [FA] [Cúp] . 
+
+<per> [Eric Cantona] </per> [được] [coi] [là] [đóng] [một] [vai trò] [rất] [lớn] [trong] [sự] [hồi sinh] [của] <org> [Manchester United] </org> [thành] [một] [thế lực] [trong] [bóng đá] . 
+
+<date> [Năm] [2001] </DATE> , [ông] [được] [bầu chọn] [là] [cầu thủ] [xuất sắc] [nhất] [thế kỷ] [của] <org> [Manchester United] </org> [và] [được] [đặt] [biệt danh] [trìu mến] " <per> [King Eric] </per> " ( [Chúa tể] <per> [Eric] </per> ) . 
+
+[Ông] [là] [người quản lý] [hiện tại] [của] [đội] [bóng đá] [bãi biển] <loc> [Pháp] </loc> . 
+
+[Sau] [khi] [giã từ] [sự nghiệp] [bóng đá] , [ông] [đã] [phát triển] [sự nghiệp] [trong] [điện ảnh] [và] [đã] [có] [một] [vai diễn] [trong] [phim] <per> [Elizabeth] </per> <date> [năm] [1998] </DATE> , [ngôi sao] <per> [Cate Blanchett] </per> , [và] [2009] [Looking] [for] [Eric] . 
+
+<date> [Năm] [2010] </DATE> , [ông] [ra mắt] [trong] [vai trò] [là] [một] [diễn viên] [sân khấu] [trong] [Face] [au] [Paradis] , [một] [vở] [kịch] <loc> [Pháp] </loc> [của] [đạo diễn] [là] [người] [vợ] [của] [ông] - <per> [Rachida Brakni] </per> .

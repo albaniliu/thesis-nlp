@@ -1,0 +1,77 @@
+[Câu lạc bộ] [bóng đá] <org> [Arsenal] </org> ( [tiếng] <loc> [Anh] </loc> : <org> [Arsenal Football Club] </org> , [còn] [được] [gọi là] <org> [The Arsenal] </org> [hay] <org> [The Gunners] </org> ) [là] [một] [trong] [những] [đội] [bóng] [thành công] [nhất] [trong] [lịch sử] [bóng đá] <loc> [Anh] </loc> [và] [có] [trụ sở] [ở] [phía] [bắc] [thủ đô] <loc> [Luân Đôn] </loc> . 
+
+[Đội] [có] [lịch sử] [từ] [lâu đời] [và] [có] [nhiều] [cổ động viên] [trên] [toàn] [thế giới] . 
+
+<org> [Arsenal] [FC] </org> [hiện] [là] [thành viên] [của] [Nhóm] [14] - [những] [câu lạc bộ] [bóng đá] [hàng đầu] <loc> [châu] [Âu] </loc> . 
+
+<org> [Arsenal] </org> [ra đời] <date> [năm 1886] </date> [tại] <loc> [Woolwich] </loc> , [đông nam] <loc> [London] </loc> [và] [là] [câu lạc bộ] [đầu tiên] [của] [vùng] [đông nam] [nước] <loc> [Anh] </loc> [tham dự] [giải] [hạng] [nhất] [vào] <date> [1893] </date>.<date> [Năm] [1913] </date> , [câu lạc bộ] [chuyển] [lên] [phía] [Bắc] , [lấy] <loc> [Highbury] </loc> [làm] [sân nhà] . 
+
+[Họ] [giành] [được] [những] [danh] [lớn] [đầu tiên] [vào] [những] <date> [năm] [1930] </date> [với] [5] [danh hiệu] [vô địch] [quốc gia] [và] [2] [cúp] [FA] . 
+
+[Sau] [một] [thời gian] [sa sút] , <org> [Arsenal] </org> [đã] [trở] [trở lại] [với] [cú] [Double] [vô địch] [Quốc gia] [và] [FA] [Cup] [vào] [mùa] [bóng] [1970-1971] [đồng thời] [là] [câu lạc bộ] [thứ hai] [trong] [lịch sử] [bóng đá] <loc> [Anh] </loc> [đạt] [được] [thành tích] [này] . 
+
+[Sau] [đó] , [phải] [đến] [thời] [của] <job> [huấn luyện viên] </job> <per> [Arsene Wenger] </per> , <org> [Arsenal] </org> [mới] [thực sự] [trở lại] [với] [vị thế] [của] [một] [đại gia] [của] [bóng đá] <loc> [Anh] </loc> [và] <loc> [Châu Âu] </loc> [với] [hai] [cú] [Double] [nữa] [vào] <date> [năm] [1998] </date> [và] <date> [2002] </date> , [thành tích] [vô địch] [giải] [bóng đá] [ngoại hạng] [Anh] [mùa] [2003-2004] [mà] [không] [thua] [một] [trận] [nào] [và] [gần] [đây] [nhất là] [việc] [trở thành] [đội] [bóng] [đầu tiên] [của] [thủ đô] <loc> [London] </loc> [lọt] [vào] [một] [trận] [chung kết] [Champions League] . 
+
+<org> [Arsenal] </org> [là] [câu lạc bộ] [có] [rất] [nhiều] [trận] [Derby] [như] [Derby] [nước] <loc> [Anh] </loc> [với] <org> [Manchester United] </org> , [các] [trận] [Derby London] [và] [đặc biệt] [là] [trận] [Derby Bắc London] [với] <org> [Tottenham Hotspur] </org> . 
+
+<date> [Năm] [2006] </date> , [câu lạc bộ] [đã] [chuyển] [đến] [ngôi] [nhà] [mới] , [sân vận động] [Emirates] [tại] <loc> [Ashburton Grove] </loc> , <loc> [Holloway] </loc> , [cách] [sân] <loc> [Highbury] </loc> [không] [xa] . 
+
+[Đội] [nữ] <org> [Arsenal] </org> [cũng] [là] [một] [đội] [bóng] [thành công] [trong] [lịch] [sủ] [bóng đá] [nữ] [nước] <loc> [Anh] </loc> . 
+
+<date> [Năm 1886] </date> , [một] [nhóm] [công nhân] [của] <per> [Royal Arsenal] </per> , [nhà máy] [sản xuất] [đạn dược] [lớn] [tại] <loc> [Woolwich] </loc> [đã] [thành lập] [ra] [một] [đội] [bóng đá] [lấy] [tên] [là] <org> [Dial Square] </org> [ [2] ] . 
+
+[Những] [sáng lập] [viên] [chính] [là] <per> [David Danskin] </per> , <per> [Jack Humble] </per> , <per> [Fred Beardsley] </per> [và] <per> [Morris Bates] </per> . 
+
+ <org> [Eastern Wanderers] </org>  [được] [chọn] [làm] [đối thủ] [thử] [sức] [đầu tiên] . 
+
+[Trận] [đấu] [diễn] [ra vào] <date> [ngày] [11] [tháng] [12] [năm 1896] </date> [tại] <loc> [Millwall] </loc> , [trên] [một] [mảnh] [đất] [nhỏ] , [kết thúc] [với] [tỉ số] [6] - [0] [đậm đà] [nghiêng] [về] <org> [Dial Square] </org> [với] <per> [Danskin] </per> [làm] [đội trưởng] . 
+
+<date> [Ngày] [24] [tháng] [12] [năm 1886] </date> , <org> [Dial Square] </org> [được] [đổi] [tên] [là] <org> [Royal Arsenal] </org> . 
+
+[Câu lạc bộ] <org> [Nottingham Forest] [FC] </org> . [tài trợ] [cho] [đội] [những] [bộ] [đồng phục] [thi đấu] [đầu tiên] , <loc> [Plumstead Common] </loc> [được] [chọn] [làm] [sân nhà] ( <date> [năm 1888] </date> [chuyển] [sang] [sân] <loc> [Manor Field] </loc> ) . 
+
+<date> [Năm 1891] </date> , <org> [Royal Arsenal] </org> [trở thành] [câu lạc bộ] [chuyên nghiệp] [và] [đổi] [tên] [thành] <org> [Woolwich Arsenal] </org> [vào] <date> [năm 1893] </date> . 
+
+[Cùng] [năm] [này] , <org> [Woolwich Arsenal] </org> [gia nhập] [giải] [chuyên nghiệp] [Football League] , [bắt đầu] [ở] [Giải] [hạng] [hai] , [thăng hạng] [nhất] [lần] [đầu] <date> [năm] [1904] </date> [dưới] [quyền] <job> [huấn luyện viên] </job> <per> [Harry Bradshaw] </per> . 
+
+<date> [Năm] [1910] </date> , [công ty] [sở hữu] [câu lạc bộ] [lâm] [vào] [khó khăn] [và] [phá sản] , [nhưng] [đó] [cũng] [là] [lúc] <per> [Henry Norris] </per> [đến] [với] [câu lạc bộ] . 
+
+[Người] [đàn ông] [nhiều] [tham vọng] [này] [đã] [đánh dấu] [những] [bước ngoặt] [lớn] [trong] [lịch sử] , [điển hình] [là] [việc] [vượt] [sông] <loc> [Thames] </loc> [lên] [phía] [Bắc] , [lấy] <loc> [Highbury] </loc> [làm] [sân nhà] [vào] <date> [năm] [1913] </date> , [chính thức] [lấy] [tên] [câu lạc bộ] [là] <org> [Arsenal] </org> . 
+
+<date> [Năm] [1919] </date> , [cũng] [nhờ] [những] [ảnh hưởng] [và] [công] [vận động] [của] [ông] , <org> [Arsenal] </org> [được] [thăng] [lên] [hạng] [nhất] [dù] [chỉ] [đứng] [thứ] [5] [tại] [Giải] [hạng] [hai] . 
+
+[Đây] [là] [sự] [khởi đầu] [cho] [mối] [mâu thuẫn] [truyền kiếp] [giữa] <org> [Arsenal] </org> [và] [người] [hàng xóm] <org> [Tottenham Hotspur] </org> . 
+
+<date> [Năm] [1925] </date> , <org> [Arsenal] </org> [bước] [vào] [một] [kỷ nguyên] [vàng son] [với] [sự] [xuất hiện] [của] <date> [huấn luyện viên] </date> [huyền thoại] <per> [Herbert Chapman] </per> . 
+
+[Tên tuổi] [ông] [lúc] [đó] [chẳng] [hề] [xa lạ] , [dưới] [sự] [dẫn dắt] [của] [ông] , [đội] [bóng] <org> [Huddersfield Town] </org> [đã] [có] [trong] [tay] [cúp] [FA] [năm] [1922] [và] [hai] [chiến thắng] [tại] [giải] [quốc gia] ( [1923-24] [và] [1924-25] ) . 
+
+[Những] [thay đổi] [mang] [tính] [cách mạng] [của] [ông] [về] [chiến thuật] , [phương pháp] [huấn luyện] [cũng như] [việc] [ký] [hợp đồng] [với] [những] [tài năng] [lớn] <per> [Cliff Bastin] </per> , <per> [Alex James] </per> ... [đã] [liên tiếp] [mang] [chiến thắng] [đến] [với] [sân] [Highbury] . 
+
+[Từ] <date> [năm] [1930] </date> [đến] <date> [năm] [1938] </date> , <org> [Arsenal] </org> [đã] [5] [lần] [vô địch] [quốc gia] [và] [đoạt] [2] [cup] [FA] . 
+
+[Tuy nhiên] <per> [Chapman] </per> [không] [được] [chứng kiến] [tất cả] [những] [thành tích] [đó] , [ông] [mất] [vì] [chứng] [viêm] [phổi] <date> [năm] [1934] </date> . 
+
+[Bóng đá] [thế giới] [mãi mãi] [ghi nhận] [ông] [như] [một] [huyền thoại] , [với] [những] [phát minh] [lịch sử] : [hệ thống] [chiến thuật] [3-3] - [4] , [số] [áo] [cầu thủ] , [ý tưởng] [về] [cup] [C1] <loc> [châu] [Âu] </loc> ... 
+
+[Cũng] [nhờ] [ông] , <date> [năm] [1932] </date> , [nhà ga] [xe điện ngầm] <loc> [Gillespie Road] </loc> [được] [đổi] [tên] [thành] <org> [Arsenal] </org> , [đó] [là] [trường hợp] [duy nhất] [một] [câu lạc bộ] [có] [nhà ga] [mang] [tên] [mình] ! 
+
+<per> [Herbert Chapman] </per> [được] [bầu chọn] [là] <job> [huấn luyện viên] </job> [vĩ đại] [nhất] [trong] [lịch sử] [bóng đá] [Anh] [Quốc] . 
+
+[Thế chiến] [thứ hai] [đã] [làm] [gián đoạn] [những] [năm tháng] [quan trọng] [nhất] [trong] [sự nghiệp] <job> [cầu thủ] </job> [của] [nhiều] [tài năng] <org> [Arsenal] </org> [đang] [ở] [đỉnh cao] [phong độ] [như] <per> [Ted Drake] </per> , <per> [Cliff Bastin] </per> ... 
+
+[Sau] [chiến tranh] , <job> [huấn luyện viên] </job> <per> [Tom Whittaker] </per> [đưa] <org> [Arsenal] </org> [đoạt] [2] [chức] [vô địch] [quốc gia] [mùa] [giải] [1947] [–] [48] , [1952] [–] [53] , [và] [một] [cup] [FA] [mùa] [giải] [1949] [–] [50] , [nhưng] [sau] [đó] [câu lạc bộ] [chìm] [vào] [một] [thời gian] [dài] [suy thoái] . 
+
+[Suốt] [17] [năm] [từ] <date> [1953] </date> , [phòng] [truyền thống] [của] <org> [Arsenal] </org> [không] [được] [đón] [thêm] [một] [danh hiệu] [nào] . 
+
+[Đến] [tận] <date> [năm] [1966] </date> , [khi] <job> [huấn luyện viên] </job> <per> [Bertie Mee] </per> [được] [bổ nhiệm] , [quá trình] [hồi sinh] [mới] [bắt đầu] . 
+
+[10] [năm] [tại vị] , <job> [huấn luyện viên] </job> [xuất thân] [từ] [một] [nhà vật lý] [trị liệu] [này] [đã] [dẫn dắt] <org> [Arsenal] </org> [đến] [danh hiệu] <loc> [châu] [Âu] </loc> [đầu tiên] , [đó] [là] [Inter Cities Fairs Cup] , [tức] [cup] [UEFA] [ngày nay] [vào] <date> [năm] [1970] </date> , [tiếp] [đó] [là] [cú] [đúp] [lịch sử] : [vô địch] [quốc gia] [và] [đoạt] [cup] [FA] [trong] [mùa] [bóng] [1970-71] . 
+
+[Cú] [đúp] [này] [cũng] [đánh dấu] [sự] [trưởng thành] [của] [một] [lứa] [cầu thủ] [trẻ] [kiệt xuất] , [về] [sau] [được] [gọi là] [thế hệ] [vàng] [của] [thập niên] [1970] : <per> [Charlie George] </per> , <per> [Frank Mc] [Lintock] </per> , <per> [George Graham] </per> , <per> [Bob Wilson] </per> , <per> [George Amstrong] </per> ... 
+
+[Sau] [thành công] [đỉnh điểm] [đó] [lại] [là] [một] [giai đoạn] [nhạt nhòa] , <org> [Arsenal] </org> [bị] [thua] [trong] [nhiều] [trận] [chung kết] [và] [không] [có] [thêm] [danh hiệu] [từ] <date> [năm] [1972] </date> [đến] <date> [1978] </date> . 
+
+<per> [Bertie Mee] </per> [từ chức] <date> [năm] [1976] </date> , [lên] [thay] [ông] [là] <job> [huấn luyện viên] </job> <per> [Terry Neill] </per> . 
+
+[Ông] [cùng] <org> [Arsenal] </org> [đoạt] [được] [một] [chức] [vô địch] [FA] [sau] [trận] [chung kết] [kịch tính] [thắng] <org> [Manchester United] </org> [3-2] <date> [năm] [1979] </date> , [nhưng] [không thể] [tiếp nối] [vinh quang] [trong] [những] [năm] [đầu] <date> [thập niên] [1980] </date> .

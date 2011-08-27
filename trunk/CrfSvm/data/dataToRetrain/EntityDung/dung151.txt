@@ -1,0 +1,33 @@
+<per> [Didier Drogba] </per> , [tên] [đầy đủ] [là] <per> [Didier Yves Drogba Tébily] </per> ( [sinh] <date> [11] [tháng] [3] [năm] [1978] </DATE> ) , [là] [cầu thủ] [bóng đá] [người] <loc> [Côte] [d] ' [Ivoire] </loc> ( <loc> [Bờ Biển Ngà] </loc> ) , [hiện] [đang] [thi đấu] [cho] <org> [Chelsea] </org> . 
+
+[Anh] [là] [vua phá lưới] [Premier League] [mùa] [bóng] <date> [2006-07] </DATE> [với] [20] [bàn] [thắng] [và] [mùa] [bóng] <date> [2009-2010] </DATE> [với] [29] [bàn] [thắng] , [và] [là] [Cầu thủ] [xuất sắc] [nhất] [châu] [Phi] [hai] <date> [năm] [2006] </DATE> [và] <date> [2009] </DATE> . 
+
+[Anh] [có] [đầy đủ] [phẩm chất] [của] [một] [tiền đạo] [siêu sao] : [Càn lướt] , [tốc độ] , [bản năng] [săn] [bàn] [và] [nhãn quan] [chiến thuật] [rất] [tốt] . 
+
+[Anh] [nổi tiếng] [với] [khả năng] [vô địch] [trong] [tranh chấp] [tay đôi] [và] [dứt điểm] [không] [cần] [nhìn] [goal] ( [gôn] ) [đối phương] . 
+
+[Sinh] [tại] <loc> [Abidjan] </loc> , <per> [Didier Drogba] </per> [trải] [qua] [thời] [thơ ấu] [tại] <loc> [Bờ Biển Ngà] </loc> [và] [nước] <loc> [Pháp] </loc> . 
+
+<per> [Tito] </per> , [biệt danh] [mà] [bạn bè] [và] [gia đình] [thường] [gọi] , [rời] [quê nhà] [khi] [mới] [5] [tuổi] . 
+
+[Anh] [đến] <loc> [Brest] </loc> [thuộc] [vùng] <loc> [Brittany] </loc> [ở] [cùng] [ông] [chú] , <per> [Michel Goba] </per> , [một] [cầu thủ] [bóng đá] [chuyên nghiệp] . 
+
+<per> [Drogba] </per> [sống] [ở] <loc> [Pháp] </loc> [3] [năm] , [cùng với] [chú] [ở] <loc> [Brest] </loc> , <loc> [Angoulême] </loc> [và] <loc> [Dunkerque] </loc> [trước] [khi] [trở về] [quê hương] . 
+
+[Do] [suy thoái] [kinh tế] [ở] [quê nhà] [nên] [anh] [trở lại] [sống] [với] [chú] [ở] <loc> [Dunkerque] </loc> , [tiếp tục] [có] [dịp] [đi] [vòng quanh] [nước] <loc> [Pháp] </loc> . 
+
+[Thời điểm] [đó] [anh] [bắt đầu] [chơi] [bóng đá] . 
+
+<date> [Năm] [1991] </DATE> [cha mẹ] [anh] [cũng] [đến] <loc> [Pháp] </loc> , [trước tiên] [tới] [Vannes] [và] <date> [năm] [1993] </DATE> [định cư] [tại] <loc> [Antony] </loc> [thuộc] [vùng] [ngoại ô] <loc> [Paris] </loc> . 
+
+[Đó] [là] [lúc] [cậu] [thiếu niên] [15] [tuổi] <per> [Drogba] </per> [đoàn tụ] [với] [gia đình] . 
+
+[Ban đầu] [anh] [đăng kí] [vào] [câu lạc bộ] [địa phương] <org> [Levallois] </org> , [và] [khi] [trình độ] [nâng] [cao] , [chơi] [cho] [đội] [bóng] [tại] [National] [2] , [giải] [hạng] [Tư] [của] <loc> [Pháp] </loc> [năm 18] [tuổi] . 
+
+<per> [Drogba] </per> [khoác áo] <org> [Le Mans] </org> [năm 19] [tuổi] ( <date> [1998] </DATE> ) , [lúc] [này] [câu lạc bộ] [còn] [chơi] [ở] [Ligue] [2] , [giải] [hạng] [Hai] [của] <loc> [Pháp] </loc> . 
+
+[Đến] [mùa] [bóng] <date> [2001-02] </DATE> [anh] [chuyển] [sang] [chơi] [cho] <org> [Guingamp] </org> [tại] [Ligue] [1] . 
+
+[Mùa] [tiếp theo] <per> [Drogba] </per> [ghi] [được] [17] [bàn] [thắng] [và] [giúp] <org> [Guingamp] </org> [kết thúc] [mùa] [giải] [ở] [vị trí] [thứ] [7] , [một] [kỉ lục] [đối với] [câu lạc bộ] . 
+
+[Thành tích] [này] [đã] [khiến] <org> [Olympique] [de] [Marseille] </org> , [một] [trong] [những] [câu lạc bộ] [lớn] [nhất] [nước] [Pháp] , [kí] [hợp đồng] [với] [anh] [năm] [2003] .

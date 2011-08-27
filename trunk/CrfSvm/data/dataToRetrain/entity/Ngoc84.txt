@@ -1,0 +1,55 @@
+[Ông chủ] [nhà in] [đầu tiên] [với] [tấm lòng] [yêu] [nước] [ghét] [Tây] . 
+
+[Ông] <per> [Ngô Tử Hạ] </per> ( [1882-1973] ) , [quê] [ở] <loc> [Qui Hậu] , [Kim Sơn] , [Ninh Bình] </loc> , [rời] [quê hương] [nghèo đói] [lên] <loc> [Hà Nội] </loc> [lập nghiệp] , [làm] [thợ] [cho] <org> [nhà in] [IDEO] </org> [của] <loc> [Pháp] </loc> [từ] [năm] [17] [tuổi] . 
+
+[Năm] [25] [tuổi] , [ông] [lập] [nhà in] [trở thành] [tư sản] [dân tộc] [có] [2] [nhà in] [ở] <loc> [Hà Nội] </loc> [và] [ở] <loc> [Huế] </loc> . 
+
+<per> [Ngô Tử Hạ] </per> [còn] [tham gia] [làm] [báo] : [ông] [là] [chủ nhiệm] [của] <org> [báo] [Đông Thanh] </org> [và] [tham gia] [trị sự] <org> [báo] [Nam Phong] </org> . 
+
+<per> [Ngô Tử Hạ] </per> [rất] [căm ghét] [thực dân] <loc> [Pháp] </loc> [xâm lược] [và] [thường] [giao hảo] [với] [những] [chí sĩ] [có] [lòng] [yêu nước] [như] [cụ] <per> [Huỳnh Thúc Kháng] </per> , [cụ] <per> [Nguyễn Văn Tố] </per> , [cụ] <per> [Bùi Bằng Đoàn] </per> [vv] ... 
+
+[Cách mạng] [tháng] [Tám] [thành công] , <per> [Ngô Tử Hạ] </per> [là] [chí sĩ] [yêu nước] [được] [bầu] [làm] [đại biểu] <org> [Quốc hội] </org> [và] [được] <org> [Quốc hội] </org> [bầu] [là] [ủy viên] <org> [Ban] [thường trực] [của] [Quốc hội] [khóa] [I] [nước] [VNDCCH] </org> [và] [là] [đại biểu] [cao tuổi] [nhất] . 
+
+[Nước] <loc> [Việt Nam] </loc> [non trẻ] [lúc đó] [gặp] [muôn vàn] [khó khăn] [về] [thù] [trong] [giặc] [ngoài] . 
+
+[Khi] [đó] <per> [Ngô Tử Hạ] </per> [là] [người] [đứng đầu] [của] <org> [Hội] [cứu tế] </org> , [cứu] [đói] [của] <org> [Chính phủ] </org> [đã] [hoạt động] [tích cực] , [tận tụy] [vào] [cuộc đấu tranh] [chống] [giặc] [đói] [của] <org> [Nhà nước] [cách mạng] </org> , [góp phần] [vào] [việc] [giữ] [nước] [trong] [những] [ngày] [đầu] [gian nan] . 
+
+[Để] [có] [được] [vinh dự] [lớn lao] [như] [trên] , [nhà] [tư sản] [dân tộc] <per> [Ngô Tử Hạ] </per> [đã] [phải] [trải qua] [một] [quá trình] [nỗ lực] [không] [mệt mỏi] [với] [ý chí] [kiên định] [đáng] [nể phục] [để] [tự] [mình] [vượt] [lên] [khỏi] [thân phận] [đói nghèo] . 
+
+[Đồng thời] [đóng góp] [vào] [việc] [đặt] [những] [viên gạch] [nền móng] [xây dựng] [công nghệ] , [kinh tế] <loc> [Việt Nam] </loc> , [tỏ rõ] [ý chí] [tự lực] [tự cường] [cùng với] [các] [nhà] [tư sản] [dân tộc] [khác] [như] [nhà tư sản] <per> [Bạch Thái Bưởi] </per> , [nhà tư sản] <per> [Nguyễn Sơn Hà] </per> . 
+
+<per> [Ngô Tử Hạ] </per> [bắt đầu] [sự nghiệp] [với] [việc] [nhận làm] [cho] [một] [cơ sở] [in] [vỏ bao] [thẻ hương] . 
+
+[Công việc] [nặng nhọc] , [vất vả] [mà] [đồng lương] [chẳng] [được] [là] [bao] [song] <per> [Ngô Tử Hạ] </per> [vẫn] [kiên nhẫn] [ở] [lại] [làm] . 
+
+[Sau] [vài] [năm] [chịu thương] , [chịu khó] , [dè sẻn] [chi tiêu] , <per> [Ngô Tử Hạ] </per> [đã] [dành dụm] [đủ] [tiền] [mua] [được] [một] [chiếc] [máy in] [thẻ hương] . 
+
+[Anh] [bèn] [thôi] [làm thuê] , [mà] [tự] [mình] [in] [thuê] [vỏ bao] [thẻ hương] . 
+
+[Cứ] [cần mẫn] , [dè sẻn] [thế] , [rồi] [cha con] <per> [Ngô Tử Hạ] </per> [cũng] [có] [tiền] [mua] [thêm] [một vài] [chiếc] [máy] [gỗ] [in] [vỏ bao] [hương] [nữa] , [mượn] [thêm] [thợ] [làm] . 
+
+[Từ bỏ] [lối] [làm nghề] [cò con] [với] [những] [chiếc] [máy in] [làm] [bằng] [gỗ] [đơn giản] [chỉ] [in] [được] [vỏ bao] [thẻ hương] , <per> [Ngô Tử Hạ] </per> [quyết] [hiện đại hoá] [dần] [việc] [kinh doanh] [nghề] [in] [của] [mình] . 
+
+[Ông] [mua] [những] [chiếc] [máy in] [được] [xem là] [hiện đại] [thời] [bấy giờ] , [chưa] [đủ] [tiền] [mua] [nhiều] [máy] , [thì] [ban đầu] [mua] [ít] , [tích luỹ] [vốn] [được] [kha khá] [nhờ] [quản lý] [tốt] [và] [tiết kiệm] [trong] [chi phí] [kinh doanh] [cũng như] [trong] [sự] [tiêu dùng] [hàng ngày] [của] [gia đình] , [ông] [lại] [bỏ] [tiền] [ra] [mua] [thêm] [máy in] [mới] . 
+
+[Cơ sở] [đặt] [máy] , [lập] [nhà in] , [trước] [ông] [đi] [thuê] , [sau] [ông] [mua] [hẳn] [một] [khu đất] [rộng] [bên] <loc> [đường phố] [Lý Quốc Sư] </loc> , [gần] <loc> [đền thờ] [Lý Triều Quốc Sư] </loc> , [lại] [cũng] [gần] <loc> [Nhà thờ lớn] [Hà Nội] </loc> [để] [xây dựng] [nhà in] . 
+
+[Vị trí] [nhà in] [đắc địa] , [máy in] [nhiều] [và] [hiện đại] , [thợ] [in] [đông] , [giải quyết] [chóng vánh] , [chất lượng] [các] [hợp đồng] [in] , [uy tín] [của] <org> [nhà in] [Ngô Tử Hạ] </org> [ngày một] [được] [khẳng định] . 
+
+[Xuất thân] [trong] [cảnh] [nghèo khó] , [ông] [đã] [quen] [với] [ý chí] [tự lập] . 
+
+[Ông] [lại] [ghét] [Tây] , [không] [ưa] [luôn] [các] [cố] [Tây] , [tuy] [là] [người] [công giáo] , [lại] [sống] [cạnh] <loc> [Nhà thờ lớn] [Hà Nội] </loc> , [nhưng] [ông] [không] [giao tiếp] , [gần gũi] [với] [các] [cố] [Tây] , [chỉ] [đi] [lễ] [nhà thờ] [như] [mọi] [tín hữu] [công giáo] , [rồi] [về] [luôn] [nhà mình] . 
+
+[Theo] [các] [bậc cao niên] [đã] [từng] [làm việc] [trong] <org> [nhà in] [Ngô Tử Hạ] </org> [kể] [lại] [thì] <per> [Ngô Tử Hạ] </per> [là] [một] [ông chủ] [nhà in] [giản dị] [trong] [sinh hoạt] , [nhưng] [rất] [nghiêm khắc] [trong] [công việc] . 
+
+[Đó] [cũng] [là] [ông chủ] [nhà in] [ngoài] [thời gian] [giao tiếp] [tìm] [mối hàng] [với] [khách hàng] [ra] , [thì] [ngày ngày] [luôn luôn] [xuống] [xưởng in] [hay] [làm việc] [với] [bộ phận] [thư ký] [quản lý] , [tiếp thị] [của] [nhà in] . 
+
+[Ông] [nghiêm khắc] [trong] [công việc] [với] [cả] [con cháu] [trong nhà] , [con] [ông] , [cháu] [ông] , [ai] [có thể] [làm] [được] [việc] [nào] [ông] [mới] [giao cho] [việc] [ấy] , [hưởng] [lương] [như] [mọi người] [khác] [theo] [đúng] [công việc] [được] [giao] , [làm] [sai] , [làm] [hỏng] [cũng] [bị] [khiển trách] [hay] [phạt] [trừ] [lương] [như thường] . 
+
+[Với] [bộ phận] [thư ký] , [ông] [bàn bạc] , [hỏi han] , [lắng nghe] [ý kiến] [mọi] [người] , [cùng] [họ] [cân nhắc] [từng] [mối hàng] , [hợp đồng] [rồi] [dành] [cho] [mình] [quyền] [quyết định] [trên] [cơ sở] [làm] [chắc] , [ăn] [chắc] . 
+
+[Sự] [xem xét] [kỹ càng] , [quyết định] [thận trọng] [ấy] , [cộng] [với] [việc] [đặt] [tiêu chuẩn] [kỹ thuật] [lên] [hàng đầu] , [đã] [khiến cho] <org> [nhà in] [Ngô Tử Hạ] </org> [kinh doanh] [chắc chắn] , [hầu như] [chỉ] [có] [lãi] , [gây] [được] [uy tín] [với] [khách hàng] . 
+
+[Họ] [tìm] [đến] [đặt] [in] [ở] [nhà in] [ông] <per> [Ngô Tử Hạ] </per> [ngày một] [nhiều] [thêm] , [đủ] [cả] [khách hàng] [trong] [nước] , [lẫn] [khách hàng] [từ] [nước ngoài] , [nhất là] <loc> [nước] [Pháp] </loc> . 
+
+<org> [Nhà in] [Ngô Tử Hạ] </org> [cứ thế] [lớn mạnh] [lên] . 

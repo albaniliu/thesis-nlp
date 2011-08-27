@@ -1,0 +1,43 @@
+<per> [James Watt] </per> ( [1736] - [1819] ) [là] [nhà phát minh] [người] <loc> [Anh] </loc> , [ông] [được] [rèn luyện] [trong] [gia đình] [ngay] [từ] [nhỏ] [đã] [nắm] [được] [kỹ thuật] [chế tạo] [cơ bản] . 
+
+[Năm] [18] [tuổi] <per> [Watt] </per> [vào] [học] [kỹ thuật] [chế tạo] [dụng cụ] [đo lường] [tại] <loc> [trường] [Glasgow] </loc> , [nó] [đặt] [nền móng] [tốt] [cho] <per> [Watt] </per> [cải tiến] [máy hơi nước] [Niucômanh] . 
+
+[Sau] [nhiều] [năm] [nỗ lực] , [cuối cùng] [ông] [đã] [chế tạo] [được] [máy hơi nước] [Oát] [nổi tiếng] [thế giới] , [thúc đẩy] [rất] [lớn] [hiệu suất] [sản xuất] [công nghiệp] . 
+
+[Năm] [1785] <per> [James Watt] </per> [trở thành] [thành viên] [của] <org> [Viện] [Hàn lâm] [khoa học] [Anh] </org> . 
+
+[Những] [cống hiến] [của] <per> [Watt] </per> [xứng đáng] [được] [mệnh danh] : " [Người] [đặt] [nền móng] [cho] [cách mạng công nghiệp] " . 
+
+<per> [Watt] </per> [sinh] [ngày] [19] [tháng] [01] [năm 1736] [tại] <loc> [thị trấn] [Greenork] [gần] [Glasgow] [nước] [Anh] </loc> . 
+
+[Năm] [8] [tuổi] [có] [một] [lần] [ở] [bên] [nhà] [bà ngoại] [đun] [nước] , [khi] [nước] [trên] [lò] [sôi] , [hơi nước] [phụt] [ra] [từ] [chiếc vòi] [của] [nó] , [rồi] [nắp] [ấm] " [Bạch] , [bạch] , [bạch] " [nhảy múa] [liên hồi] [trên] [miệng] [ấm] , [đồng thời] [có] [rất] [nhiều] [hơi] [bay] [lên] . 
+
+<per> [Watt] </per> [cảm thấy] [rất] [thích thú] , [cậu] [chăm chú] [quan sát] , [không] [hiểu] [có] [ma quỷ] [gì] [trong] [ấm] [đang] [làm trò] [đây] ? 
+
+[Để ý] [một] [lúc] [lâu] , [lòng] [hiếu kỳ] [mãnh liệt] [cho] [cậu] [can đảm] [dùng] [tay] [mở] [nắp] [ấm] . 
+
+[Hơi nước] [từ] [trong] [ấm] [ngùn ngụt] [bốc] [lên] [trời] . 
+
+<per> [Watt] </per> [mở] [to] [đôi mắt] [hiếu kỳ] [quan sát] , [trong] [ấm] [không] [còn] [có] [gì] [khác] [ngoài] [nước] . 
+
+[Thật là] [kỳ lạ] , <per> [Watt] </per> [nghĩ] [vậy] . 
+
+[Bà ngoại] [chậm rãi] [nói] : " [Cháu] [ơi] , [làm] [gì] [có] [cái gì] , [đấy] [là] [nước] [sôi] . " 
+
+" [Tại sao] [nước] [sôi] [thì] [nắp] [ấm] [lại] [nhảy] [lên] [vậy] ? " - <per> [Watt] </per> [không] [hiểu] [được] [hỏi] [lại] [bà ngoại] . 
+
+" [Do] [hơi nước] [đấy] , [cháu] [không] [nhìn] [thấy] [hơi nước] [phụt] [lên] [từ] [vòi] [ấm] [đó] [sao] ? " 
+
+[Như vậy] , [hơi nước] [sinh ra] [từ] [đâu] ? 
+
+[Tại sao] [nó] [lại] [chạy] [ra] [vòi] [ấm] [nhỉ] ? 
+
+<per> [Watt] </per> [trầm ngâm] [một lát] [rồi] [hỏi] [bà] : " [Sức đẩy] [của] [hơi nước] [lớn] [như vậy] [hả] [bà] ? 
+
+[Có] [một] [tý] [nước] [mà] [hơi nước] [sinh ra] [mở] [được] [cả] [nắp] [ấm] , [nếu] [dùng] [nhiều] [nước] [thì] [sức đẩy] [phải] [lớn] [lắm] [bà] [nhỉ] ? 
+
+[Nếu] [hơi nước] [rất] [mạnh] [thì] [có thể] [nâng] [được] [vật] [rất] [nặng] [lên] [phải] [không] [ạ] ? " 
+
+" [Ừ] , [ừ] , [bà] [cũng] [không] [biết] [nữa] , [đợi] [lớn lên] [con] [sẽ] [biết] ! " 
+
+[Thấy] [bà] [không] [trả lời] [được] , <per> [Watt] </per> [tự] [trầm tư] [suy nghĩ] .

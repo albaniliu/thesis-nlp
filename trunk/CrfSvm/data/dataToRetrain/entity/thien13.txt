@@ -1,0 +1,75 @@
+<per> [Michael Faraday] </per> ( [1791] - [1867] ) [là] [nhà hóa học] , [nhà vật lý] [người] <loc> [Anh] </loc> . 
+
+[Nhà] [nghèo] [ông] [gần như] [không] [được] [học] [qua] [một] [trường lớp] [chính quy] [nào] , [nhưng] [vì] [cần cù] [hiếu học] [nên] [ông] [đã] [giành được] [rất] [nhiều] [thành tựu] [trong] [lĩnh vực] [nghiên cứu] [khoa học] . 
+
+[Thành quả] [trong] [lĩch vực] [hóa học] [quan trọng] [nhất] [của] [ông] [là] [phát hiện] [ra] [Bengen] ( [C6H6] ) . 
+
+[Cống hiến] [lớn] [nhất] [trong] [lĩnh vực] [điện tử học] [của] [ông] [là] [làm] [quay] [được] [mạch điện] [trong] [từ trường] [của] [nam châm] [vĩnh cửu] , [đặt] [cơ sở] [cho] [việc] [chế tạo] [động cơ điện] , [nó] [có] [ý nghĩa] [xuyên] [thời đại] [đối với] [việc] [lợi dụng] [điện năng] [của] [nhân loại] . 
+
+[Thành tựu] [cao] [nhất] [của] [ông] [là] [phát minh] [Định luật] [cảm ứng điện từ] , [mở màn] [cho] [nhân loại] [đi] [từ] [thời đại] [hơi nước] [sang] [thời đại] [điện khí] . 
+
+[Cuộc sống] [của] [chúng ta] [gắn] [liền] [với] [điện] , [đèn điện] , [ti vi] , [điện thoại] , ... [đều] [cần] [dùng] [tới] [điện] . 
+
+[Điện] [đem lại] [cho] [con người] [ánh sáng] , [đem lại] [mọi] [tiện lợi] . 
+
+[Ai] [là] [người] [đầu tiên] [làm ra] [máy phát điện] ? 
+
+[Đó] [chính là] [nhà khoa học] [lớn] [người] <loc> [Anh] </loc> - <per> [Michael Faraday] </per> . 
+
+[Lúc] [còn] [nhỏ] [gia đình] [nghèo] , [bố] [là] [thợ rèn] , [dưới] [Faraday] [còn] [4] [người] [em] [nhỏ] [và] [không] [được] [học hành] [tử tế] . 
+
+[Lúc] [13] [tuổi] [để] [kiếm] [tiền] [giúp] [gia đình] [ông] [vào] [phụ việc] [ở] [một] [cửa hàng] [đóng] [sách] [ở] <loc> [Luân Đôn] </loc> , [chủ yếu] [là] [đưa] [sách] [và] [báo] . 
+
+[Chồng báo] [trên] [vai] [ông] [đi] [cùng] [các] [đường phố] <loc> [Luân Đôn] </loc> . 
+
+[Lanh lợi] , [thông minh] [lại] [rất] [lễ phép] [với] [mọi người] , [làm việc] [chịu khó] , [ông chủ] [cửa hàng] [đóng] [sách] [rất] [thích] [ông] , [đã] [nhận] [ông] [vào] [học việc] . 
+
+<per> [Faraday] </per> [rất] [vui mừng] , [như vậy] [ông] [sẽ] [có] [dịp] [suốt] [ngày] [làm bạn] [với] [sách báo] , [có thể] [học] [được] [nhiều] [điều] . 
+
+<per> [Faraday] </per> [ở] [trên] [gác xép] [của] [cửa hàng] [sách] , [hàng ngày] [ông] [có thể] [đọc] [được] [rất] [nhiều] [sách] [thú vị] , [thí dụ] " [Một ngàn] [một] [đêm] [lẻ] " , [những] [câu chuyện] [trong] [đó] [đã] [hút hồn] [ông] . 
+
+[Ông chủ] [hiệu sách] [là] [người] [rất] [tốt] , [ông] [cũng] [thường] [cổ vũ] <per> [Faraday] </per> [đọc] [sách] . 
+
+[Một hôm] <per> [Faraday] </per> [đọc] [được] [cuốn sách] [có] [tên] [là] " [Đối thoại] [hóa học] " , [sách] [đã] [giới thiệu] [rất] [nhiều] [tri thức] [hóa học] [thú vị] , [còn] [có] [nhiều] [thí nghiệm] [nhỏ] . 
+
+[Ông] [rất] [thích thú] [với] [những] [thí nghiệm] [kỳ lạ] [đó] , [nên] [cũng] [muốn] [tự] [tay] [mình] [làm] [thử xem] [điều] [sách] [nói] [có] [đúng] [không] . 
+
+[Thế là] <per> [Faraday] </per> [dùng] [gác xép] [của] [mình] [đang] [ở] [làm] [phòng thí nghiệm] [nhỏ] . 
+
+[Ông] [cần] [một số] [chai] [lọ] [và] [một số] [bình] [đựng] [thủy tinh] [nhưng] [không] [có] [tiền] [để] [mua] [nên] [ông] [phải] [nhặt] [chai] [lọ] [thủy tinh] [bỏ] [ở] [nhà thuốc] , [ông] [nhặt nhạnh] [những] [dây] [đồng] [nhỏ] [và] [các] [tấm] [kẽm] [ở] [các] [đống] [rác thải] [ở] [các] [nhà máy] . 
+
+[Hàng ngày] , <per> [Faraday] </per> [đều] [miệt mài] [trong] " [lãnh địa] " [riêng] [của] [mình] , [làm] [thí nghiệm] [đã] [trở thành] [việc làm] [thú vị] [nhất] [trong] [cuộc sống] [của] [ông] . 
+
+[Trong] [cuốn sách] " [Đối thoại] [hóa học] " [viết] , [thả] [một] [tấm] [kẽm] [vào] [trong] [axit] [clohydric] [sẽ] [sinh ra] [một] [loại] [khí] [cháy được] . 
+
+<per> [Faraday] </per> [làm] [theo] [sách] , [quả nhiên] [có] [một] [loại] [khí] [cháy] [lên] [ngọn lửa] [màu xanh] , [trên] [thực tế] [thứ] [khí] [có thể] [cháy] [đó] [chính là] [hidro] . 
+
+[Có] [quyển sách] [nói] , [bọc] [một] [lớp] [giấy] [tráng] [thiếc] [ngoài] [một] [chiếc] [chai] [thủy tinh] , [sau khi] [nạp] [điện] [sẽ] [phóng điện] [mạnh] . 
+
+[Để] [làm] [thí nghiệm] [này] <per> [Faraday] </per> [đã] [bỏ ra] [6] [pence] [để] [mua] [một] [cái] [chai] [thủy tinh] [lớn] [và] [7] [pence] [mua] [giấy thiếc] . 
+
+[Ông] [đổ] [nước] [vào] [chai] , [cho] [một] [cái que] [bằng] [kim loại] [vào] [chai] , [như vậy] [là] [có] [một] [điện cực] [đơn giản] . 
+
+[Ông] [nạp] [điện] [cho] [chai nước] , [sau đó] [dùng] [một] [dây] [đồng] [nhỏ] [cẩn thận] [nối] [que] [kim loại] [cắm] [trong] [chai] [với] [giấy thiếc] , [khi] [dây] [đồng] [tiếp cận] [với] [que] [kim loại] [thì] [xuất hiện] [lóe sáng] [và] [còn] [phát ra] [tiếng nổ] " [tạch] , [tạch] " , [đúng] [là] [phóng điện] ! 
+
+<per> [Faraday] </per> [mừng rỡ] , [ông] [dần dần] [nghiện] [thí nghiệm] . 
+
+[Những] [thí nghiệm] [của] <per> [Faraday] </per> [đã] [gây] [sự chú ý] [của] [ông bà chủ] . 
+
+[Ông chủ] [thấy] <per> [Faraday] </per> [rất] [lạ] , [hễ] [có] [dù là] [một] [đồng] [tiền lẻ] [cũng] [chạy] [ra] [phố] [với] [ánh mắt] [khác thường] . 
+
+[Bà chủ] [còn] [phát hiện] [muối ăn] [trong] [nhà bếp] [của] [họ] [hết] [rất] [nhanh] , [thường] [thì] [liễn] [muối ăn] [nhỏ] [của] [họ] [dùng] [được] [khá] [lâu] [nhưng] [gần đây] [chỉ] [2] [ngày] [gì] [đó] [đã] [hết] [rồi] . 
+
+[Bà] [lấy làm] [khó hiểu] , [chuyện] [gì] [xảy ra] [vậy] ? 
+
+[Sau này] [bà] [phát hiện] [ra] <per> [Faraday] </per> [đã] [lấy] [muối] [làm] [thí nghiệm] . 
+
+[Đêm đêm] [tiếng vang] " [lẹt xẹt] " [phát ra] [từ] [căn gác xép] [trên] [lầu] , [còn] [có] [những] [ánh sáng] [lạ] , [có] [một] [lần] [từ] [cửa sổ] [bỗng] [phun ra] [mấy] [làn khói] [nồng] [đặc] . 
+
+[Bà chủ] [rất] [lấy làm lạ] , [nhưng] [vẫn] [không] [biết] <per> [Faraday] </per> [làm] [trò] [gì] . 
+
+[Mọi người] [xung quanh] [đều] [nói] [rằng] [đứa trẻ] [này] [mắc] [bệnh] [thần kinh] , [nửa đêm] [cũng] [không] [ngủ] . 
+
+[Ông chủ] [hiệu] [đóng] [sách] [là] [người] [hết sức] [độ lượng] , [ông] [không hề] [trách] <per> [Faraday] </per> , [ông] [biết] [đứa trẻ] [này] [cần cù] [hiếu học] , [sau này] [nhất định] [sẽ] [có] [tiền đồ] [tốt đẹp] . 
+
+[Và] [như vậy] , [trong] [vương quốc] [nhỏ bé] [của] [mình] <per> [Faraday] </per> [đã] [tìm] [được] [tri thức] [và] [những] [hứng thú] [trong] [thí nghiệm] [để] [bước] [vào] [ngưỡng cửa] [của] [khoa học] .

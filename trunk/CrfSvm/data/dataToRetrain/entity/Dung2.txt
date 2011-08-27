@@ -1,0 +1,67 @@
+<org> [Apple] </org> [là] [tập đoàn] [công nghệ] [máy tính] [của] <loc> [Mỹ] </loc> [có] [trụ sở] [chính] [đặt] [tại] <loc> [thung lũng] [Silicon Valley] [ở] [San Francisco] , [bang] [California] </loc> . 
+
+<org> [Apple] </org> [được] [thành lập] [ngày] [1] [tháng] [4] [năm 1976] [dưới] [tên] [Apple Computer] , [Inc] , [và] [đổi] [tên] [vào] [đầu] [năm] [2007] . 
+
+[Với] [lượng] [sản phẩm] [bán] [ra] [toàn cầu] [hàng] [năm] [là] [13,9 tỷ] [đô la] <loc> [Mỹ] </loc> ( [2005] ) , [và] [có] [14.800] [nhân viên] [ở] [nhiều] [quốc gia] , [sản phẩm] [là] [máy tính] [cá nhân] , [phần mềm] , [phần cứng] , [thiết bị] [nghe] [nhạc] [và] [nhiều] [thiết bị] [đa phương tiện] [khác] . 
+
+[Sản phẩm] [nổi tiếng] [nhất] [là] [Apple Macintosh] , [iPod] [nghe] [nhạc] [và] [chương trình] [nghe] [nhạc] [iTunes] , [nơi] [bán] [hàng] [và] [dịch vụ] [chủ yếu] [là] [các] [nước] : <loc> [Mỹ] </loc> , <loc> [Canada] </loc> , <loc> [Nhật Bản] </loc> [và] <loc> [Anh] </loc> . 
+
+[Trước khi] [trở thành] [đồng] [sáng lập] <org> [công ty] [Apple] </org> , <per> [Steve Wozniak] </per> [đã] [từng] [là] [một] [kỹ sư] [điện tử] [và] [năm] [1975] [ông] [bắt đầu] [tham dự] [vào] <org> [câu lạc bộ] [Homebrew Computer Club] </org> . 
+
+[Vào] [thời điểm] [đó] [tổng quát] [chỉ] [có] [hai] [hãng] [sản xuất] [microcomputer] - [CPU] [là] [Intels] [8080] [giá] [179] $ [và] [Motorolas] [6800] [giá] [170] $ . 
+
+<per> [Wozniak] </per> [ưa chuộng] [phiên bản] [6800] , [nhưng mà] [không] [có] [ý tưởng] [cho] [những] [cho] [những] [sản phẩm] [của] [họ] . 
+
+[Vì vậy] [ông] [tự] [thỏa mãn] [bằng] [cách] [xem xét] , [học hỏi] [và] [thiết kế] [máy vi tính] [trên] [giấy] , [đến] [khi] [ông] [được] [lời] [khuyên] [cho] [một] [cái] [CPU] . 
+
+[Đó] [là] [một] [ý tưởng] [xuất sắc] [nhất] [xảy ra] [cho] [thị trường] [máy tính] . 
+
+[Khi] <org> [tập đoàn] [MOS Technologies] </org> [cho] [ra] [sản phẩm] [nổi tiếng] [6502] [giá] [25] $ [năm] [1976] , <per> [Wozniak] </per> [đồng thời] [bắt đầu] [phát triển] [một] [ấn hành] [BASIC] [cho] [con] [chip] [này] . 
+
+[Khi] [ông] [hoàn thành] [xong] , [ông] [bắt đầu] [thiết kế] [một] [chiếc] [máy vi tính] , [cho] [BASIC] [có thể] [chạy] [được] . 
+
+[Phiên bản] [6502] [đã] [được] [thiết kế] [bởi] [nhiều] [người] , [họ] [cũng] [là] [người] [thiết kế] [phiên bản] [6800] , [khi] [rất] [nhiều] [người] [ở] <loc> [Silicon Valley] </loc> [rời] [khỏi] [chỗ] [làm việc] [để] [được] [độc lập] . 
+
+[Ông] [hoàn thành] [xong] [bộ máy] [và] [đem] [nó] [theo] [hội nghị] <org> [Homebrew Computer Club] </org> [để] [trình bày] [hệ thống] [của] [mình] . 
+
+[Ở] [đó] [ông] [gặp] [người bạn] [cũ] [là] <per> [Steve Jobs] </per> , [người] [rất] [thích thú] [về] [cơ hội] [buôn bán] [trong] [tương lai] [của] [những] [chiếc] [máy] [nhỏ] [này] . 
+
+[Sau khi] [trải] [qua] [cuộc] [tranh đấu] [chức vị] [giám đốc] [điều hành] [với] [ông] <per> [John Sculley] </per> [giữa] [năm] [1980] , <per> [Jobs] </per> [rời] [khỏi] <org> [Apple] </org> [và] [sáng lập] <org> [tập đoàn] [NeXT Computer] </org> . 
+
+[Tiếp theo] , [trong] [cuộc] [thử nghiệm] [để] [cứu vãn] [hoạt động] [của] [hãng] , <org> [Apple] </org> [mua] [lại] <org> [tập đoàn] [NeXT] </org> , [và] [lúc] [này] <per> [Jobs] </per> [trở lại] [vị trí] [lãnh đạo] [của] <org> [Apple] </org> . 
+
+[Công việc] [đầu tiên] [của] [ông] [là] [phát triển] [iMac] , [đã] [cứu] [sống] <org> [Apple] </org> [khỏi] [cảnh] [phá sản] . 
+
+[Một] [máy] [xách tay] [Macintosh] , [PowerBook] [được] [sản xuất] [bắt đầu] [vào] [năm] [1990] . 
+
+[Những] [sản phẩm] [khác] [của] <org> [Apple] </org> [là] [ProDOS] , [Mac] [OS] [og] [A/UX] , [kết nối] [sản phẩm] [AppleTalk] [và] [chương trình] [nghe] [nhạc] [QuickTime] . 
+
+[Những] [sản phẩm] [không] [được] [phát triển] [nữa] [chẳng hạn] [như] [Apple Power Mac] [G4] [Cube] [và] [Apple Newton] . 
+
+[Những] [sản phẩm] [mới] [kết hợp] [những] [cái] [khác] [Apple Air] [Port] , [sử dụng] [kết nối] [các] [loại] [máy tính] [khác nhau] [mà] [không] [sử dụng] [cổng] [cable] . 
+
+[Năm] [1998] <org> [Apple] </org> [thay đổi] [thiết kế] [iMac] [và] [phát triển] [đồng thời] [sản phẩm] [Mac] [OS] [X.] [Apple Computer] [và] [sản phẩm] [PowerBook] [và] [sau này] [là] [iBook] [và] [iMac] [có thể] [xem] [phim] [và] [tv] . 
+
+[Vào] [thời điểm] [đó] <org> [Apple] </org> [giới thiệu] [đoạn] [phim] [quảng cáo] [PowerBook] , [đoạn] [phim] [được] [lấy] [từ] [Mission Impossible] . 
+
+[Các] [sản phẩm] [của] <org> [Apple] </org> [còn] [có] [các] [chương trình] [TV] [24] [Timer] . 
+
+[Tháng] [10] [năm] [2001] , <org> [Apple] </org> [giới thiệu] [sản phẩm] [máy] [nghe] [nhạc] [Ipod] [cầm] [tay] . 
+
+[Phiên bản] [đầu tiên] [có] [ổ đĩa] [5] [GB] , [và] [chứa] [khoảng] [1000] [bài] [hát] [nhưng] [khá] [cồng kềnh] [và] [không] [được] [mọi] [người] [chú ý] . 
+
+<per> [Jonathan Ive] </per> [là] [người] [thiết kế] , [và] [ông] [đã] [nâng cấp] [các] [thế hệ] [Ipod] [nhiều] [lần] . 
+
+[Năm] [2002] <org> [Apple] </org> [thỏa thuận] [với] [các] [hãng] [ghi âm] [về] [việc] [bán] [nhạc] [trên] [iTunes Music Store] . 
+
+[Với] [sản phẩm] [này] [mọi người] [có thể] [sử dụng] [để] [ghi] [đĩa] [cd] , [phân chia] [và] [chơi] [nhạc] [trên] [ba] [máy vi tính] [và] [tất nhiên] [chuyển] [bài hát] [lên] [máy] [nghe] [nhạc] [iPod] . 
+
+[Hơn] [hai] [triệu] [bài] [hát] [đầu tiên] [đã] [được] [bán] [trên] [iTunes Music Store] [trong] [vòng] [16] [ngày] ; [mọi] [người] [mua] [qua] [máy] [Macintosh] . 
+
+[Chương trình] [iTunes] [cũng] [hoạt động] [trên] [Windows] . 
+
+[Năm] [2010] , <org> [Apple] </org> [đã] [cho] [ra mắt] [dòng] [sản phẩm] [đột phá] [mới] [với] [những] [tính năng] [phục vụ] [như] [cầu] [giải trí] : [iPad] . 
+
+[iPad] [có thể] [nói] [là] " [mô hình] [phóng] [lớn] " [của] [iPhone] [với] [những] [tính năng] [xem] [phim] , [nghe] [nhạc] , [đọc] [e-book] , [sao] [lưu] [hình ảnh] [sử dụng] [công nghệ] [cảm ứng] [siêu] [đặc biệt] . 
+
+[iPad] [được] [cải tiến] [với] [hơn] [150.000] [ứng dụng] [cùng với] [các] [tính năng] [lướt] [web] , [dò] [đường] , [quản lý] [tài liệu] [cá nhân]  ...

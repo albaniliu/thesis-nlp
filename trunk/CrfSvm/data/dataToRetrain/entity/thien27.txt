@@ -1,0 +1,83 @@
+<per> [Robert Hooke] </per> ( [1635-1703] ) - [Người] [phát hiện] [ra] [tế bào] 
+
+[Năm] [1665] , [tại] <loc> [nước] [Anh] </loc> , [một] [cuốn sách] [ra đời] [với] [nhan đề] " [Hình ảnh] [vi thể] " ( [Micrographia] ) [gây] [xôn xao] [bàn tán] [trong] [giới] [khoa học] [của] <loc> [Anh] </loc> [và] <loc> [châu] [Âu] </loc> . 
+
+[Cuốn sách] [chứa đựng] [những] [khám phá] [cơ bản] [trong] [sinh học] , [gồm] [60] [hình] [lớn] [do] [chính] [tay] [tác giả] [vẽ] , [trong] [đó] [có] [hình] [một] [con] [rận] [phóng đại] [tới] [vài] [chục] [centimet] [chiều] [dài] , [quá trình] [chuyển] [dạng] [của] [ruồi] , [tất cả] [với] [đầy đủ] [chi tiết] . 
+
+[Tác giả] [cuốn sách] [là] <per> [Robert Hooke] </per> , [một] [nhà thực vật học] [người] <loc> [Anh] </loc> , [lúc] [đó] [30] [tuổi] . 
+
+<per> [Robert Hooke] </per> [sinh] [ngày] [18] [tháng] [7] [năm 1935] [tại] [một] [làng] [quê] [ở] <loc> [đảo] [Wright] </loc> , [gần] [bờ] [biển] [ở] <loc> [phía] [Nam] [nước] [Anh] </loc> , [trong] [gia đình] [một] [mục sư] [Tin lành] . 
+
+[Thời] [niên thiếu] , [cậu bé] [thường] [ốm yếu] [nhưng] [rất] [thông minh] [và] [chăm] [học] ; [chỉ] [trong] [hai] [tuần lễ] [cậu] [đã] [học] [hết] [bộ] [sách] [nhập môn] [toán] [của] [nhà toán học] <per> [Euclide] </per> . 
+
+[Suốt] [ngày] [cậu] [mải mê] [chế tạo] [những] [dụng cụ] [cơ khí] , [tàu thủy] , [cối xay] [chạy] [bằng] [dòng] [nước] [chảy] , [đồng hồ quả lắc] , [máy bay] [gỗ] ... 
+
+[Năm] [cậu] [mười ba] [tuổi] , [ông] [bố] [qua đời] , [cậu] [phải] [đến] [xin] [việc] [tại] [một] [xưởng] [họa] , [học] [vẽ] [chân dung] [để] [kiếm] [sống] . 
+
+[Nhưng] [mùi] [sơn dầu] [và] [thuốc] [vẽ] [làm] [cậu] [nhức] [đầu] , [ốm] [mệt] [nên] [phải] [thôi việc] . 
+
+[Sau đó] <per> [Hooke] </per> [đến] [phụ giúp] [phòng thí nghiệm] [của] <org> [Hội] [Hoàng gia] [Anh] </org> ( [vừa mới] [thành lập] ) , [nhận] [lau] [rửa] [các] [dụng cụ] [thực nghiệm] . 
+
+[Lòng] [ham muốn] [hiểu biết] [thúc đẩy] [cậu] [tự] [học hỏi] [và] [đến] [dự] [các] [lớp] [tại] <loc> [trường] [Oxford] </loc> . 
+
+[Năm] [26] [tuổi] , <per> [Hooke] </per> [cho] [xuất bản] [cuốn] [sách] [đầu tiên] , [nghiên cứu] [về] [sức] [căng] [bề mặt] . 
+
+[Vào] [những] [năm] [giữa] [thế kỷ] [17] , [tại] <loc> [châu] [Âu] </loc> , [nhiều] [nhà khoa học] [có] [xu hướng] [chế tạo] [và] [dùng] [các] [dụng cụ] [quang học] [để] [nghiên cứu] [thiên nhiên] , <per> [Hooke] </per> [cũng] [là] [một] [trong] [số] [những] [người] [đóng góp] [cho] [xu hướng] [đó] [phát triển] . 
+
+[Sau] [4] [năm] [làm việc] , [ông] [công bố] [kết quả] [nghiên cứu] [trong] [cuốn sách] [nổi tiếng] " [Hình ảnh] [vi thể] " . 
+
+[Trong] [cuốn sách] , [ông] [ghi chú] [đầy đủ] [các] [phương thức] [tiến hành] [nghiên cứu] : " ... 
+
+[Tôi] [chọn] [một] [căn phòng] [nhỏ] , [chỉ] [có] [một] [cửa sổ] [duy nhất] [hướng] [về] <loc> [phía] [Nam] </loc> . 
+
+[Cách] [cửa sổ] [khoảng] [một] [mét] , [tôi] [kê] [chiếc] [bàn] [có] [đặt] [kính hiển vi] [để] [nghiên cứu] ... 
+
+[Tôi] [phải] [sử dụng] [một] [quả] [cầu] [bằng] [thủy tinh] [hoặc] [một] [thấu kính] [2] [mặt] ( [phẳng] [và] [lồi] ) , [mặt] [lồi] [hướng] [về] [phía] [cửa sổ] [để] [thu hút] [được] [nhiều] [ánh sáng] [tạo] [nên] [nguồn] [chiếu] , 
+
+[Rồi] [tôi] [đặt] [giữa] [nguồn] [sáng] [và] [vật] [quan sát] [một] [mảnh] [giấy dầu] , [một] [kính lúp] [có] [độ] [phóng đại] [cực] [lớn] [để] [tập trung] [thật] [nhiều] [ánh sáng] [đi] [qua] [giấy dầu] [và] [chiếu] [trên] [vật thể] , [nhưng] [cũng] [phải] [chú ý] [ước lượng] [sao cho] [tờ] [giấy dầu] [khỏi] [bị] [quá] [nóng] [có thể] [bốc] [cháy] " ... 
+
+[Những] [ghi nhận] [của] <per> [Hooke] </per> [chứng tỏ] [sự] [công phu] [tỉ mỉ] [của] [ông] [trong] [công việc] [nghiên cứu] : 
+
+" [Để] [có thể] [làm việc] [cả] [trong] [những] [ngày] [không] [ánh sáng] [mặt trời] , [và] [cả] [lúc] [đêm] [khuya] , [tôi] [làm] [một] [dụng cụ] [thẳng đứng] [với] [3] [giá] [ngang] , [trên] [một] [giá] [có] [đặt] [một] [đèn] [dầu] [có thể] [di chuyển] [gần xa] , [trên] [giá] [kia] [đặt] [một] [quả] [cầu] [bằng] [thủy tinh] [chứa] [dịch] [trong suốt] , [trên] [giá] [thứ ba] [đặt] [một] [thấu kính] [2] [mặt] ( [phẳng] [và] [lồi] ) [có thể] [di động] [theo] [nhiều] [hướng] " . 
+
+[Với] [những] [dụng cụ] [tự] [chế tạo] [như thế] <per> [Hooke] </per> [tiến hành] [những] [nghiên cứu] [thực vật học] . 
+
+[Trong] [cuốn sách] , [ông] [ghi nhận] [những] [kết quả] [thu thập] [được] : " [Qua] [kính hiển vi] [tôi] [quan sát] [những] [mảnh] [bần] ( [liège] ) , [tôi] [nhận] [thấy] [có] [cấu tạo] [giống] [những] [khoang] , [lỗ] [nhỏ] . 
+
+[Tôi] [dùng] [dao] [cắt] [thành] [nhiều] [mảnh] [khác] [mỏng] [hơn] [và] [rõ ràng] [tôi] [lại] [nhận thấy] [các] [mảnh] [đó] [có] [cấu trúc] [như] [những] [tổ ong] , [những] [phòng] [nhỏ] . 
+
+[Tôi] [đếm] [kỹ] [và] [thấy] [có] [60] [tế bào] ( [cell] - [từ nguyên] [latin] [cellulate] , [có] [nghĩa] [là] : [phòng] [nhỏ] . 
+
+[Như vậy] <per> [Hooke] </per> [là] [người] [đầu tiên] [đặt] [ra] [và] [sử dụng] [từ] " [tế bào] " ) , [các] [tế bào] [đó] [xếp] [sát] [nhau] [trên] [một] [vùng] [kích thước] [1mm] , [như vậy] [sẽ] [có] [tới] [trên] [1] [triệu] ( [tính] [thật] [đúng] [là] [1.666.400] ) [tế bào] [trên] [mảnh] [diện tích] [bần] [6,5] [cm2] , [một] [con số] [khổng lồ] [khó] [tin] [được] " . 
+
+[Sau đó] , <per> [Hooke] </per> [quyết định] [nghiên cứu] [thêm] [qua] [kính hiển vi] [dạng] [cấu trúc] [nhỏ bé] [mà] [ông] [vừa mới] [phát hiện] . 
+
+[Đúng] [vào] [lúc] [cuốn sách] " [Hình ảnh] [vi thể] " [của] [ông] [ra đời] , [năm] [1665] , <per> [Hooke] </per> [trình bày] [trước] <org> [Hội] [Hoàng gia] [Anh] </org> [những] [kết quả] [quan sát] [trong] [bản] [tường trình] " [Cấu trúc] [của] [bần] [qua] [thấu kính] [phóng đại] " . 
+
+[Năm] [sau] , [ông] [được] [bầu] [làm] [Uỷ viên] [kiêm] [Thư ký] [của] <org> [Hội] [Hoàng gia] </org> [và] [ở] [cương vị] [này] [suốt] [15] [năm] . 
+
+[Năm] [36] [tuổi] , [ông] [tiến hành] [thử nghiệm] [ngay] [trên] [bản thân] [về] [ảnh hưởng] [của] [môi trường] [áp suất] [thấp] : [ông] [ngồi] [trong] [một] [căn] [buồng] [nhỏ] [và] [chịu đựng] [một] [áp suất] [rất] [thấp] ( [chỉ] [bằng] [1/4] [áp suất] [bình thường] ) [và] [ghi nhận] [các] [triệu chứng] [bản thân] [ông] [đã] [cảm thụ] [được] [như] : [nhức] [đầu] , [đau] [tai] [đến] [mức] [gần] [điếc đặc] [vv] ... 
+
+[Ông] [còn] [làm] [nhiều] [thử nghiệm] [về] [ghép] [da] , [hô hấp] [nhân tạo] , [truyền] [máu] ... 
+
+<per> [Hooke] </per> [là] [một] [con người] [say mê] [khoa học] , [từ] [sáng sớm] [trong] [phòng thí nghiệm] [đã] [thấy] [bóng dáng] [ông] : [nhỏ bé] , [thấp] [gầy] , [dáng] [đi] [hơi] [khom] [lưng] , [nét mặt] [không] [đẹp] [lắm] [vì] [miệng] [hơi] [rộng] [và] [cằm] [quá] [nhọn] . 
+
+[Ông] [giản dị] [và] [rộng lượng] : [suốt] [những] [năm] [làm việc] [tại] <org> [Hội] [Hoàng gia] </org> [và] [trường] [đại học] , [ông] [không] [hề] [phàn nàn] [về] [lương bổng] . 
+
+[Tính nết] [ông] [thẳng thắn] [cương trực] [đến] [mức] [dễ] [nóng nảy] , [va chạm] [với] [đồng nghiệp] ( [về] [sau] [người ta] [mới] [biết] [đó] [là] [do] [tình trạng] [ốm yếu] [từ] [lúc] [còn] [nhỏ] [làm] [ông] [ăn uống] [kém] [và] [mất ngủ] [thường xuyên] ) . 
+
+[Cuộc] [tranh luận] [của] [ông] [với] [nhà khoa học] <per> [Issac Newton] </per> ( [1642-1727] ) [đã] [trở thành] [nổi tiếng] : 
+
+[Có lẽ] <per> [Hooke] </per> [đã] [thông báo] [cho] <per> [Newton] </per> [biết] [những] [kết quả] [nghiên cứu] [vật lý học] [của] [ông] [và] [tạo] [điều kiện] [để] <per> [Newton] </per> [phát hiện] [ra] [một số] [định luật] [mới] [nhưng] [cũng] [có thể] [là] [tự] [bản thân] [mình] [phát hiện] [ra] [các] [định luật] [đó] [nên] <per> [Newton] </per> [đã] [không] [nêu] [rõ] [vai trò] [đóng góp] [của] <per> [Hooke] </per> . 
+
+[Dẫu sao] , [sự] [va chạm] [này] [đã] [trở thành] [mâu thuẫn] [đến] [mức] [chỉ] [sau khi] <per> [Hooke] </per> [qua đời] [thì] <per> [Newton] </per> [mới] [được] [bầu] [làm] [Chủ tịch] [của] <org> [Hội] [Hoàng gia] [Anh] </org> ( [trong] [thời gian] [1703-1727] ) . 
+
+<per> [Hooke] </per> [không chỉ] [là] [nhà] [thực vật học] [nổi tiếng] [với] [việc] [phát hiện] [ra] [tế bào] , [ông] [còn] [là] [một] [nhà] [thiên văn học] [lỗi lạc] . 
+
+[Ông] [có] [nhiều] [đóng góp] [khoa học] [lớn] [như] [chế tạo] [ra] [kính viễn vọng] , [quan sát] [sự] [chuyển động quay] [của] [các] [thiên thể] , [đề nghị] [dùng] [nhiệt độ] [đóng băng] [của] [nước] [là] [0o] , [đưa] [ra] [lý thuyết] [cơ học] [của] [nhiệt] , [nghiên cứu] [nguồn gốc] [vật thể] [hóa thạch] . 
+
+[Ông] [cũng] [là] [một] [kiến trúc sư] [tài năng] : [sau] [vụ] [dịch] [lớn] ( [vào] [năm 1665] ) [và] [đám] [cháy] [lớn] ( [năm 1666] ) [tại] <loc> [Luân Đôn] </loc> , [chính] [ông] [đã] [tham gia] [thiết kế] [xây dựng] [lại] [nhiều] [ngôi nhà] [lớn] [và] [các] [khu vực] [rộng] [của] <loc> [thủ đô] [Anh] </loc> . 
+
+[Danh tiếng] <per> [Robert Hooke] </per> [vang dội] [không chỉ] [lúc] [sinh thời] [mà còn] [lưu truyền] [nhiều] [thế kỷ] [sau] , [có] [điều] [đặc biệt] [là] [không] [ai] [lưu trữ] [được] [một] [bức hình] [nào] [của] [ông] [và] [cũng] [không] [ai] [biết] [rõ] [phần mộ] [của] [ông] [đặt] [nơi] [nào] . 
+
+[Bảy] [năm] [sau khi] <per> [Robert Hooke] </per> [phát hiện] [ra] [tế bào] , [vào] [năm] [1672] , [nhà khoa học] <per> [Malpighi] </per> [cũng] [mô tả] [những] [túi] [nhỏ] [trong] [cấu trúc] [thực vật] . 

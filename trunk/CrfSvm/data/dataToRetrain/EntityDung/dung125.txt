@@ -1,0 +1,19 @@
+<per> [Luis Antonio Valencia Mosquera] </per> ( [sinh] <date> [ngày] [4] [tháng] [8] [năm] [1985] </date> ) , [thường] [được] [biết] [tới] [với] [tên] <per> [Antonio Valencia] </per> , [là] [một] <pos> [tiền vệ] [cánh] </pos> [người] <loc> [Ecuador] </loc> [hiện] [chơi] [cho] <org> [Manchester United] </org> [và] <org> [đội tuyển] [bóng đá] [quốc gia] [Ecuador] </org> . 
+
+[Sau] [khi] [trưởng thành] [từ] [đội] [trẻ] [của] <org> [Club Deportivo El Nacional] </org> , <per> [Valencia] </per> [trở thành] <job> [cầu thủ] </job> [chính thức] [trong] [đọi] [một] [với] [hơn] [80] [lần] [ra] [sân] [cho] [câu lạc bộ] [trước] [khi] [được] <org> [Vllarreal] [CF] </org> [mua] [về] [ở] [mùa] [giải] <date> [2005] </date> . 
+
+[Anh] [chỉ] [có] [2] [lần] [ra] [sân] [cho] [đội] [bóng] <loc> [Tây Ban Nha] </loc> [và] [xen kẽ] [đó] [là] [những] [quãng] [thời gian] [được] [đem] [cho] <org> [Recreativo] [de] [Huelva] </org> [và] <org> [Wigan Athletic] </org> [từ] <date> [năm] [2006] [tới] [2008] </date> . 
+
+<org> [Wigan] </org> [sau] [đó] [kí] [hợp đồng] [3] [năm] [với] <org> [Valencia] </org> [với] [mức] [chuyển nhượng] [không] [được] [tiết lộ] [vào] <date> [tháng] [1] [năm] [2008] </date> . 
+
+[Màn] [trình diễn] [của] [anh] [ở] <org> [Wigan] </org> [sau] [đó] [đã] [thu hút] [sự] [chú ý] [từ] [các] [đội] [bóng] [lớn] [và] [anh] [đã] [từ chối] [lời] [đề nghị] [từ] [phía] <org> [Real Madrid] </org> [trước] [khi] [tới] <org> [Manchester United] </org> [vào] <date> [tháng] [6] [năm] [2009] </date> [nhằm] [thay thế] [cho] [sự] [ra đi] [của] <per> [Cristiano Ronaldo] </per> . 
+
+[Sinh ra] [tại] <loc> [Lago Agrio] </loc> , <per> [Valencia] </per> [bắt đầu] [sự nghiệp] [ở] <org> [El Nacional] </org> [và] [chuyển] [tới] [đội] [bóng] <loc> [Tây Ban Nha] </loc> <org> [Villarreal] [CF] </org> [vào] <date> [năm] [2005] </date> . 
+
+[Tuy nhiên] , <per> [Antonio Valencia] </per> [được] [đem] [cho] <org> [Recreativo] [de] [Huelva] </org> [mượn] [ở] [mùa] [giải] [2005-06] , [nơi] [anh] [đã] [giúp] [đội] [bóng] [lên] [hạng] . 
+
+[Ở] [đầu] [mùa] [giải] [sau] [đó] , <per> [Valencia] </per> [gia nhập] [đội] [bóng] [ở] [giải] [Ngoại hạng] [Anh] <org> [Wigan Athletic] </org> , [ban đầu] [là] [theo] [bản] [hợp đồng] [cho] [mượn] . 
+
+[Anh] [có] [trận] [ra mắt] [trong] [màu] [áo] <org> [Wigan] </org> [vào] <date> [ngày] [19] [tháng] [8] [năm] [2006] </date> , [trong] [trận] [thua] [2-1] [trước] <org> [Newcastle United] </org> , [và] [ghi bàn] [đầu tiên] [vào] <date> [ngày] [21] [tháng] [10] [năm] [2006] </date> . 
+
+[Bản] [hợp đồng] [cho] [mượn] [có] [thời hạn] [tới] [năm] [sau] [đó] , [và] [vào] <date> [ngày] [18] [tháng] [1] [năm] [2008] </date> , <per> [Valencia] </per> [chuyển] [hẳn] [tới] <org> [Wigan] </org> [với] [mức] [giá] [không] [được] [tiết lộ] .

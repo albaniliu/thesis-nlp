@@ -1,0 +1,41 @@
+<per> [Patrice Evra] </per> [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Pháp] </loc> [đang] [thi đấu] [cho] <org> [CLB] [Manchester United] </org> . 
+
+[Vị trí] [hiện tại] [của] <per> [Patrice Evra] </per> [tại] <org> [Manchester United] </org> [là] <pos> [hậu vệ] [cánh] [trái] </pos> . 
+
+[Ngay] [từ] [lúc] [ký] [hợp đồng] <per> [Evra] </per> [đã] [nhanh chóng] [chiếm] [đươc] [suất] [đá] [chính] [tại] <org> [Manchester United] </org> [với] [vị trí] <pos> [hậu vệ] [trái] </pos> - [vị trí] [mà] [lúc] [đó] <per> [Gabriel Heinze] </per> [thi đấu] [rất] [tốt] . 
+
+[Với] [khả năng] [phòng ngự] [cùng với] [tốc độ] , [khả năng] [tấn công] [biên] [rất] [tốt] <per> [Patrice Evra] </per> [cùng với] <per> [Rio Ferdinand] </per> [và] <per> [Nemanja Vidic] </per> [đã] [hợp thành] [bộ] [khung] [phòng ngự] [tốt] [nhất] <loc> [châu] [Âu] </loc> [bấy giờ] [và] [góp phần] [không] [nhỏ] [vào] [thành tích] [vô địch] [UEFA] [Champions League] <date> [2008] </date> [của] <org> [Manchester United] </org> . 
+
+[Mặc dù] [mới] [chỉ] [24] [tuổi] [khi] [anh] [gia nhập] <org> [Quỷ Đỏ] </org> , [nhưng] <per> [Evra] </per> [đã] [có] [5] [lần] [khoác áo] <org> [đội tuyển] [quốc gia] [Pháp] </org> . 
+
+[Anh] [cũng] [đã] [từng] [là] [thủ quân] [khi] [còn] [thi đấu] [cho] <org> [Monaco] </org> , [câu lạc bộ] [nơi] [anh] [đã] [chứng minh] [được] [những] [phẩm chất] [nổi bật] [của] [mình] : [nhanh nhẹn] , [tấn công] [tốt] , [có] [trách nhiệm] [và] [đặc biệt] [là] [khả năng] [dâng] [lên] [đảm nhiệm] [vị trí] <job> [tiền vệ] [trái] </job> [lúc] [cần thiết] . 
+
+<per> [Evra] </per> [đã] [bắt đầu] [sự nghiệp] [của] [mình] [tại] <loc> [Italy] </loc> [sau] [khi] [một] <job> [quan sát viên] </job> [từ] <org> [Masala] </org> [phát hiện] [khả năng] [chơi] [bóng] [của] [anh] [ở] <org> [Les Ulis] </org> , [một] [vùng] [ngoại ô] [nghèo khổ] [của] <loc> [Paris] </loc> [nơi] [mà] <per> [Thierry Henry] </per> [cũng] [đã] [từng] [trưởng thành] . 
+
+[Sau] [mùa] [bóng] [đầu tiên] [thi đấu] [tại] [Serie] [C1] , [anh] [được] [chuyển] [lên] [Serie] [B] [khi] [đồng ý] [gia nhập] <org> [Monza] </org> . 
+
+<date> [Năm] [2000] </date> , [câu lạc bộ] <org> [Nice] </org> [của] <loc> [Pháp] </loc> [đã] [đem] [anh] [trở lại] [quê hương] [và] [để] [anh] [thi đấu] [tại] [cánh] [trái] [hàng] [phòng thủ] [thay vì] [ở] [hàng] <job> [tiền vệ] </job> . 
+
+[Sau] [hai] [mùa] [cống hiến] [cho]  <org> [Nice] </org>  , [anh] [được] <org> [Monaco] </org> [để ý] [và] [đầu quân] [cho] [đội] [bóng] [này] . 
+
+[Sau] [quãng] [thời gian] [đầu] [để] [làm quen] [với] [những] [thay đổi] [với] [môi trường] [bóng đá] [có] [chất lượng] [cao] [hơn] , [anh] [bắt đầu] [gặt hái] [những] [thành công] [với] <org> [Monaco] </org> [như] [chiếc] [cúp] [Liên Đoàn Pháp] <date> [năm] [2003] </date> . 
+
+[Tiếp theo] [đó] , [anh] [cùng] <org> [Monaco] </org> [đi] [đến] [trận] [chung kết] [của] [giải] [đấu] [danh giá] [Champions League] [năm] <date> [2004] </date> [trước] [khi] [thua] <org> [Porto] </org> [với] [tỉ số] [3] - [0] . 
+
+<per> [Patrice] </per> [cũng] [thể hiện] [sự] [ngưỡng mộ] [và] [biết ơn] [đối với] <job> [HLV] </job> [đầu tiên] [của] [anh] [tại] <org> [Monaco] </org> , <per> [Didier Deschamps] </per> , [và] [xem] [đó] [như là] [một] [trong] [những] [người] [có] [ảnh hưởng] [lớn] [đến] [sự nghiệp] [thi đấu] [của] [mình] . 
+
+[Anh] [bộc bạch] [và] [cho biết] [chính] <per> [Deschamps] </per> [đã] [truyền] [cho] [mình] [tâm lý] [phải] [giành] [chiến thắng] [với] [bất cứ] [giá] [nào] [mỗi] [khi] [ra] [sân] . 
+
+[Trải] [qua] [những] [khó khăn] [từ] [nhiều] [mặt] [để] [dần] [quen] [với] [cuộc sống] [mới] [tại] <org> [United] </org> , [cũng như] [hiểu] [rõ] [hơn] [những] [thử thách] [mà] [giải] [Ngoại Hạng] [mang] [đến] , <per> [Patrice] </per> [cuối cùng] [cũng] [đã] [thể hiện] [được] [phong độ] [tốt] [nhất] [của] [mình] [vào] [mùa] [giải] <date> [2006] </date> / <date> [07] </date> [khi] [đóng góp] [mang] [về] [chức] [vô địch] [Premiership] [cho] <org> [Manchester United] </org> . 
+
+<pos> [Hậu vệ] </pos> <org> [đội tuyển] [Pháp] </org> [đã] [ý thức] [được] [những] [gì] [mà] [giải] [đấu] [hấp dẫn] [nhất] [hành tinh] [đòi hỏi] , [và] [đó] [là] [lý do] [anh] [đã] [chăm chỉ] [luyện tập] [trong] [phòng] [tập thể] [lực] [để] [nâng] [cao] [hơn] [sức khỏe] , [thể hình] [nhằm] [phù hợp] [với] [phong cách] [thi đấu] [ở] <loc> [Anh] </loc> . 
+
+[Kết quả] [của] [những] [nỗ lực] [không] [ngừng] [khi] [anh] [dần] [hòa nhập] [và] [đã] [có] [hai] [bàn] [thắng] [chia] [đều] [cho] [các] [giải] [đấu] [tại] [Premiership] [và] [Champions League] [trước] [các] [đối thủ] <org> [Everton] </org> [và] <org> [Roma] </org> . 
+
+[Phong độ] [chói] [sáng] [của] [anh] [đã] [không thể] [duy trì] [đến] [hết] [mùa] [giải] [khi] [một] [chấn thương] [khiến] [anh] [phải] [ngồi] [ngoài] [ở] [giai đoạn] [cuối] , [nhưng] [với] [những] [gì] [đã] [thể hiện] [và] [đóng góp] [cho] <org> [United] </org> , <per> [Evra] </per> [vẫn] [được] [các] [đồng nghiệp] [khác] [tại] <loc> [Anh] </loc> [bầu chọn] [vào] [đội hình] [tiêu biểu] [mùa] [bóng] <date> [06] </date> / <date> [07] </date> [của] [PFA] . 
+
+[Mùa] [giải] [mới] [cũng] [đã] [bắt đầu] [và] <per> [Patrice Evra] </per> [vẫn] [đang] [thể hiện] [mình] [là] <pos> [hậu vệ] [trái] </pos> [hay] [nhất] [tại] [Premier League] . 
+
+[Anh] [đang] [trình diễn] [một] [lối] [chơi] [vô cùng] [quyết liệt] , [thường xuyên] [lên] [công] [về] [thủ] [khiến] [cho] [cánh] [trái] [của] <org> [Quỷ Đỏ] </org> [trở nên] [rất] [mạnh mẽ] . 
+
+[Với] [những] [đóng góp] [cũng như] [phong độ] [mà] [anh] [đang] [thể hiện] , <per> [Evra] </per> [sẽ] [luôn] [là] [một] [phần] [quan trọng] [của] <org> [United] </org> [trong] [những] [năm] [tiếp theo] .

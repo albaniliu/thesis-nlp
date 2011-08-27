@@ -1,0 +1,31 @@
+ <per> [Wes Brown] </per> ( [sinh] <date> [ngày] [13] [tháng] [10] [năm] [1979] </date> [ở] <loc> [Longsight] , [Anh] </loc> ) [là] [một] [cầu thủ] [ngừoi] <loc> [Anh] </loc> [hiện] [là] <pos> [hậu vệ] </pos> [của] <org> [Manchester United] </org> . 
+
+<per> [Brown] </per> [bắt đầu] [sự nghiệp] <job> [cầu thủ] </job> [từ] [khi] [còn] [là] [một] [cậu bé] [khi] [anh] [chơi] [cho] <org> [trường] [Burnage] </org> , [và] [là] [một] [cựu] [học sinh] [của] [trường] <org> [Những] [tài năng] [của] [FA] </org> [ở] <loc> [Lilleshall] </loc> , [cũng như] [thời gian] [thi đấu] [cho] [đội] [trẻ] [của] <org> [MU] </org> , [nơi] [mà] [anh] [đã] [gia nhập] [năm 12] [tuổi.
+
+<per> [Brown] </per> [đã] [thể hiện] [được] [tài năng] [từ] [khi] [còn] [nhỏ] , [kí] [hợp đồng] [cùng] [đội] [thiếu niên] [của] <org> [MU] </org> [vào] <org> <date> [4/11/1996] </date> </org> [khi] [17] [tuổi] . 
+
+<per> [Brown] </per> [đi] [đến] [những] [thành công] [cùng] [đội] [trẻ] , [giành] [cúp] [FA] [dành] [cho] [đội] [trẻ] [và] [một] [danh hiệu] [cùng] [đội] [dự bị] . 
+
+[Anh] [cũng] [có] [mọt] [danh hiệu] [cầu thủ] [trẻ] [của] [năm] . 
+
+[Vào] <date> [4/5/1998] </date> , [Brown] [có] [trận] [đấu] [đầu tiên] [ở] [giải] [Ngoại Hạng] [khi] [tiếp] <org> [Leeds United] </org> , [khi] [vào] [thay] [người] . 
+
+[Bước] [đột phá] [của] <per> [Brown] </per> [là] [vào] [mùa] [giải] [sau] [đó] , [mùa] [98/99] , [khi] [anh] [có] [được] [vị trí] [chính thức] [bên] [hành lang] [cánh] [phải] [cũng như] [vài] [lần] [thi đấu] <pos> [trung vệ] </pos> . 
+
+<per> [Brown] </per> [có] [chấn thương] [đầu tiên] [ở] [mùa] [99/00] [khi] [tập] . 
+
+[Với] [két] [quả] [này] , [anh] [không thể] [cạnh tranh] [cho] [một] [vị trí] [chính thức] , [khi] [mà] <org> [Manchester United] </org> [có] [đựoc] [danh hiệu] [vô địch] [Premier League] [lần] [thứ] [6] [trong] [8] [mùa] [giải] . 
+
+[Việc] [anh] [khỏe] [lại] [mùa] [giải] [sau] [đó] [đã] [thúc] [đầy] [sự] [tán dương] [từ] [mọi] [phía] , [cùng với] [việc] <job> [HLV] </job> <per> [Alex Ferguson] </per> [đánh giá] [anh] [là] <pos> [hậu vệ] </pos> [tài năng] [số] [1] [của] [đội] . 
+
+<per> [Brown] </per> [lần] [đầu] [được] [gọi] [vào] [đội tuyển] [quốc gia] [là] [vao] <date> [năm] [1999] </date> [trong] [trận] <loc> [Anh] </loc> [gặp] <loc> [Hungary] </loc> . 
+
+<date> [Năm] [2002] </date> [anh] [có] [tên] [trong] [danh sách] [23] <job> [cầu thủ] </job> <loc> [Anh] </loc> [tham gia] [World Cup] [2002] . 
+
+<per> [Wes Brown] </per> [đã] [thi] [đấu] [tốt] [trong] [mùa] [giải] [2005-2006] [và] [được] [gọi] [vào] [đội tuyển] <loc> [Anh] </loc> [cho] [trận] [đấu giao hữu] [với] <loc> [Uruguay] </loc> . 
+
+[Mặc dù] [anh] [đã] [thi đấu] [nỗ lực] [để] [giành] [1] [suất] [cho] [việc] [tham dự] [World Cup] [2006] , [nhưng] [anh] [đã] [không] [được] [chọn] . 
+
+[Sau] [đó] [anh] [được] <job> [HLV] </job> <per> [Steve Mc] [Claren] </per> [gọi] [lại] [1] [lần] [nữa] [vào] [tuyển] , [và] [chơi] [trong] [thất vọng] [trong] [trận] [đấu] [với] <org> [Andorra] </org> [tại] [vòng loại] [EURO] [2008] <date> [ngày] [02] [tháng] [9] </date> , . 
+
+<per> [Brown] </per> [đã] [ghi bàn] [thắng] [đầu tiên] [của] [anh] [trong] [một] [trận] [giao hữu] [với] [Cộng hòa] <loc> [Séc] </loc> [vào] <date> [ngày] [20] [tháng] [8] </date> [tại] <loc> [Wembley] </loc> .

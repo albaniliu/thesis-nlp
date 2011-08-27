@@ -1,0 +1,35 @@
+[Nhà vi sinh học] [người] <loc> [Indonesia] </loc> , [bà] <per> [Leenawaty Limantara] </per> [đang] [phát triển] [một] [loại hình] [điều trị] [ung thư] [mới] [với] [chi phí] [chỉ] [bằng] [1/5] [hóa chất] [trị liệu] [và] [lại] [an toàn] [hơn] ... 
+
+[Với] [công trình] [nghiên cứu] [về] [việc] [sản xuất] [và] [sử dụng] [bacteriochlorophyll] [thông qua] [quang] [sinh học] , [mới đây] , [bà] <per> [Leenawaty Limantara] </per> , [tốt nghiệp] <org> [trường] [ĐH] [Munich] </org> [đã] [được] [trao] [giải thưởng] [thường niên] [lần] [thứ] [12] [của] <org> [Quỹ] [Khoa học] [Quốc gia] [Indonesia] </org> . 
+
+[Phát biểu] [sau khi] [nhận] [giải thưởng] , <per> [Leenawaty Limantara] </per> [cho biết] [liệu pháp] [quang] [động học] ( [PDT] ) [mới] [chỉ] [nhằm] [vào] [các] [khối u] [và] [tế bào] [ung thư] . 
+
+[Liệu pháp] [này] [khác] [với] [phương pháp] [điều trị] [ung thư] [bằng] [phương pháp] [hóa học] ( [hóa chất] [trị liệu] - [chemotherapy] ) [vốn] [có thể] [ảnh hưởng] [các] [mô] [khoẻ mạnh] . 
+
+[Với] [liệu pháp] [PDT] , [thoạt đầu] [bệnh nhân] [sẽ] [được] [cung cấp] [vi khuẩn] [thực vật] - [chất] [bacteriochlorophyll] - [thông qua] [đường] [miệng] ( [như] [dạng] [nước] [hoặc] [dạng] [thuốc] [viên] ) [hoặc] [tiêm] [vào] [trong] [tĩnh mạch] . 
+
+[Bacteriochlorophyll] [sẽ] [đóng] [vai trò] [như] [một] [chất] [làm] [nhạy] [khiến] [tế bào] [ung thư] [trở nên] [siêu] [nhạy] [với] [những] [vật] [sáng] [đặc biệt] [là] [ánh sáng] [tia hồng ngoại] . 
+
+[Và] [ánh sáng] [tia hồng ngoại] [sẽ] [giết] [các] [tế bào] [ung thư] . 
+
+[Sau đó] , [bệnh nhân] [mang] [bacteriochlorophyll] [sẽ] [được] [điều trị] [bằng] [tia hồng ngoại] . 
+
+[Bà] <per> [Leenawaty] </per> [hiện] [là] [giảng viên] [của] <org> [trường] [ĐH] [Satya Wacana Christian] ( [Salatiga] , [Trung Java] , [Indonesia] ) </org> [cho biết] [liệu pháp] [này] [chỉ] [tốn] [1/5] [so] [với] [hóa chất] [trị liệu] . 
+
+[Hiện] [giá] [mỗi] [đợt] [điều trị] [hóa chất] [ở] <loc> [Indonesia] </loc> [vào khoảng] [10] [triệu] [Rp] . 
+
+<per> [Leenawaty] </per> [cho biết] [phần] [tốn kém] [nhất] [để] [thực hiện] [loại] [PDT] [mới] [này] [là] [việc] [mua] [các] [thiết bị] [cần thiết] [để] [làm] [PDT] . 
+
+[Tổng] [chi phí] [của] [liệu pháp] [này] [phụ thuộc] [vào] [nơi] [và] [cách thức] [chất] [bacteriochlorophyll] [được] [sinh ra] . 
+
+[Tuy nhiên] , [vi khuẩn] [sẽ] [rất] [dễ] [sinh sôi] [ở] [đây] . 
+
+[Bacteriochlorophyll] [khó] [sinh sôi] [hơn] [và] [lại] [an toàn] [hơn] [chất] [diệp lục] [được] [lấy] [bằng] [phương thức] [hóa học] [từ] [cây] [vì] [chất] [này] [có thể] [bị] [đất] [và] [thuốc trừ sâu] [làm] [bẩn] . 
+
+[Liệu pháp] [PDT] [đã] [trừ] [thành công] [các] [loại] [ung thư] [miệng] , [ruột] , [phổi] , [não] , [da] , [mắt] [và] [trực tràng] . 
+
+[Tuy nhiên] , [bà] <per> [Leenawaty] </per> [cũng] [cho biết] [liệu pháp] [này] [không thể] [trị] [tất cả] [các] [loại] [ung thư] . 
+
+[Khả năng] [chữa] [cho] [bệnh nhân] [ung thư] [tuỳ thuộc] [vào] [loại] [ung thư] , [cách thức] [bệnh] [tiến triển] [và] [sức] [đề kháng] [bệnh] [của] [bệnh nhân] . 
+
+[Theo] [bà] <per> [Leenawaty] </per> , [đến] [nay] , [chỉ] [có] [vài] [nước] [sở hữu] [công nghệ] [PDT] , [còn] <loc> [Indonesia] </loc> [chưa] [có] [công nghệ] [này] .

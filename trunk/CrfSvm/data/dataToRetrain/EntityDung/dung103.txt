@@ -1,0 +1,31 @@
+<per> [Bojan Krkic Pérez] </per> ( [sinh] <date> [ngày] [28] [tháng] [8] [năm] [1990] </date> [ở] <loc> [Linyola] , [Lleida] , [Catalonia] </loc> ) [thường] [được] [biết] [tới] [cái] [tên] <per> [Bojan] </per> , [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Tây Ban Nha] </loc> [hiện] [là] <pos> [tiền đạo] </pos> [của] [câu lạc bộ] <org> [FC] [Barcelona] </org> . 
+
+<per> [Bojan Krkic] </per> [được] [sinh ra] [ở] <loc> [Tây Ban Nha] </loc> [với] [bố] [là] [người] <loc> [Serbia] </loc> ( [một] [cựu] <job> [cầu thủ] </job> [của] [câu lạc bộ] <org> [Red Star Belgrade] </org> ) [và] [mẹ] [là] [người] <loc> [Tây Ban Nha] </loc> . 
+
+[Anh] [đã] [chơi] [cho] [đội] [trẻ] <org> [Barca] </org> [từ] <date> [năm] [1999] </date> [tới] <date> [2006] </date> , [ghi] [khoảng] [500] [bàn] . 
+
+<per> [Bojan] </per> [kí] [hợp đồng] [chuyên nghiệp] [cùng] <org> [Barca] </org> [năm] [anh] [17] [tuổi] . 
+
+<per> [Krkic] </per> [chơi] [trận] [đầu tiên] [cho] <org> [Barcelona] </org> [vào] <date> [ngày] [24] [tháng] [4] [năm] [2007] </date> , [ghi] [1] [bàn] [trong] [trận] [giao hữu] [thắng] <org> [Al-Ahly] </org> [4] - [0] . 
+
+[Sau] [trận] [đấu] , <job> [huấn luyện viên] </job> <per> [Frank Rijkaard] </per> [phát biểu] : " [Tôi] [rất] [hài lòng] [màn] [trình diễn] [của] <per> [Bojan Krkic] </per> , [đặc biệt] [là] [bàn] [thắng] [từ] [cú] [dứt điểm] [mẫu mực] [của] [cậu] [ấy] . " 
+
+[Tên tuổi] [của] <per> [Bojan Krkic] </per> [bắt đầu] [nổi] [lên] [sau] [khi] [anh] [tham dự] [giải] [vô địch] [U17] [thế giới] [vào] <date> [năm] [2007] </date> [ở] <loc> [Hàn Quốc] </loc> , [giải] [đấu] [mà] [anh] [trở thành] [vua phá lưới] [với] [5] [bàn] . 
+
+[Ở] [giải] [đó] , [anh] [là] [thành phần] [chủ chốt] [của] [đội] <org> [U17] [Tây Ban Nha] </org> , [giúp] [đội tuyển] [vào] [chung kết] [và] [thua] <org> [U17] [Nigeria] </org> . 
+
+[Trận] [đó] , <per> [Bojan] </per> [đã] [không thể] [ra] [sân] [do] [bị] [treo giò] [bởi] [thẻ đỏ] [ở] [trận] [bán kết] [gặp] <org> [U17] [Ghana] </org> . 
+
+<per> [Bojan] </per> [còn] [cùng] [đội] <org> [U21] [Tây Ban Nha] </org> [tham dự] [giải] [U21] <loc> [châu] [Âu] </loc> [tổ chức] [ở] <loc> [Thụy Điển] </loc> . 
+
+[Tuy nhiên] , [giải] [đó] [đội] <org> [U21] [Tây Ban Nha] </org> [của] <per> [Krkic] </per> [đã] [không] [thi đấu] [thành công] [và] [bị] [loại] [từ] [vòng] [bảng] . 
+
+[Anh] [đã] [từ chối] [lời] [gọi] [vào] <org> [đội tuyển] [bóng đá] [quốc gia] [Serbia] </org> [để] [chọn] <org> [đội tuyển] [bóng đá] [quốc gia] [Tây Ban Nha] </org> . 
+
+[Vào] <date> [ngày] [1] [tháng] [2] [năm] [2008] </date> , <per> [Bojan] </per> [được] <job> [huấn luyện viên] </job> <per> [Luis Aragonés] </per> [triệu tập] [vào] [đội tuyển] [chuẩn bị] [cho] [trận] [gặp] <org> [đội tuyển] [bóng đá] [quốc gia] [Pháp] </org> . 
+
+<per> [Bojan] </per> [đã] [có] [cơ hội] [để] [trở thành] <job> [cầu thủ] </job> [trẻ] [nhất] [từng] [ra] [sân] [cho] [đội tuyển] [ở] [tuổi] [17] , [5] [tháng] [và] [9] [ngày] , [đánh bại] [kỷ lục] [của] <per> [Ángel Zubieta] </per> [khi] [ở] [tuổi] [17] [và] [9] [tháng] [đã] [được] [tồn tại] [trong] [70] [năm] . 
+
+[Tuy nhiên] , <per> [Bojan] </per> [đã] [bị] [chấn thương] [và] [không thể] [ra] [sân] . 
+
+[Anh] [có] [trận] [ra mắt] [cho] [đội tuyển] [vào] <date> [ngày] [10] [tháng] [9] [năm] [2008] </date> ( [ở] [tuổi] [18] [và] [13] [ngày] ) [dưới] [triều đại] <per> [Vicente] [del] [Bosque] </per> [gặp] <org> [đội tuyển] [bóng đá] [quốc gia] [Armenia] </org> , [khi] [anh] [vào] [sân] [ở] [10] [phút] [cuối] [thay] <per> [Santi Carzola] </per> .

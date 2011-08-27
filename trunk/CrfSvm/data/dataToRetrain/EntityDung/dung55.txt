@@ -1,0 +1,55 @@
+<org> [Manchester City] </org> [là] [một] [câu lạc bộ] [bóng đá] [chuyên nghiệp] <loc> [Anh] </loc> [đặt] [trụ sở] [tại] [thành phố] <loc> [Manchester] </loc> [nước] <loc> [Anh] </loc> . 
+
+<org> [Manchester City] </org> [đã] [2] [lần] [vô địch] <loc> [Anh] </loc> , [4] [lần] [đoạt] [cúp] [FA] [và] [1] [lần] [đoạt] [cúp] [C2] <loc> [châu] [Âu] </loc> . 
+
+[Sân nhà] [của] [câu lạc bộ] [là] [sân vận động] [Thành phố] <loc> [Manchester] </loc> [với] [sức] [chứa] [khoảng] [48.000] [khán giả] . 
+
+[Biệt danh] [của] [câu lạc bộ] [là] " <org> [The Citizens] </org> " ( [những] [người] [thành phố] ) [hoặc] " [The Blues] " ( [màu] [xanh] ) . 
+
+[Đối thủ] [truyền thống] [của] <org> [Manchester City] </org> [là] [câu lạc bộ] <org> [Manchester United] </org> . 
+
+[Hiện nay] , [câu lạc bộ] [đang] [thi đấu] [tại] [giải] [bóng đá] [ngoại hạng] <loc> [Anh] </loc> ( [Premier League] ) . 
+
+<org> [Manchester City] </org> [được] [thành lập] [năm 1880] [bởi] <per> [Anna Connel] </per> [và] [hai] [thành viên] [nhà thờ] <per> [St] . 
+
+[Mark] </per> ' [s] [tại] <loc> [Gorton] </loc> , [một] [quận] [phía] [đông] [thành phố] <loc> [Manchester] </loc> . 
+
+[Trước] [đó] <per> [St] [Mark] ' [s] </per> [chơi] [bóng chày] [từ] <date> [năm 1875] </date> . 
+
+<date> [Năm 1887] </date> , [họ] [chuyển] [tới] [sân] [mới] <loc> [Hyde Road] </loc> [ở] <loc> [Ardwick] </loc> [tại] [phía] [đông] [trung tâm] [thành phố] [và] [lấy] [tên] [mới] [theo] [tên] [nơi] [ở] [mới] [là] <org> [Ardwick Association Football Club] </org> . 
+
+<org> [Ardwick] </org> [tham gia] <org> [liên đoàn] </org> [bóng đá] [như] [một] [trong] [số] [thành viên] [sáng lập] [giải] [hạng] [Hai] [vào] <date> [năm 1892] </date> . 
+
+[Khó khăn] [về] [tài chính] [làm] [cho] [đội] [bóng] [phải] [tái] [cơ cấu] [vào] [mùa] [bóng] <date> [1893-1894] </date> , [và] [đổi] [tên] [mới] <org> [Manchester City Football Club] </org> . 
+
+[Vinh quang] [đầu tiên] [của] <org> [Manchester City] </org> [là] [vô địch] [giải] [hạng] [Hai] [và] [được] [lên] [chơi] [ở] [giải] [Hạng] [nhất là] [giải] [hạng] [cao] [nhất] [vào] <date> [năm 1899] </date> . 
+
+[Họ] [tiếp tục] [có] [được] [vinh quang] [đầu tiên] [vào] <date> [23.4.1904] </date> [khi] [đánh bại] <org> [Bolton Wanderers] </org> [với] [tỉ số] [1] [–] [0] [tại] [Crystal Palace] [để] [giành] [FA] [Cup] . 
+
+[Một] [vụ] [hỏa hoạn] [ở] [Hyde Road] <date> [năm] [1920] </date> [đã] [phá hủy] [khán đài] [chính] [của] [sân] , [và] <date> [năm] [1923] </date> [đội] [bóng] [chuyển] [tới] [sân] [mới] <loc> [Maine Road] </loc> . 
+
+[Vào] [thập kỉ] [1930s] , <org> [Manchester City] </org> [hai] [lần] [vào] [chung kết] [FA] [Cup] . 
+
+[Họ] [thua] <org> [Everton] </org> <date> [năm] [1933] </date> [và] [thắng] <org> [Portsmouth] </org> [để] [giành] [Cup] <date> [năm] [1934] </date> . 
+
+<org> [Manchester City] </org> [vô địch] [giải] [hạng] [nhất] [lần] [đầu tiên] [vào] <date> [năm] [1937] </date> . 
+
+[Nhưng] [ngay] [ở] [mùa] [bóng] [sau] [họ] [lại] [bị] [xuống] [hạng] [dù] [ghi] [nhiều] [bàn] [thắng] [hơn] [bất cứ] [đội] [nào] [trong] [giải] [đấu] . 
+
+[20] [năm] [sau] , <org> [Manchester City] </org> [chơi] [theo] [hệ thống] [chiến thuật] [gọi là] [Revie Plan] ( [đặt] [theo] [tên] [Don Revie] ) . 
+
+[Hộ lại] [2] [lần] [vào] [chung kết] [FA] [Cup] [vào] <date> [năm] [1955] </date> [và] <date> [1956] </date> [như] [hồi] [những] <date> [năm] [1930] </date> . 
+
+[Trận] [đầu] [họ] [thua] <org> [Newcastle United] </org> , [trận] [thứ] [2] [họ] [thắng] <org> [Birmingham City] </org> [3] [–] [1] . 
+
+[Sau] [khi] [bị] [xuống] [hạng] [lần] [thứ hai] [vào] <date> [năm] [1963] </date> , [họ] [rơi] [vào] [thảm cảnh] [khi] [khán giả] [đến] [sân] [thấp] [kỉ lục] [8015] [người] [khi] [họ] [tiếp] <org> [Swindon Town] </org> [vào] [tháng] <date> [1.1965] </date> . 
+
+[Mùa hè] <date> [năm] [1965] </date> [ban] [chỉ đạo] [đội] [bóng] [gồm] <per> [Joe Mercer] </per> [và] <per> [Malcolm Allison] </per> [được] [bổ nhiệm] . 
+
+[Mùa] [bóng] [đầu tiên] [dưới] [quyền] [của] [họ] , <org> [Manchester City] </org> [vô địch] [hạng] [hai] . 
+
+[Hai] [mùa] [sau] , [1967-1968] , <org> [Manchester City] </org> [vô địch] [hạng] [nhất] [lần] [thứ] [2] , [với] [trận] [thắng] <org> [Newcastle United] </org> [4-3] [trong] [vòng] [thi đấu] [cuối cùng] , [qua] [đó] [khiến] [người] [hàng xóm] <org> [Manchester United] </org> [phải] [về] [nhì] . 
+
+<date> [Năm] [1969] </date> , <org> [Manchester City] </org> [giành] [FA] [Cup] , [và] <date> [năm] [1970] </date> [họ] [giành] [Cup] [C2] [bằng] [trận] [thắng] <org> [Górnik Zabrze] </org> [của] [Ba Lan] [2] [–] [1] [tại] <loc> [Vienna] </loc> . 
+
+[Cùng] [năm] [đó] <org> [Manchester City] </org> [đoạt] [Cúp] <org> [Liên] [đoàn] </org> [bóng đá] <loc> [Anh] </loc> , [trở thành] [đội] [thứ] [2] [ở] [Anh] [đoạt] [Cup] <loc> [châu] [Âu] </loc> [và] [Cup] [nội địa] [trong] [cùng] [một] [mùa] [bóng] .

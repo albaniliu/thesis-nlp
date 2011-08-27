@@ -1,0 +1,13 @@
+<org> [Autodesk] </org> , [Inc] . ( [NASDAQ:] [ADSK] ) [là] [một] [công ty] [đa] [quốc gia] [của] <loc> [Hoa Kỳ] </loc> [với] [dòng] [sản phẩm] [chính] [là] [các] [phần mềm] [thiết kế] [2D] [và] [3D] [dành] [cho] [kiến trúc] , [kỹ thuật] [xây dựng] , [truyền thông] [và] [giải trí] . 
+
+<org> [Autodesk] </org> [do] [lập trình viên] <per> [John Walker] </per> , [đồng tác giả] [của] [các] [phiên bản] [đầu tiên] [của] [sản phẩm] [phần mềm] [CAD] [đặc trưng] [của] [công ty] [có] [tên] [AutoCAD] , [cùng] [mười hai] [thành viên] [khác] [sáng lập] [vào] [năm] [1982] . 
+
+[Trụ sở] [của] [công ty] [đặt] [tại] <loc> [San Rafael] , [California] </loc> . 
+
+<org> [Autodesk] </org> [có lẽ] [nổi tiếng] [nhất] [nhờ] [dòng] [sản phẩm] [phần mềm] [hỗ trợ] [thiết kế] [bằng] [máy tính] [có] [tên] [AutoCAD] . 
+
+[Ngày nay] , <org> [Autodesk] </org> [là] [công ty] [phần mềm] [thiết kế] [lớn] [nhất] [trên] [thế giới] , [với] [hơn] [9 triệu] [người] [sử dụng] [trên] [khắp] [thế giới] , [và] [công ty] [cũng] [vừa] [được] [liệt kê] [trong] [danh sách] " [50] [Công ty] [Sáng tạo] [nhất] [thế giới] " [của] [tạp chí] [Fast Company] [với] [vị trí] [thứ] [25] . 
+
+<org> [Autodesk] </org> [đã] [phát triển] [một] [tập] [các] [giải pháp] [tạo mẫu] [kỹ thuật số] ( [digital] [prototyping] ) [để] [giúp] [người] [dùng] [hình dung] , [mô phỏng] [và] [phân tích] [các] [tiến trình] [ở] [thế giới] [thực] [thông qua] [quá trình] [thiết kế] . 
+
+[Công ty] [cũng] [cung cấp] [phần mềm] [sáng tạo] [và] [quản lý] [phương tiện] [kỹ thuật số] [ở] [tất cả] [kỹ thuật] [phương tiện] [và] [giải trí] , [từ] [các] [hiệu ứng] [phim ảnh] [và] [truyền hình] , [phân loại] [màu] , [và] [biên tập] [cho đến] [phát triển] [hoạt họa] , [trò chơi] [máy tính] , [và] [hình dung] [thiết kế] .

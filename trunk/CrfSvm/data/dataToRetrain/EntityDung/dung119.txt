@@ -1,0 +1,45 @@
+<per> [Rio Gavin Ferdinand] </per> ( [sinh] <date> [ngày] [8] [tháng] [11] [năm] [1978] </date> [tại] <loc> [Peckham] , [London] </loc> ) [là] [một] [cầu thủ] [bóng đá] <loc> [Anh] </loc> , [anh] [có] [dòng] [máu] [pha trộn] <loc> [St Lucia] </loc> , <loc> [Dominica] </loc> [và] <loc> [Anglo] - [Ai len] </loc> . 
+
+<per> [Ferdinand] </per> [chơi] [ở] [vị trí] <pos> [hậu vệ] </pos> [cho] [câu lạc bộ] <org> [Manchester United] </org> [ở] [giải] [FA] [Premier League] [và] [ở] [các] [giải] [quốc tế] [cho] <org> [Đội tuyển] [bóng đá] [Anh] </org> . 
+
+<per> [Rio] </per> [là] [một] [siêu] <pos> [hậu vệ] </pos> , [cảm giác] [bóng] [tốt] [và] [có thể] [chuyển] [các] [đường] [bóng] [từ] [cản phá] [qua] [tấn công] , [anh] [chơi] [bóng] [bổng] [tốt] . 
+
+[Anh] [đã] [70] [lần] [khoác áo] <org> [đội tuyển] [bóng đá] [quốc gia] [Anh] </org> [và] [đã] [được] [chọn] [vào] [các] [đội tuyển] [FIFA] [World Cup] . 
+
+[Chàng trai] [sinh] [ở] [phía] [đông nam] <loc> [London] </loc> [này] [bắt đầu] [sự nghiệp] [cầu thủ] [của] [mình] [ở] [vị trí] <pos> [tiền đạo] </pos> [mũi nhọn] . 
+
+[Sau] [đó] <per> [Rio] </per> [chuyển] [xuống] [vị trí] <pos> [tiền vệ] [trung tâm] </pos> [khi] [chơi] [cho] [đội] <org> [U-14] [Eltham Town] </org> , [anh] [đã] [lọt] [vào] [mắt xanh] [của] [một] <job> [nhà] [tuyển trạch] </job> <org> [CLB] [West Ham United] </org> . 
+
+[Anh] [chuyển] [đến] [đội] [trẻ] [của] [CLB] [này] [khi] [mới] [là] [một] [cậu bé] [14] [tuổi] . 
+
+[Năm 16] [tuổi] <per> [Rio] </per> [quyết định] [sẽ] [ở] [lại] <org> [The Hammers] </org> [mặc dù] <org> [Middlesbrough] </org> [và] <org> [Chelsea] </org> [rất] [mong muốn] [có] [được] [anh] . 
+
+[Trong] [khoảng] [thời gian] [2] [năm] [trong] [bản] [hợp đồng] [cùng] <org> [West Ham] </org> [với] [tư cách] [là] [một] [cầu thủ] [học việc] [ở] [vị trí] <pos> [trung vệ] </pos> . 
+
+<per> [Rio] </per> [đã] [giúp] [đội] [trẻ] <org> [West Ham] </org> [giành] [được] [chức] [vô địch] [giải] [trẻ] [vùng] [đông bắc] [nước] <loc> [Anh] </loc> [mùa] [giải] <date> [1995] </date> - <date> [1996] </date> [với] [một số] [điểm] [kỷ lục] . 
+
+[Sau] [đó] <job> [HLV] </job> <per> [Harry Redknapp] </per> [rất] [ấn tượng] [với] [sự] [tiến bộ] [của] [của] <per> [Rio] </per> [và] [ông] [đã] [kí] [với] [anh] [một] [bản] [hợp đồng] [chuyên nghiệp] [khi] [anh] [mới] [ở] [độ] [tuổi] [17] . 
+
+<per> [Ferdinand] </per> [nếm trải] [mùi vị] [của] [giải] [đấu] [cao] [nhất] [nước] <loc> [Anh] </loc> [vào] <date> [ngày] [5/5/1996] </date> [khi] [anh] [được] [vào] [sân] [từ] [ghế] [dự bị] [trong] [trận] [đối đầu] [với] <org> [Sheffield Wednesday] </org> [trên] <loc> [sân] [Upton Park] </loc> . 
+
+[Vài] [mùa] [giải] [sau] [chứng kiến] [việc] <per> [Harry Redknapp] </per> [xây dựng] [đội] [bóng] [bằng] [cách] [cho] [các] [cầu thủ] [trẻ] [của] [mình] [ra đi] [đến] [với] [các] [CLB] [khác] [để] [tích lũy] [kinh nghiệm] [dưới] [dạng] [cho] [mượn] . 
+
+<per> [Và Rio] </per> [đã] [được] [gửi] [đến] [với] [CLB] [hạng] [Hai] <org> [Bournemouth] </org> . 
+
+<pos> [Hậu vệ] </pos> [trẻ] [này] [đã] [chơi] [10] [trận] [đấu] [tại] [giải] [hạng] [Hai] [từ] <date> [9] / [11] / [1996] </date> [đến] <date> [ngày] [11] / [1] / [1997] </date> . 
+
+[Sau] [đó] [anh] [trở lại] <org> [West Ham] </org> [để] [chuẩn bị] [cho] [những] [bước tiến] [lớn] [sau này] [tại] [đội hình] [chính thức] . 
+
+[Trận] [ra mắt] [của] [lần] [trở lại] [là] [một] [kỉ niệm] [đáng] [nhớ] [đối với] <per> [Rio] </per> . 
+
+[Tại trận] [đấu] [diễn] [ra vào] <date> [ngày] [25] / [1] / [1997] </date> [đó] [chứng kiến] [việc] [CLB] [tí hon] <org> [Wrexham] </org> [gây] [shock] [khi] [hạ] [Knock-Out] " <org> [The Hammer] </org> " [tại] [cúp] [FA] [bằng] [chiến thắng] [1] - [0] [ngay] [trên] <loc> [sân] [Upton Park] </loc> . 
+
+<per> [Rio] </per> [có] [trận] [đấu] [trọn vẹn] [90] [phút] [đầu tiên] [tại] [Premiership] [vào] <date> [ngày] [1] / [1] / [1997] </date> [trong] [trận] [đấu] [mà] <org> [West Ham] </org> [thất thủ] [2] - [1] [trước] <org> [Blackburn Rover] </org> . 
+
+[Trong] [trận] [đấu] [đó] <per> [Rio] </per> [ghi bàn] [thắng] [đầu tiên] [của] [mình] [cho] <org> [West Ham] </org> . 
+
+<per> [Rio] </per> [đã] [thi đấu] [152] [trận] [cho] <org> [West Ham] </org> [và] [ghi] [được] [2] [bàn] [thắng] . 
+
+[Sự] [tiến bộ] [của] <per> [Rio] </per> [đã] [khiến] [anh] [được] [so sánh] [với] [huyền thoại] [một] [thời] [của] <org> [West Ham] </org> - <per> [Bobby Moore] </per> . 
+
+<per> [Rio] </per> [được] [đánh giá] [là] <pos> [hậu vệ] </pos> [trẻ] [xuất sắc] [nhất] [nước] <loc> [Anh] </loc> [lúc] [bấy giờ] , [một] <job> [cầu thủ] </job> " [tao nhã] " [với] [lối] [chơi] [thông minh] [và] [hiệu quả] .

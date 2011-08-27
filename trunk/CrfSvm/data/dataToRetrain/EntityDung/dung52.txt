@@ -1,0 +1,31 @@
+<org> [FC] [Barcelona] </org> ( [viết] [tắt] [của] <org> [Futbol Club Barcelona] </org> [trong] [tiếng] <loc> [Catalan] </loc> ) [là] [câu lạc bộ] [thể thao] [giàu] [thành tích] [ở]  <loc> [Barcelona] , [Catalonia] , [Tây Ban Nha] </loc> . 
+
+[Câu lạc bộ] [này] [chơi] [nhiều] [môn] [thể thao] [nhưng] [trong] [đó] [nổi tiếng] [nhất là] [đội tuyển] [bóng đá] <org> [Barcelona] </org> . 
+
+<org> [FC] [Barcelona] </org> [được] [thành lập] [vào] <date> [năm] [1899] </date> [bởi] [một] [nhóm] <job> [cầu thủ] </job> [bóng đá] <loc> [Thụy Sĩ] </loc> , <loc> [Anh] </loc> [và] <loc> [Catalan] </loc> , [dẫn dắt] [bởi] <per> [Joan Gamper] </per> . 
+
+[Khẩu hiệu] [là]  [Més] [que] [un] [club]  ( [Không] [đơn thuần] [chỉ] [là] [một] [câu lạc bộ] ) . 
+
+[Sân nhà] [của] <org> [Bar] [ç] [a] </org> [là] [sân] <loc> [Nou Estadi] [del] [Futbol Club Barcelona] </loc> ( [Sân] [mới] [của] [Câu lạc bộ] [bóng đá] <org> [Barcelona] </org> ) , [thường] [được] [gọi là] [Camp Nou] [hay] [Nou Camp] . 
+
+[Vào] <date> [ngày] [22] [tháng] [Mười] [năm 1899] </date> , <per> [Joan Gamper] </per> [đăng] [1] [mẩu] [quảng cáo] [trên] [tờ] [Los Deportes] [chiêu] [gọi] [mọi] [người] [thành lập] [một] [câu lạc bộ] [bóng đá] . 
+
+[Và] <date> [ngày] [29] [tháng] [11] [năm 1899] </date> , [sau] [khi] [nhận] [được] [nhiều] [lời] [phản hồi] [đồng ý] [nhận lời] [tham gia] , [CLB] [được] [thành lập] [tại] [thành phố] <org> [Barcelona] </org> [–] <loc> [Tây Ban Nha] </loc> [dưới] [tên] [gọi] " <org> [Futbol Club Barcelona] </org> " [hay] <org> [FC] [Barcelona] </org> ( [gọi] [tắt] [là] <org> [Bar] [ç] [a] </org> ) , [màu] [áo] [xanh] [đậm] [và] [đỏ] [Bordeaux] . 
+
+[Mười một] <job> [cầu thủ] </job> [tham gia] [đầu tiên] [là] : <per> [Gualteri Wild] </per> , <per> [Lluís] [d] ' [Ossó] </per> , <per> [Bartomeu Terradas] </per> , <per> [Otto Kunzle] </per> , <per> [Otto Maier] </per> , <per> [Enric Ducal] </per> ,   <per> [Pere Cabot] </per>   , <per> [Josep Llobet] </per> , <per> [John Parsons] </per> , [và] <per> [William Parsons] </per> . 
+
+[Và] [cuối cùng] <per> [Johan Cruyff] </per> [–] <job> [cầu thủ] </job> [huyền thọai] [người] <loc> [Hà Lan] </loc> , [người] [đã] [từng] [thi đấu] [trong] [màu] [áo] <org> [Barcelona] </org> , [đổ bộ] [xuống] [đây] [vào] [một] [ngày mùa] [thu] <date> [năm] [1988] </date> [trên] [chiếc] [ghế] <job> [huấn luyện viên] </job> [trưởng] [để] [mở] [ra] [một] [kỷ nguyên] [mới] [trong] [lịch sử] [CLB] , [ông] [đã] [biến] <org> [Bar] [ç] [a] </org> [thành] [cái] [gọi là] " [Dream Team] " . 
+
+[Và] [cú] [sút] [khủng khiếp] [của] <per> [Ronand Koeman] </per> [trong] [một] [đêm] [Wembley] [kỳ ảo] <date> [tháng] [5] [năm] [1992] </date> [đã] [đem] [đến] [chiếc] [cúp] <loc> [châu] [Âu] </loc> [duy nhất] [còn] [thiếu] [trong] [lịch sử] [mà] <org> [Barca] </org> [đã] [đeo đuổi] [suốt] [40] [năm] . 
+
+[Ngôi] [đền] [thiêng] [của] <org> [Barca] </org> [đã] [mở] [ra] [với] [huyền thoại] [người] <loc> [Hà Lan] </loc> , [với] [những] [chiến công] [mà] [không] [ai] [có thể] [lặp] [lại] [được] [cho đến] [tận] [bây giờ] . 
+
+[Có thể] [tổng kết] [lại] <org> [Barca] </org> [dưới] [thời] [đấy] [qua] [phát biểu] [của] <per> [Fernando] </per> , [một] [cựu] [cầu thủ] [của] <org> [Valencia] </org> : " [Bạn] [không thể] [thắng] [đuợc] <org> [Barca] </org> [đâu] . 
+
+[Thứ] [nhất] , [họ] [lúc nào] [cũng] [có] [nhiều] [bóng] . 
+
+[Thứ hai] , [họ] [khoẻ] [hơn] [chúng ta] [và] [thứ ba] , [họ] [chạy] [như] [những] [thằng] [điên] " . 
+
+[Mùa] [giải] [2005-2006] , [họ] [bảo vệ] [thành] [công chức] [vô địch] [La Liga] , [và] [đặc biệt] [là] [Champions League] ( [tiền thân] [là] [cúp] [C1] ) [với] [1] [đội hình] [được] [xem] [là] " [Dream Team] [2] " [gồm] [những] [cái] [tên] <per> [Ronaldinho] </per> , <per> [Eto] ' [o] </per> , <per> [Messi] </per> ... 
+
+[Trong] [hơn] [100] [năm] [tồn tại] , <org> [Barca] </org> [đã] [đem] [được] [nhiều] [chiến tích] [về] [trưng bày] [trong] [phòng] [truyền thống] [của] [mình] : [20] [lần] [vô địch] [La Liga] , [25] [lần] [đoạt] [cúp] [Nhà vua] , [9] [lần] [đoạt] [Siêu] [cúp] <loc> [Tây Ban Nha] </loc> , [3] [cúp] [Champions League] , [4] [cúp] [C2] , [3] [cúp] [C3] , [3] [Siêu] [cúp] <loc> [châu] [Âu] </loc> [và] [1] [Cúp] [thế giới] [các] [câu lạc bộ] .

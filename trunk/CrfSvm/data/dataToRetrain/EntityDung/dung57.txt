@@ -1,0 +1,33 @@
+[Câu lạc bộ] [bóng đá] <org> [Chelsea] </org> ( <org> [Chelsea Football Club] </org> ) , [đôi khi] [được] [gọi] [ngắn] [là] <org> [Chelsea] </org> , [là] [một] [câu lạc bộ] [bóng đá] <loc> [Anh] </loc> , [trụ sở] [tại] <loc> [Stamford Bridge] </loc> [ở] [phía] [tây] [thủ đô] <loc> [London] </loc> . 
+
+<date> [Ngày] [14] [tháng] [3] [năm] [1905] </date> , [một] [nhóm] [thanh niên] [yêu] [bóng đá] [tại] <loc> [Chelsea] </loc> - [một] [quận] [phía] [tây] <loc> [London] </loc> - [đã] [tập hợp] [nhau] [tại] [quán] [rượu] <loc> [Rising Sun] </loc> ( [nay] [đổi] [tên] [thành] [Butcher] ' [s] [Hook] ) [trên] [đường] <loc> [Fulham Road] </loc> , [quyết định] [thành lập] [đội] [bóng] [mang] [tên] <org> [Chelsea] </org> - [cái] [tên] [không] [hề] [thay đổi] [sau] [100] [năm] . 
+
+[Vì] [có] [trang phục] [truyền thống] [là] [màu] [xanh] , [nên] [đội] [đã] [có] [một] [tên] [gọi] [thân mật] [là] " [The Blues] " . 
+
+<date> [Ngày] [29] [tháng] [5] [năm] [1905] </date> , <org> [Chelsea] </org> [đã] [được] <org> [Liên đoàn] </org> [bóng đá] <loc> [Anh] </loc> [lựa chọn] [tham dự] [giải] [hạng] [Nhì] . 
+
+[Ngay] [từ] [những] [ngày] [đầu] [thành lập] , <org> [Chelsea] </org> [đã] [chọn] [cho] [mình] [một] [lối] [chơi] [bóng] [đẹp mắt] , [phóng khoáng] , [với] [lối] [chơi] [này] [họ] [đã] [có] [những] [kết quả] [ban đầu] [khá] [tốt đẹp] . 
+
+[Mùa] [giải] [đầu tiên] , <org> [Chelsea] </org> [xếp] [thứ] [3] [chung cuộc] [với] [22] [trận] [thắng] , [9] [trận] [hòa] [và] [chỉ] [thua] [7] [trận] , [thậm chí] [còn] [ghi] [được] [tới] [90] [bàn] [và] [chỉ] [để] [lọt lưới] [37] [bàn] . 
+
+[Mùa] [giải] [sau] [đó] , <org> [Chelsea] </org> [còn] [thi đấu] [thuyết phục] [hơn] [khi] [họ] [xếp] [thứ] [2] [và] [thắng] [tới] [26] [trận] [và] [hòa] [5] [trận] . 
+
+[Với] [kết quả] [này] <org> [Chelsea] </org> [đã] [chính thức] [được] [lên] [hạng] [Nhất] - [giải] [đấu] [cao] [nhất] [nước] <loc> [Anh] </loc> [khi] [đó] . 
+
+[Sau] [khi] [lên] [hạng] [Nhất] , <org> [Chelsea] </org> [không] [tạo] [được] [nhiều] [ấn tượng] [và] [đã] [phải] [rời] [giải] [đấu] [này] [vào] [năm] [1910] , [sau] [3] [mùa] [giải] [khó khăn] . 
+
+[Tuy nhiên] [khi] [trở lại] [hạng] [Nhì] , <org> [Chelsea] </org> [nhanh chóng] [vượt trội] [và] [họ] [lại] [trở lại] [hạng] [Nhất] [2] [mùa] [giải] [sau] [đó] . 
+
+[Bắt đầu từ] [đó] <org> [Chelsea] </org> [đã] [có] [chuỗi] [thời gian] [dài] [thi đấu] [ở] [giải] [hạng] [Nhất] , [tuy nhiên] [vị trí] [quen thuộc] [của] [họ] [là] [nửa] [dưới] [bảng] [xếp hạng] . 
+
+[Như] [một] [hệ quả] [tất yếu] , <org> [Chelsea] </org> [phải] [trở lại] [hạng] [Nhì] [vào] [cuối] [mùa] [giải] [1924] . 
+
+[Lần] [trở lại] [này] [không] [còn] [dễ dàng] [như] [trước] [nữa] , [và] <org> [Chelsea] </org> [đã] [phải] [mất] [6] [mùa] [giải] [để] [trở lại] [giải] [đấu] [cao] [nhất] . 
+
+[Đây] [là] [thời kỳ] <org> [Chelsea] </org> [đã] [thi đấu] [ổn định] [hơn] , [tuy nhiên] [vị trí] [quen thuộc] [của] [họ] [cũng] [chỉ] [là] [ở] [giữa] [bảng] [xếp hạng] . 
+
+<date> [Năm] [1940] </date> , [giải] [đấu] [phải] [gián đoạn] [vì] [Thế chiến] [thứ hai] [nổ] [ra] . 
+
+<date> [Năm] [1947] </date> , [giải] [đấu] [tiếp tục] [sau] [7] [năm] [gián đoạn] , <org> [Chelsea] </org> [tiếp tục] [thi đấu] [không] [thành công] , [và] [luôn] [ở] [vị trí] [nguy hiểm] [trong] [bảng] [xếp hạng] . 
+
+<date> [Năm] [1952] </date> , <per> [Ted Drake] </per> [đã] [đến] [nhằm] [vực] [dậy] [đội] [bóng] [giàu] [tham vọng] [nhưng] [thiếu] [ý chí] <org> [Chelsea] </org> .

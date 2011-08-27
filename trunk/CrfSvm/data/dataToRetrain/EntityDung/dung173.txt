@@ -1,0 +1,27 @@
+<per> [Andrea Pirlo] </per> ( [sinh] <date> [ngày] [19] [tháng] [5] [năm] [1979] </date> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] <loc> [Ý] </loc> . 
+
+[Anh] [hiện] [đang] [thi đấu] [cho] [câu lạc bộ] <org> [AC] [Milan] </org> [và] [cũng] [là] [thành viên] [Đội tuyển] [bóng đá] [quốc gia] <loc> <per> [Ý] </loc> . 
+
+[Pirlo] </per> [đã] [giữ] [một] [vai trò] [quan trọng] [trong] [chức] [vô địch] [thế giới] [lần] [thứ] [4] [của] [đội tuyển] <loc> [Ý] </loc> [tại] [World Cup] [2006] . 
+
+[Hiện nay] <per> [Pirlo] </per> [là] <pos> [tiền vệ] </pos> [tổ chức] [hàng đầu] [của] [bóng đá] <loc> [Ý] </loc> , [anh] [được] [người] [hâm mộ] [đặt] [cho] [biệt danh] [là] <per> [Maestro] </per> ( [Nhà] [ảo thuật] ) [vì] [khả năng] [kỹ thuật] [tốt] , [chuyền] [bóng] [thông minh] [và] [có] [cú] [sút] [phạt] [nguy hiểm] . 
+
+<per> [Pirlo] </per> [sinh] [ở] <loc> [Flero] , [Lombardy] </loc> . 
+
+[Cha] [của] [anh] [là] [chủ] [2] [xưởng] [sản xuất] [sắt] , [thép] . 
+
+<per> [Pirlo] </per> [có] [một] [người] [em trai] [là] <per> [Ivan] </per> [cũng] [là] <job> [cầu thủ] </job> [bóng đá] [đang] [chơi] [ở] [Serie] [B] [cho] [câu lạc bộ] <org> [Brescia] </org> . 
+
+<per> [Pirlo] </per> [được] [câu lạc bộ] <org> [Brescia] </org> [phát hiện] [và] [anh] [bắt đầu] [thi đấu] [ở] [đây] [đầu tiên] [là] [trong] [đội] [trẻ] [và] [sau] [đó] [là] [đội] [chính] <org> [Brescia] </org> [ở] [Serie] [A] [từ] <date> [năm] [1994] </date> [đến] <date> [năm] [1998] </date> . 
+
+[Ban đầu] <per> [Pirlo] </per> [thi đấu] [ở] [vị trí] <pos> [tiền đạo] </pos> , [trong] [vai trò] <pos> [tiền đạo] </pos> <pos> [đội trưởng] </pos> [đội tuyển] [U-21] <loc> [Ý] </loc> [do] <job> [huấn luyện viên] </job> <per> [Cesare Maldini] </per> [dẫn dắt] , <per> [Pirlo] </per> [đã] [cùng] [đồng đội] [giành] [chức] [vô địch] [giải] [U-21] <loc> [châu] </loc> [Âu] <date> [năm] [2000] </date> . 
+
+[Được] [coi] [là] [một] [tài năng] [trẻ] [của] [bóng đá] <loc> [Ý] </loc> , <per> [Pirlo] </per> [chuyển] [đến] [thi đấu] [cho] [câu lạc bộ] <org> [Internazionale] </org> [từ] <date> [năm] [1998] </date> , [tuy nhiên] [ở] [đây] [anh] [không] [thể hiện] [được] [mình] [và] [câu lạc bộ] [cũng] [có] [nhiều] [tiền đạo] [nổi tiếng] [khác] [nên] <per> [Pirlo] </per> [được] [cho] [các] [câu lạc bộ] [nhỏ] [ở] [Serie] [A] [mượn] [như] <org> [Reggina] </org> <date> [năm] [1999] </date> [và] <org> [Brescia] </org> <date> [năm] [2000] </date> . 
+
+[Bước ngoặt] [trong] [sự nghiệp] [của] <per> [Pirlo] </per> [là] [khi] [anh] [cùng] <per> [Clarence Seedorf] </per> [được] [câu lạc bộ] <org> [Internazionale] </org> [đổi] [lấy] [2] <job> [cầu thủ] </job> <per> [Francesco Coco] </per> [và] <per> [Andres Guglielminpietro] </per> [của] [câu lạc bộ] <org> [AC] [Milan] </org> <date> [năm] [2001] </date> . 
+
+[Tại] [câu lạc bộ] [mới] , <job> [huấn luyện viên] </job> <per> [Carlo Ancelotti] </per> [đã] [quyết định] [kéo] <per> [Pirlo] </per> [từ] [vị trí] <pos> [tiền đạo] </pos> [về] [vị trí] <pos> [tiền vệ] </pos> [lùi] , [vừa] [làm] [nhiệm vụ] [phòng ngự] [vừa] [làm] [nhiệm vụ] [tổ chức] , [phân phối] [bóng] . 
+
+[Anh] [đã] [nhanh chóng] [thích nghi] [với] [vị trí] [này] [và] [trở thành] [cầu thủ] [trụ cột] [trong] [đội hình] <org> [AC] [Milan] </org> [giúp] [đội] [bóng] [vào] [chung kết] [UEFA] [Champions League] [các] <date> [năm] [2003] </date> , <date> [2005] </date> , <date> [2007] </date> [và] [vô địch] [Serie] [A] <date> [năm] [2004] </date> . 
+
+<per> [Pirlo] </per> [và] <per> [Gennaro Gattuso] </per> [chơi] [ăn ý] [và] [bổ sung] [rất] [tốt] [cho] [nhau] [ở] [cả] [câu lạc bộ] [và] [đội tuyển] [khi] <per> [Pirlo] </per> [thì] [mạnh] [về] [kỹ thuật] [nhưng] [không] [mạnh] [về] [tranh chấp] [tay đôi] [còn] <per> [Gattuso] </per> [tuy] [yếu] [về] [kỹ thuật] [nhưng] [lại] [thiên] [về] [sức mạnh] .

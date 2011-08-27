@@ -1,0 +1,21 @@
+<per> [Ryan Joseph Giggs] </per> ( [Tên] [khai sinh] [là] <per> [Ryan Joseph Wilson] </per> , <date> [ngày] [29] [tháng] [11] [năm] [1973] </date> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] [xứ] <loc> [Wales] </loc> [hiện] [đang] [chơi] [ở] [giải] [ngoại hạng] <loc> [Anh] </loc> [cho] [câu lạc bộ] <org> [Manchester United] </org> [và] [cũng] [đã] [dành] [toàn bộ] [sự nghiệp] [thi đấu] [chuyên nghiệp] [của] [mình] [cho] [câu lạc bộ] [này] . 
+
+<per> [Giggs] </per> [chơi] [ở] [vị trí] <pos> [tiền vệ] </pos> [chạy] [cánh] [trái] [trong] [những] <date> [năm] [1990] </date> [và] [tiếp tục] [ở] [vị trí] [này] [vào] [những] <date> [năm] [2000] </date> , [nhưng] [anh] [ngày càng] [được] [huấn luyện viên] <per> [Alex Ferguson] </per> [sử dụng] [trong] [vai trò] [một] <pos> [tiền vệ] [trung tâm] </pos> [trong] [những] [năm] [sau này] . 
+
+<per> [Giggs] </per> [giữ] [một] [số lượng] [lớn] [các] [kỷ lục] [cá nhân] , [trong] [đó] [có] [kỷ lục] [là] [cầu thủ] [được] [tặng thưởng] [huy chương] [nhiều] [nhất] [trong] [lịch sử] [bóng đá] <loc> [Anh] </loc> . 
+
+<date> [Ngày] [16] [tháng] [5] [năm] [2009] </date> , [anh] [trở thành] [cầu thủ] [bóng đá] [đầu tiên] [có] [được] [11] [danh hiệu] [cùng] [câu lạc bộ] . 
+
+<per> [Giggs] </per> [là] <job> [cầu thủ] </job> [đầu tiên] [trong] [lịch sử] [giành] [giải thưởng] [Cầu thủ] [trẻ] [xuất sắc] [nhất] [năm] [của] [PFA] [trong] [hai] [năm] [liên tiếp] ( <date> [1992] </date> [và] <date> [1993] </date> ) [và] [là] [cầu thủ] [duy nhất] [đã] [chơi] [và] [ghi bàn] [trong] [mỗi] [mùa] [giải] [của] [Premier League] [kể] [từ] [giải] [đấu] [này] [ra đời] . 
+
+<per> [Giggs] </per> [đã] [có] [một] [sự nghiệp] [trong] [nước] [và] [châu lục] [rất] [dài] [và] [là] <job> [cầu thủ] </job> [đầu tiên] [trong] [lịch sử] [UEFA] [Champions League] [đã] [ghi bàn] [trong] [11] [mùa] [giải] [liên tiếp] , [chính] [những] [thành tích] [này] [đã] [khiến] [anh] [được] [bầu chọn] [vào] [Đội hình] [xuất sắc] [nhất] [thế kỷ] [của] [PFA] [trong] <date> [năm] [2007] </date> , [Đội hình] [Premier League] [xuất sắc] [nhất] [thập kỷ] , [vào] <date> [năm] [2003] </date> , [cũng như] [Đội hình] [xuất sắc] [nhất] [thế kỷ] [của] [FA] [Cup] . 
+
+<per> [Giggs] </per> [cũng] [là] <job> [cầu thủ] </job> [duy nhất] [của] <org> [MU] </org> [đã] [chơi] [trong] [tất cả] [11] [giải] [đấu] [Premier League] [và] [cả] [ba] [giải] [Cúp Liên] [đoàn] [mà] <org> [United] </org> [vô địch] . 
+
+[Trong] [trận] [chung kết] [UEFA] [Champions League] [2008] , [được] [tổ chức] [vào] <date> [ngày] [21] [tháng] [5] [năm] [2008] </date> , <per> [Giggs] </per> [đã] [vượt] [qua] [kỷ lục] [của] [huyền thoại] <per> [Sir.Bobby] [Charlton] </per> [với] [758] [trận] [thi đấu] [cho] <org> [Manchester United] </org> [để] [trở thành] [người] [từng] [khoác áo] " [Quỉ] [đỏ] " [nhiều] [lần] [nhất] [trong] [lịch sử] . 
+
+[Ở] [cấp độ] [quốc tế] , <per> [Giggs] </per> [chơi] [cho] <org> [đội tuyển] [bóng đá] [quốc gia] [Wales] </org> [trước] [khi] [giã từ] [sự nghiệp] [thi đấu] [quốc tế] [vào] <date> [ngày] [2] [tháng] [6] [năm] [2007] </date> , [và] [đã] [có] [một] [thời] [là] <job> [cầu thủ] </job> [trẻ] [nhất] [từng] [thi đấu] [cho] [đội tuyển] [quốc gia] . 
+
+[Với] [nhiều] [danh hiệu] [cao quý] [mà] <per> [Giggs] </per> [đã] [nhận] [được] [trong] [sự nghiệp] , [anh] [đã] [có] [tên] [trong] [Football League] [100] [Legends] ( [người] [cuối cùng] [còn] [thi đấu] [trong] [danh sách] ) , [anh] [được] [trao] [Huân chương] [đế quốc] <loc> [Anh] </loc> [trong] [Danh sách] [Queen] ' [s] <date> [2007] </date> [Birthday Honours] , [và] [được] [đưa] [vào] [Hall] [of] [Fame] ( [Toà] [nhà] [kỷ niệm] [những] [người] [nổi tiếng] ) [của] [bóng đá] <loc> [Anh] </loc> [vào] <date> [năm] [2005] </date> [cho] [những] [đóng góp] [của] [mình] [tới] [nền] [bóng đá]  <loc> [Anh quốc] </loc> . 
+
+<per> [Giggs] </per> [còn] [được] [bầu chọn] [là] [Nhân vật] [của] [năm] [do] <org> [BBC] [Sports] </org> [bình chọn] [vào] <date> [năm] [2009] </date> .

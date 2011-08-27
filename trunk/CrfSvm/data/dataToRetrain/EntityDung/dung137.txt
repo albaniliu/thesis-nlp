@@ -1,0 +1,35 @@
+<per> [Ashley Cole] </per> [sinh] <date> [ngày] [20] [tháng] [12] [năm] [1980] </date> , [tại] <loc> [Stepney] , [nước] [Anh] </loc> . 
+
+<per> [Ashley Cole] </per> [hiện] [đang] [là] <job> [cầu thủ] </job> [bóng đá] [của] [câu lạc bộ] <org> [Chelsea] [FC] </org> . [và] <org> [đội tuyển] [quốc gia] [Anh] </org> . 
+
+<per> [Ashley Cole] </per> [chơi] [ở] [vị trí] <pos> [hậu vệ] [cánh] [trái] </pos> , [và] [được] [đánh giá] [là] [một] [trong] [những] <pos> [hậu vệ] </pos> [hàng đầu] [thế giới] [hiện nay] . 
+
+<per> [Ashley Cole] </per> [trưởng thành] [từ] [trung tâm] [đào tạo] [trẻ] [của] <org> [câu lạc bộ] [Arsenal] </org> . 
+
+<per> [Ashley Cole] </per> [chơi] [trận] [đầu tiên] [cho] [đội hình] [chính] [của] <org> [Arsenal] </org> [trong] [trận] [đấu] [với] <org> [Middlesbrough] </org> <date> [ngày] [30] [tháng] [11] [năm] [1999] </date> [khi] [18] [tuổi] . 
+
+[Tuy nhiên] [đó] [là] [trận] [duy nhất] [anh] [được] [chơi] [cho] [đội hình] [chính] [của] <org> [Arsenal] </org> [ở] [mùa] [giải] [năm] [đó] . 
+
+[Cuối] [mùa] [giải] <date> [1999-2000] </date> , [anh] [được] [câu lạc bộ] <org> [Crystal Palace] </org> [mượn] [về] [và] [thi đấu] [14] [trận] , [ghi] [được] [1] [bàn] [thắng] [cho] [câu lạc bộ] [này] [tại] [giải] [Ngoại hạng] <loc> [Anh] </loc> . 
+
+[Mùa] [giải] [năm] [sau] , [do] <pos> [hậu vệ] [trái] </pos> [của] <org> [Arsenal] </org> [khi] [đó] [là] <job> [cầu thủ] </job> [người] <loc> [Brazil] </loc> <per> [Sylvinho] </per> [bị] [chấn thương] [nên] [anh] [được] [chọn] [vào] [đội hình] [chính] [thay thế] . 
+
+[Anh] [trở thành] [lựa chọn] [số một] [cho] [vị trí] [này] [kể cả] [khi] <per> [Sylvinho] </per> [bình phục] [chấn thương] . 
+
+[Từ] [đó] [anh] [là] [một] [trong] [những] [thành phần] [không thể] [thiếu] [của] [câu lạc bộ] <org> [Arsenal] </org> [giành] [những] [danh hiệu] [quan trọng] . 
+
+<date> [Năm] [2005] </date> [anh] [bị] [cáo buộc] [đã] [có] [những] [tiếp xúc] [không] [thích hợp] [với] [câu lạc bộ] <org> [Chelsea] </org> [nhằm] [chuyển nhượng] [mà] [không] [thông báo] [với] <org> [Arsenal] </org> . 
+
+[Trong] [vụ việc] [này] , [cùng] [bị] [phạt] [tiền] [với] [anh] [còn] [có] <job> [huấn luyện viên] </job> [của] <org> [Chelsea] </org> [lúc] [đó] [là] <per> [José Mourinho] </per> [và] <pos> [giám đốc] [điều hành] </pos> [của] <org> [Chelsea] </org> [là] <per> [Peter Kenyon] </per> . 
+
+[Mặc dù] [tuyên bố] [muốn] [rời] [khỏi] <org> [Arsenal] </org> , [sau] [vụ việc] [này] [anh] [vẫn] [ký] [hợp đồng] [gia hạn] [thêm] [một] [năm] [với] <org> [Arsenal] </org> . 
+
+<per> [Ashley Cole] </per> [chuyển] [tới] [thi đấu] [cho] <org> [Chelsea] </org> [ngay] [mùa] [sau] [đó] [trong] [một] [bản] [hợp đồng] [trị giá] [23] [triệu] [bảng] [Anh] . 
+
+[Việc] [chuyển nhượng] [này] [được] [hoàn tất] [chỉ] [vài] [giờ] [trước] [thời điểm] [đóng cửa] [thị trường] [chuyển nhượng] <job> [cầu thủ] </job> [của] [các] [câu lạc bộ] <loc> [châu] [Âu] </loc> . 
+
+<per> [Ashley Cole] </per> [lần] [đầu tiên] [khoác áo] [đội tuyển] [quốc gia] [nước] <loc> [Anh] </loc> [trong] [trận] [đấu] [với] <org> [Albania] </org> <date> [ngày] [28] [tháng] [3] [năm] [2001] </date> . 
+
+[Cho đến] [nay] [anh] [đã] [chơi] [cho] [đội tuyển] [quốc gia] [tại] [các] [giải] [đấu] [lớn] [như] [World Cup] <date> [2002] </date> , [Euro] <date> [2004] </date> [và] [World Cup] <date> [2006] </date> . 
+
+<per> [Ashley Cole] </per> [là] [một] [trong] [bốn] <job> [cầu thủ] </job> [của] [đội tuyển] [quốc gia] [nước] <loc> [Anh] </loc> [được] [chọn] [vào] [đội hình] [tiêu biểu] [của] [Euro] <date> [2004] </date> .

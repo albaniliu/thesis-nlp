@@ -1,0 +1,33 @@
+<per> [Seydou Keita] </per> ( [sinh] <date> [ngày] [16] [tháng] [1] [năm] [1980] </date> [ở] <loc> [Bamako] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Mali] </loc> [hiện] [đang] [chơi] [cho] <org> [FC] [Barcelona] </org> . 
+
+[Anh] [có] [biệt danh] " <per> [Seydoubilen] </per> " [hay] " <per> [Seydou] </per> [đỏ] " , <per> [Keita] </per> [là] [cháu] [của] <per> [Salif Keita] </per> . 
+
+<per> [Keita] </per> [có] [lần] [ra] [sân] [đầu tiên] [cho] <org> [Olympique Marseille] </org> [vào] <date> [tháng] [9] [năm] [1999] </date> , [nhưng] [không] [lâu] [sau] [anh] [đã] [chuyển] [tới] <org> [FC] [Lorient] </org> . 
+
+<org> [Lorient] </org> [chính] [là] [nơi] [đã] [khiến] <per> [Keita] </per> [được] [nhiều] [đội] [bóng] [nhòm ngó] [hơn] , [anh] [ghi] [1] [bàn] [trong] [58] [trận] [ra] [sân] [ở] [vị trí] <pos> [tiền vệ] </pos> [lùi] . 
+
+[Sau] [hai] [năm] [chơi] [cho] <per> [Lorient] </per> , <per> [Keita] </per> [chuyển] [về] <org> [RC] [Lens] </org> , [nhanh chóng] [được] [trao] [băng] [đội trưởng] . 
+
+[Anh] [bắt đầu] [ghi] [nhiều] [bàn] [hơn] [khi] [ghi] [19] [bàn] [trong] [156] [trận] [ra] [sân] [trong] [4] [mùa] [giải] . 
+
+[Vào] <date> [ngày] [11] [tháng] [7] [năm] [2007] </date> , <org> [Lens] </org> [bán] [đội trưởng] [của] [họ] [cho] <org> [FC] [Sevilla] </org> . 
+
+[Đó] [là] [một] [mùa] [giải] [rất] [thành công] [cho] <per> [Keita] </per> [khi] [anh] [ghi] [4] [bàn] [trong] [31] [lần] [ra] [sân] [ở] [La Liga] , [và] [được] [nhòm ngó] [bởi] [một] [loại] [các] [đội] [bóng] [hàng đầu] <loc> [châu] [Âu] </loc> . 
+
+[Một] [trong] [4] [bàn] [anh] [ghi] [được] [là] [vào] [lưới] <org> [Real Madrid] </org> . 
+
+[Đó] [chính] [là] [lí do] [anh] [thu hút] [được] [sự] [chú ý] [của] [một] [loạt] [các] [đội] [bóng] [hàng đầu] , [trong] [đó] [có] <org> [Barcelona] </org>.
+
+[Vào] <date> [ngày] [27] [tháng] [11] [năm] [2007] </date> , <per> [Keita] </per> [ghi bàn] [đầu tiên] [ở] [cúp] [C1] [vào] [lưới] <org> [Arsenal] </org> . 
+
+[Vào] <date> [ngày] [26] [tháng] [5] [năm] [2008] </date> , <per> [Keita] </per> [kí] [hợp đồng] [với] [đội] [bóng] [xứ] <loc> [Catalan] </loc> [với] [mức] [giá] [khoảng] [14] [triệu] [euro] . 
+
+[Anh] [trở thành] <job> [cầu thủ] </job> <loc> [Mali] </loc> [đầu tiên] [của] <org> [Barca] </org> [và] [có] [mức] [phí] [phá bỏ] [hợp đồng] [là] [90] [triệu] [euro] . 
+
+<per> [Keita] </per> [có] [trận] [ra mắt] [ở] [vòng loại] [cúp] [C1] [gặp] <org> [Wisla] [Kraków] </org> [vào] <date> [ngày] [13] [tháng] [8] [năm] [2008] </date> . 
+
+[Anh] [có] [trận] [ra mắt] [ở] [giải] [quốc nội] [vào] <date> [ngày] [31] [tháng] [8] [năm] [2008] </date> [gặp] <org> [CD] [Numancia] </org> . 
+
+<per> [Keita] </per> [ghi bàn] [đầu tiên] [cho] <org> [Barca] </org> [vào] <date> [ngày] [16] [tháng] [11] [năm] [2008] </date> [ở] [La Liga] [gặp] <org> [Recreativo] [de] [Huelva] </org> , [ghi bàn] [thứ] [2] [trong] [chiến thắng] [2] - [0] . 
+
+[Anh] [đã] [được] [vào] [sân] [ở] [phút] [72] [để] [thay] <per> [Thierry Henry] </per> [trong] [trận] [chung kết] [cúp] [C1] [gặp] <org> [Manchester United] </org> .

@@ -1,0 +1,39 @@
+<per> [Joseph] [Joe] [John Cole] </per> [là] [một] <job> [cầu thủ] </job> [bóng đá] [chuyên nghiệp] [đang] [chơi] [cho] [câu lạc bộ] [bóng đá] <loc> [Anh] </loc> <org> [Liverpool] </org> [tại] [giải] [Premier League] . 
+
+<per> [Joe Cole] </per> [là] [một] <job> [cầu thủ] </job> [thuận] [chân] [phải] [nhưng] [có] [khả năng] [chơi] [tốt] [ở] [cả] [hai] [cánh] [và] [cả] [vị trí] <pos> [tiền vệ] [tấn công] </pos> . 
+
+[Điểm] [nổi bật] [của] [anh] [là] [kỹ thuật] [đi] [bóng] , [rê] [dắt] [bóng] [và] [khả năng] [sút] [tốt] [cả] [hai] [chân] . 
+
+<per> [Joe Cole] </per> [sinh] <date> [ngày] [8] [tháng] [11] [năm] [1981] </date> [tại] <loc> [Paddington] , [thành phố] [Luân Đôn] </loc> . 
+
+[Anh] [là] [sản phẩm] [từ] [lò] [đào tạo] [của] [câu lạc bộ] <org> [West Ham United] [FC] </org> . [và] [đây] [cũng] [là] [câu lạc bộ] [đầu tiên] [trong] [sự nghiệp] [của] [anh] . 
+
+<per> [Joe Cole] </per> [được] [xem] [là] [một] [tài năng] [trẻ] [đầy] [triển vọng] [ngay] [khi] [mới] [16] [tuổi] [và] [đã] [nhận] [được] [nhiều] [lời] [đề nghị] [từ] [các] [câu lạc bộ] [trong] [đó] [có] <org> [Manchester United] [FC] </org> . . 
+
+[Năm] [17] [tuổi] , <per> [Joe Cole] </per> [chính thức] [trở thành] [cầu thủ] [chuyên nghiệp] [dưới] [màu] [áo] <org> [West Ham United] </org> . 
+
+[Năm] [19] [tuổi] , [anh] [trở thành] <pos> [đội trưởng] </pos> [câu lạc bộ] . 
+
+<date> [Năm] [2002] </date> , [anh] [được] [gọi] [vào] [đội tuyển] <loc> [Anh] </loc> [tham gia] [World Cup] <date> [2002] </date> [tại] <loc> [Hàn Quốc] </loc> [và] <loc> [Nhật Bản] </loc> [nhưng] [cùng] [năm] [đó] <org> [West Ham United] [FC] </org> [bị] [xuống] [hạng] . 
+
+<per> [Joe Cole] </per> [chuyển] [đến] <org> [Chelsea] </org> [vào] <date> [năm] [2003] </date> [sau] [khi] <per> [Roman Abramovich] </per> [lên] [làm] <pos> [chủ tịch] </pos> [đội] [bóng] [và] [thực hiện] [hàng loạt] [vụ] [chuyển nhượng] [với] [nhiều] [ngôi sao] . 
+
+[Giá] [chuyển nhượng] [của] [anh] [là] [6,6] [triệu] [bảng] [Anh] . 
+
+[Tuy nhiên] [vì] [không] [được] <job> [huấn luyện viên] </job> <org> [Chelsea] </org> , [lúc] [đó] [là] <per> [Claudio Ranieri] </per> , [tin dùng] [nên] <per> [Joe Cole] </per> [thi đấu] [không] [thành công] [ở] [mùa] [bóng] <date> [2003/2004] </date> [mặc dù] [đã] [cùng] <org> [Chelsea] </org> [vào] [đến] [bán kết] [Champion League] [và] [hạng] [nhì] [giải] [Premier League] . 
+
+[Bị] [chấn thương] [trong] [chuyến] [du] [đấu] [tại] <loc> [Mỹ] </loc> [nên] <per> [Joe Cole] </per> [phải] [nghỉ] [thi đấu] [3] [tháng] [đầu] [mùa] [giải] <date> [2006/2007] </date> [và] [4] [trận] [vòng loại] [Euro] <date> [2008] </date> [của] <org> [đội tuyển] [Anh] </org> . 
+
+<per> [Joe Cole] </per> [trở lại] [đội hình] [chính] [vào] [ngày] <date> [14/10/2006] </date> [trong] [trận] [đấu] [gặp] <org> [Reading] </org> [và] [ghi bàn] [thắng] [đầu tiên] [vào] [lưới] <org> [Blackburn Rovers] </org> [tại] [cúp] [Liên Đoàn Anh] . 
+
+[Tuy nhiên] , [trong] <date> [tháng] [1] [năm] [2007] </date> , [anh] [phải] [tham gia] [giải phẫu] [vì] [gãy] [xương] [bàn chân] [vào] [cuối] <date> [năm] [2006] </date> . 
+
+[Mặc dù] [anh] [phát biểu] [trong] [một] [phỏng vấn] [ngày] <date> [30/1] </date> [trên] [website] [của] <org> [Chelsea] </org> [là] [anh ta] [không thể] [đưa] [ra] [một] [thời khoá biểu] [cho] [sự] [trở lại] [của] [anh ấy] , <job> [bác] [sỹ] </job> <per> [Bryan] </per> [của] [câu lạc bộ] [phát biểu] [ngày] <date> [24/2/2007] </date> [ý định] [hy vọng] [anh] [sẽ] [trở lại] [vào] <date> [tháng] [4] , [2007] </date> [để] [giáp mặt] <org> [Valencia] [FC] </org> [vào] [vòng] [tứ kết] [Champion League] <date> [2006-2007] </date> . 
+
+[Trở lại] [từ] [chấn thương] [ở] [cuối] [mùa] [giải] , <per> [Joe Cole] </per> [đã] [thay thế] [vị trí] <per> [Arjen Robben] </per> [chấn thương] [phải] [nghỉ] [hết] [mùa] [giải] . 
+
+[Anh] [đã] [ghi bàn] [thắng] [vào] [lưới] <org> [Liverpool] </org> [ở] [trận] [lượt đi] [bán kết] [Champion League] [nhưng] [cuối cùng] <org> [Chelsea] </org> [để] [thua] <org> [Liverpool] </org> [trong] [những] [loạt] [sút] [luân lưu] . 
+
+[Sau] [đó] , <org> [Chelsea] </org> [mất] [luôn] [danh hiệu] [vô địch] [Premier League] [về] [tay] <org> [Manchester United] </org> . 
+
+[Tuy nhiên] , [cuối] [mùa] [giải] , <org> [Chelsea] </org> [giành] [được] [FA] [Cup] [thứ tư] [trong] [lịch sử] [câu lạc bộ] .

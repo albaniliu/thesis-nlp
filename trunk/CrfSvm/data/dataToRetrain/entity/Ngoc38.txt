@@ -1,0 +1,41 @@
+[Chú] <per> [Hỏa] </per> [gốc] [ở] <loc> [tỉnh] [Phúc Kiến] , [Trung Quốc] </loc> . 
+
+[Tên] [khai sinh] [là] <per> [Hứa Bổn Hòa] </per> ( [Hui Bon Hoa] ) . 
+
+[Tổ tiên] [của] [ông] <per> [Hứa Bổn Hòa] </per> [vào] <loc> [miền] [Nam] [Việt Nam] </loc> [sau khi] [Mãn Châu] [đánh bại] [nhà] [Minh] . 
+
+[Ông] [khởi nghiệp] [từ] [việc] [buôn bán] [ve chai] , [về sau] [ông] [đổi] [tên] [thành] [Jean Baptiste Hui Bon Hoa] [khi] [trở nên] [giàu có] . 
+
+[Thành lập] <org> [công ty] [Hui Bon Hoa] </org> , [có] [thời] [là] [công ty] [về] [bất động sản] [lớn] [sở hữu] [trên] [20.000] [căn nhà] [ở] <loc> [Sài Gòn] </loc> [đồng thời] [xây dựng] [rất] [nhiều] [công trình] [có] [giá trị] [lớn] [ở] <loc> [vùng] [Sài Gòn] - [Gia Định] </loc> [vẫn] [còn] [tồn tại] [đến] [ngày nay] . 
+
+<org> [Bảo tàng] [Mỹ thuật] [thành phố] </org> , <org> [Khách sạn] [Majestic] </org> , <org> [Bệnh viện] [Từ Dũ] </org> , <org> [Trung tâm] [cấp cứu] [Sài Gòn] </org> , [nhiều] [ngân hàng] , [trụ sở] [mua bán] [ở] <loc> [Quận] [5] , [Thành phố] [Hồ Chí Minh] </loc> , [và] [các] [công trình] [nhà riêng] , [chùa chiền] , [bệnh viện] [khác] .
+
+[Các] [công trình] [này] [đóng góp] [một] [vai trò] [quan trọng] [trong] [việc] [hình thành] [bộ mặt] [của] <loc> [thành phố] [Sài Gòn] </loc> . 
+
+[Chú] <per> [Hỏa] </per> [là] [một] [trong] [những] [người] [giàu có] [nhất] [ở] <loc> [miền] [Nam] [Việt Nam] </loc> [và] [là] [một] [người] [có] [tấm lòng] [hướng] [ra] [cộng đồng] . 
+
+[Nhà biên khảo] <per> [Vương Hồng Sển] </per> [từng] [nhận xét] : " [Tuy] [làm giàu] [cho] [mình] [đã đành] , [nhưng] [cũng] [giúp ích] [rất] [nhiều] [cho] [sự] [mở mang] [thịnh vượng] [kinh tế] [ở] <loc> [miền] [Nam] </loc> " . 
+
+[Sự nghiệp] [của] [ông] [ở] <loc> [Việt Nam] </loc> [vẫn] [được] [con cháu] [tiếp tục] [sau] [khi] [ông] [mất] , [đến] [sau] [năm] [1975] [thì] [ngừng] [do] [họ] [đều] [đi ra] [nước ngoài] [sinh sống] . 
+
+<per> [Anita Roddick] </per> , [người sáng lập] [ra] [hệ thống] [cửa hàng] <org> [The Body Shop] </org> , [cho rằng] [những] [doanh nhân] [thành đạt] [phải] [làm cho] [thế giới] [trở nên] [tốt đẹp] , [an toàn] [và] [văn minh] [hơn] . 
+
+[Từ] [năm] [1978] [đến] [năm] [1982] , [trung bình] [mỗi] [tháng] , <per> [Anita Roddick] </per> [mở] [thêm] [hai] [cửa hàng] [mới] . 
+
+[Đến] [năm] [1985] , <org> [công ty] [The Body Shop] </org> [được] [niêm yết] [trên] [thị trường chứng khoán] [ở] <loc> [London] </loc> . 
+
+[Từ đó] [đến] [nay] , <org> [The Body Shop] </org> [liên tục] [chiếm lĩnh] [thị trường] [thế giới] . 
+
+[Hiện tại] , [vòng quay] [vốn] [một] [năm] [của] <org> [The Body Shop] </org> [vào khoảng] [1] [tỷ] [đôla] . 
+
+<per> [Anita Roddick] </per> [quan niệm] [mọi người] [sẽ] [nhớ] [đến] [bạn] [không phải] [vì] [những] [gì] [bạn] [đã] [đạt] [được] [trong] [kinh doanh] [mà] [là] [những] [gì] [bạn] [đã] [đóng góp] [cho] [xã hội] . 
+
+[Nếu] [chỉ] [ngụp lặn] [trong] [cuộc sống] [tiện nghi] [và] [đầy] [cám dỗ] [của] [một] [nữ] [doanh nhân] [giàu có] [thì] [quá] [dễ] , [nhưng] [nếu] [cuộc sống] [không] [có] [đấu tranh] [thì] [cũng] [giống] [như] [cái chết] . 
+
+[Bà] [tâm nguyện] [tiền] [kiếm được] [sẽ] [dành cho] [các] [hoạt động] [bảo vệ] [quyền] [con người] [và] [bảo vệ] [luật pháp] . 
+
+" [Bài học] [quan trọng] [nhất] [đối với] [những] [người] [mới] [bắt đầu] [kinh doanh] [là] [nếu] [bạn] [phạm] [phải] [sai lầm] , [thì] [hãy] [thừa nhận] [và] [đưa] [ra] [ngay] [các] [biện pháp] [để] [thay đổi] [tình thế] . 
+
+[Mỗi] [doanh nhân] [đều] [cần] [có] [một] [cái] [ăng-ten] [ở] [trên] [đầu] . 
+
+[Tôi] [có thể] [đi] [trên] [bất cứ] [con đường] [nào] , [ở] [bất cứ] [góc] [nào] [của] [thế giới] , [nhưng] [ăng-ten] [của] [tôi] [bao giờ] [cũng] [thu nhận] [thông tin] [và] [đánh giá] [những] [điều] [làm] [tôi] [ngạc nhiên] [hoặc] [nghe thấy] [có] [gì] [liên quan] [với] <org> [The Body Shop] </org> " , [nữ] [tỷ phú] [nói] . 

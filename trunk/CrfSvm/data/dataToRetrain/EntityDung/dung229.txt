@@ -1,0 +1,51 @@
+<per> [Roger Federer] </per> ( [sinh] <date> [ngày] [8] [tháng] [8] [năm] [1981] </date> [tại] <loc> [Basel] , [Thụy Sỹ] </loc> ) [là] [vận động viên] [quần vợt] [chuyên nghiệp] [người] <loc> [Thụy Sỹ] </loc> . 
+
+<per> [Roger Federer] </per> [được] [nhiều] [chuyên gia] , [cựu] [danh thủ] [cũng như] [nhiều] [tay vợt] [cùng] [thời] [xem] [là] [tay vợt] [xuất sắc] [nhất] [thế giới] [qua] [mọi] [thời đại] [ [1] ] [ [2] ] [ [3] ] . 
+
+<per> [Federer] </per> [hiện] [đang] [nắm] [giữ] [nhiều] [kỷ lục] [trong] [làng] [quần vợt] , [trong] [đó] [có] [việc] [đứng số] [1] [thế giới] [trong] [bảng] [xếp hạng] [của] [ATP] [237] [tuần] [liên tiếp] [từ] <date> [2/2/2004] </date> [tới] <date> [17/8/2008] </date> , [đồng thời] [là] [tay vợt] [duy nhất] [trong] [lịch sử] [đoạt] [5] [chức] [vô địch] <loc> [Wimbledon] </loc> [và] <loc> [Mỹ] </loc> [mở rộng] [liên tiếp] . 
+
+<per> [Federer] </per> [đã] [đoạt] [16] [danh hiệu] [Grand Slam] [ [4] ] , [vượt] [qua] [kỷ lục] [cũ] [của] <per> [Pete Sampras] </per> [là] [14] [danh hiệu] , [và] [là] [1] [trong] [6] [tay vợt] [trong] [lịch sử] [vô địch] [cả] [4] [giải] [Grand Slam] . 
+
+[Hiện] <per> [ Roger Federer] </per> [là] [tay vợt] [số] [2] [trong] [bảng] [xếp hạng] [ATP] ( [tháng] [08] , [2010] ) . 
+
+<per> [Roger Federer] </per> [sinh] [tại] <loc> [Basel] , [Thụy Sỹ] </loc> , <date> [ngày] [8] [tháng] [8] [năm] [1981] </date> . 
+
+[Anh] [là] [con trai] [của] [ông] <per> [Robert Federer] </per> [người] <loc> [Thụy Sỹ] </loc> [và] [bà] <per> [Lynette] </per> [người] <loc> [Nam Phi] </loc> . 
+
+<per> [Federer] </per> [có] [một] [chị gái] [là] <per> [Diana] </per> . 
+
+[Năm] [lên] [8] [tuổi] <per> [Federer] </per> [được] [nhận] [vào] [đội] [quần vợt] [trẻ] [của] [thành phố] <loc> [Basel] </loc> . 
+
+[Ngoài] [quần vợt] , [một] [niềm] [đam mê] [khác] [của] [anh] [là] [bóng đá] , [tuy nhiên] [sau] [đó] <per> [Federer] </per> [đã] [quyết định] [tập trung] [vào] [sự nghiệp] [quần vợt] . 
+
+[Thời] [niên thiếu] <per> [Federer] </per> [không] [tỏ] [ra] [đặc biệt] [nổi trội] [so] [với] [những] [tay vợt] [khác] [đồng] [trang lứa] . 
+
+[Anh] [hay] [mất] [bình tĩnh] , [không] [kiểm soát] [được] [hành vi] [của] [mình] [trên] [sân đấu] , [thường] [chửi thề] [và] [đập] [vợt] . 
+
+[Từ] [10] [tuổi] [đến] [14] [tuổi] , <per> [Roger Federer] </per> [được] [huấn luyện] [bởi] <per> [Peter Carter] </per> , [người] <loc> [Úc] </loc> . 
+
+<per> [Peter Carter] </per> [không chỉ] [giúp] <per> [Federer] </per> [tập] [kỹ năng] [chơi] [bóng] [mà còn] [chỉ] [ra] [điểm] [yếu] [trong] [tinh thần] [thi đấu] [của] [anh] . 
+
+[Những] [chỉ bảo] [của] [huấn luyện viên] <per> [Carter] </per> [giúp] <per> [Federer] </per> [dần dần] [kiểm soát] [được] [tâm lý] [khi] [thi đấu] . 
+
+<date> [Tháng] [7] [năm] [1998] </date> , <per> [Federer] </per> [tham dự] [giải] [quần vợt] [ATP] [đầu tiên] [trong] [sự nghiệp] [của] [mình] [tại] <loc> [Gstaad] </loc> , [nơi] [anh] [đánh bại] <per> [Lucas Arnold Ker] </per> [với] [tỉ số] [6-4] , [6-4] <loc> [Thụy Sỹ] </loc> . 
+
+<date> [Năm] [1999] </date> , <per> [Federer] </per> [được] [gọi] [vào] [đội tuyển] [quần vợt] [nam] <loc> [Thụy Sỹ] </loc> [trong] [trận] [đối đầu] [với] [đội] <loc> [Ý] </loc> . 
+
+<date> [Năm] [2000] </date> , <per> [Federer] </per> [lọt] [vào] [chung kết] [Marseille Open] [nhưng] [thất bại] [trước] [một] [tay vợt] <loc> [Thụy Sỹ] </loc> [khác] [là] <per> [Marc Rosset] </per> . 
+
+[Anh] [là] [tay vợt] [trẻ] [nhất] [trong] [top] [100] [của] [ATP] [năm] [đó] . 
+
+<date> [Năm] [2001] </date> [lần] [đầu tiên] <per> [Federer] </per> [giành] [được] [một] [danh hiệu] [ATP] [khi] [đánh bại] <per> [Julien Boutter] </per> [trong] [trận] [chung kết] [giải] [Milan] . 
+
+[Cũng] [trong] <date> [năm] [2001] </date> , <per> [Federer] </per> [có] [một] [chiến thắng] [được] [xem] [là] [bước ngoặt] [trong] [sự nghiệp] [khi] [anh] [đánh bại] <per> [Pete Sampras] </per> , [khi] [đó] [là] [đương kim] [vô địch] , [tại] [vòng] [4] [giải] [Wimbledon] [sau] [5] [set] [đấu] . 
+
+[Đây] [là] [trận] [đấu] [chính thức] [duy nhất] [giữa] [hai] [tay vợt] [kiệt xuất] [này] . 
+
+[Chiến thắng] [của] <per> [Federer] </per> [cũng] [chấm dứt] [chuỗi] [31] [trận] [bất] [bại] [tại] [giải] [Wimbledon] [của] <per> [Sampras] </per> . 
+
+[Tuy nhiên] [anh] [bị] [loại] [ở] [ngay] [vòng] [đấu] [sau] [đó] . 
+
+<date> [Năm] [2002] </date> , <per> [Federer] </per> [giành] [danh hiệu] [ATP] [Master Series] [đầu tiên] [tại] [Hamburg] [khi] [giành] [chiến thắng] [trước] <per> [Marat Safin] </per> . 
+
+[Trong] [khoảng] [thời gian] [này] , <per> [Federer] </per> [lọt] [vào] [10] [trận] [chung kết] [với] [4] [thắng] [và] [6] [thua] .

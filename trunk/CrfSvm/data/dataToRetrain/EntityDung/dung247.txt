@@ -1,0 +1,33 @@
+<per> [Kasper Peter Schmeichel] </per> ( [sinh] <date> [5] [tháng] [11] , [1986] </DATE> [ở] <loc> [Copenhagen] </loc> ) [là] [một] <job> [cầu thủ] [bóng đá] </job> [chuyên nghiệp] [người] <loc> [Đan Mạch] </loc> , [hiện nay] [anh] [đã] [chuyển] [sang] <org> [Notts County] </org> . 
+
+[Anh] [đã] [chơi] [17] [trận] [cho] [U21] <loc> [Đan Mạch] </loc> . 
+
+[Anh] [là] [con trai] [của] [cựu] [thủ môn] <org> [Manchester United] </org> <per> [Peter Schmeichel] </per> , [người] [đã] [kết thúc] [sự nghiệp] [của] [mình] [với] <org> [Manchester City] </org> . 
+
+<per> [Kasper] </per> [dành] [thời gian] [lớn] [tuổi thơ] [của] [mình] [sống] [ở] <loc> [Anh] </loc> , [do] [cha] [mình] [chơi] [ở] [đây] . 
+
+<per> [Kasper] </per> [nói] [trôi chảy] [bằng] [tiếng] <loc> [Anh] </loc> , [và] <loc> [Bồ Đào Nha] </loc> . 
+
+<per> [Schmeichel] </per> [gia nhập] <org> [Manchester City] </org> [trong] [năm] [2002] [trên] [một] [hợp đồng] [dài hạn] [từ] [Câu lạc bộ] <loc> [Bồ Đào Nha] </loc> <org> [Sporting Clube] </org> <per> [Schmeichel] </per> [tham gia] [League] [II] [với] <org> [Darlington] </org> [theo] [điều khoản] [cho] [mượn] [trong] <date> [tháng một] [năm] [2006] </DATE> , [chơi] [trận] [chuyên nghiệp] [đầu tiên] [với] <org> [Peterborough United] </org> [tại] [96,6] <loc> [TFM] [la] [Arena] </loc> [vào] <date> [ngày] [14] [tháng] [1] , [2006] </DATE> . 
+
+<org> [Darlington] </org> [thắng] [2-1] . 
+
+[Một] [tháng] [sau] [khi] [quay] [lại] <org> [Manchester City] </org> [anh] [được] [cho] [mượn] [một] [lần] [nữa] , [lần] [này] [cho] <org> [Bury] </org> [vào] [tháng] [Hai] , [đá] [một số] [trận] [và] [tiếp tục] [ở] [lại] [thêm] [3] [tháng] [sau] [mùa] [bóng] <per> [Schmeichel] </per> [tham gia] [Scotland Premier League] [với] [câu lạc bộ] <org> [Falkirk] </org> [từ] <date> [tháng một] [2007] </DATE> [cho đến] [khi] [kết thúc] [của] [mùa] [2006-07] . 
+
+[Anh] [đã] [ký] [với] <org> [Man City] </org> [hợp đồng] [4] [năm] [trong] <date> [tháng] [Chín] [năm] [2007] </DATE> , [sau] [đó] [cho] [mượn] [tới] <org> [Cardiff] </org> <date> [ngày] [25] [tháng] [mười] , [2007] </DATE> . 
+
+<per> [Kasper Schmeichel] </per> [trở lại] <org> [Manchester] </org> [và] [mang] [áo] [số] [16] . 
+
+[Anh] [nói] [rằng] [hối tiếc] [đã] [ký kết] [một] [hợp đồng] [bốn] [năm] . 
+
+<date> [Ngày] [16] [tháng] [mười một] </DATE> , <per> [Schmeichel] </per> [được] [đá] [sau] [khi] <per> [Joe Hart] </per> [bị thương] [mắt cá] [trong] [14] [phút] . 
+
+[Đội] [bóng] [hoà] [2-2] [với] <org> [Hull City] </org> . 
+
+[Anh] [sẽ] [còn] [được] [đá] [do] <per> [Hart] </per> [chưa] [trở lại] . 
+
+<date> [Ngày] [14] [tháng] [8] </DATE> , <per> [Schmeichel] </per> [được] <org> [Manchester] [city] </org> [bán] [anh] [cho] <org> [Notts County] </org> . 
+
+[Anh] [mang] [áo] [số] [23] , [ngày] [22] [tháng] [8] [anh] [đã] [giữ] [sạch] [lưới] [với] [chiến thắng] [3] - [0] [trong] [đó] [có] [pha] [đánh đầu] [mở] [tỉ số] [của] [anh] . 
+
+[Anh] [được] [mời] [đá] [cho] [đội] <loc> [Anh] </loc> , [nhưng] [đã] [từ chối] [và] [chỉ] [chơi] [cho] [đội tuyển] <loc> [Đan Mạch] </loc> .

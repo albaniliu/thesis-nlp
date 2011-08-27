@@ -1,0 +1,51 @@
+<org> [Tổ] [chức] [Giáo dục] , [Khoa học] [và] [Văn hóa] [của] [Liên hiệp quốc] </org> ( [tiếng] [Anh] : [United Nations Educational Scientific] [and] [Cultural Organization] , [viết] [tắt] <org> [UNESCO] </org> ) [là] [một] [trong] [những] [tổ chức] [chuyên môn] [lớn] [của] <org> [Liên hiệp quốc] </org> , [hoạt động] [với] [mục đích] " [thắt] [chặt] [sự] [hợp tác] [giữa] [các] [quốc gia] [về] [giáo dục] , [khoa học] [và] [văn hóa] [để] [đảm bảo] [sự] [tôn trọng] [công lý] , [luật pháp] , [nhân quyền] [và] [tự do] [cơ bản] [cho] [tất cả] [mọi] [người] [không] [phân biệt] [chủng tộc] , [nam nữ] , [ngôn ngữ] , [tôn giáo] " ( [trích] [Công ước] [thành lập] <org> [UNESCO] </org> ) . 
+
+<org> [UNESCO] </org> [hiện] [có] [191] [quốc gia] [thành viên] . 
+
+[Trụ sở] [chính] [đặt] [tại] <loc> [Paris] , [Pháp] </loc> , [với] [hơn] [50] [văn phòng] [và] [vài] [viện] [hay] [trung tâm] [trực thuộc] [đặt] [khắp nơi] [trên] [thế giới] . 
+
+[Một số] [các] [dự án] [nổi bật] [của] <org> [UNESCO] </org> [là] [duy trì] [danh sách] [các] [di sản] [thế giới] , [khu] [dự trữ] [sinh quyển] [thế giới] , [di sản] [tư liệu] [thế giới] , [công viên] [địa chất] [toàn cầu] , [di sản] [văn hóa] [phi] [vật thể] [của] [nhân loại] ... 
+
+<org> [UNESCO] </org> [được] [thành lập] [ngày] [16] [tháng] [11] [năm 1945] [với] [việc] [ký kết] [Công ước] [thành lập] [của] <org> [UNESCO] </org> .
+
+[Ngày] [4] [tháng] [11] [năm] [1946] , [Công ước] [này] [được] [chính thức] [có] [hiệu lực] [với] [20] [quốc gia] [công nhận] : <loc> [Úc] </loc> , <loc> [Brasil] </loc> , <loc> [Canada] </loc> , <loc> [Trung Quốc] </loc> , <loc> [Tiệp Khắc] </loc> , <loc> [Đan Mạch] </loc> , <loc> [Cộng hòa] [Dominica] </loc> , <loc> [Ai Cập] </loc> , <loc> [Pháp] </loc> , <loc> [Hy Lạp] </loc> , <loc> [Ấn Độ] </loc> , <loc> [Li Băng] </loc> , <loc> [Mexico] </loc> , <loc> [New Zealand] </loc> , <loc> [Na Uy] </loc> , <loc> [Các] [Tiểu] [vương quốc] [Ả Rập] [Thống] [nhất] </loc> , <loc> [Nam Phi] </loc> , <loc> [Thổ Nhĩ Kỳ] </loc> , <loc> [Vương quốc] [Anh] </loc> [và] <loc> [Hoa Kỳ] </loc> . 
+
+[Những] [năm 1970] [và] [1980] , <org> [UNESCO] </org> [là] [trung tâm] [của] [một] [tranh cãi] [trong] [đó] <loc> [Hoa Kỳ] </loc> [và] <loc> [Anh] </loc> [cho] [rằng] [đây] [là] [một] [diễn đàn] [để] [các] [nước] [theo] [chủ nghĩa cộng sản] [và] [thế giới thứ ba] [chống] [lại] [phương] [tây] . 
+
+<loc> [Hoa Kỳ] </loc> [và] <loc> [Anh] </loc> [lần lượt] [rút] [khỏi] [tổ chức] [này] [năm 1984] [và] [1985] . 
+
+[Sau] [đó] , <loc> [Anh] </loc> [và] <loc> [Hoa Kỳ] </loc> [lại] [tham gia] [tổ chức] [này] [lần lượt] [vào] [các] [năm 1997] [và] [2003] . 
+
+[Những] [năm] [cuối] [thập kỷ] [1990] , <org> [UNESCO] </org> [đã] [thực hiện] [một số] [cải cách] [trong] [tổ chức] , [như] [cắt giảm] [nhân lực] [và] [số] [đơn vị] . 
+
+[Số] [văn phòng] [giảm] [từ] [79] ( [năm] [1999] ) [xuống] [52] ( [hiện nay] ) . 
+
+[Năm] [1998] , <org> [UNESCO] </org> [ủng hộ] [phần mềm] [tự do] . 
+
+<org> [UNESCO] </org> [được] [tổ chức] [với] [một] <org> [Đại hội đồng] </org> , [một] <org> [Hội đồng] [chấp hành] </org> [và] [một] <org> [Ban] [Thư] [ký] </org> . 
+
+<org> [Đại Hội Đồng] </org> [gồm] [các] [đại diện] [của] [các] [nước] [thành viên] <org> [UNESCO] </org> ( [mỗi] [nước] [thành viên] [được] [chọn] [cử] [5] [đại biểu] ) . 
+
+<org> [Hội đồng] [chấp hành] </org> [gồm] [các] [ủy viên] [được] <org> [Đại hội đồng] </org> [bầu] [ra] [trong] [số] [các] [đại biểu] [được] [các] [nước] [thành viên] [chọn] [cử] ; [mỗi] [ủy viên] [của] <org> [Hội đồng] [chấp hành] </org> [đại diện] [cho] <org> [Chính phủ] </org> [nước] [mình] . 
+
+<org> [Ban] [Thư Ký] [UNESCO] </org> [gồm] [có] [Tổng Giám] [đốc] [và] [số] [nhân viên] [được] [thừa nhận] [là] [cần thiết] . 
+
+[Tổng Giám] [đốc] [do] <org> [Hội đồng] [chấp hành] </org> [đề nghị] [và] <org> [Đại hội đồng] </org> [bầu cử] ( [nhiệm kỳ] [6] [năm] ) [với] [những] [điều kiện] [được] <org> [Đại hội đồng] </org> [chấp nhận] . 
+
+[Tổng Giám] [đốc] [là] [viên chức] [cao] [nhất] [của] <org> [UNESCO] </org> .
+
+[Hiện] <org> [UNESCO] </org> [có] [191] [quốc gia] [là] [thành viên] . 
+
+[Các] [quốc gia] [thành viên] [của] <org> [Liên hiệp quốc] </org> [có] [quyền] [gia nhập] <org> [UNESCO] </org> ; [còn] [các] [quốc gia] [khác] [có thể] [được] [chấp nhận] [nếu] [được] <org> [Hội đồng] [chấp hành] </org> [giới thiệu] [và] [được] <org> [Đại hội đồng] </org> [biểu quyết] [với] [đa số] [hai phần ba] [thành viên] [có mặt] [tán thành] . 
+
+[Các] [quốc gia] [thành viên] [thường] [thành lập] [một] [tổ chức] [đại diện] [cho] <org> [UNESCO] </org> [ở] [nước] [mình] , [tùy] [điều kiện] [cụ thể] . 
+
+[Phổ biến] [hiện nay] [là] <org> [Ủy ban] [quốc gia] [UNESCO] </org> , [trong] [đó] [có] [đại diện] [của] <org> [Chính phủ] </org> [và] [của] [các] [ngành] <org> [Giáo dục] </org> , <org> [Khoa học] </org> , <org> [Văn hóa] </org> [và] <org> [Thông tin] </org> . 
+
+[Tuy] [có] [đại diện] [tại] [từng] [quốc gia] , [phương châm] [hoạt động] [của] <org> [UNESCO] </org> [là] [không] [can thiệp] [vào] [vấn đề] [nội bộ] [của] [các] [quốc gia] . 
+
+<org> [Ủy ban] [quốc gia] [UNESCO] </org> [làm] [nhiệm vụ] [cố vấn] [cho] [đoàn] [đại biểu] [nước] [mình] [ở] <org> [Đại hội đồng] </org> [và] [cho] <org> [Chính phủ] </org> [trong] [các] [vấn đề] [liên quan] [đến] <org> [UNESCO] </org> .
+
+[Ủy ban] [này] [thường] [gồm] [đại diện] [các] <org> [Vụ] </org> , <org> [Cục] </org> , [các] <org> [Bộ] </org> , [các] [cơ quan] [và] [tổ chức] [khác] [quan tâm] [đến] [các] [vấn đề] [giáo dục] , [khoa học] , [văn hóa] [và] [thông tin] , [các] [nhân vật] [độc lập] [tiêu biểu] [cho] [các] [giới] [liên quan] . 
+
+[Nó] [cũng] [có thể] [bao gồm] <org> [Ban chấp hành] [thường trực] </org> , [các] [cơ quan] [phối hợp] , [các] [tiểu ban] [và] [các] [cơ quan] [phụ] [cần thiết] [khác] .

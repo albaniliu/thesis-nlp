@@ -1,0 +1,31 @@
+[Sau] [khi] [được] [công ty] [đáp ứng] [một số] [yêu cầu] [đưa] [ra] , [toàn bộ] [số] [công nhân] [tham gia] [đình công] [tại] <org> [Công ty] [Panasonic Communications Vietnam] </org> <date> [ngày] [31/5] </date> [đã] [quay] [trở lại] [làm việc] . 
+
+<job> [Công nhân] </job> <per> [Tạ Thị Trang] </per> [cũng] [được] [xác định] [không] [liên quan] [đến] [vụ] [đình công] , [và] [sức khỏe] [đã] [ổn định] [trở lại] [sau] [khi] [được] [bệnh viện] [kiểm tra] . 
+
+[Sau] [vụ] [đình công] <date> [ngày] [31/5] </date> [của] [công nhân] <org> [công ty] [Panasonic Communications Vietnam] ( [PCV] ) </org> , <date> [sáng] [3/6] </date> <org> [Dân trí] </org> [đã] [có] [buổi] [làm việc] [với] [đại diện] [công ty] [để] [tiếp tục] [làm] [rõ] [một số] [chi tiết] [liên quan] . 
+
+[Bà] <per> [Nguyễn Thị Thanh Minh] </per> - <pos> [Trưởng phòng] </pos> <org> [Kế hoạch] [Kinh doanh] [và] [PR] </org> [đã] [dẫn] [lời] <org> [Ban] [Giám] [đốc] [công ty] </org> [cho biết] : [“] [Hiện nay] , [các] [công nhân] [đã] [trở lại] [làm việc] [bình thường] . 
+
+<date> [Sáng] [3/6] </date> , [lãnh đạo] [công ty] [đã] [gặp mặt] [công nhân] , [giải thích] [và] [công bố] [đáp ứng] [một số] [nhu cầu] [bức thiết] [của] [công nhân] [như] [cải thiện] [bữa] [ăn] [trưa] , [tăng] [phụ cấp] [”] . 
+
+[Riêng] [về] <pos> [công nhân] </pos> <per> [Tạ Thị Trang] </per> , [sau] [khi] [được] [đưa] [đến] <org> [bệnh viện] [E] </org> [kiểm tra] [tình hình] [sức khỏe] , [bác] [sỹ] [đã] [kết luận] [chị] <per> [Trang] </per> [không] [bị] [tổn hại] [và] [chị] [đã] [quay] [lại] [làm việc] . 
+
+[Theo] [bản] [tường trình] [của] [chị] <per> [Trang] </per> , [chị] [không] [tham gia] [cuộc] [đình công] [mà] [bị] [đánh] [do] [cố] [mở cửa] [để] [theo dõi] [vụ] [đình công] . 
+
+[Chị] <per> [Trang] </per> [căn cứ] [theo] [lời] [kể] [của] [một số] [nhân chứng] , [đã] [cho] [rằng] [bị] [một] [người] [đánh] [vào] [đầu] [và] [đạp] [vào] [ngực] [dẫn] [đến] [bất tỉnh nhân sự] . 
+
+[Ngay] [sau] [vụ việc] , <org> [CA] [huyện] [Đông Anh] </org> [đã] [cho] [gọi] [2] [người] [của] <org> [PCV] </org> [lên] [làm việc] . 
+
+[Lãnh đạo] [công ty] [cho biết] , [hiện] [công ty] [chưa] [nhận] [được] [kết luận] [của] [cơ quan] [điều tra] [về] [sự việc] . 
+
+[Bà] <per> [Minh] </per> [cũng] [khẳng định] , [chế độ] [lương bổng] [của] [công nhân] [cũng] [đã] [được] [cải thiện] . 
+
+[Nhưng] [mức] [tăng] [chi tiết] [là] [bao nhiêu] [thì] [bà] <per> [Minh] </per> [không] [tiết lộ] [vì] [cho] [rằng] [đó] [là] [“] [thông tin] [mật] [”] . 
+
+[Lãnh đạo] <org> [PCV] </org> [cũng] [phủ nhận] [thông tin] [mà] [các] [công nhân] [cho] [rằng] [họ] [bị] [trừ] [lương] [nếu không] [làm] [đủ] [sản lượng] . 
+
+[“] <org> [PCV] </org> [không] [tính] [lương] [theo] [sản lượng] , [mà] [theo] [ngày công] , [do đó] [không] [có] [chuyện] [trừ] [lương] [vì] [không] [đủ] [sản lượng] [”] - [ông] <org> [Nguyễn Văn Lâm] </org> - <pos> [GĐ] [Nhân sự] </pos> [cho biết] . 
+
+[Ông] <per> [Lâm] </per> [cũng] [nói] [rằng] , [những] [khúc mắc] [về] [lương bổng] [có thể] [xuất phát] [từ] [việc] [cán bộ] [phụ trách] [tiền lương] [chưa] [giải thích] [rõ] [chính sách] [tiền lương] [của] [công ty] [cho] [công nhân] . 
+
+[Được] [biết] , [trong] <date> [chiều] [31/5] </date> , [nhóm] [công nhân] [đình công] [đã] [gửi] [một] [kiến nghị] [chính thức] [lên] [lãnh đạo] [công ty] , [yêu cầu] [một số] [quyền lợi] [như] [lương] , [trợ cấp] , [bữa] [ăn] , [điều kiện] [sinh hoạt] , [nước] [uống] .

@@ -1,0 +1,29 @@
+<per> [Rafael] [van] [der] [Vaart] </per> ( [sinh] <date> [ngày] [11] [tháng] [2] [năm] [1983] </date> [tại] <loc> [Heemskerk] </loc> ) [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Hà Lan] </loc> [đang] [chơi] [cho] [câu lạc bộ] [hoàng gia] <loc> [Tây Ban Nha] </loc> <org> [Real Madrid] </org> [và] [đội tuyển] [quốc gia] <loc> [Hà Lan] </loc> . 
+
+<per> [Van] [der] [Vaart] </per> [có] [hai] [dòng] [máu] , [mẹ] [là] [người] <loc> [Tây Ban Nha] </loc> , [bố] [là] [người] <loc> [Hà Lan] </loc> . 
+
+[Anh] [kết hôn] [với]  <per> [Sylvia] [van] [der]  [Vaart] </per> [vào] <date> [ngày] [10] [tháng] [6] [năm] [2005] </date> , [và] [cho] [ra đời] [được] [một] [đứa] [con trai] [tên] [là] <per> [Damian Rafael] </per> <date> [ngày] [28] [tháng] [5] [năm] [2006] </date> . 
+
+<per> [Van] [der] [Vaart] </per> [là] [sản phẩm] [của] [lò] [đào tạo] [tài năng] [trẻ] <org> [Ajax Amsterdam] </org> , [nơi] [sản sinh] [ra] [những] [cầu thủ] [nổi tiếng] [như] <per> [Johan Cruyff] </per> , <per> [Edwin] [van] [der] [Sar] </per> , <per> [Dennis Bergkamp] </per> [và] [người] [đồng đội] [ở] [CLB] <org> [Real Madrid] </org> <per> [Wesley Sneijder] </per> . 
+
+[Trận] [đấu] [chuyên nghiệp] [đầu tiên] [của] [anh] [là] [trận] [hòa] [1-1] [trước] [đội] [bóng] <org> [FC] [Den Bosch] </org> [vào] [mùa] [giải] [99-00] [khi] [mới] [17] [tuổi] . 
+
+[Vào] [mùa] [giải] [2000-01] , [anh] [được] <job> [huấn luyện viên] </job> [trưởng] <org> [Ajax] </org> [lúc] [bấy giờ] [thử nghiệm] [anh] [ở] [vị trí] <pos> [tiền vệ] </pos> [tấn công] [rất] [thành công] . [mùa] [giải] [năm] [đó] [anh] [cũng] [được] [bầu chọn] [là] [tài năng] [trẻ] <loc> [châu] [Âu] </loc> [của] [năm] [bởi] [Website] [nổi tiếng] [ở] [Italia Calcio] [Manager] [Bước] [vào] [mùa] [giải] [2001-02] , <per> [van] [der] [Vaart] </per> [đã] [bị] [một] [chấn thương] [đầu gối] [rất] [nặng] [phải] [xa] [sân cỏ] [một vài] [tháng] . 
+
+[Ngay] [sau] [khi] [trở lại] [anh] [lại] [tái phát] [chấn thương] [đầu gối] [vào] <date> [ngày] [2] [tháng] [4] , [năm] [2002] </date> , [đòi hỏi] [phải] [phẫu thuật] [để] [giải quyết] [triệt để] [chấn thương] . 
+
+[Anh] [phải] [nghỉ] [dưỡng thương] [trong] [hầu hết] [mùa] [giải] [và] [chỉ] [đóng góp] [14] [bàn] [thắng] . 
+
+[Mùa] [giải] [2002-03] , <org> [Ajax] </org> [vô địch] [quốc gia] <loc> [Hà] [lan] </loc> , [trong] [khi] [chấn thương] <per> [Van] [der] [Vaart] </per> [chỉ] [thi đấu] [21] [trận] , [đóng góp] [18] [bàn] [thắng] . 
+
+[Mùa] [giải] [2004-05] , <job> [HLV] </job> [trưởng] <org> [Ajax Ronald Koeman] </org> [giao] [chiếc] [băng] <pos> [đội trưởng] </pos> [cho] <per> [Van] [der] [Vaart] </per> . 
+
+[Trong] [trận] [thi đấu] [quốc tế] [với] [đội] <loc> [Thụy Điển] </loc> [vào] <date> [ngày] [18] [tháng] [8] [năm] [2004] </date> , [anh] [đã] [bị] [chấn thương] [sau] [pha] [va chạm] [với] [người] [đồng đội] [trong] [màu] [áo] <org> [Ajax] </org> <per> [Zlatan Ibrahimovic] </per> . 
+
+[Vì] [rác] [rối] [trên] , [ban] [lãnh đạo] <org> [Ajax] </org> [đã] [quyết định] [bán] <per> [Ibrahimovic] </per> [cho] [CLB] <org> [Juventus] </org> [sau] [đó] [2] [tuần] , [người] [mà] [có] [những] [tranh cãi] [với] [anh] [về] [vị trí] <pos> [tiền đạo] </pos> [trong] [màu] [áo] <org> [Ajax] </org> . 
+
+[Những] [thể hiện] [ngoài] [đời] [không] [được lòng] <job> [HLV] </job> <per> [Ronald Koeman] </per> , [trong] [khi] [đó] [anh] [có] [dấu hiệu] [lên cân] [và] [thường] [đi] [chơi] [đêm] [với] [người] [bạn gái] , [siêu mẫu] <loc> [Hà Lan] </loc> <per> [Sylvie Meis] </per> . 
+
+[Trong] [thời gian] [đó] [anh] [còn] [gặp] [một số] [rắc rối] [nhỏ] . 
+
+[Vào] [cuối] [mùa] [giải] [anh] [quyết định] [rời] <org> [Ajax] </org> .

@@ -1,0 +1,67 @@
+<org> [Bayer] [04] [Leverkusen] </org> [là] [một] [đội] [bóng] [đóng] [ở] <loc> [Leverkusen] </loc> , [phía] [bắc] [vùng] <loc> [Rhine-Westphalia] </loc>.[Nó] [là] [bộ phận] [được] [biết] [đến] [nhiều] [nhất] [của]  <org> [TSV] [Bayern]  [04] [Leverkusen] </org> , [một] [câu lạc bộ] [thể thao] [với] [những] [thành viên] [của] [các] [bộ môn] [như] [điền kinh] , [thể dục dụng cụ] , [bóng rổ] [và] [nhiều] [môn] [thể thao] [khác] . 
+
+<date> [Ngày] [27] [tháng] [mười một] [1903] </date> <per> [Wilhelm Hauschild] </per> [viết] [một] [lá] [thư] - [ký] [bởi] [170] <job> [công nhân] </job> [của] [mình] - [cho] [nhà máy] [của] [mình] , [nhà máy] [dược phẩm] <org> [Bayer] </org> , [để] [tìm kiếm] [hỗ trợ] [của] [công ty] [trong] [việc] [bắt đầu] [cho] [một] [câu lạc bộ] [thể dục] [thể thao] . 
+
+[Công ty] [đã] [đồng ý] [hỗ trợ] [các] [sáng kiến] , [và] [vào] <date> [ngày] [1] [tháng] [bảy] [năm] [1904] </date> [đội] [thể thao] [Rẽ-und] <org> [Spielverein Bayer Leverkusen] </org> [được] [thành lập] . 
+
+<date> [Ngày] [31] [tháng] [năm] [1907] </date> [một] [bộ phận] [bóng đá] [riêng biệt] [được] [hình thành] [trong] [câu lạc bộ] . 
+
+[Cuối cùng] [điều] [này] [đóng góp] [vào] [một] [phân chia] [trong] [câu lạc bộ] : [vào] <date> [ngày] [8] [tháng] [sáu] [1928] </date> [các] [cầu thủ] [thành lập] [một] [hiệp hội] [riêng] - <org> [Sportvereinigung Bayer] [04] [Leverkusen] </org> - [đó] [cũng] [bao gồm] [cả] [bóng ném] , [điền kinh] , [và] [đấm bốc] . 
+
+<org> [Bayer Leverkusen] </org> [có] [màu] [áo] [truyền thống] [là] [sọc] [đen] [và] [đỏ] [còn] [thể dục dụng cụ] [là] [vàng] [và] [xanh] . 
+
+[Qua] [thời điểm] [này] , [và] [đến] [những] <date> [năm] [1930] </date> , <org> [Bayer Leverkusen] </org> [chơi] [ở] [giải] [hạnh] [ba] [và] [tư] . 
+
+[Vào] <date> [năm] [1936] </date> , [họ] [lên] [chơi] [ở] [giải] [hạng] [hai] . 
+
+[Đó] [cũng] [là] [năm] [đầu tiên] [họ] [mặc] [áo] [có] [dòng] [chữ] <org> [Bayer] </org> [ở] [trên] [áo] . 
+
+[Họ] [có] [lần] [đầu tiên] [xuất hiện] [ở] [giải] [hạng] [hai] [là] [vào] <date> [năm] [1951] </date> , [ở] [giải] [Oberliga] [phía] [Tây] [và] [chơi] [ở] [đó] [cho] [tới] <date> [năm] [1956] </date> [thì] [họ] [bị] [xuống] [hạng] . 
+
+<org> [Bayer Leverkusen] </org> [không] [quay] [trở lại] [giải] [hạng] [hai] [cho] [tới] <date> [năm] [1962] </date> , [trước] [khi] [hình thành] [ra] [giải] [chuyên nghiệp] [mới] [của] <loc> [Đức] </loc> , [giải] [Bundesliga] . 
+
+[Mùa] [giải] [tiếp theo] [đó] [chứng kiến] [đội] [bóng] [thi đấu] [ở] [giải] [Regionalliga] [phía] [tây] , [giải] [hạng] [hai] . 
+
+<org> [Bayer Leverkusen] </org> [đã] [có] [bước] [đột phá] [vào] <date> [năm] [1968] </date> [khi] [họ] [vô địch] [giải] [hạng] [hai] , [không] [không thể] [vượt] [qua] [trận] [playoff] [để] [giành] [vé] [lên] [hạnh] [nhất] . 
+
+[Họ] [lại] [bị] [xuống] [hạng] [vào] <date> [năm] [1973] </date> , [nhưng] [nhanh chóng] [trở lại] [giải] [hạng] [hai] [chỉ] [sau] [một] [mùa] [giải] [ở] [giải] [hạng] [ba] . 
+
+[Bốn] [năm] [sau] , [đội] [bóng] [đã] [có] [được] [một] [vị trí] [để] [bắt đầu] [chơi] [ở] [Bundesliga] [từ] [mùa] [giải] [1979-80] . 
+
+[Vào khoảng] [giữa] [những] <date> [năm] [1980] </date> , <org> [Bayer Leverkusem] </org> [đã] [leo] [lên] [nửa] [trên] [của] [bảng] [xếp hạng] [và] [đã] [gây] [ấn tượng] [tốt] [bằng] [việc] [về] [đích] [trong] [top] [10.Trong] [thời gian] [đó] , [vào] <date> [năm] [1984] </date> , [hai] [nửa] [của] [đội] [bóng] [đã] [kết hợp] [lại] [sau] [nửa] [thế kỉ] [bị] [chia rẽ] [và] [trở thành] <org> [TSV] [Bayer Leverkusen] [eV] </org> . 
+
+[Đội] [bóng] [mới] [có] [màu] [áo] [trắng] [và] [đỏ] . 
+
+[Đội] [bóng] [có] [được] [danh hiệu] [đầu tiên] [vào] <date> [năm] [1988] </date> [ở] [UEFA] [Cup] [với] [chiến thắng] [3] - [0] [trước] <org> [Espanyol] </org> [ở] [trận] [chung kết] [lượt về] , [sau] [khi] [đã] [bị] [đối phương] [dẫn] [trước] [bằng] [chính] [tỉ số] [đó] [ở] [trận] [lượt đi] [và] [giành] [chiến thắng] [3-2] [trên] [chấm] [penalty] . 
+
+[Cũng] [trong] [năm] [đó] , [người] [đã] [là] <pos> [chủ tịch] </pos> [của] <org> [Bayer Leverkusen] </org> [một] [thời gian] [dàu] <per> [Reiner Calmund] </per> [trở thành] <job> [huấn luyện viên] </job> [của] [đội] [bóng] . 
+
+[Điều] [này] [là] [một] [trong] [những] [sự] [thay đổi] [lớn] [nhất] [trong] [lịch sử] [đội] [bóng] , [khi] <per> [Calmund] </per> [đã] [dẫn dắt] [đội] [bóng] [trong] [mười] [năm] [và] [là] [một nửa] [của] [những] [thành công] [của] [đội] [bóng] . 
+
+[Sau] [khi] [nước] <loc> [Đức] </loc> [thống nhất] [lại] [vào] <date> [năm 1889] </date> , <per> [Reiner Calmund] </per> [đã] [nhanh chóng] [kí] [hợp đồng] [với] [những] [ngôi sao] [của] [đông] <loc> [Đức] </loc> [như] <per> [Ulf Kirsten] </per> , <per> [Andreas Thom] </per> [và] <per> [Jens Melzig] </per> . 
+
+[Ba] <job> [cầu thủ] </job> [này] [nhanh chóng] [được] [ưa thích] , [và] [đã] [có] [những] [đóng góp] [lớn] [cho] [đội] [bóng] . 
+
+<org> [Calmund] </org> [cũng] [liên hệ] [với] [những] [cầu thủ] [người] <loc> [Brazil] </loc> , [kết bạn] [với] <org> [Juan Figer] </org> , [một] [trong] [số] [những] [tay] [cò] [tiếng tăm] [nhất] <loc> [Brazil] </loc>.[Trong] [những] [năm] [sau] [đó] , [đã] [có] [những] [ngôi sao] , [như] <per> [Jorginho] </per> [và] <per> [Paulo Sérgio] </per> [gia nhập] [đội] [bóng] , [cũng như] [ngôi sao] [người] <loc> [Séc] </loc> <per> [Pavel Hapal] </per> . 
+
+[Họ] [cũng] [kí] [hợp đồng] [với] [những] <job> [cầu thủ] </job> [giỏi] , [chẳng hạn] [như] <per> [Bernd Schuster] </per> [và] <per> [Rudi] [Vö] [ller] </per> , [đảm bảo] [cho] [sự] [nổi tiếng] [của] [đội] [bóng] [và] [cho] [những] [thành công] . 
+
+[Đội] [bóng] [giành] [được] [danh hiệu] [tiếp theo] [vào] <date> [năm] [1993] </date> , [với] [chiến thắng] [1] - [0] [trước] [hiện tượng] [là] [đội] [nghiệp dư] [của] <org> [Hertha Berlin] </org> [với] . 
+
+[Ở] [mùa] [giải] [tiếp] [đó] , [trong] [một] [trận] [đấu] [có] [bàn] [thắng] [đẹp] [nhất] [mùa] [giải] [của] [Bernd Schuster] ( [một] [bàn] [thắng] [sau] [đó] [cũng] [được] [gọi là] " [Bàn] [thắng] [của] [thập kỉ] " ) , <org> [Bayer Leverkusen] </org> [tiếp] <org> [Eintracht Frankfurt] </org> [ở] [đầu] [mùa] [giải] , [và] [ở] [trận] [đó] <org> [Bayer] </org> [đã] [mặc] [màu] [áo] [thứ] [3] , [đó] [là] [bộ] [áo] [cũ] [với] [sọc] [đỏ] [và] [đen] . ( [Bộ] [quần áo] [cũng] [giống] [với] [bộ] [của] <org> [Frankfurt] </org> [vào] [thời điểm] [đó] ) . 
+
+[Điều] [này] [đã] [rất] [nổi tiếng] [với] [các] [cổ động viên] [bởi] [về] [sau] , [đội] [bóng] [đã] [trở về] [mặc] [màu] [đỏ] [và] [đen] , [màu] [áo] [đã] [sử dụng] [cho] [tất cả] [các] [trận] [đấu] [sân nhà] [kể] [từ] [sau] [đó] . 
+
+[Sau] [khủng hoảng] [vào] <date> [năm] [1996] </date> [khi] [câu lạc bộ] [phải] [đối mặt] [với] [trận] [chiến] [chống] [xuống] [hạng] , <org> [Bayer Leverkusen] </org> [đã] [phải] [chứng tỏ] [bởi] [một] [phản ứng] [mạnh mẽ] , [khi] [đã] [gây] [khó chịu] [cho] [các] [đối thủ] [với] [phong cách] [huấn luyện] [mới] [của] <per> [Christoph Daum] </per> , [người] [cũng] [đã] [được] [trợ giúp] [của] [việc] [ký] [hợp đồng] [với] [những] [cầu thủ] [như] <per> [Lúcio] </per> , <per> [Emerson] </per> , <per> [Ze Roberto] </per> , [và]  <per> [Michael Ballack] </per> . 
+
+<per> [Daum] </per>  [sau này] [nổi tiếng] [với] [một] [scandal] [về] [cocaine] [đã] [khiến] [ông] [phải] [trả giá] [bằng] [việc] [không] [được] [lên] [làm] <job> [huấn luyện viên] </job> [đội tuyển] [quốc gia] . 
+
+[Đội] [bóng] [đã] [lọt] [vào] [top] [4] [từ] <date> [năm] [1997] </date> [cho] [tới] <date> [2002] </date> [bao gồm] [bốn] [lần] [về] [đích] [ở] [vị trí] [thứ] [nhì] . 
+
+[Thành tích] [của] [mùa] [giải] <date> [2002] </date> [và] [2002] [đã] [khiến] [người] [hâm mộ] [phải] [tiếc nuối] [khi] [suýt] [chút] [nữa] [đã] [giành] [được] [ngôi] [vô địch] [Bundesliga.Vào] <date> [năm] [2000] </date> , <org> [Bayer Leverkusen] </org> [chỉ] [cần] [thêm] [một] [trận] [hoà] [trước] <org> [Unterhaching] </org> [để] [vô địch] , [nhưng] [cú] [phản] [lưới] [nhà] [của] <per> [Ballack] </per> [đã] [khiến] [họ] [bị] [thất bại] [2] - [0] [và] <org> [Bayern Munich] </org> [vô địch] [sau] [chiến thắng] [3-1] [trước] <org> [Werder Bremen] </org> . 
+
+[Hai] [năm] [sau] , [đội] [bóng] [đã] [kém] [đội] [đứng] [đầu] [năm] [điểm] [bởi] [đã] [thua] [2] [trên] [3] [trận] [cuối] [mùa] [trong] [khi] <org> [Borussia Dortmund] </org> [lại] [thắng] [cả] [ba] [trận] . 
+
+[Mùa] [giải] [2002] [đã] [được] [gán] [cho] [cái] [tên] " [Gấp] [ba] [lần] [sự] [khủng khiếp] " [khi] <org> [Bayer] </org> [tiếp tục] [thất bại] [trong] [trận] [chung kết] [Champions League] [khi] [thua] <org> [Real Madrid] </org> [1-2.Chưa] [hết] , [đội] [bóng] [là] [đội] [đầu tiên] [vào] [đến] [chung kết] [cúp] [C1] [và] [không] [vô địch] [giải] [quốc nội] . 
+
+[Họ] [còn] [phải] [vượt] [qua] [vòng] [sơ] [loại] [thứ] [nhất] [để] [được] [tham dự] [UEFA] [Champions League] [năm] [đó] .

@@ -1,0 +1,35 @@
+<per> [Petr Cech] </per> ( [sinh] <date> [ngày] [20] [tháng] [5] [1982] </date> [tại] <loc> [Plze] [ň] , [Tiệp Khắc] </loc> , [nay] [là] <loc> [Cộng hòa] [Séc] </loc> ) [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [cộng hòa] [Séc] </loc> [đang] [thi đấu] [ở] [vị trí] <pos> [thủ môn] </pos> [cho] <org> [câu lạc bộ] [Chelsea] [FC] </org> [và] <org> [đội tuyển] [bóng đá] [quốc gia] [Cộng hòa] [Séc] </org> . 
+
+<per> [Petr Cech] </per> [từng] [thi đấu] [cho] [các] [câu lạc bộ]  <org> [Viktoria Plzen] </org> , <org> [Chmel Blsany] </org> , <org> [Sparta Prague] </org> , [và] <org> [Rennes] </org> [trước] [khi] [gia nhập] <org> [Chelsea] </org> [vào] <date> [tháng] [7] [2004] </date> . 
+
+[Anh] [được] [đưa] [vào] [đội hình] [tiêu biểu] [của] [Euro] <date> [2004] </date> [sau] [khi] [đưa] <org> [cộng hòa] [Séc] </org> [vào] [bán kết] [Euro] <date> [2004] </date> . 
+
+<per> [Cech] </per> [còn] [được] [bầu chọn] [là] <pos> [thủ môn] </pos> [xuất sắc] [nhất] [thế giới] [vào] <date> [năm] [2005] </date> 
+
+<per> [Cech] </per> [bắt đầu] [thi đấu] [bóng đá] [ở] [vị trí] <pos> [tiền đạo] </pos> [cho] [đội] [trẻ] [của] [câu lạc bộ] [quê nhà]  <org> [FC] [Viktoria Plzen] </org>  [tại] <loc> [Plzen] </loc> . 
+
+[Tuy nhiên] [vào] [năm] [anh] [10] [tuổi] , [1] [chấn thương] [nặng] [làm] [anh] [gãy] [chân] [khiến] [anh] [phải] [chuyển] [xuống] [chơi] [ở] [vị trí] <pos> [thủ môn] </pos> [và] [anh] [nhanh chóng] [thích] [và] [gắn bó] [với] [vị trí] [này] . 
+
+[Năm] [17] [tuổi] ( <date> [1999] </date> ) , <per> [Cech] </per> [chuyển] [sang] [thi đấu] [cho] <org> [câu lạc bộ] [FK] [Chmel Blsany] </org> [và] [anh] [gắn bó] [với] [câu lạc bộ] [này] [đến] <date> [năm] [2001] </date> . 
+
+[Mùa] [giải] <date> [2001 — 2002] </date> , <pos> [thủ môn] </pos> [trẻ] [tài năng] [này] [chuyển] [sang] [thi đấu] [cho] [câu lạc bộ] [hàng đầu] [ở] <loc> [cộng hòa] [Séc] </loc> <org> [AC] [Sparta Praha] </org> [với] [phí] [chuyển nhượng] [700] [000] [€] . 
+
+[Tại] [đây] [anh] [đã] [lập] [kỷ lục] [giữ] [sạch] [lưới] [trong] [855] [phút] [thi đấu] [và] [tại] [UEFA] [Champion League] [năm] [đó] , [anh] [đã] [khiến] [các] [chân sút]  <org> [FC] [Bayern]  [Munchen] </org> [phải] [nản lòng] [và] [chỉ] [thủng] [lưới] [bàn] [đầu tiên] [lại] [lượt] [đấu] [thứ] [5] . 
+
+[Tài năng] [của] <per> [Cech] </per> [nhanh chóng] [được] [các] [nhà] [tuyển trạch] [viên] [của] [các] [câu lạc bộ] [lớn] [khác] [tại] <loc> [Châu Âu] </loc> [dòm ngó] . 
+
+[Sau] [đúng] [1] [mùa] [giải] [thi đấu] [cho] <org> [Sparta Praha] </org> , <per> [Petr Cech] </per> [gia nhập] [câu lạc bộ] <loc> [Pháp] </loc> <org> [Stade Rennais] [FC] </org> [vào] <date> [tháng] [7] [2002] </date> [với] [phí] [chuyển nhượng] [là] [5] [triệu] [€] . 
+
+[Phong độ] [của] <pos> [thủ môn] </pos> [này] [đưa] <org> [Rennes] </org> [vào] [đến] [tận] [bán kết] [cúp] [quốc gia] <loc> [Pháp] </loc> <date> [năm] [2003] </date> [và] [cán] [đích] [ở] [vị trí] [thứ] [9] [tại] [Ligue] [I] [ở] [mùa] [giải] <date> [2003/2004] </date> . 
+
+<pos> [Huấn luyện viên] </pos> <per> [Claudio Ranieri] </per> [là] [người] [đã] [đưa] <per> [Cech] </per> [về] <org> [Chelsea] [FC] </org> [với] [ý định] [thay thế] <per> [Carlo Cudicini] </per> . 
+
+<org> [Rennes] </org> [cuối cùng] [đã] [đồng ý] [để] <per> [Petr Cech] </per> [gia nhập] <org> [Chelsea] </org> [vào] <date> [tháng] [2] [2004] </date> [với] [phí] [chuyển nhượng] [là] [7] [triệu] [£] ( [10.3] [triệu] [€] ) [tức là] [hơn] [gấp] [đôi] [số] [tiền] <org> [Rennes] </org> [bỏ] [ra] [để] [có] [được] [anh] . 
+
+<per> [Petr Cech] </per> [kí] [với] <org> [Chelsea] </org> [1] [bản] [hợp đồng] [có] [thời hạn] [5] [năm] [và] [anh] [sẽ] [chính thức] [thi đấu] [cho] <org> [Chelsea] </org> [vào] <date> [tháng] [7] [2004] </date> , [sau] [khi] [Euro] <date> [2004] </date> [kết thúc] . 
+
+[Khi] <per> [Cech] </per> [chính thức] [thi đấu] [cho] <org> [Chelsea] </org> [cũng] [là] [lúc] <job> [huấn luyện viên] </job> <per> [Jose Mourinho] </per> [chính thức] [dẫn dắt] [câu lạc bộ] [này] [sau] [khi] [cùng] <org> [Porto] </org> [giành] [chức] [vô địch] [UEFA] [Champion League] <date> [2003/2004] </date> . 
+
+<job> [Huấn luyện viên] </job> [người] <loc> [Bồ Đào Nha] </loc> [này] [nhanh chóng] [giao] [vị trí] <pos> [thủ môn] </pos> [chính thức] [cho] <per> [Cech] </per> [và] [trận] [đấu] [đầu tiên] [của] [anh] [cho] <org> [Chelsea] </org> [là] [trận] [gặp] <org> [Manchester United] </org> [vào] <date> [ngày] [15] [tháng] [8] [2004] </date> [tại] [Premier League] . 
+
+<per> [Cech] </per> [đã] [giữ] [sạch] [lưới] [thành công] [trong] [trận] [đấu] [đó] [và] [chung cuộc] <org> [Chelsea] </org> [thắng] [1] - [0] .

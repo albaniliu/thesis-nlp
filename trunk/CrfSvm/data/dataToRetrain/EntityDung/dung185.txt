@@ -1,0 +1,29 @@
+<per> [David Marcelo Pizarro Cortés] </per> ( [sinh] <date> [ngày] [11] [tháng] [9] [năm] [1979] </date> [ở] <loc> [Valparaíso] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [quốc tế] [người] <loc> [Chile] </loc> , [từng] [là] [thành viên] [đội tuyển] [tham dự] [Olympic Sydney] . 
+
+[Anh] [hiện] [là] <job> [cầu thủ] </job> [của] <org> [AS] [Roma] </org> . 
+
+[Biệt danh] [của] <per> [Pizarro] </per> [là] " <per> [Peq] </per> " , [một] [từ] [viết] [tắt] [theo] [tiếng] <loc> [Tây Ban Nha] </loc> [nghĩa là] [nhỏ] . 
+
+<per> [Pizarro] </per> [bắt đầu] [sự nghiệp] [chơi] [bóng] [cho] <org> [Santiago Wanderers] </org> [ở] <loc> [Chile] </loc> . 
+
+[Đội] [bóng] [đầu tiên] [của] <per> [Pizarro] </per> [ở] <loc> [châu] [Âu là] </loc> <org> [Udinese] </org> . 
+
+[Sau] [đó] [anh] [được] [đem] [sang] [cho] <org> [Universidad] [de] [Chile] </org> [mượn] . 
+
+[Anh] [đã] [thu] [được] [nhiều] [thành công] [cùng] <org> [Udinese] </org> [dưới] [sự] [dẫn dắt] [của] <job> [huấn luyện viên] </job> <per> [Luciano Spalletti] </per> . 
+
+<per> [Pizarro] </per> [kí] [hợp đồng] [4] [năm] [cùng] <org> [Inter Milan] </org> [vào] <date> [năm] [2005] </date> [với] [mức] [giá] [12] [triệu] [Euro] [và] [quyền sở hữu] [50%] [với] <per> [Goran Pandev] </per> . 
+
+[Vào] [thời điểm] [đó] , <per> [Pizarro] </per> [cho biết] [sẽ] [kết thúc] [sự nghiệp] [trong] [màu] [áo] <org> [Nerazzurri] </org> . 
+
+[Tuy nhiên] , [anh] [gặp] [rất] [nhiều] [khó khăn] [để] [có] [suất] [trong] [đội hình] [chính] . 
+
+[Trong] [mùa] [giải] [duy nhất] [cùng] <org> [Inter] </org> , <per> [Pizarro] </per> [vô địch] [Serie] [A] ( [do] [vụ] [Scandal] [dàn xếp] [tỉ số] ) , [một] [Super Coppa Italia] [và] [một] [Copa Italia] . 
+
+[Vào] <date> [tháng] [8] [năm] [2006] </date> , [anh] [đồng ý] [chuyển] [tới] <org> [AS] [Roma] </org> [với] [giá] [6,5] [triệu] [Euro] [theo] [một] [bản] [hợp đồng] [đồng] [sở hữu] . 
+
+[Với] [những] [thành công] [đạt] [được] [trong] [mùa] [giải] [2006-07] , <org> [Roma] </org> [cho biết] [sẽ] [trả] [thêm] [5,75] [triệu] [Euro] [cho] <org> [Inter] </org> [cho] [3] [mùa] [giải] [tiếp theo] [trong] [bản] [hợp đồng] [đồng] [sở hữu] [của] <per> [Pizarro] </per> , [người] [đóng] [vai trò] [quan trọng] [trong] [thành công] [của] [đọi] [bóng] . 
+
+[Khi] [ở] <org> [Roma] </org> , <per> [Pizarro] </per> [chơi] [vị trí] <pos> [tiền vệ] </pos> [trung tâm] [cùng] <per> [Daniele De Rossi] </per> . 
+
+<per> [Pizarro] </per> [kí] [bản] [hợp đồng] [mới] [có] [thời hạn] [3] [năm] [với] <org> [Roma] </org> [vào] <date> [tháng] [10] [năm] [2009] </date> .

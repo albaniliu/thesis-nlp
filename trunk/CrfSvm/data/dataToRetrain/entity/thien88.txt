@@ -1,0 +1,55 @@
+<per> [Henry Ford] </per> [không phải] [là] [nhà phát minh] [ra] [xe hơi] , [mà] [cũng] [không] [tìm ra] [phương pháp] [sản xuất] [theo] [dây chuyền] . 
+
+[Ông] [đã] [có] [được] [ý tưởng] [về] [cách] [lắp ráp] [khi] [đi] [thăm viếng] [một] [xưởng] [thịt] [bò] [tại] <loc> [Chicago] </loc> . 
+
+[Tại] [nhà máy] [thịt] [bò] , [các] [con vật] [bị] [giết] [và] [lột] [da] [xong] , [được] [treo] [lên] [các] [móc] [của] [một] [đường] [dây chuyền] [chậm chạp] . 
+
+[Tại] [mỗi] [trạm ngừng] , [những] [người thợ] [cắt] [từng] [phần] [thịt] [cho] [tới khi] [chỉ] [còn] [bộ xương] [con vật] [ở] [trạm cuối] . 
+
+<per> [Henry Ford] </per> [đã] [làm] [ngược lại] [tiến trình] [kể trên] [và] [áp dụng] [phương pháp] [lắp ráp] [này] [vào] [kỹ nghệ] [xe hơi] . 
+
+[Từ] [năm] [1910] [tại] <loc> [nhà máy] [xe hơi] [Highland Park] </loc> , <per> [Henry Ford] </per> [và] [các] [chuyên viên] [nghiên cứu] [về] [hiệu năng] , [mỗi] [ngày] [khảo sát] [các] [phương pháp] [mới] [để] [làm] [gia tăng] [sức] [sản xuất] [và] [các] [công việc] [cải tiến] [kéo dài] [trong] [17] [năm] [trường] . 
+
+[Châm ngôn] [của] [ông] <per> [Ford] </per> [là] " [Mọi thứ] [luôn luôn] [có thể] [trở thành] [tốt đẹp] [hơn] [là] [theo] [cách] [đang] [làm] " . 
+
+[Trong] [phương pháp] [lắp ráp] [theo] [thảm chuyền] , [việc] [căn] [thời gian] [và] [phối hợp] [các] [động tác] [rất] [quan trọng] . 
+
+[Thảm chuyền] [đưa] [các] [bộ phận] [tới] [chỗ] [làm việc] [của] [công nhân] [và] [mỗi] [người] [làm] [một số] [công việc] [đặc biệt] , [chẳng hạn] [như] [vặn] [một số] [con ốc] , [gắn] [thêm] [một vài] [bộ phận] . 
+
+[Hệ thống] [mới] [này] [đã] [làm] [giảm] [thời giờ] [lắp] [một] [xe hơi] [từ] [12.5] [giờ] [công] [vào] [năm] [1912] [xuống] [còn] [1] [giờ] [15] [phút] [vào] [năm] [1914] . 
+
+[Cũng] [vào] [cuối] [năm] [này] , [13,000] [thợ] [của] <org> [Công ty] [Ford] </org> [đã] [làm ra] [260,720] [xe hơi] [so] [với] [các] [Công ty] [khác] [cần] [tới] [66,350] [thợ] [để] [sản xuất] [286,770] [xe hơi] . 
+
+[Nhiều] [người] [đã] [chỉ trích] [ông] <per> [Henry Ford] </per> [là] [đã] [biến] [người] [công nhân] [thành] [các] [máy móc] [tự động] [không] [biết] [suy nghĩ] , [bởi vì] [người thợ] [không] [còn] [cần] [tới] [năng khiếu] [về] [cơ khí] [như] [trước kia] [và] [phương pháp] [dây chuyền] [đã] [lấy] [kỹ năng] [ra] [khỏi] [công việc] [làm] . 
+
+[Nhưng] <per> [Henry Ford] </per> [đã] [trả lời] [rằng] [các] [kỹ năng] [cao] ( [skills] ) [được] [dùng] [tại] [các] [giai đoạn] [trù liệu] , [quản trị] [và] [sản xuất] [các] [bộ phận] [và] [kết quả] [là] [người thợ] [dù] [không] [có] [kỹ năng] [vẫn] [dùng] [được] [các] [kỹ năng] [đó] . 
+
+[Vào] [giai đoạn] [đầu] [của] [thế kỷ] [20] , [phần lớn] [công nhân] [là] [những] [người] [mới] [di cư] , [không] [có] [tay nghề] , [thường] [làm việc] [9] [giờ] [một] [ngày] [với] [lương] [ngày] [là] [2.38] [mỹ kim] . 
+
+[Do] [khả năng] [kém] [của] [công nhân] , [số] [người] [bị] [từ chối] [sau] [thời gian] [thử việc] [lên] [rất] [cao] . 
+
+[Vào] [năm] [1913] , <org> [Công ty] [Ford] </org> [phải] [chọn lựa] [963] [người] [để] [có] [100] [công nhân] [trong] [sổ] [lương] . 
+
+[Muốn] [duy trì] [số lượng] [13,000] [công nhân] [cho] [các] [nhà máy] , <per> [Henry Ford] </per> [phải] [liên tục] [tiêu] [tiền] [vào] [việc] [huấn luyện] [kỹ thuật] [ngắn hạn] . 
+
+[Ngoài ra] , <org> [Công ty] [Ford] </org> [còn] [khởi đầu] [chương trình] [thêm] [tiền] [tặng] ( [bonuses] ) , [có] [bảo hiểm] [y tế] , [nhà máy] [có] [sân chơi] [banh] [cho] [công nhân] [và] [vườn] [cảnh] [cho] [gia đình] [của] [họ] . 
+
+[Ngày] [5-1-1914] , <per> [Henry Ford] </per> [tuyên bố] [mức] [lương] [tối thiểu] [của] [công nhân] [là] [5] [mỹ kim] [một] [ngày] [làm việc] [8] [giờ] , [ngoài ra] [còn] [có] [chương trình] [chia] [lời] . 
+
+[Ông] <per> [Henry Ford] </per> [được] [nhiều] [thành phố] [ca ngợi] [là] [người bạn] [của] [công nhân] , [một] [người] [xã hội] [cởi mở] . 
+
+[Nhưng] [các] [nhà doanh nghiệp] [khác] , [kể cả] [một số] [cổ đông] [của] <org> [Công ty] [Ford] </org> , [lại] [coi] [ông] <per> [Ford] </per> [là] [người] [sẽ] [đưa] [Công ty] [tới] [phá sản] [và] [cách] [giải quyết] [của] [ông] <per> [Ford] </per> [là] [vô trách nhiệm] . 
+
+[Thực ra] , [ông] <per> [Ford] </per> [đã] [nhận ra] [yếu tố] [nhân sự] [trong] [phương pháp] [sản xuất] [hàng loạt] , [bởi vì] [một] [lực lượng] [lao động] [vui vẻ] [sẽ] [dẫn] [tới] [mức] [sản xuất] [cao hơn] . 
+
+[Từ] [năm] [1914] [tới] [năm] [1916] , [lợi tức] [của] <org> [Công ty] [Ford] </org> [đã] [gia tăng] [từ] [30] [triệu] [lên] [tới] [60] [triệu] , [không những thế] , [mức] [lương] [mới] [của] [công nhân] <org> [Công ty] [Ford] </org> [đã] [khiến cho] [chính] [giới công nhân] [trở thành] [khách hàng] [mua] [xe hơi] [của] [Công ty] . 
+
+[Sự] [thành công] [của] [xe hơi] [kiểu] [T] [đã] [ảnh hưởng] [tới] [các] [phạm vi] [xã hội] , [kinh tế] [và] [văn hóa] [và] [ông] <per> [Henry Ford] </per> [được] [coi như] [một] [thứ] [anh hùng] . 
+
+[Về] [phần] [chính trị] , <per> [Henry Ford] </per> [chưa] [mãn nguyện] . 
+
+[Ngay] [trước khi] <loc> [Hoa Kỳ] </loc> [tham dự] [vào] [cuộc thế Chiến] [I] , [ông] <per> [Henry Ford] </per> [đã] [cùng với] [170] [người] [khác] , [thuê bao] [chiếc tầu] " [Hòa Bình] " [qua] [nước] <loc> [Pháp] </loc> [mà] [không] [có] [sự] [cho phép] [của] <org> [chính phủ] [Hoa Kỳ] </org> , [với] [ý định] [ngây thơ] [là] [ngăn cản] [chiến tranh] . 
+
+[Năm] [1918] , [ông] <per> [Henry Ford] </per> [ra] [tranh] [chức] [Thượng Nghị Sĩ] [của] <org> [Đảng] [Dân Chủ] </org> [tại] <loc> [tiểu bang] [Michigan] </loc> [nhưng] [rồi] [mặc dù] [thất cử] , [ông] <per> [Ford] </per> [còn] [tiếp tục] [phát biểu] [về] [các] [vấn đề] [chính trị] . 
+
+[Năm] [1919] , [ông] <per> [Henry Ford] </per> [mua] [tờ báo] [The Dearborn Independent] ( [báo] [Độc Lập Dearborn] ) [và] [tờ báo] [này] [đã] [mang] [nhiều] [tai tiếng] [trong] [các] [bài] [công kích] [người] [Do Thái] .

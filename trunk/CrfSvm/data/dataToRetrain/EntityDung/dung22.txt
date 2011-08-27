@@ -1,0 +1,43 @@
+<org> [Cơ quan] [Tình báo] [Trung ương] </org> ( [tiếng] [Anh] : [Central Intelligence Agency] ; [viết] [tắt] : [CIA] ) [là] <org> [cơ quan] [tình báo] [trung ương] </org> [của] <loc> [Hoa Kỳ] </loc> . 
+
+[Chức năng] [chính] [của] [cơ quan] [này] [là] [thu thập] [và] [phân tích] [thông tin] [về] [chính phủ] [các] [nước] , [các] [tập đoàn] [kinh tế] , [các] [tổ chức] [hay] [về] [bất cứ] [ai] [để] [cung cấp] [cho] <org> [chính phủ] [Hoa Kỳ] </org> [những] [thông tin] [quan trọng] [và] [cần thiết] [phục vụ] [việc] [hoạch định] [chính sách] , [đề] [ra] [các] [biện pháp] [ứng phó] [thích hợp] . 
+
+[Chức năng] [thứ hai] [là] [tuyên truyền] , [phổ biến] [những] [thông tin] [ngầm] [hoặc] [công khai] [và] [gây] [ảnh hưởng] [đến] [các] [tổ chức] [và] [cá nhân] [nhằm] [thu hút] [sự] [ủng hộ] [cho] <org> [Chính quyền] [Mỹ] </org> . 
+
+[Chức năng] [thứ ba] [của] [tổ chức] [này] [là] [thực hiện] [các] [hoạt động] [ngầm] [dưới] [sự] [chỉ huy] [trực tiếp] [của] [Tổng thống] <loc> [Mỹ] </loc> . 
+
+[Chức năng] [này] [của] <org> [CIA] </org> [đã] [gây] [nên] [rất] [nhiều] [tranh cãi] [và] [làm] [dấy] [lên] [các] [câu hỏi] [về] [tính] [hợp pháp] , [giá trị] [đạo đức] [và] [sự] [hiệu quả] [của] [những] [hoạt động] [đó] . 
+
+[Trụ sở] [chính] [của] [cơ quan] [này] [nằm] [ở] <loc> [Langley] , [Virginia] </loc> , [vài] [dặm] [từ] [phía] <loc> [Tây Bắc] </loc> [đến] <loc> [thủ đô] [Washington] , [D.C.] </loc> , [dọc] [theo] <loc> [sông] [Potomac] </loc> . 
+
+<org> [CIA] </org> [được] [thành lập] [năm 1947] [theo] [sắc lệnh] [về] [An ninh] [Quốc gia] [năm 1947] [do] [Tổng thống] [Hoa Kỳ] <per> [Harry] [S.] [Truman] </per> [ký] , [có] [tiền thân] [là] <org> [Cơ quan] [tình báo] [chiến lược] ( [OSS] ) </org> [của] [Chiến tranh] [thế giới] [thứ hai] . 
+
+<org> [Tổ chức] [OSS] </org> [đã] [giải tán] [vào] [tháng] [11] [năm 1945] [và] [các] [hoạt động] [được] [chuyển giao] [cho] <org> [Bộ] [Ngoại] [giao] </org> [và] <org> [Bộ] [Chiến] [tranh] </org> . 
+
+[Do] [sự] [cần thiết] [của] [một] [hệ thống] [tình báo] [tập trung] [sau] [chiến tranh] [nên] [11] [tháng] [trước] [đó] , [vào] [năm] [1944] , <per> [William] [J.] [Donovan] </per> , [người] [khai sinh] <org> [OSS] </org> , [đã] [đệ] [tình] [lên] [Tổng thống] <per> [Franklin] [D.] [Roosevelt] </per> [một] [bản] [kế hoạch] [thành lập] [một] [tổ chức] [tình báo] [chịu] [sự] [giám sát] [trực tiếp] [của] [Tổng thống] . 
+
+[Mặc dù] [gặp] [phải] [sự] [phản đối] [từ] [phía] <org> [Bộ] [ngoại giao] </org> [và] <org> [Cục] [điều tra] [liên bang] </org> [nhưng] [Tổng thống] <per> [Truman] </per> [đã] [quyết định] [thành lập] <org> [Khối Tình] [báo] [trung ương] </org> [vào] [tháng] [1] [năm] [1946] . 
+
+[Sau] [đó] [dưới] [An ninh] [Quốc gia] - [1947] ( [có] [hiệu lực] [vào] [ngày] [18] [tháng] [9] , [năm] [1947] ) , <org> [Hội đồng] [An ninh] [quốc gia] </org> [và] <org> [Cơ quan] [Tình báo] [Trung ương] [Hoa Kỳ] </org> [chính thức] [ra đời] . 
+
+[Thiếu tướng] [hải quân] <per> [Roscoe] [H.] [Hillenkoetter] </per> [là] [người] [đầu tiên] [được] [bổ nhiệm] [vào] [chức] [Giám đốc] <org> [Cục] [tình báo] [quốc gia] </org> . 
+
+[Năm] [1949] , [điều lệ] [81-110] [được] [thông qua] , [cho phép] [cơ quan] [này] [được] [quyền] [sử dụng] [các] [thủ tục] [về] [mật vụ] , [tài chính] [và] [hành chính] [và] [được] [miễn] [khỏi] [hầu hết] [những] [hạn chế] [trong] [việc] [sử dụng] [ngân quỹ] [liên bang] . 
+
+[Sắc lệnh] [này] [cũng] [cho phép] <org> [CIA] </org> [không] [cần] [công bố] [các] [thông tin] [về] [tổ chức] , [nhiệm vụ] , [văn tự] , [tiền lương] , [số lượng] [nhân viên] .
+
+[Sắc lệnh] [này] [cũng] [bao gồm] [cả] [chương trình] " [PL-110] " [để] [lợi dụng] [những] [kẻ] [đào ngũ] [và] [một số] [cá nhân] [nước ngoài] , [đồng thời] [cung cấp] [tài chính] [họ] .
+
+[Năm] [1949] , [cơ quan] [tình báo] [của] <loc> [Đông Đức] </loc> <org> [Bundesnachrichtendienst] </org> [dưới] [quyền] [lãnh đạo] [của] <per> [Reinhard Gehlen] </per> , [đã] [nằm] [trong] [sự] [điều khiển] [của] <org> [CIA] </org> .
+
+[Năm] [1950] , <org> [CIA] </org> [thành lập] <org> [Tập đoàn] [Pacific] </org> , [một] [trong] [những] [tổ chức] [kinh doanh] [đầu tiên] [của] <org> [CIA] </org> .
+
+[Cũng] [trong] [thời gian] [đó] , [giám đốc] <per> [Hillenkoetter] </per> [lần] [đầu tiên] [phê chuẩn] [chương trình] [điều khiển] [trí não] ( [mind] [control] ) [mang] [tên] [Dự án] [BlUEBIRD] . 
+
+[Năm] [1951] , <org> [hệ thống] [truyền thanh] [Columbia] ( [CBS] ) </org> [bắt tay] [hợp tác] [cùng] <org> [CIA] </org> .
+
+[Sau] [đó] , [Tổng thống] <per> [Truman] </per> [quyết định] [đổi] [tên] [Dự án] [BLUEBIRD] [thành] [Dự án] [ARTICHOKE] .
+
+[Trong] [những] [năm] [đầu] [mới] [đi] [vào] [hoạt động] , <org> [CIA] </org> [không] [chịu] [nhiều] [sự] [điều khiển] [từ] [các] [cơ quan] [khác] [của] [chính phủ] . 
+
+[Tuy nhiên] [mọi] [chuyện] [đã] [thay đổi] [vào khoảng] [những] [năm 70] , [thời điểm] [xảy ra] [vụ] [Watergate] .

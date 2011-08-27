@@ -1,0 +1,63 @@
+<org> [Football Club Internazionale Milano Sp] [A[] </org> [2] ] ( [Công ty cổ phần] [Câu lạc bộ] [bóng đá] <org> [Internazionale Milan] </org> [ [3] ] ) , [thường] [được] [biết] [đến] [với] [tên] [gọi] [tắt] <org> [Internazionale] </org> , <org> [Inter Milan] </org> [hay] [đơn giản] [là] <org> [Inter] </org> , [là] [một] [câu lạc bộ] [bóng đá] <loc> [Ý] </loc> [ở]  <loc> [Milano]  , [Lombardy] </loc> , [được] [thành lập] <date> [ngày] [09] [tháng] [3] [năm] [1908] </date> . 
+
+[Tại] [mùa] [giải] [2009-2010] , [đội] [bóng] [đang] [thi đấu] [tại] [Serie] [A] , [hạng] [đấu] [cao] [nhất] [của] [Giải] [vô địch] [bóng đá] [quốc gia] <loc> [Ý] </loc> . 
+
+[Câu lạc bộ] [hiện] [đang] [là] [đương kim] [vô địch] [quốc gia] <loc> [Italia] </loc> . 
+
+[Đội] [cũng] [là] [câu lạc bộ] [duy nhất] [tham dự] [đầy đủ] [các] [giải] [Serie] [A] [từ] <date> [năm] [1929] </date> [và] [chưa] [bao giờ] [phải] [xuống] [chơi] [ở] [hạng] [Serie] [B] . 
+
+[Phòng] [truyền thống] [của] [đội] [bao gồm] [với] [18] [danh hiệu] [vô địch] [quốc gia] ( <loc> [Scudetto] </loc> ) , [6] [Cúp] [quốc gia] [và] [4] [Siêu] [cúp] [quốc gia] . 
+
+[Ở] [đấu trường] [quốc tế] , <org> [Inter Milan] </org> [cũng] [sở hữu] [7] [danh hiệu] [với] [3] [chức] [vô địch] [Cúp] [C1] [châu] [Âu] / [UEFA] [Champions League] , [3] [Cúp] [UEFA] [cùng] [2] [Cúp Liên] [lục địa] / [Cúp] [thế giới] [các] [câu lạc bộ] . 
+
+[Với] [tổng cộng] [36] [danh hiệu] [lớn] [giành] [được] , <org> [Inter] </org> [là] [câu lạc bộ] [giàu] [thành] [thích] [thứ ba] [của] <loc> [Italia] </loc> [sau] <org> [Juventus] </org> ( [với] [51] [danh hiệu] ) [và] <org> [AC] [Milan] </org> ( [với] [45] [danh hiệu] ) . 
+
+[Theo] [cuộc] [thăm dò] [thực hiện] <date> [ngày] [20] [tháng] [8] [năm] [2008] </date> [của] [tờ] [nhật báo] [la] [Repubblica] [ [4] ] [thì] <org> [Inter Milan] </org> [là] [câu lạc bộ] [có] [nhiều] [cổ động viên] [thứ] [2] [ở] <loc> [Ý] </loc> [với] [14%] , [xếp] [sau] <org> [Juventus] </org> ( [32,5%] ) [và] [trên] [đối thủ] [cùng] [thành phố] [là] <org> [AC] [Milan] </org> ( [13,6%] ) [Câu lạc bộ] [được] [thành lập] <date> [ngày] [9] [tháng] [3] [năm] [1908] </date> [sau] [khi] [tách] [ra] [từ] <org> [Milan Cricket] </org> [and] <org> [Football Club] </org> ( [tiền thân] [của] <org> [AC] [Milan] </org> ) . 
+
+[Một] [nhóm] [người] <loc> [Ý] </loc> [và] <loc> [Thụy Sĩ] </loc> ( [bao gồm] <per> [Giorgio Muggiani] </per> , [một] <job> [họa] [sỹ] </job> - [người] [đã] [thiết kế] [logo] [câu lạc bộ] , <per> [Bossard] </per> , <per> [Lana] </per> , <per> [Bertoloni] </per> , <per> [De Olma] </per> , <per> [Enrico Hintermann] </per> , <per> [Arturo Hintermann] </per> , <per> [Carlo Hintermann] </per> , <per> [Pietro Dell] ' [Oro] </per> , <per> [Hugo] </per> [và] <per> [Hans Rietmann] </per> , <per> [Voelkel] </per> , <per> [Maner] </per> , <per> [Wipf] , [cùng] </per> <per> [Carlo Ardussi] </per> ) [không] [hài lòng] [trước] [sự] [thống trị] [của] [người] <loc> [Ý] </loc> [trong] [đội] [bóng] <org> [AC] [Milan] </org> , [đã] [tách] [ra] [và] [thành lập] <org> [Internazionale] </org> . 
+
+[Từ] [lúc] [thành lập] , [câu lạc bộ] [mở cửa] [với] [các] <job> [cầu thủ] </job> [ngoại] [nên] [tên] [gọi] [ban đầu] [được] [giữ] [đến] [bây giờ] . 
+
+[Biệt hiệu] [ban đầu] [của] [đội] [trong] [tiếng địa phương] [vùng] <loc> [Milano] </loc> [là] [La Beneamata] , [sự] [thương yêu] [ấp ủ] . 
+
+[Câu lạc bộ] [giành] [được] [chức] [vô địch] [quốc gia] ( <loc> [scudetto] </loc> ) [rất] [sớm] [vào] <date> [năm] [1910] </date> [và] [lần] [thứ hai] [vào] <date> [năm] [1920] </date> . 
+
+[Đội trưởng] [đồng thời] [là] <job> [huấn luyện viên] </job> [của] [đội] [khi] [đoạt] [scudetto] [đầu tiên] [là] <per> [Virgilio Fossati] </per> , [sinh] [tại] <loc> [Milano] </loc> [và] [là] [anh] [của] <per> [Giuseppe Fossati] </per> ( [người] [đã] [đạt] [chức] [vô địch] [thứ hai] [cùng] <org> [Inter] </org> ) . 
+
+[Không] [may] <per> [Virgilio Fossati] </per> [chết] [giữa] [Thế chiến] [thứ] [nhất] . 
+
+<date> [Năm] [1922] </date> <org> [Inter] </org> [đứng] [cuối cùng] [nhóm] [B] [của] [Giải] [vô địch] [Italia] - [Serie] [A] [chỉ] [thu] [được] [11] [điểm] [trong] [mùa] [giải] . 
+
+[Vị trí] [cuối cùng] [này] [đồng nghĩa] [với] [1] [suất] [xuống] [hạng] [nhưng] [do] [một số] [thủ thuật] [họ] [lại] [tiếp tục] [thi đấu] [ở] [Serie] [A] [và] [đến] [nay] [là] [đội] [duy nhất] [chưa] [từng] [xuống] [hạng] . 
+
+[Trong suốt] [thời kì] [hỗn loạn] [giữa] [Thế chiến] [thứ] [nhất] [và] [Thế chiến] [thứ hai] , <org> [Internazionale] </org> [bị] [buộc] [đổi] [tên] [thành] <org> [Ambrosiana-Inter] </org> [với] [mục đích] [thỏa mãn] [yêu cầu] [của] [chế độ] [phát xít] [của] [Benito Mussolini] , [họ] [mặc] [áo] [mầu] [trắng] [với] [1] [chữ thập đỏ] [trên] [áo] . . 
+
+[Tuy nhiên] , <org> [Inter] </org> [vẫn] [ở] [trên] [con] [đường] [chiến thắng] [và] [giành] [được] [chức] [vô địch] [lần] [thứ ba] [tại] [giải] [hạng] [nhất] [Ý] [mới] [vào] <date> [năm] [1930] </date> . 
+
+[Tiếp theo] [đó] , [danh hiệu] [thứ tư] [giành] [được] [vào] <date> [năm] [1938] </date> , [chức] [vô địch] [lần] [đầu] [cúp] [quốc gia] ( [Coppa Italia] ) ) [và] [vô địch] [lần] [thứ năm] [vào] <date> [năm] [1940] </date> . 
+
+[Từ] [1945] , [cái] [tên] <org> [Ambrosiana-Inter] </org> [được] [bỏ] [và] [thay] [bằng] [tên] [gọi] [ban đầu]  <org> [Internazionale Milano] </org> . 
+
+[Sau]  [chiến tranh] , <org> [Inter] </org> [giành] [được] [chức] [vô địch] [lần] [thứ sáu] [vào] <date> [năm] [1953] </date> [và] [lần] [thứ bảy] <date> [năm] [1954] </date> . 
+
+[Tiếp theo] [những] [danh hiệu] [này] , <org> [Inter] </org> [bước] [vào] [những] [năm tháng] [đẹp] [nhất] [trong] [lịch sử] [câu lạc bộ] , [được] [trìu mến] [gọi là] [thời kì] [của] [La Grande Inter] ( [hay] " <org> [Inter] </org> [vĩ đại] " ) . 
+
+[Trong suốt] [thời kì] [tuyệt diệu] [đó] , [câu lạc bộ] [giành] [được] [3] [chức] [vô địch] [quốc gia] [vào] [các] <date> [năm] [1963] </date> , <date> [1965] </date> [&] <date> [1966] </date> . 
+
+[Thành tích] [lớn] [nhất] [trong] [thập niên] [đó] [là] [việc] <org> [Inter] </org> [hai] [lần] [liên tiếp] [vô địch] [cúp] [các] [đội] [vô địch] [bóng đá] [quốc gia] <loc> [châu] [Âu] </loc> ( [Cúp] [C1] ) . 
+
+[Vào] <date> [năm] [1964] </date> , <org> [Inter] </org> [giành] [chức] [vô địch] [đầu tiên] , [sau] [khi] [giành] [chiến thắng] [trước] [câu lạc bộ] <loc> [Tây Ban Nha] </loc> [nổi tiếng] <org> [Real Madrid] </org> . 
+
+[Mùa] [giải] [tiếp theo] , [thi đấu] [trên] [sân nhà] <loc> [San Siro] </loc> , <org> [Inter] </org> [giành] [được] [chức] [vô địch] [Cúp] [C1] [lần] [thứ hai] [sau] [khi] [đánh bại] [nhà vô địch] <loc> [Bồ Đào Nha] </loc><org> [ Benfica] </org> . 
+
+[Trong] [những] [năm] [này] [nhiều] <job> [cầu thủ] </job> [lớn] [đã] [khoác áo] <org> [Nerazzurri] </org> [như] : <per> [Luis Suarez] </per> , <per> [Giacinto Facchetti] </per> , <per> [Sandro Mazzola] </per> , <per> [Angelo Domenghini] </per> , <per> [Mario Corso] </per> . 
+
+[Thời kỳ] [này] <org> [Inter] </org> [được] [dẫn dắt] [bởi] <job> [huấn luyện viên] </job> [huyền thoại] <per> [Helenio Herrera] </per> , [nguời] [nổi tiếng] [với] [việc] [đưa] [chiến thuật] [Cantenaccio] [lên] [một] [tầm] [cao] [mới] . 
+
+[Chủ sở hữu] [và] [cũng] [là] <pos> [chủ tịch] </pos> [câu lạc bộ] [là] <per> [Angelo Moratti] </per> , [bố] [của] [người] [chủ sở hữu] [hiện nay] . 
+
+[Ông] [đã] [có] [ý định] [chi] [ra] [những] [khoản] [tiền] [khổng lồ] [để] [mua] [về] <per> [Eusebio] </per> [và] <per> [Pelé] </per> ; [hai] <job> [cầu thủ] </job> [này] [đã] [đồng ý] [chuyển] [đến] <org> [Inter] </org> , [nhưng] [giới] [chính trị] [đã] [can thiệp] . 
+
+[Cả] [hai] [chế độ] [độc tài] [quân sự] [tại] <loc> [Bồ Đào Nha] </loc> [và] <loc> [Brasil] </loc> [từ chối] [phê chuẩn] [cho] [họ] [chuyển] [đi] , [và] [cả] [hai] [vụ] [chuyển nhượng] [đều] [thất bại] . 
+
+[Vào] <date> [năm] [1967] </date> , <org> [Inter] </org> [thua] [1-2] [trong] [trận] [chung kết] [Cúp] [C1] [trước] <org> [Celtic] [FC] </org> . [đánh dấu] [sự] [kết thúc] [của] <org> [La Grande Inter] </org> .

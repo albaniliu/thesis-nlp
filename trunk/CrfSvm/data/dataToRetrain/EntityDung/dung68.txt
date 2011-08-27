@@ -1,0 +1,43 @@
+<org> [Paris Saint] - [Germain] </org> [là] [một] [câu lạc bộ] [bóng đá] [chuyên nghiệp] [tại] <loc> [Paris] </loc> , [thủ đô] [nước] <loc> [Pháp] </loc> . 
+
+[Tiền thân] [là] [câu lạc bộ] [đa] [thể thao] <org> [Stade Saint] - [Germain] </org> , <org> [Paris Saint] - [Germain] </org> [chính thức] [được] [thành lập] <date> [năm] [1970] </date> [và] [hầu như] [liên tục] [thi đấu] [tại] [Giải] [vô địch] [bóng đá] [quốc gia] <loc> [Pháp] </loc> . 
+
+[Câu lạc bộ] [của] [“] [kinh đô] [ánh sáng] [”] [này] [còn] [được] [gọi] [phổ biến] [bằng] [những] [cái] [tên] <org> [PSG] </org> [hay] <org> [Paris] [SG] </org> . 
+
+[Từ] [khi] [tham dự] [giải] [Hạng] [nhất] [nước] <loc> [Pháp] </loc> , <org> [Paris Saint] - [Germain] </org> [đã] [hai] [lần] [giành] [ngôi] [vô địch] [vào] [những] <date> [năm] [1986] </date> [và] <date> [1994] </date> . 
+
+[Câu lạc bộ] [cũng] [6] [lần] [giữ] [vị trí] [á quân] , [trong] [đó] [có] [mùa] [bóng] <date> [1992] </date> [–] <date> [1993] </date> , <org> [Paris Saint] - [Germain] </org> [từ chối] [chức] [vô địch] [sau] [khi] <org> [Olympique Marseille] </org> [bị] [tước] [danh hiệu] [vì] [scandal] . 
+
+[Với] [các] [giải] [đá] [cúp] , [câu lạc bộ] [có] [nhiều] [thành tích] [hơn] [với] [8] [lần] [đoạt] [cúp] [Quốc gia] , [3] [lần] [giành] [cúp] [Liên hoàn] [và] [2] [Siêu] [cúp] [nước] <loc> [Pháp] </loc> . 
+
+[Trên] [đấu trường] <loc> [châu] [Âu] </loc> , [thành tích] [lớn] [nhất] [mà] <org> [Paris Saint] - [Germain] </org> [đạt] [được] [là] [chiếc] [cúp] [C2] [vào] <date> [năm] [1996] </date> , [cũng] [là] [chiếc] [cúp] [C2] [duy nhất] [mà] [bóng đá] <loc> [Pháp] </loc> [có] [được] [trong] [lịch sử] . 
+
+[Đại diện] [cho] [“] [kinh đô] [ánh sáng] [”] , [trang phục] [thi đấu] [của] <org> [Paris Saint] - [Germain] </org> [mang] [hai] [màu] [xanh] , [đỏ] [chủ đạo] , [cũng] [chính] [là] [màu] [cờ] [của] [thành phố] <loc> [Paris] </loc> . 
+
+[Sân nhà] [của] [câu lạc bộ] [có] [cái] [tên] [Công viên] [các] [Hoàng tử] [nằm] [tại] [Quận] [16] , [kế] [bên] [khu] [rừng] <loc> [Boulogne] </loc> , [với] [sức] [chứa] [48.712] [chỗ] [ngồi] . 
+
+[Hiện nay] , <org> [Paris Saint] - [Germain] </org> [thuộc] [sở hữu] [của] [hai] [quỹ] [đầu tư] [Colony Capital] [và] [Butler Capital Partners] [cùng] [ngân hàng] <loc> [Hoa Kỳ] </loc> <org> [Morgan Stanley] </org> . 
+
+<per> [Robin Leproux] </per> , [người] [trước] [đó] [từng] [điều hành] [đài] <org> [RTL] </org> , [giữ] [cương vị] <pos> [chủ tịch] </pos> [câu lạc bộ] [từ] <date> [tháng] [7] [năm] [2009] </date> . 
+
+[Mùa] [giải] [2009] [–] [2010] , <org> [Paris Saint] - [Germain] </org> [tham gia] [giải] [Vô địch] [nước] <loc> [Pháp] </loc> [dưới] [sự] [dẫn dắt] [của] <per> [Antoine Kombouaré] </per> , [người] [nhận] [cương vị] <job> [huấn luyện viên] </job> [từ] <date> [ngày] [1] [tháng] [6] [năm] [2009] </date> . 
+
+[Câu lạc bộ] <org> [Stade Saint] - [Germain] </org> [được] [thành lập] [vào] <date> [ngày] [21] [tháng] [6] [năm] [1904] </date> [tại] [thị trấn] <loc> [Saint-Germain-en-Laye] </loc> , [thuộc] [vùng] [ngoại ô] <loc> [Paris] </loc> . [ [1] ] <date> [Năm] [1970] </date> , [sau] [một] [thời gian] [dài] [làm mưa làm gió] [tại] [giải] [Vô địch] [nghiệp dư] <loc> [Pháp] </loc> , [đội tuyển] [bóng đá] [của] <org> [Stade Saint] - [Germain] </org> [giành] [được] [quyền] [lên] [chơi] [ở] [giải] [hạng] [nhì] . [ [2] ] [Vào] [thời điểm] [đó] , <loc> [Paris] </loc> [không] [có] [một] [đại diện] [nào] [ở] [giải] [hạng] [nhất] <loc> [Pháp] </loc> . 
+
+[Dự án] [tái] [xây dựng] [một] [đội] [bóng] [mạnh] [cho] [“] [kinh đô] [ánh sáng] [”] [đã] [được] [thực thi] [từ] [đầu] <date> [năm] [1969] </date> [và] [nhận] [được] [sự] [quyên góp] [tài chính] [từ] [hơn] [20.000] [cá nhân] [để] [thành lập] [câu lạc bộ] <org> [Paris] [FC] </org> . [ [3] ] [Với] [kỳ vọng] [được] [chơi] [ngay] [ở] [giải] [đấu] [hạng] [cao] [nhất] [của] <loc> [Pháp] </loc> [mà] [không] [phải] [trải] [qua] [các] [giải] [phong trào] , <org> [Paris] [FC] </org> [lên] [kế hoạch] [sát nhập] [với] <org> [CS] [Sedan Ardennes] </org> , [một] [đội] [bóng] [đang] [thi đấu] [tại] [giải] [hạng] [nhất] [khi] [đó] . 
+
+[Thế nhưng] , [thỏa thuận] [giữa] [hai] [bên] [đã] [không] [đem] [lại] [kết quả] , [đặc biệt] [sau] [khi] <org> [Liên đoàn] </org> [bóng đá] <loc> [Pháp] </loc> [từ chối] [cho] <org> [Paris] [FC] </org> [được] [đặc cách] [thi đấu] [tại] [hạng] [đấu] [cao] [nhất] . 
+
+[Vào] [thời điểm] [vài] [tuần] [trước] [khi] [khi] [mùa] [giải] [1970] [–] [1971] [bắt đầu] , <org> [Paris] [FC] </org> [vẫn] [là] [một] [đội] [bóng] [không] <job> [huấn luyện viên] </job> , [không] <job> [cầu thủ] </job> , [không] [sân vận động] , [không] [ban] [điều hành] [và] [cũng] [chưa] [có] [quyền] [tham dự] [ở] [bất cứ] [giải] [đấu] [nào] [của] <loc> [Pháp] </loc> . [ [4] ] [Một] [phương án] [B] [được] [ban] [lãnh đạo] <org> [Paris] [FC] </org> [cấp tốc] [thực hiện] . 
+
+[Đội] [quay] [sang] [đàm phán] [để] [hợp nhất] [với] <org> [Stade Saint] - [Germain] </org> , [câu lạc bộ] [vừa] [giành] [quyền] [lên] [chơi] [ở] [giải] [hạng] [hai] . 
+
+[Hai] [bên] [đi] [đến] [thỏa thuận] [và] [ký kết] [thủ tục] [hợp nhất] [chính thức] [vào] [ngày] <date> [mùng] [10] [tháng] [6] [năm] [1970] </date> , [khai sinh] [câu lạc bộ] [bóng đá] [mang] [tên] <org> [Paris Saint] - [Germain Football Club] </org> . 
+
+[Ngay lập tức] , [câu lạc bộ] [ký] [hợp đồng] [với] [5] <job> [cầu thủ] </job> [chuyên nghiệp] [để] [chuẩn bị] [cho] [chiến dịch] [lên] [hạng] [của] [mình] , [và] [tuyển thủ] [đầu tiên] [về] [với] <org> [Paris Saint] - [Germain] </org> [là] <per> [Jean Djorkaeff] </per> , [đội trưởng] [đội tuyển] <loc> [Pháp] </loc> [vào] [thời điểm] [đó] . 
+
+[Trong] [trận] [đầu tiên] [với] [tên] <org> [PSG] </org> , [trận] [giao hữu] [cùng] <org> [US] [Quevilly] </org> [trên] [sân vận động] <loc> [Jean-Bouin] </loc> [vào] <date> [ngày] [1] [tháng] [8] </date> , [đội] [đã] [để] [thua] [với] [tỷ số] [1] [–] [2] . [ [5] ] [Ngay] [trong] [mùa] [giải] [đầu tiên] [sau] [khi] [hợp nhất] , <org> [PSG] </org> [đã] [thi đấu] [hết sức] [thành công] [và] [giành] [quyền] [lên] [hạng] . 
+
+[Chính quyền] [thành phố] <loc> [Paris] </loc> [tuyên bố] [sẽ] [tài trợ] [cho] [đội] [bóng] [trong] [bốn] [mùa] [giải] [với] [ba] [điều kiện] : <org> [PSG] </org> [phải] [trụ] [hạng] [thành công] ; [đội] [sẽ] [chuyển] [về] [thi đấu] [tại] [sân] [Công viên] [các] [hoàng tử] ; [hai] [thành viên] [của] [Hội đồng] [thành phố] <loc> [Paris] </loc> [sẽ] [tham gia] [ban] [điều hành] [câu lạc bộ] . 
+
+[Cả] [ba] [điều kiện] [đều] [được] [Paris Saint] - [Germain] [chấp nhận] .

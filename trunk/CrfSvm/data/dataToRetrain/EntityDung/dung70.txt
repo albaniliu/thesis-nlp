@@ -1,0 +1,71 @@
+<per> [Phil Knight] </per> , <pos> [chủ tịch] </pos> [Tập đoàn] <org> [Nike] </org> , [là] [một] [vận động viên] [điền kinh] [chạy việt dã] [nên] [ông] [nắm bắt] [rất] [nhanh] [nhu cầu] [của] [giới] [thể thao] . 
+
+[Chủ trương] [chính] [của] <per> [Knight] </per> [trong] [khi] [xây dựng] [thương hiệu] <org> [Nike] </org> [là] [sản phẩm] [có] [chất lượng] [cao] [sẽ] [giúp] [vận động viên] [đạt] [thành tích] [cao] [hơn] [trong] [thi đấu] . 
+
+<date> [Năm] [1964] </date> , [với] [vài] [chục] [đôi] [giày] [thể thao] [trong] [thùng xe] , <per> [Phil Knight] </per> [khởi đầu] [sự nghiệp] [kinh doanh] . 
+
+[Gần] [40] [năm] [sau] [ông] [có] [số] [tiền] [8,2] [tỉ] [USD] , [là] [người] [giàu] [thứ] [49] [tại] <loc> [Mỹ] </loc> [theo] [bảng] [xếp hạng] [của] [tạp chí] [Forbes] . 
+
+<per> [Knight] </per> [là] [người] [đã] [xây dựng] [nên] <org> [Nike] </org> - [thương hiệu] [giày] [thể thao] [nổi tiếng] [nhất] [thế giới] . 
+
+<per> [Knight] </per> [lớn] [lên] [tại] <loc> [Portland] </loc> , [một] [thành phố] [miền] [Tây] [nước] <loc> [Mỹ] </loc> , [gần] <loc> [Seattle] </loc> . 
+
+[Đam mê] [môn] [chạy] [bộ] , [cậu] [tham gia] [đội tuyển] [thể thao] <org> [Đại học] [Oregon] </org> . 
+
+<job> [Huấn luyện viên] </job> [nổi tiếng] <per> [Bill Bowerman] </per> [là] [người] [hướng dẫn] [cho] [cậu] . 
+
+<per> [Knight] </per> [cũng] [là] [người] [mang] [thử nghiệm] [các] [đôi] [giày] [do] <per> [Bowerman] </per> [chế tạo] . 
+
+<job> [Huấn luyện viên] </job> <per> [Bowerman] </per> [có] [một] [niềm tin] [không] [lay chuyển] [rằng] [đôi] [giày] [tốt] [là] [điều kiện] [đầu tiên] [tạo] [nên] [một] [vận động viên] [thành công] . 
+
+[Niềm tin] [đó] [đã] [khắc] [sâu] [trong] [tâm trí] [của] <per> [Knight] </per> . 
+
+[Sau này] , <per> [Knight] </per> [đã] [cùng] <per> [Bowerman] </per> [xây dựng] <org> [Nike] </org> [dựa] [trên] [ý tưởng] [này] . 
+
+[Rồi] <per> [Knight] </per> [tốt nghiệp] [cử nhân] [báo chí] , [đi] [nghĩa vụ quân sự] [một] [năm] . 
+
+[Xuất ngũ] , [anh] [ghi danh] [học] [thạc sĩ] [quản trị] [kinh doanh] [tại] <org> [Đại học] [Stanford] </org> . 
+
+[Một] [ngày kia] , <job> [Giáo sư] </job> <per> [Frank Shallenberger] </per> , [dạy] [về] [doanh nghiệp] [nhỏ] , [đã] [ra] [bài tập] [sau] [cho] [cả] [lớp] : [Hãy] [tạo] [ra] [một] [doanh nghiệp] [mới] , [mô tả] [mục đích] [và] [viết] [kế hoạch] [tiếp thị] [cho] [doanh nghiệp] [đó] . 
+
+<per> [Knight] </per> [đã] [viết] [một] [kế hoạch] [kinh doanh] [tựa đề] [“] [Giày] [thể thao] <loc> [Nhật] </loc> [có thể] [vượt] [qua] [giày] <loc> [Đức] </loc> [như] [máy] [chụp] [hình] <loc> [Nhật] </loc> [đã] [thắng] [máy] <loc> [Đức] </loc> [không] ? [”] . 
+
+[Đây] [là] [kế hoạch] [kinh doanh] [loại] [giày] [thể thao] <loc> [Nhật] </loc> [chất lượng] [cao] [với] [giá] [phải chăng] . 
+
+[Sau này] [ông] [nhớ] [lại] : [“] [Lớp học] [ấy là] [giây phút] [“] [A] ! 
+
+[Tìm] [ra] [rồi] [”] [của] [cuộc đời] [tôi] . 
+
+[Thầy] <per> [Shallenberger] </per> [giải thích] [về] [tính cách] [của] [doanh nhân] [và] [tôi] [nhận] [ra] [rằng] [thầy] [đang] [nói] [với] [tôi] . 
+
+[Sau] [đó] , [tôi] [tự nhủ] [việc] [kinh doanh] [này] [chính] [là] [điều] [tôi] [muốn] [làm] ! [”] . 
+
+[Khi] <per> [Knight] </per> [vào] [làm] [cho] [một] [hãng] <job> [kế toán] </job> [ở] <loc> [Portland] </loc> , [ông] [vẫn] [âm thầm] [theo đuổi] [ước mơ] [của] [mình] . 
+
+[Ông] [sang] <loc> [Nhật] </loc> , [tìm hiểu] [văn hóa] [và] [phong cách] [kinh doanh] [của] [người] <loc> [Nhật] </loc> . 
+
+[Văn hóa] <loc> [Nhật] </loc> [đã] [để] [lại] [dấu ấn] [sâu đậm] [trong] [triết lý] [sống] [và] [kinh doanh] [của] [ông] . 
+
+[Trong] [thời gian] [ở] <loc> [Nhật] </loc> , <per> [Knight] </per> [không chỉ] [nghiên cứu] [văn hóa] <loc> [châu] [Á] </loc> [và] [hành hương] [lên] [núi] <loc> [Fuji] </loc> [mà còn] [đến] [thăm] [nhà máy] <org> [Onitsuka] </org> [tại] <loc> [Kobe] </loc> , [nơi] [làm] [ra] [những] [đôi] [giày] [Tigers] [chất lượng] [cao] . 
+
+<per> [Knight] </per> [mê] [giày] [Tigers] [và] [xin] [ký] [hợp đồng] [với] [nhà máy] <org> [Onitsuka] </org> [làm] [đại lý] [phân phối] [giày] [Tigers] [tại] <loc> [Mỹ] </loc> . 
+
+[Về] [nước] , <per> [Knight] </per> [thuyết phục] <job> [huấn luyện viên] </job> <per> [Bill Bowerman] </per> [trở thành] [đồng] [sáng lập] [viên] [Công ty] <org> [Blue Ribbon Sports] </org> , [độc quyền] [phân phối] [giày] [Tigers] [tại] <loc> [Mỹ] </loc> . 
+
+[Trong] [nhiều] [năm] , [ban ngày] <per> [Knight] </per> [làm] <job> [kế toán] [viên] </job> , [giờ] [rảnh] [ông] [chất] [giày] [Tigers] [đầy] [xe] [và] [chở] [đi] [bán rong] [khắp] [miền] [Tây Bắc] [nước] <loc> [Mỹ] </loc> . 
+
+[Sự] [kiên nhẫn] [và] [lòng] [tin] [mãnh liệt] [vào] [thành công] [đối với] [loại] [giày] [thể thao] [chất lượng] [cao] [nhưng] [giá] [phải chăng] [của] <per> [Knight] </per> [cuối cùng] [đã] [được] [đền đáp] . 
+
+<date> [Năm] [1969] </date> , <per> [Knight] </per> [bán] [được] [1] [triệu] [đô] - [la] [giày] [do] [nhà máy] <loc> [Nhật] </loc> <org> [Onitsuka] </org> [sản xuất] . 
+
+[Thành công] [này] [có] [đóng góp] [không] [nhỏ] [của] <per> [Bowerman] </per> [qua] [việc] [thiết kế] [mẫu] [giày] [mới] [Tiger Cortez] . 
+
+<date> [Năm] [1971] </date> , <per> [Knight] </per> [quyết định] [giã từ] [công việc] <job> [kế toán] </job> [để] [tập trung] [lo] [việc] [kinh doanh] . 
+
+[Trước hết] , [ông] [thay đổi] [tên] [và] [logo] [của] [công ty] . 
+
+[45] [nhân viên] [của] <per> [Knight] </per> [đã] [cười] [bò] [lăn] [ra] [đất] [khi] [ông] [đề nghị] [đổi] [tên] [thương hiệu] [thành] [“] [Dimension Six] [”] ( [Chiều] [thứ] [6] ) . 
+
+[Cuối cùng] , [mọi] [người] [đồng ý] [với] [đề nghị] [của] [một] [nhân viên] [tên] [là] <per> [Jeff Johnson] </per> [về] [tên hiệu] [Nike] . 
+
+[Đây] [là] [tên] [vị] [nữ thần] [có] [cánh] [tượng trưng] [cho] [chiến thắng] [trong] [thần thoại] [Hy Lạp] .

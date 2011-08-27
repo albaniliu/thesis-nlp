@@ -1,0 +1,23 @@
+<per> [Federico] [Kiko] [Macheda] </per> [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Ý] </loc> [đang] [chơi] [ở] [vị trí] <pos> [tiền đạo] </pos> [cho] [câu lạc bộ] [đang] [đá] [ở] [Giải] [bóng đá] [ngoại hạng] <loc> [Anh] </loc> <org> [Manchester United] </org> . 
+
+<per> [Macheda] </per> [gia nhập] <org> [Manchester United] </org> [từ] <org> [Lazio] </org> [vào] <date> [tháng] [9] [năm] [2007] </date> . 
+
+[Sinh ra] [tại] <loc> [Rome] </loc> , <per> [Macheda] </per> [bắt đầu] [sự nghiệp] [bóng đá] [của] [mình] [với] <org> [CLB] [địa phương] [Lazio] </org> . 
+
+[Tuy nhiên] , [do] [quy định] [cấm] [ký kết] [hợp đồng] [chuyên nghiệp] [với] [cầu thủ] [dưới] [18] [tuổi] [của] [bóng đá] <loc> [Ý] </loc> , [anh] [không] [thường xuyên] [chơi] [cho] [câu lạc bộ] , [và] [ngay] [sau] [sinh nhật] [lần] [thứ] [16] [của] [mình] , [anh] [đã] [được] [ký kết] [hợp đồng] [với] [CLB] <org> [Manchester United] </org> [của] <loc> [Anh] </loc> , [nơi] [quy định] [cho phép] [ký kết] [hợp đồng] [với] [cầu thủ] [16] [tuổi] [trở lên] . 
+
+[Sau] [gia đình] [tái định cư] [đến] <loc> [Anh] </loc> , <per> [Kiko] </per> [chính thức] [gia nhập] [câu lạc bộ] [như là] [một] [học viên] , <date> [ngày] [16] [tháng] [9] [năm] [2007] </date> , [và] [bắt đầu] [một] [học bổng] [ba] [năm] [tại] [Học viện] [của] [câu lạc bộ] 
+
+<per> [Federico Macheda] </per> [có] [lần] [ra mắt] [đầu tiên] [tại] [đội] [một] [của] <org> [Manchester United] </org> [trong] [trận] [đấu] [với] <org> [Aston Villa] </org> [ở] [giải] [ngoại hạng] <loc> [Anh] </loc> . 
+
+[Khi] <per> [Macheda] </per> [xuất hiện] [trên] [sân] , [có lẽ] [ngay] [chính] [cả] [những] [người] [hâm mộ] [có mặt] [tại] [sân] <loc> [Old Trafford] </loc> [vào] [thời điểm] [đó] [cũng] [tự] [hỏi] : [Anh] [là] [ai] ? 
+
+[Và] [sau] [khi] [chân sút] [người] <loc> [Italia] </loc> [này] [ghi bàn] [thắng] [quyết định] [rất] [đẹp mắt] [ở] [phút] [bù] [giờ] [cuối cùng] [đưa] <org> [MU] </org> [trở lại] [ngôi] [đầu bảng] , [thắc mắc] [về] [cầu thủ] [lạ mặt] [này] [càng] [bùng] [lên] [dữ dội] . 
+
+[Trận] [đấu] [tiếp theo] [ở] [giải] [ngoại hạng] [trước] <org> [Sunderland] </org> , [anh] [tiếp tục] [là] " [thần tài] " [của] <org> [ManU] </org> [khi] [ghi] [một] [bàn] [thắng] [có] [phần] [may mắn] [khi] [bóng] [đã] [đi] [trúng] [vào] [chân] [anh] [từ] [cú] [sút] [của] <per> [Carrick] </per> [và] [giúp] <org> [United] </org> [thắng] [chung cuộc] [2-1] . 
+
+Vào] <date> [ngày] [22/8/2008] </date> , [đúng] [vào] [sinh nhật] [lần] [thứ] [17] [của] <per> [Macheda] </per> , <org> [MU] </org> [chính thức] [ký] [hợp đồng] [chuyên nghiệp] [với] <pos> [tiền đạo] </pos> [trẻ] [tuổi] [này] [và] [anh] [sẽ] [gắn bó] [với] <org> [Manchester United] </org> [tới] <date> [tháng] [6/2014] </date> . 
+
+<per> [Macheda] </per> [đã] [từng] [lập] [1] [hat-trick] [trong] [trận] [đấu giao hữu] [giữa] <org> [MU] </org> [và] <org> [Newcastle] </org> [và] [thêm] [2] [bàn] [thắng] [nữa] [trong] [trận] [đấu] [với] <org> [Everton] </org> . 
+
+[Ở] <org> [Manchester United] </org> , [vì] [cứ] [mỗi] [lần] [vào] [sân] [từ] [băng] [ghế] [dự bị] [là] [anh] [lại] [đem] [lại] [may mắn] [cho] <org> [MU] </org> [nên] [anh] [được] [mệnh danh] [là] [một] <per> [Ole Gunnar Solskjaer] </per> [mới] .

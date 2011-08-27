@@ -1,0 +1,45 @@
+<per> [Robin] [van] [Persie] </per> ( [sinh] <date> [ngày] [6] [tháng] [8] [năm] [1983] </date> [tại] <loc> [Rotterdam] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] <loc> [Hà Lan] </loc> . 
+
+<per> [Van persie] </per> [lớn] [lên] [tại] [vùng] <loc> [Kralingen] </loc> [phía] [đông] <loc> [Rotterdam] </loc> [và] [anh] [đã] [bắt đầu] [sự nghiệp] [bóng đá] [của] [mình] [trong] [đội] <org> [Excelsior] </org> [với] [tư cách] [là] [một] <job> [cầu thủ] </job> [trẻ] . 
+
+<date> [Năm] [2002] </date> [anh] [ký] [hợp đồng] [chuyên nghiệp] [với] <org> [Feyenoord] </org> , [nơi] [anh] [được] [coi] [là] [một] [tài năng] [hứa hẹn] [trong] [tương lai] . 
+
+<per> [Persie] </per> [hiện] [thi đấu] [cho] <org> [Arsenal] </org> [và] [trở thành] [một] [trụ cột] [không thể] [thiếu] [của] [đội] [bóng] . 
+
+[Điểm] [mạnh] [của] [anh] [là] [khả năng] [chơi] [bóng] [từ] [kỹ thuật] [và] [thông minh] , [nhưng] [chơi] [không] [đều] [hai] [chân] , [hay] [gặp] [chấn thương] [và] [đôi khi] [nhận] [thẻ] [phạt] [không] [đáng] [có] . 
+
+[Anh] [còn] [được] [biết] [đến] [với] [khả năng] [đá] [phạt] [chính xác] [và] [là] <job> [cầu thủ] </job> [chuyên] [thực hiện] [các] [quả] [phạt góc] [cho] [câu lạc bộ] <org> [Arsenal] </org> . 
+
+<per> [Robin] [van] [Persie] </per> [thường] [thi đấu] [như] [một] <pos> [tiền đạo] [lùi] </pos> [ở] <org> [Arsenal] </org> [và] [thi đấu] [như] [một] <pos> [tiền đạo] [cánh] </pos> [ở] <org> [tuyển] [Hà Lan] </org> . 
+
+[Ở] <org> [Arsenal] </org> [anh] [mang] [áo] [số] [10] [và] [ở] <org> [tuyển] [Hà Lan] </org> [là] [số] [9] . 
+
+<per> [Robin Van Persie] </per> [lớn] [lên] [ở] [vùng] <loc> [Kralingen] </loc> [thuộc] [phía] [đông] [thành phố] [cảng] <loc> [Rotterdam] </loc> . 
+
+[Mẹ] [của] [anh] , [bà] <per> [Jose Ras] </per> [là] [một] <job> [họa sĩ] </job> [và] [bố] [anh] , [ông] <per> [Bob] </per> [là] [một] [nhà] <job> [điêu khắc] </job> . 
+
+[Do đó] , <per> [Persie] </per> [luôn] [được] [động viên] [đi] [theo] [con] [đương] [nghệ thuật] [của] [bố mẹ] [nhưng] [cuối cùng] [anh] [đã] [chọn] [nghiệp] [bóng đá] . 
+
+<per> [Van Persie] </per> [gia nhập] <org> [Feyenoord] </org> [từ] <org> [SBV] [Excelsior] </org> <date> [năm] [2001] </date> [và] [anh] [nhanh chóng] [được] [ra] [sân] [ở] [đội hình] [một] [của] [câu lạc bộ] [do] [nạn] [chấn thương] [hoành hành] [đã] [tàn phá] [nghiêm trọng] [lực lượng] [đội] [bóng] , [khi] [ấy] <per> [Persie] </per> [mới] [17] [tuổi] . 
+
+[Cuối] [mùa] <date> [2001-2002] </date> , [anh] [nhận] [được] [giải thưởng] <job> [cầu thủ] </job> [trẻ] [xuất sắc] [nhất] [mùa] [giải] [do] [KNVB] [trao tặng] . 
+
+[Đây] [cũng] [là] [mùa] [giải] [thành công] [với] <org> [Feyenoord] </org> [khi] [họ] [đánh bại] <org> [B.Dortmund] </org> [trong] [trận] [chung kết] [cúp] [UEFA] [để] [đăng quang] [giải] [đấu] [này] . 
+
+[Với] [sự] [thể hiện] [xuất sắc] [ở] [mùa] [giải] [trước] , <per> [Persie] </per> [được] [ban] [lãnh đạo] [kí] [bản] [hợp đồng] [chuyên nghiệp] [có] [thời hạn] [ba] [năm] [rưỡi] [vào] [mùa] <date> [02-03] </date> . 
+
+<per> [Persie] </per> [đã] [làm] [ban] [lãnh đạo] [đội] [bóng] [không] [hối tiếc] [bằng] [cách] [ghi] [5] [bàn] [cho] <org> [Feyenoord] </org> [trong] [chiến thắng] [6-1] [trước] [câu lạc bộ] <org> [AGOVV] </org> [ở] [Amstel Cup] ( [cúp] [QG] <loc> [Hà Lan] </loc> ) [vào] <date> [ngày] [6/1/2003] </date> . 
+
+[Đúng] [vào] [lúc] [đang] [dần] [trở thành] [thần] [tuợng] [mới] [của] [đội] [bóng] , <per> [Persie] </per> [lại] [trở thành] [một] [ngựa chứng] [trong] [đội hình] [của] <org> [Feyenoord] </org> , [anh] [liên tục] [gây rối] [trong] [và] [ngoài] [sân cỏ] [đến nỗi] [bị] <job> [huấn luyện viên] </job> <per> [Bert Van Marwijk] </per> [đày] [xuống] [chơi] [ở] [đội] [dự bị] . 
+
+[Dù vậy] <per> [Persie] </per> [cũng] [ra] [sân] [28] [trận] [cùng với] [8] [bàn] [thắng] [và] [kết thúc] [mùa] [giải] [bằng] [vị trí] [thứ ba] [ở] <org> [Eredivisie] </org> [cùng] [câu lạc bộ] . 
+
+[Tuy nhiên] [đây] [là] [một] [mùa] [giải] [không] [vui] [với] <per> [Van Persie] </per> [và] <org> [Feyenoord] </org> , [họ] [đã] [thua] [trong] [hai] [trận] [đấu] [quan trọng] [của] [mùa] [giải] [trước] <org> [Real Madrid] </org> [ở] [UEFA] [Super Cup] <date> [2002] </date> [và] [trước] <org> [FC] [Untrect] </org> [ở] [chung kết] [Amstel Cup] . 
+
+[Với] [tài năng] [đã] [được] [kiểm chứng] <per> [Van Persie] </per> [được] [rất] [nhiều] [đội] [bóng] [mời chào] , [chính] [vì] [nguyên nhân] [đó] [mà] [ban] [lãnh đạo] <org> [Feyenoord] </org> [đã] [rất] [khó khăn] [trong] [việc] [gia hạn] [hợp đồng] [với] [anh] . 
+
+[Mùa] [giải] <date> [03-04] </date> [là] [một] [mùa] [giải] [không] [thành công] [của] <per> [Van Persie] </per> [khi] [anh] [không] [giành] [được] [một] [danh hiệu] [nào] [cùng] [đội] [bóng] , [anh] [cũng] [ra] [sân] [28] [trận] [như] [mùa] [giải] [trước] [nhưng] [chỉ] [ghi] [được] [6] [bàn] [tuy nhiên] [phần lớn] [các] [trận] [đấu] , [anh] [đều] [vào] [sân] [từ] [băng] [ghế] [dự] [bi] . 
+
+[Kết thúc] [mùa] [giải] , <per> [Van] [persie] </per> [và] <org> [Feyenoord] </org> [đã] [không] [đạt] [được] [thoả thuận] [gia hạn] [hợp đồng] . 
+
+[Để] [không] [bị] [mất trắng] <per> [Persie] </per> , [ban] [lãnh đạo] <org> [Feyenoord] </org> [đã] [phải] [bán] [anh] [cho] [câu lạc bộ] [thi đấu] [tại] [English Premier] [league] <org> [Arsenal] </org> [với] [giá] [2.75] [triệu] [bảng] , [chỉ] [bằng] [một nửa] [so] [với] [con số] [5] [triệu] [mà] [họ] [muốn] .

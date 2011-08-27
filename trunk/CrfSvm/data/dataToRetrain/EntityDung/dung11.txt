@@ -1,0 +1,17 @@
+[Là] [công ty] [hàng đầu] [trong] [lĩnh vực] [truyền thông] [di động] [tại] <loc> [khu vực] [châu] [Á] - [Thái Bình Dương] </loc> , <org> [Nokia] </org> [bắt đầu] [hoạt động] [tại] [khu vực] [vào] [đầu] [những] <date> [năm 80] </date> . 
+
+[Từ] [đó] , <org> [Nokia] </org> [đã] [thiết lập] [một] [nhãn hiệu] [hàng đầu] [tại] [nhiều] [thị trường] [địa phương] [và] [công việc] [kinh doanh] [cũng] [được] [mở rộng] [đáng kể] [tại] [tất cả] [các] [khu vực] [để] [hỗ trợ] [nhu cầu] [khách hàng] [và] [sự] [phát triển] [của] [công nghệ] [truyền thông] [trong] [khu vực] .
+
+[Trụ sở] [chính] [ở] [khu vực] [của] <org> [Nokia] </org> [được] [đặt] [tại] <loc> [Alexandra Technopark] [ở] [Singapore] </loc> . 
+
+[Là] [trung tâm] [của] [khu vực] [của] <org> [Nokia] </org> , [đây] [là] [cơ sở] [của] [hơn] [700] [nhân viên] <org> [Nokia] </org> [cung cấp] [các] [công nghệ] , [sản phẩm] [và] [giải pháp] [hỗ trợ] [20] [thị trường] [khác nhau] [và] [các] [văn phòng] <org> [Nokia] </org> [tại] <loc> [châu] [Á] – [Thái Bình Dương] </loc> 
+
+<org> [Trung tâm] [tài chính] [khu vực] [Nokia] </org> – [Nokia Treasury Asia] – [hoạt động] [từ] <loc> [Singapore] </loc> [như] [một] [ngân hàng] [nội bộ] [của] [tập đoàn] [phục vụ] [các] <org> [công ty con] [Nokia] </org> [tại] <loc> [khu vực] [châu] [Á] - [Thái Bình Dương] </loc> . 
+
+<org> [Nokia Research Center] </org> – [bộ phận] [nghiên cứu] [của] [tập đoàn] - [có] [các] [văn phòng] [đặt] [tại] <loc> [Nhật] </loc> [và] <loc> [Trung Quốc] </loc> . 
+
+<org> [Nokia] </org> [cũng] [sản xuất] [các] [sản phẩm] [từ] [3] [cơ sở] [chính] [tại] <loc> [Masan] ( [Hàn Quốc] ) </loc> , <loc> [Bắc Kinh] </loc> [và] <loc> [Quảng Đông] ( [Trung Quốc] ) </loc> . 
+
+[Từ] <date> [tháng] [1] [năm] [2004] </date> , <org> [Nokia] </org> [đã] [sắp xếp] [lại] [cấu trúc] [tổ chức] [toàn cầu] [nhằm] [tập trung] [vào] [tính] [hội tụ] , [các] [thị trường] [di động] [mới] [và] [đang] [tăng trưởng] . 
+
+[Để] [phục vụ] [các] [lãnh vực] [kinh doanh] [mới] [trong] [thời đại] [di động] [trong] [khi] [vẫn] [củng cố] [được] [vị trí] [hàng đầu] [trong] [lĩnh vực] [truyền thông] [thoại] [di động] , <org> [Nokia] </org> [đã] [có] [4] [bộ phận] [kinh doanh] [để] [đáp ứng] [tốt] [nhất] [những] [yêu cầu] [của] [mỗi] [lĩnh vực] . 

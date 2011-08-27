@@ -1,0 +1,33 @@
+<per> [Francesc] [Cesc] [Fàbregas Soler] </per> ( [sinh] <date> [ngày] [4] [tháng] [5] [năm] [1987] </date> [ở] <loc> [Arenys] [de] [Mar] , [Catalonia] , [Tây Ban Nha] </loc> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] <loc> [Tây Ban Nha] </loc> [hiện] [đang] [là] <pos> [đội trưởng] </pos> [của] <org> [câu lạc bộ] [Arsenal] </org> [ở] [giải] [Premier League] [và] [chơi] [trong] <org> [đội tuyển] [bóng đá] [quốc gia] [Tây Ban Nha] </org> . 
+
+<per> [Fàbregas] </per> [đã] [bắt đầu] [sự nghiệp] [của] [mình] [làm] [một] [tập sự] [tại] <org> [FC] [Barcelona] </org> [nhưng] [anh] [đã] [được] [ký] [hợp đồng] [với] <org> [Arsenal] </org> [vào] <date> [tháng] [7] [năm] [2003] </date> . 
+
+[Anh] [không] [nổi bật] [lắm] [trong] [mùa] [giải] [đầu tiên] [cho] " [the] [Gunners] " , [nhưng] [sau] [khi] [các] <pos> [tiền vệ] [trung tâm] </pos> [của] [đội] [bóng] [bị] [chấn thương] [trong] [mùa] [giải] <date> [2004 – 2005] </date> , [thời gian] [chơi] [bóng] [của] [anh] [tăng] [lên] . 
+
+[Ở] <org> [Arsenal] </org> <per> [Cesc] </per> [có] [cơ hội] [thể hiện] [tài năng] [ở] [vị trí] <pos> [tiền vệ] [cánh] [phải] </pos> , [một] [vị trí] [không] [phải] [là] [sở trường] [của] [mình] . 
+
+[Và] [dĩ nhiên] [là] [từ] [khi] [có] [sự] [xuất hiện] [của] <per> [Hleb] </per> , <per> [Cesc] </per> [đã] [chơi] [ở] [vị trí] [ấy] [ít] [hơn] . 
+
+<per> [Fabregas] </per> [có thể] [nói] [thông thạo] [4] [thứ] [tiếng] : [tiếng] <loc> [Anh] </loc> , [tiếng] <loc> [Pháp] </loc> , [tiếng] <loc> [Tây Ban Nha] </loc> [và] [tiếng] <loc> [Catalan] </loc> . 
+
+[Anh] [đã] [phá] [vỡ] [nhiều] [kỷ lục] [của] [câu lạc bộ] [này] [và] [bắt đầu] [nổi danh] [là] [một] <job> [cầu thủ] </job> [có] [năng khiếu] [kỹ thuật] , [có] [khả năng] [chuyển] [bóng] [xuất sắc] [và] [là] [một] <job> [cầu thủ] </job> [chính] [trong] [đội hình] [của] <org> [Arsenal] </org> . 
+
+[Trong] [bóng đá] [quốc tế] , [sự nghiệp] [của] <job> [cầu thủ] </job> <org> [đội tuyển] [Tây Ban Nha] </org> [này] [đã] [bắt đầu từ] [lúc] [trẻ] , [tham gia] [đội] [U-17] [trong] [giải] <date> [2003] </date> [FIFA] [U-17] [World Championship] [ở] <loc> [Phần Lan] </loc> . 
+
+[Do] [thi đấu] [tốt] , [anh] [đã] [được] [chọn] [vào] [đội tuyển] [lớn tuổi] [hơn] [và] [chơi] [trong] [World Cup] <date> [2006] </date> . 
+
+<date> [Năm] [2006] </date> , <per> [Fàbregas] </per> [đã] [ký] [hợp đồng] [dài hạn] [với] [thời gian] [8] [năm] [với] <org> [Arsenal] </org> . 
+
+<per> [Fabregas] </per> [cũng] [là] [thành viên] [của] [đội tuyển] <loc> [Tây Ban Nha] </loc> [vô địch] [Euro] <date> [2008] </date> . 
+
+[Vào] [đầu] [mùa] [giải] [này] , <pos> [đội trưởng] </pos> [của] <org> [Arsenal] </org> [lúc] [đó] [là] <per> [Patrick Viera] </per> [đã] [quyết định] [chuyển] [đến] [đầu quân] [cho] <org> [Câu lạc bộ] [Juventus] </org> [ở] <loc> [Ý] </loc> , [va] [ong] [nhắm] [đến] [để] [lấp] [lại] [lỗ hổng] [này] [chinh] [la] <per> [Fabregas] </per> ( [lúc] [đó] [mới] [18] [tuổi] ) . 
+
+[Trong] [giai đoạn] [đầu] [mùa] [này] , <org> [Arsenal] </org> [đã] [chơi] [rất] [tệ] [so] [với] [những] [năm] [trước] [và] [họ] [sớm] [bị] <org> [Chelsea] </org> [bỏ] [xa] [trên] [bảng] [xếp hạng] . 
+
+[Tất cả] [mọi] [người] [đều] [cho] [kết quả] [tồi tệ] [này] [là] [do] <per> [Fabregas] </per> [không thể] [mặc] [vừa] [chiếc] [áo] [của] <org> [Viera] </org> [để] [lại] [mặc dù] [cậu] [đã] [có] [một] [bàn] [thắng] [trong] [trận] [tranh] [community] [Shield] [với] <org> [Chelsea] </org>.
+
+[Mùa] [giải] [cứ] [theo] [thời gian] [mà] [trôi] [đi] , <org> [Arsenal] </org> [coi] [như] [đã] [bị] [loại] [khỏi] [cuộc] [đua] [tới] [ngôi] [vô địch] [khi] [họ] [bị] <org> [Chelsea] </org> [bỏ] [cách] [đến] [20] [điểm] [tính] [đến] [hết] [vòng] [17] , [mùa] [giải] [trắng tay] [đã] [rất] [gần] [tuy nhiên] [bước] [ngoặc] [đã] [đến] [ở] [vòng] [1/16] [champions] [league] , <org> [Arsenal] </org> [vượt] [qua] <org> [Real Madrid] </org> [ngay] [tại] <loc> [Santiago] [de] [Bernabeu] </loc> [trong] [một] [trận] [đấu] [mà] <per> [Fabregas] </per> [đã] [chơi] [cực] [hay] [và] [đóng góp] [to lớn] [vào] [chiến thắng] [đó] . 
+
+[Tiến] [vào] [vòng] [tứ kết] <per> [Fabregas] </per> [có] [cơ hội] [gặp] [lại người] [đàn anh] <per> [Viera] </per> [khi] [đối thủ] [của] <org> [Arsenal] </org> [chính] [là] <org> [Juventus] </org> , [thật] [bất ngờ] [khi] [các] [đồng đội] [trẻ trung] [của] <per> [Fabregas] </per> [đã] [vượt] [qua] <org> [Juventus] </org> [già] [giơ] [của] <per> [Viera] </per> [một cách] [thuyết phục] , [riêng] <per> [Fabregas] </per> [đã] [ghi] [được] [một] [bàn] [trong] [chiến thắng] [2] - [0] [ở] <loc> [Highbury] </loc> . 
+
+[Sau] [kết quả] [này] <org> [Arsenal] </org> [đã] [tiến] [thẳng] [vào] [chung kết] , [mặc dù] [thất bại] [trước] <org> [FC] [Barcelona] </org> [nhưng] [mùa] [giải] [năm] [đó] [vẫn] [được] [xem] [là] [bước] [ngoặc] [của] <per> [Fabregas] </per> [đối với] [sự nghiệp] [của] [anh] .

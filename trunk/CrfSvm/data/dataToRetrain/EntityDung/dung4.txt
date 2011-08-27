@@ -1,0 +1,59 @@
+<org> [Tập đoàn] [Intel] </org> ( [Integrated Electronics] ) [thành lập] [năm 1968] [tại] <loc> [Santa Clara] , [California] , [Hoa Kỳ] </loc> . 
+
+<org> [Intel] </org> [sản xuất] [các] [sản phẩm] [như] [chip] [vi xử lý] [cho] [máy tính] , [bo mạch chủ] , [ổ] [nhớ] [flash] , [cạc] [mạng] [và] [các] [thiết bị] [máy tính] [khác] . 
+
+[Ban đầu] , <org> [Intel] </org> [là] [nhà sản xuất] [bộ nhớ] [SRAM] [và] [DRAM] [và] [đây] [là] [sự kiện] [tiêu biểu] [đầu tiên] [cho] [các] [nhà sản xuất] [chip] [bộ nhớ] [sau này] . 
+
+<org> [Tập đoàn] [Intel] </org> ( [Integrated Electronics] ) [thành lập] [vào] [ngày] [18/7/1968] , [lúc] [đó] [là] [tập đoàn] [hợp nhất] [về] [thiết bị] [điện tử] , [sản xuất] [ờ] <loc> [Santa Clara] , ( [California] , [USA] ) </loc> [bởi] [nhà] [hoá học] [kiêm] [vật lí học] <per> [Gordon] [E.Moore] </per> [và] <per> [Robert Noyce] </per> , [sau] [khi] [họ] [đã] [rời] [khỏi] <org> [công ty] [Fairchild Semiconductor] </org> . 
+
+<org> [Intel] </org> [có] [99.000] [nhân viên] [tại] [199] [văn phòng] [và] [cơ sở] [sản xuất] [kinh doanh] [trên] [toàn cầu] . 
+
+[Năm 2005] [doanh thu] [của] <org> [Intel] </org> [đạt] [hơn] [38 tỷ] [USD] , [và] <org> [Intel] </org> [xếp] [thứ] [50] [trong] [các] [công ty] [lớn] [nhất] [thế giới] . 
+
+<org> [Intel] </org> [sản xuất] [các] [sản phẩm] [như] [chip] [vi xử lý] [cho] [máy tính] , [bo mạch chủ] , [ổ] [nhớ] [flash] , [card] [mạng] [và] [các] [thiết bị] [máy tính] [khác] . 
+
+<org> [Intel Corporation] </org> [là] [công ty] [sản xuất] [thiết bị] [chất bán dẫn] [lớn] [nhất] [thế giới] , [và] [là] [nhà phát minh] [ra] [chuỗi] [vi mạch] [xử lý] [thế hệ] [x] [86] [mà] [bộ xử lý] [tìm] [thấy] [ở] [các] [máy tính cá nhân] . 
+
+<org> [Intel] </org> [làm] [ra] [các] [sản phẩm] [motherboard] [chipsets] ( [con] [chip] [mạch] [chủ] ) , [network] [cards] ( [Card] [mạng lưới] ) [and] [ICs] ( [mạch] [tổ hợp] ) , [flash] [memory] ( [bộ nhớ] [Flash] ) , [graphic] [chips] ( [con] [chip] [đồ họa] ) , [embedded] [processors] ( [bộ] [ghi] [xử lý] ) , [và] [các] [thiết bị] [khác] [có] [liên quan] [đến] [tin học] [và] [sự] [truyền thông] . 
+
+[Lúc] [đầu] <per> [Gordon Moore] </per> [and] <per> [Robert Noyce] </per> [muốn] [đặt] [tên] [cho] [công ty] [là] " <org> [Moore Noyce] </org> " . 
+
+[Tuy nhiên] [việc] [phát âm] [lại giống] [“] [more] [noise] [”] [và] [điều] [này] [không] [thích hợp] [cho] [một] [công ty] [điện tử] . 
+
+[Họ] [cho] [rằng] [tiếng] [ồn] [là] [đặc trưng] [cho] [sự] [giao thoa] [xấu] . 
+
+[Và] [họ] [đã] [sử dụng] [cái] [tên] <org> [NM] [Electronics] </org> [cho] [công ty] [đúng] [một] [năm] [trước] [khi] [quyết định] [gọi] [tên] [công ty] [là] <org> [INTegrated] [ELectronics] </org> [or] " <org> [Intel] </org> " [là] [từ] [gọi] [tắt] . 
+
+[Tuy nhiên] [tên] [“] <org> [Intel] </org> [”] [đã] [là] [một] [tên] [thương mại] [của] [một] [chuỗi] [hệ thống] [khách sạn] [và] [họ] [đã] [mua] [lại] [trước] [khi] [hoạt động] . 
+
+[Năm] [1971] : [Bộ vi xử lý] [4004] [là] [bộ vi xử lý] [đầu tiên] [của] <org> [Intel] </org> . 
+
+[Phát minh] [đột phá] [này] [nhằm] [tăng] [sức mạnh] [cho] [máy tính] [Busicom] [và] [dọn] [đường] [cho] [khả năng] [nhúng] [trí] [thông minh] [của] [con người] [vào] [trong] [các] [thiết bị] [vô tri] [cũng như] [các] [hệ thống] [máy tính cá nhân] . 
+
+[Số lượng] [bóng bán dẫn] : [2.300][Tốc độ] : [108KHz] 
+
+[Năm] [1972] : [Bộ vi xử lý] [8008] 
+
+[Bộ vi xử lý] [8008] [mạnh] [gấp] [đôi] [bộ vi xử lý] [4004] . 
+
+[Thiết bị] [Mark] - [8] [được] [biết] [đến] [như là] [một] [trong] [những] [hệ thống] [máy tính] [đầu tiên] [dành] [cho] [người] [sử dụng] [gia đình] – [một] [hệ thống] [mà] [theo] [các] [tiêu chuẩn] [ngày nay] [thì] [rất] [khó] [để] [xây dựng] , [bảo trì] [và] [vận hành] . 
+
+[Số lượng] [bóng bán dẫn] : [3.500]
+
+[Tốc độ] : [200KHz]
+
+[Năm] [1974] : [Bộ vi xử lý] [8080] [Bộ vi xử lý] [8080] [đã] [trở thành] [bộ não] [của] [hệ thống] [máy tính cá nhân] [đầu tiên] – [Altair] . 
+
+[Số lượng] [bóng bán dẫn] : [6.000]
+
+[Tốc độ] : [2MHz]
+
+[Năm] [1978] : [Bộ vi xử lý] [8086-8088]
+
+[Một] [hợp đồng] [cung cấp] [sản phẩm] [quan trọng] [cho] [bộ phận] [máy tính cá nhân] [mới] [thành lập] [của] <org> [IBM] </org> [đã] [biến] [bộ vi xử lý] [8088] [trở thành] [bộ não] [của] [sản phẩm] [chủ đạo] [mới] [của] <org> [IBM] </org> [máy tính] [IBM PC] .
+
+[Số lượng] [bóng bán dẫn] : [29.000] 
+
+[Tốc độ] : [5MHz] , [8MHz] , [10MHz]
+
+[Năm] [1982] : [Bộ vi xử lý] [286] [Bộ vi xử lý] [286] , [còn] [được] [biết] [đến] [với] [cái] [tên] [là] [80286] , [là] [bộ vi xử lý] [Intel] [đầu tiên] [có thể] [chạy] [tất cả] [các] [phần mềm] [được] [viết] [cho] [những] [bộ vi xử lý] [trước] [đó] .

@@ -1,0 +1,19 @@
+<date> [Ngày] [12-6] </date> , [một] [nguồn] [tin] [cho hay] <org> [Cơ quan] [cảnh sát] [điều tra] [Công an] [tỉnh] [Đồng Nai] </org> [đang] [mở rộng] [điều tra] [và] [tổ chức] [truy bắt] [đối với] [ông] <per> [Nishimura Setsuo] </per> , <pos> [giám đốc] [tài chính] </pos> <org> [Công ty] [TNHH] [Sanyo] [VN] </org> ( [vốn] [100%] <loc> [Nhật Bản] </loc> , [đóng] [tại] <loc> [Khu công nghiệp] [Biên Hòa] [2] , [TP] [Biên Hòa] , [Đồng Nai] </loc> ) [và] [bà] <per> [Dương Thị Thanh Nhàn] </per> ( [tạm trú] [ở] <loc> [TP.HCM] </loc> , [là] [chủ] <org> [quán] [Cẩm Tú Cầu] </org> [ở] <loc> [đường] [Lê Thánh Tôn] , [quận] [1] </loc> ) [sau] [khi] [có] [quyết định] [khởi tố] [vụ án] [“] [lạm dụng] [tín nhiệm] [chiếm đoạt] [tài sản] [”] [xảy ra] [ở] [công ty] [này] . 
+
+[Hiện] [công an] [đã] [bắt] [giam] <per> [Dương Hoài Tân] </per> , <per> [Đỗ Minh Trường] </per> , <per> [Dương Thị Ngọc Thanh] </per> - [chị] [ruột] [của] <per> [Nhàn] </per> . 
+
+<date> [Tháng] [5-2009] </date> , <org> [Công ty] [TNHH] [Sanyo] [VN] </org> [đã] [đến] [công an] [trình báo] [về] [việc] [khoảng] [giữa] <date> [năm 2007] </date> [đến] [cuối] <date> [tháng] [4-2009] </date> , [ông] <per> [Nishimura] </per> [ký] [rất] [nhiều] [phiếu] [thu] [tiền] [lên] [đến] [132 tỉ] [đồng] [và] [530.000] [USD] [nhưng] [không] [nộp] [vào] [quỹ] . 
+
+[Ngoài ra] [công ty] [còn] [phát hiện] [trong suốt] [một] [tuần] [giữa] <date> [tháng] [4-2009] </date> , [ông] <per> [Nishimura] </per> [đã] [ký] [nhận] [số] [tiền] [hơn] [30 tỉ] [đồng] [nhưng] [cũng] [không] [nhập] [quỹ] [và] [bỏ] [việc] . 
+
+<org> [Cơ quan] [cảnh sát] [điều tra] [Công an] [Đồng Nai] </org> [huy động] [lực lượng] [vào cuộc] [đã] [xác định] [ông] <per> [Nishimura Setsuo] </per> [và] <per> [Dương Thị Thanh Nhàn] </per> ( [27] [tuổi] , [cư ngụ] [ở] <loc> [huyện] [Vĩnh Cửu] , [Đồng Nai] </loc> ) [sống] [như] [vợ chồng] . 
+
+[Từ] <date> [năm] [2008] </date> [đến] [lúc] [bỏ] [trốn] , [nhiều] [lần] <per> [Nhàn] </per> [yêu cầu] <per> [Đỗ Minh Trường] </per> [và] <per> [Dương Hoài Tân] </per> [là] [người] [làm việc] [ở] <org> [quán] [Cẩm Tú Cầu] </org> [cùng] [đi] [với] [ông] <per> [Nishimura] </per> [đến] [các] [chi nhánh] [ngân hàng] [ở] <loc> [quận] [1] , [TP.HCM] </loc> [để] [rút] [gần] [100 tỉ] [đồng] . 
+
+[Số] [tiền] [sau] [khi] [rút] [được] <per> [Nhàn] </per> [mang] [“] [nướng] [”] [nhiều] [lần] [vào] [các] [sòng] [bài] [tại] <loc> [TP.HCM] </loc> , <loc> [Campuchia] </loc> [và] <loc> [Macau] </loc> . 
+
+<per> [Trường] </per> , <per> [Tân] </per> [là] [người] [thường] [đi] [giao] [tiền] [cho] [các] [con bạc] [sau] [khi] <per> [Nhàn] </per> [thua] [bài] . 
+
+[Ngoài ra] , [cơ quan] [điều tra] [cũng] [xác định] [được] [ông] <per> [Nishimura] </per> [còn] [đi] [rút tiền] [từ] [các] [ngân hàng] [để] [sau] [đó] <per> [Nhàn] </per> [chuyển] [sổ] [tiết kiệm] [do] [chị gái] <per> [Dương Thị Ngọc Thanh] </per> [và] [mẹ] [ruột] [đứng tên] [tại] <org> [chi nhánh] [ngân hàng] [V] [và] [E] </org> [ở] <loc> [quận] [1] , [TP.HCM] </loc> [với] [tổng số] [tiền] [hơn] [950.000] [USD] .
+
+[Số] [tiền] [này] [sau] [đó] [được] <per> [Nhàn] </per> [yêu cầu] [chị gái] [rút] [ra] [dần dần] [để] <per> [Nhàn] </per> [trả] [cho] [các] [con bạc] [đã] [thắng] [mình] [trước] [đó] .

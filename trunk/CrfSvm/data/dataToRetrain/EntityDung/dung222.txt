@@ -1,0 +1,31 @@
+<per> [Luis Suárez] </per> , [tên] [đầy đủ] [là] <per> [Luis Suárez Miramontes] </per> ( [sinh] <date> [2] [tháng] [5] [năm] [1935] </date> [tại] <loc> [La Coruña] , [Galicia] ) [là] </loc> [cựu] [cầu thủ] [bóng đá] [và] [huấn luyện viên] [người] <loc> [Tây Ban Nha] </loc> . 
+
+[Ông] [chơi] [ở] [vị trí] [tiền vệ] [cho] [các] [câu lạc bộ] <org> [Deportivo deLa Coruña] </org> , <org> [CD] [España] [Industrial] </org> , <org> [FC] [Barcelona] </org> , <org> [Inter Milan] </org> , <org> [Sampdoria] </org> [và] <org> [đội tuyển] [Tây Ban Nha] </org> . 
+
+<per> [Suárez] </per> [được] [coi] [là] [một] [trong] [những] [cầu thủ] [vĩ đại] [nhất] [của] <loc> [Tây Ban Nha] </loc> , [với] [kĩ thuật] [qua] [người] [khéo léo] [và] [cú] [sút] [đầy] [uy lực] . 
+
+<date> [Năm] [1960] </date> [ông] [là] [cầu thủ] [đầu tiên] [sinh trưởng] [tại] <loc> [Tây Ban Nha] </loc> [giành] [được] [danh hiệu] [Quả] [bóng] [vàng] [châu] [Âu] . 
+
+<date> [Năm] [1964] </date> [ông] [cùng] <org> [đội tuyển] [Tây Ban Nha] </org> [vô địch] [Euro] [1964] . 
+
+[Ông] [là] [thành viên] [chủ chốt] [của] <org> [FC] [Barcelona] </org> [có] [nhiều] [thành công] [trong] [thập niên] <date> [1950] </date> , [trước] [khi] [ông] [tới] <org> [Inter Milan] </org> . 
+
+[Tại] [đây] [ông] [cũng] [là] [thành viên] [quan trọng] [của] [đội] [bóng] [huyền thoại] <org> [Inter] </org> [vĩ đại] [trong] [thập niên] <date> [1960] </date> . 
+
+[Ông] [kết thúc] [sự nghiệp] [cầu thủ] [năm] <date> [1973] </date> , [sau] [ba] [mùa] [bóng] [chơi] [tại] <org> [Sampdoria] </org> . 
+
+<per> [Suárez] </per> [sau] [đó] [chuyển] [sang] [sự nghiệp] [huấn luyện] . 
+
+[Ông] [từng] [dẫn dắt] <org> [Inter Milan] </org> [3] [lần] [khác nhau] , [trong] [đó] [hai] [lần] [sau] [với] [vai trò] [tạm quyền] . 
+
+<per> [Suárez] </per> [cũng] [đã] [làm] [huấn luyện viên] [đội tuyển] <org> [U21] [Tây Ban Nha] </org> [và] <org> [đội tuyển] [Tây Ban Nha] </org> . 
+
+[Với] <org> [đội tuyển] [Tây Ban Nha] </org> , [ông] [đã] [dẫn dắt] [27] [trận] [và] [lọt] [vào] [được] [vòng] [hai] [World Cup] [1990] . 
+
+[Ông] [còn] [dẫn dắt] [vài] <org> [câu lạc bộ] [Ý] </org> [và] <org> [Tây Ban Nha] </org> . 
+
+<per> [Suárez] </per> [bắt đầu] [sự nghiệp] [cầu thủ] [với] [câu lạc bộ]  <org> [Deportivo de La Coruña] </org> <date> [năm] [1949] </date> [và] [tham gia] [ở] [đội] [trẻ] [cho đến] [khi] [được] [chơi] [ở] <org> [La Liga] </org> [lần] [đầu tiên] <date> [ngày] [6] [tháng] [12] [năm] [1953] </date> [trong] [trận] [thắng] [6-1] [trước] <org> [FC] [Barcelona] </org> . 
+
+[Các] [đồng đội] [của] [ông] [ở] <org> [Deportivo] </org> [có] <per> [Pahiño] </per> [và] <per> [Arsenio Iglesias] </per> . 
+
+[Ông] [chơi] [17] [trận] [và] [ghi] [được] [3] [bàn] [cho] <org> [Deportivo] </org> [trong] [mùa] [bóng] [đó] .

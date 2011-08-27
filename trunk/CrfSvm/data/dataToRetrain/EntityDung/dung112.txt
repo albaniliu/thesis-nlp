@@ -1,0 +1,27 @@
+<per> [Éric] [Bilal Abidal] </per> ( [sinh] <date> [ngày] [11] [tháng] [9] [năm] [1979] </date> ) [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Pháp] </loc> [hiện] [đang] [là] <pos> [hậu vệ] </pos> [của] <org> [FC] [Barcelona] </org> [và] <org> [đội tuyển] [bóng đá] [quốc gia] [Pháp] </org> . 
+
+<per> [Abidal] </per> [cũng] [có thể] [chơi] [ở] [vị trí] <pos> [trung vệ] </pos> . 
+
+<per> [Abidal] </per> [chưa] [bao giờ] [ghi bàn] [trong] [một] [trận] [đấu] [chính thức] [trong suốt] [sự nghiệp] . 
+
+<per> [Abidal] </per> [bắt đầu] [sự nghiệp] [ở] <org> [Lyon] - [Duchère] </org> , [một] [đội] [bóng] [ở] [ngoại ô] <loc> [Lyon] </loc> . 
+
+[Anh] [bắt đầu] [sự nghiệp] [thi đấu] [chuyên nghiệp] [cùng] <org> [AS] [Monaco] </org> , [nơi] [anh] [có] [22] [lần] [ra] [sân] . 
+
+[Anh] [chuyển] [tới] <org> [Lille] [OSC] </org> [và] [có] [62] [lần] [ra] [sân] . 
+
+[Cuối] <date> [năm] [2004] </date> , [anh] [trở lại] [quê nhà] [bằng] [việc] [gia nhập] <org> [Olympique Lyonnais] </org> . 
+
+[Trong] [thời gian] [ở] <loc> [Pháp] </loc> , <per> [Abidal] </per> [được] [đánh giá] [là] [một] [trong] [những] <pos> [hậu vệ] </pos> [xuất sắc] [nhất] [Ligue] [1] . 
+
+[Vào] <date> [ngày] [30] [tháng] [6] [năm] [2007] </date> , <per> [Abidal] </per> [chuyển] [về] <org> [FC] [Barcelona] </org> [với] [giá] [15] [triệu] [euro] [cùng] [bản] [hợp đồng] [5] [năm] . 
+
+[Mức] [phí] [để] [phá] [hợp đồng] [của] <per> [Abidal] </per> [là] [90] [triệu] [euro] [và] <org> [Lyon] </org> [sẽ] [được] [thêm] [500,000] [euro] [nữa] [nếu] <org> [Barca] </org> [vô địch] [cúp] [C1] [trong] [1] [trong] [4] [mùa] [giải] [tiếp theo] <per> [Abidal] </per> [đã] [có] [52] [trận] [đấu] [cùng] [đội tuyển] [bóng đá] [quốc gia] <loc> [Pháp] </loc> , [có] [trận] [ra mắt] [vào] <date> [ngày] [18] [tháng] [8] [năm] [2004] </date> . 
+
+[Mặc dù] [bị] [dính] [nhiều] [chấn thương] [và] [những] [bất đồng] [cùng] [FIFA] [trong] [một số] [mùa] [giải] [trước] [đó] , <per> [Abidal] </per> [vẫn] [tham dự] [World Cup] <date> [2006] </date> [và] [chơi] [đầy đủ] [tất cả] [các] [trận] [trừ] [trận] [gặp] <org> [đội tuyển] [bóng đá] [quốc gia] [Togo] </org> . 
+
+<per> [Abidal] </per> [trở thành] [sự] [lựa chọn] [số] [1] [của] <loc> [Pháp] </loc> [dưới] [thời] <per> [Raymond Domenech] </per> [ở] [vị trí] <pos> [hậu vệ] [trái] </pos> [tại] [vòng loại] [Euro] <date> [2008] </date> . 
+
+<per> [Éric Bilal Abidal] </per> [được] [chọn] [là] <pos> [trung vệ] </pos> [trong] [trận] [gặp] <org> [đội tuyển] [bóng đá] [quốc gia] [Ý] </org> [tại] [vòng] [bảng] [Euro] <date> [2008] </date> , [nhưng] [bị] [nhận] [thẻ đỏ] [và] [gây] [ra] [một] [quả] [penalty] [ngay] [từ] [phút] [thứ] [9] [của] [trận] [đấu] . 
+
+<loc> [Pháp] </loc> [thua] [2] - [0] [và] [bị] [loại] [khỏi] [giải] [đấu] .

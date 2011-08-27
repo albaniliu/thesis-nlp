@@ -1,0 +1,31 @@
+<per> [Carles Puyol Saforcada] </per> ( [sinh] <date> [ngày] [13] [tháng] [4] [năm] [1978] </date> [tại] <loc> [Lleida] , [Catalan] </loc> ) , <job> [cầu thủ] </job> [bóng đá] <loc> [Tây Ban Nha] </loc> , [hiện] [là] <pos> [đội trưởng] </pos> [đội] [bóng] [xứ] <loc> [Catalan] </loc> <org> [FC] [Barcelona] </org> , [tuyển thủ] [quốc gia] <loc> [Tây Ban Nha] </loc> , [được] [biết] [đến] [như] [một] [trong] [số] [các] <pos> [hậu vệ] </pos> [xuất sắc] [nhất] [thế giới] . 
+
+<per> [Puyol] </per> [là] [mẫu] <job> [cầu thủ] </job> [chơi] [rắn] , [quyết liệt] [nhưng] [đa năng] . 
+
+<per> [Puyol] </per> [có thể] [chơi] [ở] [vị trí] <pos> [trung vệ] </pos> , <pos> [hậu vệ] [cánh] </pos> [hoặc] <pos> [tiền vệ] [dập] </pos> . 
+
+[Nhờ] [quyết định] [gắn bó] [toàn bộ] [sự nghiệp] [của] [mình] [cho] [câu lạc bộ] , [anh] [luôn] [giành] [được] [sự] [yêu mến] [của] [các] [Culé] . 
+
+<per> [Puyol] </per> [cùng] <org> [đội tuyển] [Tây Ban Nha] </org> [giành] [huy chương] [bạc] [tại] [Thế vận hội] [mùa hè] <date> [2000] </date> , [tham gia] [giải] [vô địch] [bóng đá] [thế giới] <date> [2002] </date> , [giải] [vô địch] [bóng đá] <loc> [châu] [Âu] </loc> <date> [2004] </date> . 
+
+[Tinh thần] [lăn xả] [mỗi] [khi] [ra] [sân] [của] [anh] [có lẽ] [hình thành] [từ] [lúc] [anh] [còn] [chơi] [ở] [vị trí] <job> [thủ môn] </job> [trong] [đội] [trẻ] <org> [La Pobla] </org> ( [Segur] ) . 
+
+[Một] [chấn thương] [vai] [sau] [đó] [buộc] [anh] [phải] [từ bỏ] [vị trí] [này] . 
+
+[Năm] [17] [tuổi] [anh] [bắt đầu] [chơi] [cho] [đội hình] <org> [B Barca] </org> . 
+
+[Dưới] [thời] <job> [huấn] [luận] [viên] </job> <per> [Louis] [van] [Gaal] </per> [anh] [được] [đưa] [lên] [đội hình] [A] . 
+
+<date> [Ngày] [2] [tháng] [10] [năm] [1999] </date> [anh] [kỷ niệm] [lần] [đầu ra] [sân] [cho] <org> [Barca] </org> [trong] [trận] [thắng] <org> [Valladolid] </org> , ( [2] : [0] ) . 
+
+<date> [Tháng] [9] [năm] [2005] </date> [anh] [gia hạn] [hợp đồng] [chơi] [cho] <org> [Barca] </org> [đến] <date> [năm] [2010] </date> . 
+
+[Trong] [điều khoản] [hợp đồng] [này] [có] [quy định] [phí] [hủy] [hợp đồng] [lên] [đến] [150] [triệu] [Euro] . 
+
+[Theo] [đó] [thì] [tuyển thủ] <loc> [Tây Ban Nha] </loc> [này] [cùng với] <per> [Ronaldinho] </per> , <per> [Deco] </per> , <per> [Xavi] </per> , <per> [Samuel Eto] ' [o] </per> [và] <per> [Lionel Messi] </per> [sẽ] [gắn bó] [lâu dài] [với] <org> [đội] [bóng] [Catalan] </org> . 
+
+[Worldcup] <date> [2010] </date> [là] [giải] [đấu] [thành công] [với] <loc> [Tây Ban Nha] </loc> [nói chung] [và] [riêng] [cá nhân] <per> [Carles Puyol] </per> . 
+
+[Với] [lối] [chơi] [quyết liệt] [và] [thông minh] [anh] [đã] [giúp] <loc> [Tây Ban Nha] </loc> [lập] [kỷ lục] [là] [1] [trong] [2] [đội] [bóng] [để] [lọt lưới] [ít nhất] [tại] [một] [kỳ] [Worldcup] ( [2] [bàn] [thua] ) [và] [có] [bàn] [thắng] [quyết định] [trong] [trận] [bán kết] [với] <org> [Đức] </org> [đưa] <org> [Tây Ban Nha] </org> [vào] [trận] [chung] [kết] [và] [vô địch] . 
+
+<per> [Puyol] </per> [có] [ngoại hình] [nổi bật] [với] [phong cách] [của] [một] [ca sĩ] [nhạc] [Rock] .

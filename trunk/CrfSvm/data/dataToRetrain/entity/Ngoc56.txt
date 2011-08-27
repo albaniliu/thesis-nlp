@@ -1,0 +1,71 @@
+<org> [Google] </org> [là] [hiện tượng] [kỳ diệu] [của] [công nghệ] [tin học] [và] [Internet] [trong] [những] [năm] [vừa qua] . 
+
+[Cho dù] [còn] [rất] [trẻ] [tuổi] [nhưng] <org> [Google] </org> [đã] [trở thành] [một] [đại gia] [khổng lồ] [của] [lĩnh vực] [công nghệ] [cao] [Internet] . 
+
+[Tất cả] [các] [thành công] [đó] [đã] [có] [phần] [đóng góp] [rất] [lớn] [của] <per> [Eric Schmidt] </per> , [vị] [tổng giám đốc] [tài ba] [nhưng] [khá] [thầm lặng] [của] [tập đoàn] [này] . 
+
+<org> [Công ty] [Google] </org> [được] [hai] [ông chủ] <per> [Sergey Brin] </per> [và] <per> [Larry Page] </per> [trẻ tuổi] [thành lập] [từ] [tháng] [9] [năm] [1998] , [trụ sở] [đặt] [tại] <loc> [thành phố] [Menlo Park] , [bang] [California] , [Mỹ] </loc> . 
+
+<per> [Eric Schmidt] </per> [đến] [với] <org> [Google] </org> [rất] [sớm] , [từ] [năm] [2001] . 
+
+[Khi đó] <org> [Google] </org> [còn] [đang] [rất] [nhỏ bé] [nhưng] [ông] [đã] [sớm] [nhận ra] [tiềm năng] [vĩ đại] [của] [công ty] [này] . 
+
+[Dưới] [sự] [chèo lái] [của] [Chủ tịch] , [kiêm] [Tổng giám đốc] <per> [Eric Schmidt] </per> , [công ty] <org> [Google] </org> [đã] [phần nào] [vượt qua] [được] [đối thủ] [đáng] [gờm] [nhất] [của] [mình] [là] <org> [tập đoàn] [Yahoo] </org> . 
+
+[Hơn] [thế] [nữa] , [giới] [thông tin] [truyền thông] [còn] [dự báo] <org> [Google] </org> [sắp] [tới] [còn] [thách thức] [cả]  [người] [khổng lồ] - <org> [tập đoàn] [Microsoft] </org> [trong] [rất] [nhiều] [lĩnh vực] [ứng dụng] [liên quan] [đến] [Internet] . 
+
+[Bản thân] [Tổng giám đốc] <per> [Eric Schmidt] </per> [vốn dĩ] [là] [người] [khá] [trầm tĩnh] [và] [khiêm tốn] [cũng] [đã] [tỏ ra] [vô cùng] [kiêu hãnh] [trước] [những] [kết quả] [mà] <org> [Google] </org> [đạt] [được] [trong] [6] [tháng] [đầu] [năm] [2006] , [đặc biệt] [ấn tượng] [là] [trong] [quí] [II] [vừa qua] . 
+
+[Với] [2,5] [tỷ] [USD] , [doanh số] [của] <org> [Google] </org> [đã] [tăng trưởng] [78%] . 
+
+[Đây] [là] [con số] [rất] [đáng] [kinh ngạc] [bởi] [giai đoạn] [này] [tình hình] [kinh doanh] [của] [đa số] [các] [công ty] [Internet] [và] [công nghệ cao] [được] [đánh giá] [là] [không] [khả quan] [cho] [lắm] . 
+
+<org> [Google] </org> [còn] [gây] [ấn tượng] [hơn nữa] [bởi] [tính] [hiệu quả] [trong] [kinh doanh] . 
+
+[Với] [trên] [700] [triệu] [USD] , <org> [Google] </org> [đã] [đạt] [hơn] [100%] [lợi nhuận] [so với] [cùng] [kỳ] [năm] [2005] . 
+
+[Các] [nhà đầu tư] [trên] [thị trường] [chứng khoán] [rất] [phấn khích] [và] [hồi hộp] [theo dõi] [sự] [phát triển] [ngoạn mục] [của] [cổ phiếu] <org> [Google] </org> . 
+
+[Chỉ] [sau khi] [Tổng giám đốc] <per> [Eric Schmidt] </per> [công bố] [kết quả] [kinh doanh] [mới] [nhất] , [giá] [cổ phiếu] [của] <org> [Google] </org> [đã] [tăng] [vọt] [lên] [xấp xỉ] [5] [USD] , [vượt] [xa] [cả] [những] [dự báo] [lạc quan] [nhất] [của] [giới] [phân tích] [trên] [thị trường] [chứng khoán] <loc> [phố] [Wall] </loc> . 
+
+[Không] [phải] [đợi] [những] [thành công] [của] <org> [Google] </org> , [giới] [chuyên môn] [mới] [biết] [đến] [và] [thừa nhận] <per> [Eric Schmidt] </per> [là] [một] [chuyên gia] [kinh doanh] [Internet] [hàng đầu] . 
+
+[Trước khi] [về] [với] <org> [Google] </org> , <per> [Eric Schmidt] </per> [đang] [làm] [Chủ tịch] [kiêm] [Tổng giám đốc] [của] <org> [tập đoàn] [Novell] </org> , [kiêm] [Tổng giám đốc] [của] [<org> công ty] [Volera Inc] </org> [mà] <org> [Novell] </org> [nắm] [quyền] [chi phối] . 
+
+<per> [Eric Schmidt] </per> [sinh] [năm] [1955] [và] [đến] [nay] [ông] [đã] [có] [hơn] [20] [năm] [kinh nghiệm] [trong] [lĩnh vực] [này] . 
+
+<per> [Eric Schmidt] </per> [cùng] [tuổi] [với] [thiên tài] <per> [Bill Gates] </per> , [ông chủ] [của] <org> [Microsoft] </org> . 
+
+[Nhưng] [khác] [với] [ông] [này] , <per> [Eric Schmidt] </per> [được] [đào tạo] [rất] [bài bản] [và] [trở thành] [một] [nhà điều hành] [rất] [chuyên nghiệp] . 
+
+<per> [Eric Schmidt] </per> [tốt nghiệp] <org> [khoa] [điện tử] </org> [của] <org> [trường] [đại học] [Tổng hợp] [Princeton] </org> . 
+
+[Sau đó] [ông] [còn] [học] [thạc sĩ] [và] [bảo vệ] [luận án] [tiến sĩ] [về] [tin học] [của] <org> [trường] [tổng hợp] [California] </org> [tại] <loc> [Berkeley] </loc> . 
+
+[Từ] [năm] [1983] , <per> [Eric Schmidt] </per> [là] [chuyên gia] [nghiên cứu] [tại] <org> [trung tâm] [nghiên cứu] [Xerox] </org> , [các] <org> [công ty] [Bell Laboratories] </org> [và] <org> [công ty] [Zilog] </org> . 
+
+[Ông] [bắt đầu] [sự nghiệp] [với] [tư cách] [là] [nhà điều hành] [khi] [được] [mời] [vào] [làm] [cho] <org> [tập đoàn] [Sun Microsystem] </org> . 
+
+<per> [Eric Schmidt] </per> [là] [thành viên] [Ban] [tổng giám đốc] [phụ trách] [kỹ thuật] [tại] <loc> [Sun Microsystem] </loc> . 
+
+[Tên tuổi] [ông] [đã] [được] [biết] [đến] [ở] [tầm cỡ] [quốc tế] [khi] [ông] [là] [tác giả] [của] [chương trình] [Java] [rất] [nổi tiếng] . 
+
+<per> [Eric Schmidt] </per> [còn] [là] [người] [trực tiếp] [tiếp thị] [thành công] [sản phẩm] [Java] [ra] [thị trường] [với] [rất] [nhiều] [đối thủ] [cạnh tranh] . 
+
+[Chẳng] [bao lâu] <per> [Eric Schmidt] </per> [đã] [được] [bổ nhiệm] [làm] [Tổng giám đốc] [của] <org> [Sun Microsystem] </org> . 
+
+[Trong] [thời gian] [làm] [Chủ tịch] [kiêm] [Tổng giám đốc] [của] <org> [Novell] </org> , <per> [Eric Schmidt] </per> [còn] [giữ] [nhiều] [vị trí] [quan trọng] [như là] [thành viên] [hội đồng quản trị] [của] [tập đoàn] [và] [công ty] [khác nhau] [như] <org> [Siebel Systems] </org> , <org> [Archiv Systems] </org> [và] <org> [Tilion] </org> . 
+
+[Đến] [nay] <per> [Eric Schmidt] </per> [vẫn] [còn] [được] [tín nhiệm] [giữ] [chức] [Chủ tịch] [Hội đồng quản trị] [của] <org> [Novell] </org> . 
+
+<per> [Eric Schmidt] </per> [là] [con người] [rất] [khiêm tốn] . 
+
+[Nhiều] [người] [còn] [nói] [rằng] [ông] [dường như] [còn] [ẩn] [mình] [hơi] [nhiều] [sau] [cái] [bóng] [của] <per> [Brin] </per> [và] <per> [Page] </per> . 
+
+[Trên] [thực tế] , [ông] [thay] <per> [Page] </per> [làm] [Chủ tịch] [kiêm] [Tổng giám đốc] , [trực tiếp] [phụ trách] [mảng] [xây dựng] [kế hoạch] [chiến lược] , [phát triển] [công nghệ] [và] [điều hành] [hàng ngày] [toàn bộ] [hoạt động] [của] [tập đoàn] . 
+
+<per> [Eric Schmidt] </per> [không] [bị] [mặc cảm] [khi] [đã] [thành danh] [mà] [chấp nhận] [làm] [Tổng giám đốc] [thuê] [cho] [hai] [chàng] [sinh viên] . 
+
+[Quan hệ] [giữa] <per> [Eric Schmidt] </per> [với] <per> [Brin] </per> [và] <per> [Page] </per> [là] [rất] [tốt] . 
+
+<per> [Eric Schmidt] </per> [rất] [cảm phục] [và] [ấn tượng] [sâu sắc] [bởi] [những] [ý tưởng] [kinh doanh] [vĩ đại] [của] [hai] [chàng trai] [trẻ] .

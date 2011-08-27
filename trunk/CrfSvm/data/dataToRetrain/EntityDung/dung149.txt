@@ -1,0 +1,43 @@
+<per> [Yossi Shai Benayoun] </per> ( [sinh] <date> [ngày] [5] [tháng] [5] [năm] [1980] </date> [ở] <loc> [Dimona] , [Israel] </loc> ) , [được] [biết] [đến] [nhiều] [với] [cái] [tên] <per> [Yossi Benayoun] </per> , [là] [một] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Israel] </loc> [hiện] [đang] [chơi] [cho] [câu lạc bộ] <org> [Chelsea] </org> [ở] [giải] [ngoại hạng] <loc> [Anh] </loc> . 
+
+<per> [Benayoun] </per> [chơi] [ở] [vị trí] <pos> [tiền vệ] </pos> [tấn công] , [thường] [là] [phía] [sau] <pos> [tiền đạo] </pos> . 
+
+[Ở] <org> [Israel] </org> , [anh] [có] [biệt danh] [là] " [Viên] [kim cương] " [ [3] ] [và] [anh] [cũng] [là] [đội trưởng] [đội tuyển] <org> [Israel] </org> . 
+
+<per> [Benayoun] </per> [bắt đầu] [sự nghiệp] [năm 9] [tuổi] [với] <org> [Hapoel Be] ' [er] [Sheva] </org> . 
+
+[Để] [đi] [tập] , [anh] [thường] [phải] [di chuyển] [60] [km] [cùng] [bố] . [ [3] ] [Sau] [khi] [tạo] [được] [tiếng tăm] [cho] [riêng] [mình] , [anh] [được] [các] [tuyển trạch] [viên] [của] <org> [Ajax Amsterdam] </org> [mời] [đến] . 
+
+[Tại] <org> [Ajax] </org> , [anh] [mang] [áo] [số] [14] . 
+
+<org> [Ajax] </org> [còn] [mời] [luôn] [gia đình] <per> [Benayoun] </per> [cùng] [anh] [sang] <loc> [Hà Lan] </loc> . 
+
+[Vào] [sinh nhật] [16] , [anh] [trở thành] <job> [cầu thủ] </job> [ghi] [nhiều] [bàn] [nhất] [cho] [đội] [trẻ] <org> [Ajax] </org> [và] [là] <job> [cầu thủ] </job> [xuất sắc] [nhất] , [và] <org> [Ajax] </org> [mời] [anh] [kí] [hợp đồng] [chuyên nghiệp] [có] [thời hạn] [4] [năm] . [ [4] ] [Tuy nhiên] , <per> [Benayoun] </per> [và] [gia đình] [không] [thích nghi] [được] [với] [đời sống] [ở] <org> [Amsterdam] </org> , [do vậy] [anh] [từ chối] [bản] [hợp đồng] [và] [cùng] [gia đình] [trở về] <org> [Israel] </org> [chỉ] [sau] [8] [tháng] . 
+
+[Ở] [tuổi] [17] , [anh] [được] [đôn] [lên] [đội] [một] <org> [Hapoel Be] ' [er] [Sheva] </org> [ở] [mùa] [giải] [1997-98] , [nhưng] [không thể] [giúp] [đội] [bóng] [thoát] [khỏi] [việc] [bị] [xuống] [hạng] . 
+
+[Trong] [trận] [đấu] [cuối cùng] [của] [mùa] [giải] [gặp] <org> [Maccabi Haifa] </org> , <per> [Benayoun] </per> [thực hiện] [cú] [đá] [penalty] [ở] [phút] [90] . 
+
+[Thủ môn] [của] <org> [Haifa] </org> , <per> [Nir Davidovich] </per> , [chặn] [cú] [sút] [song] <per> [Benayoun] </per> [vẫn] [kịp] [băng] [vào] [đá] [bồi] [để] [đem] [lại] [chiến thắng] [cho] [đội] [bóng] [của] [anh] . 
+
+[Tuy nhiên] , [đối thủ] [cạnh tranh] [tránh] [xuất] [xuống] [hạng] [của] [họ] [cũng] [thắng] , [có] [nghĩa là] [đội] [bóng] [của] <per> [Benayoun] </per> [bị] [xuống] [hạng] . 
+
+[Vài] [giây] [sau] [khi] [ghi bàn] , [trong] [khi] [đang] [ăn mừng] [chiến thắng] [và] [anh] [nghĩ] [đó] [là] [bàn] [thắng] [cứu] [đội] [bóng] [khỏi] [xuống] [hạng] , <per> [Benayoun] </per> [biết] [được] [về] [việc] [bị] [xuống] [hạng] [và] [anh] [đã] [khóc] [oà] [lên] [ [5] ] . 
+
+<per> [Benayoun] </per> [kết thúc] [mùa] [giải] [trong] [top] [4] <job> [cầu thủ] </job> [ghi bàn] [hàng đầu] [của] [giải] [đấu] , [với] [15] [bàn] [sau] [25] [lần] [ra] [sân] . 
+
+[Sau] [mùa] [giải] [đó] , <per> [Benayoun] </per> [chuyển] [tới] <org> [Maccabi Haifa] </org> [theo] [một] [bản] [hợp đồng] [được] [kí kết] [cùng] <per> [Ya] ' [akov] [Shahar] </per> ( <pos> [chủ tịch] </pos> <org> [Haifa] </org> ) [và] <per> [Eli Zino] </per> ( [cựu] <pos> [chủ tịch] </pos> <org> [Be] ' [er] [Sheva] </org> ) , [và] [được] [đồng ý] [rằng] [hai] [đội] [bóng] [sẽ] [cùng] [chia sẻ] [lợi nhuận] [có] [được] [nếu] [họ] [bán] <per> [Benayoun] </per> [cho] [một] [đội] [bóng] <loc> [châu] [Âu] </loc> . 
+
+[Vào] <date> [năm] [1998] </date> , [dưới] [sự] [dẫn dắt] [của] <per> [Dusan Uhrin] </per> [và] <per> [Daniel Brailovsky] </per> , <per> [Benayoun] </per> [cùng] <org> [Haifa] </org> [vào] [đến] [tứ kết] [Cúp] [C2] , [và] [anh] [ghi bàn] [thắng] [cân bằng] [tỉ số] [muôn] [trong] [trận] [gặp]  <org> [Paris Saint]  - [Germain] </org> [và] [trong] [trận] [thắng] [4-1] [trước] <org> [SV] [Ried] </org> . 
+
+<per> [Benayoun] </per> [cũng] [ghi] [16] [bàn] [trong] [29] [trận] [cho] <org> [Haifa] </org> [ở] [mùa] [giải] [1998-99] , [kết thúc] [mùa] [giải] [ở] [vị trí] [thứ] [8] [trong] [danh sách] [các] <job> [cầu thủ] </job> [ghi bàn] [hàng đầu] . 
+
+[Vào] <date> [năm] [1999] </date> , [anh] [gây] [mâu thuẫn] [với] <job> [huấn luyện viên] </job> <per> [Eli Cohen] </per> , [khi] [anh] [từ chối] [vào] [sân] [từ] [ghế] [dự bị] [trong] [một] [trận] [đấu] . 
+
+[Điều] [này] [cộng] [thêm] [một] [tháng] [tồi tệ] [của] [đội] [bóng] [đã] [khiến] <per> [Cohen] </per> [phải] [từ chức] . 
+
+[Trong] [mùa] [giải] [đầu tiên] [ở] [giải] [vô địch] <org> [Israel] </org> [từ] <date> [năm] [1999] </date> [tới] <date> [2000] </date> ( [giải] [đấu] [này] [thay thế] [cho] <per> [Liga Leumit] </per> ) , <per> [Benayoun] </per> [ghi] [19] [bàn] [trong] [38] [trận] [cho] <org> [Maccabi] </org> , [và] [là] [chân sút] [đứng] [thứ ba] [trong] [danh sách] [ghi bàn] [của] [giải] [đấu] . 
+
+[Vào] [mùa] [giải] [2000-01] , [dưới] [sự] [dẫn dắt] [của] <per> [Avram Grant] </per> , <per> [Benayoun] </per> [đưa] <org> [Haifa] </org> [tới] [chức] [vô địch] [đầu tiên] [sau] [7] [năm] [và] [được] [chọn] [vào] [đội hình] [tiêu biểu] [của] [mùa] [giải] , [sau] [13] [bàn] [trong] [37] [trận] . 
+
+[Một] [mùa] [giải] [thành công] [nữa] [cũng] [đưa] [anh] [trở thành] [cầu thủ] [có] [tỉ lệ] [ghi bàn] [cao] [thứ] [6] [giải] [đấu] .

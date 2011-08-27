@@ -1,0 +1,55 @@
+<org> [Tập đoàn] [Samsung] </org> ( [phiên âm] [tiếng] [Việt] : [Sam-song] , [nghĩa là] [3] [ngôi sao] ) [là] [một] [trong] [những] [tập đoàn] [thương mại] [lớn] [nhất] <loc> [Hàn Quốc] </loc> . 
+
+[Được] [bắt đầu từ] [công ty] [xuất khẩu] <date> [năm] [1938] </date> , [nhưng] [mau chóng] [có] [nhiều] [dạng] . 
+
+<org> [Samsung] </org> [được] <per> [Lee Byung Chul] </per> [thành lập] <date> [năm] [1953] </date> . 
+
+<org> [Tập đoàn] [Samsung] </org> , [trước đây] [là] [khối] [kết] ( " [Jaebeol] " ) , [có] [hơn] [400.000] [công nhân] [trên] [toàn] [thế giới] [và] [chế tạo] [ra] [xe hơi] , [đồ] [điện] , [hóa chất] , [máy bay] , [tàu thủy] , [ngành] [buôn bán] , [kinh doanh] [khách sạn] , [công viên] [giải trí] , [xây dựng] [những] [nhà chọc trời] , [dệt] [vải] , [làm] [thức ăn] , [v] . [v] . [trong] [các] [công ty] [riêng rẽ] [sau] [sự] [cải tổ] [lại] [của] [sự] [khủng hoảng] [tài chính] <loc> [châu] [Á] </loc> .
+
+[Đôi khi] <loc> [thành phố] [Suwon] [ở] [Hàn Quốc] </loc> [được] [gọi là] " [Thành phố] [Samsung] " . 
+
+[Samsung Electronics] , <org> [hãng] [điện tử] [Samsung] </org> , [được] [thành lập] <date> [năm] [1969] </date> , [là] [một] [bộ phận] [lớn] [nhất] [của] <org> [Tập đoàn] [Samsung] </org> , [và] [là] [một] [trong] [những] [công ty] [điện tử] [lớn] [nhất] [thế giới] . 
+
+[Được] [sáng lập] [tại] <loc> [Daegu] , [Hàn Quốc] </loc> , <org> [hãng] [điện tử] [Samsung] </org> [hoạt động] [tại] [chừng] [58] [nước] [và] [có] [khoảng] [208.000] [công nhân] . 
+
+<org> [Hãng] [điện tử] [Samsung] </org> [được] [coi] [là] [một] [trong] [10] [nhãn] [hàng hóa] [tốt] [nhất] [thế giới] . 
+
+[Hãng] [này] [là] [một] [trong] [bốn] [hãng] [tại] <loc> [châu] [Á] </loc> , [bao gồm] <loc> [Nhật Bản] </loc> , [với] [vốn] [thị trường] [lên] [đến] [100 tỷ] [Mỹ kim] . 
+
+<org> [Tập đoàn] [Samsung] </org> [bao gồm] [nhiều] [ngành] [kinh doanh] [ở] <loc> [Hàn Quốc] </loc> , [bao gồm] [cả] <org> [Điện tử] [Samsung] </org> [và] <org> [Bảo hiểm] [Samsung] </org> . 
+
+[Chủ tịch] [hiện nay] [là] <per> [Lee Kun Hee] </per> . 
+
+[Trong] [thập niên] <date> [1990] </date> , <org> [Samsung] </org> [nổi] [lên] [như] [một] [tập đoàn] [quốc tế] [đa] [ngành] . 
+
+[Chi nhánh] [của] <org> [công ty] [xây dựng] [Samsung] </org> [đã] [từng] [được] [giải thưởng] [lớn] [vì] [công trình] [xây dựng] [một] [trong] [hai] <loc> [tòa] [tháp] [đôi] [Petronas] </loc> ( [tại] <loc> [Malaysia] </loc> ) <date> [tháng] [9] [năm] [1993] </date> , [và] <loc> [Burj Dubai] </loc> <date> [năm] [2004] </date> , [những] [công trình] [cao] [nhất] [thế giới] . 
+
+<org> [Samsung] </org> [đã] [sống sót] [qua] [khủng hoảng] [tiền tệ] <loc> [châu] [Á] </loc> [1997-98] , [tuy nhiên] , <org> [Công ty] [Motor Samsung] </org> , [đã] [phải] [bán] [cho] [hãng] <org> [Renault] </org> . 
+
+[Được] [coi] [là] [một] [đối thủ] [cạnh tranh] [mạnh] [của] <loc> [Nhật Bản] </loc> , <loc> [Thung lũng] [Sillicon] </loc> , <loc> [Đài Loan] </loc> [và] [cả] [các] [doanh nghiệp] [nội địa] , <org> [SEC] </org> [càng ngày càng] [mở rộng] [sản xuất] [nhằm] [trở thành] [nhà cung cấp] [bộ nhớ] [Ram] [động] ( [DRAM] ) , [tủ lạnh] , [bộ nhớ] [flash] , [đầu] [ĐV] [lớn] [nhất] [thế giới] , [và] [sẽ] [trở thành] [một] [trong] [20] [doanh nghiệp] [hàng đầu] [toàn cầu] [vào] <date> [năm] [2010] </date> . 
+
+[Bây giờ] , <org> [SEC] </org> [đã] [là] [một] [trong] [những] [nhà sản xuất] [dẫn đầu] [thế giới] [về] [màn hình] [plasma] [và] [điện thoại di động] [thế hệ] [2] . 
+
+<org> [Samsung] </org> [đang] [cố gắng] [để] [có] [bước] [đột phá] [ở] [thị trường] <loc> [Nhật] </loc> , [quê hương] [của] <org> [Sony] </org> [và] <org> [Panasonic] </org> . 
+
+[Vì] <org> [Samsung] </org> [hoạt động] [trong] [nhiều] [lĩnh vực] , [dường như] [còn] [bao hàm] [cả] [những] [cuộc] [tranh cãi] [không] [hồi] [kết] , [như là] [chuyện] [công ty] [đã] [vi phạm] [quyền] [sáng chế] [đối với] <org> [Fujitsu] </org> - [công ty] [đã] [thừa nhận] [chế tạo] [ra] [màn hình] [công nghệ] [plasma] [đầu tiên] . 
+
+<org> [Samsung] </org> [cũng] [phải] [đối mặt] [với] [tranh luận] [ở] <loc> [Hàn Quốc] </loc> [về] [chính sách] [cho] [công nhân] [làm việc] [của] [công ty] , [đề tài] [này] [đã] [được] [bàn tán] [rộng rãi] . 
+
+<org> [Hãng] [điện tử] [Samsung] </org> [đã] [có] [lợi nhuận] [và] [lợi tức] [kỉ lục] [vào] <date> [năm] [2004] </date> , [và] <date> [năm] [2005] </date> .
+
+[Cuối] <date> [năm] [2005] </date> , <org> [Samsung] </org> [đã] [có] [mạng lưới] [giá trị] [77,6 tỷ] [USD] .
+
+<date> [Tháng] [10] [năm] [1996] </date> , <org> [Samsung Everland] </org> , [khu] [giải trí] [lớn] [nhất] <loc> [Hàn Quốc] </loc> , [đã] [phát hành] [1,28 triệu] [bản] [khế ước] [thay đổi] ( [CB] ) , [mỗi] [cái] [có] [giá trị] [7.700] [won] – [có thể] [coi] [là] [rẻ] [hơn] [so] [với] [giá] [cổ phiếu] [của] [công ty] [lúc] [đó] [là] [100.000] [won] . 
+
+[Không] [phải] [cổ đông] [nào] [cũng] [có] [quyền] [mua] [những] [bản] [khế ước] [này] , [ngoại trừ] [con trai] [và] [con gái] [của] [chủ tịch] <per> [Lee Kun] - [hee] </per> . 
+
+[Trong] [một] [thời gian] [ngắn] , [những] [đứa] [con] [của] [ông] [đã] [biến] [khế ước] [thành] [cổ phiếu] , [và] [từ] [đó] [trở thành] [những] [cổ đông] [chính] . 
+
+[Chỉ] [một] [quá trình] [đơn giản] [vậy] [đã] [góp] [vào] [lợi nhuận] [120 tỷ] [won] ( [khoảng] [120 triệu] [USD] ) . 
+
+<date> [Ngày] [24] [tháng] [3] [năm] [1997] </date> , <org> [Hãng] [điện tử] [Samsung] </org> [cũng] [đã] [dùng] [cách] [tương tự] , [phát hành] [những] [khế ước] [trị giá] [60 tỷ] [won] [để] [sinh ra] [45 tỷ] [won] [khác] ( [khoảng] [45 triệu] [USD] ) [vào] [lợi nhuận] [của] [gia đình] . 
+
+<date> [Ngày] [26] [tháng] [2] [năm] [1999] </date> , [thay vì] [dùng] [khế ước] [thay đổi] , <org> [Samsung] [SDS] </org> [phát hành] [Khế ước] [chứng thực] ( [BW] ) [với] [giá trị] [thấp] [hơn] , [chỉ] [7.150] [won] . 
+
+[Cách thức] [trên] [đã] [cho phép] [những] [đứa] [con] [của] <per> [Lee Kun] - [hee] </per> [trở thành] [những] [người] [giàu] [nhất] <loc> [Hàn Quốc] </loc> , [và] [cũng như] [việc] [điều hành] [thành công] [của] [toàn thể] <org> [tập đoàn] [Samsung] </org> . 

@@ -1,0 +1,63 @@
+[Nếu như] <loc> [nước] [Mỹ] </loc> [có] <per> [Bill Gates] </per> , [tỉ phú] [phần mềm] , [thì] [ở] <loc> [Nhật] </loc> [cũng] [có] [thiên tài] [kinh doanh] [tin học] [của] [họ] . 
+
+[Đó] [là] <per> [Masayoshi Son] </per> , [người sáng lập] [và] [là] [Tổng giám đốc] [điều hành] [của] <org> [Softbank] </org> , [tập đoàn] [tin học] [lớn] [nhất] [của] <loc> [Nhật Bản] </loc> . 
+
+<per> [Masayoshi Son] </per> [không chỉ] [giàu] [nhất] , [mà còn] [được] [coi là] [doanh nhân] <loc> [Nhật Bản] </loc> [vĩ đại] [nhất] [về] [máy tính] . 
+
+[Với] [rất] [nhiều] [phi vụ] [kinh doanh] [nổi đình nổi đám] , [ông] [được] [biết] [đến] [như] [một] [nhà kinh doanh] [có] [biệt tài] [bất chợt] [nhìn] [thấy] [cơ hội] [kinh doanh] [lớn] [mà] [người] [khác] [không] [nhận] [ra] . 
+
+[Đã] [có] [thời kỳ] , [chính xác] [là] [thời điểm] [hoàng kim] [của] [cơn sốt] [dot] [com] , [trên] [toàn] [thế giới] , [tài sản] [của] <per> [Masayoshin Son] </per> [tại] <org> [Softbank] </org> [và] [các] [công ty] [phần mềm] [được] [định giá] [tới] [76] [tỷ] [USD] . 
+
+[Khi] [đó] <per> [Masayoshin Son] </per> [là] [người] [giàu] [nhất] [thế giới] [chứ] [không] [phải] <per> [Bill Gates] </per> . 
+
+<per> [Masayoshin Son] </per> [được] [coi là] [người] [tiên phong] [phổ cập] [Internet] [cho] [toàn] <loc> [nước] [Nhật] </loc> . 
+
+[Những] [công nghệ] [tiên tiến] [nhất] [về] [đường truyền] [tốc độ] [cao] , [áp dụng] [băng thông rộng] [mà] <per> [Masayoshin Son] </per> [thực hiện] [đã] [giúp] [cho] <loc> [nước] [Nhật] </loc> [có] [những] [bước tiến] [ngoạn mục] [trong] [việc] [sử dụng] [Internet] . 
+
+<org> [Softbank] </org> [là] [công ty] [tin học] [bắt đầu] [từ] [kinh doanh] [phần mềm] , [máy] [dịch] [ngôn ngữ] [điện tử] , [tạp chí] [tin học] [rồi] [Internet] . 
+
+[Thời kỳ] [cuối] [những] [năm] [90] , [tập đoàn] [này] [được] [định giá] [trên] [100] [tỷ] [USD] [trên] [thị trường] [chứng khoán] . 
+
+<per> [Masayoshin] </per> [cũng như] <org> [Softbank] </org> [nổi tiếng] [còn] [vì] [tập đoàn] [này] [tham gia] [hùn] [góp] [vốn] [với] [rất] [nhiều] [tập đoàn] [tin học] [như] <org> [Microsoft] </org> , <org> [Yahoo] </org> , <org> [Novell] </org> , <org> [CyberCash] </org> , <org> [Comdex] </org> , <org> [ZiffDavis] </org> . 
+
+[Nhiều] [công ty] [của] <loc> [Nhật Bản] </loc> [thường] [không] [muốn] [công khai] [các] [dự án] [liên doanh] , [hùn] [góp] [vốn] [của] [mình] [nhưng] <per> [Masayoshin Son] </per> [và] <org> [Softbank] </org> [thì] [ngược lại] . 
+
+<per> [Masayoshin Son] </per> [luôn] [tự hào] [công bố] <org> [Softbank] </org> [của] [mình] [là] [số] [1] [trong] [lĩnh vực] [liên doanh] [đầu tư] [với] [các] [đối tác] [khác] [trong] [ngành] . 
+
+[Mới đây] [nhất] , <org> [Softbank] </org> [đã] [làm] [tốn] [bao nhiêu] [giấy] [mực] [của] [giới] [truyền thông] [về] [việc] [bỏ] [ra] [tới] [12,8] [tỷ] [Euro] , [tương đương] [với] [15,5] [tỷ] [USD] [để] [mua] [toàn bộ] [hệ thống] [kinh doanh] [của] <org> [tập đoàn] [Vodafone] [tại] [Nhật Bản] </org> . 
+
+[Với] [phi vụ] [trên] , <org> [tập đoàn] [Softbank] </org> [đã] [trở thành] [nhà cung cấp] [điện thoại di động] [lớn] [thứ ba] [tại] <loc> [Nhật Bản] </loc> [sau] <org> [tập đoàn] [NTT] </org> [và] <org> [tập đoàn] [KDDI] </org> . 
+
+[Sự] [phát triển] [nhanh chóng] [của] <org> [Softbank] </org> [cũng như] [sự] [giàu có] [đột biến] [của] [ông chủ] <per> [Masayoshin Son] </per> [bắt đầu] [từ] [lĩnh vực] [kinh doanh] [Internet] . 
+
+[Khi] [dịch vụ] [Internet] [ở] <loc> [Mỹ] </loc> [trở nên] [rất] [phát triển] [nhờ] [sự] [cạnh tranh] [cao] , [giá thành] [hạ] [thì] [ở] <loc> [Nhật Bản] </loc> [điều] [này] [vẫn] [chưa] [xảy ra] . 
+
+<per> [Masayoshin] </per> [đã] [nhận thấy] [ngay] [rằng] [phí] [Internet] [ở] <loc> [Nhật] </loc> [vẫn] [còn] [quá] [cao] , [công nghệ] [băng thông rộng] [chưa] [phổ biến] . 
+
+[Vì vậy] , <per> [Masayoshin Son] </per> [đã] [quyết định] [về] <loc> [Nhật] </loc> [để] [đầu tư] [lĩnh vực] [này] . 
+
+<per> [Masayoshin Son] </per> [cất công] [tới] [trung tâm] [công nghệ cao] [về] [tin học] [ở] <loc> [thung lũng] [Silicon] </loc> [để] [tìm] [các] [đối tác] [thích hợp] . 
+
+[Một] [quyết định] [vô cùng] [nhạy bén] [của] <per> [Masayoshin Son] </per> [là] [năm] [1996] , [ông] [đã] [bỏ] [ra] [100.000] [USD] [để] [mua] [lại] [quyền] [được] [sử dụng] [hệ thống] <org> [Yahoo] </org> [tại] <loc> [Nhật Bản] </loc> . 
+
+[Ông] [bắt đầu] [hệ thống] [kinh doanh] [Internet] [của] [mình] [chỉ] [với] [17] [nhân viên] . 
+
+[Sự] [xuất hiện] [của] [hệ thống] <org> [Yahoo] </org> [trên] <loc> [đất] [Nhật] </loc> [do] <per> [Masayoshin Son] </per> [khởi xướng] [như] [đã] [thổi] [một] [luồng gió] [mới] [vào] [thị trường] [Internet] [nước] [này] . 
+
+<org> [Tập đoàn] [NTT Docomo] </org> [trước kia] [gần như] [độc quyền] [một mình] [một chợ] [nay] [đã] [gặp] [phải] [đối thủ] [xứng đáng] . 
+
+<per> [Masayoshin Son] </per> [đầu tư] [phát triển] [Internet] [băng thông rộng] . 
+
+[Tốc độ] [Internet] [rất] [nhanh] [đã] [khiến] [cả] [nước] <loc> [Nhật] </loc> [chỉ] [trong] [một] [thời gian] [ngắn] [sôi sục] [mở] [tài khoản] [sử dụng] [Internet] . 
+
+[Và] <per> [Masayoshin Son] </per> [đã] [nhanh chóng] [chiếm] [tới] [1/3] [thị phần] [với] [hàng] [triệu] [thuê bao] . 
+
+[Mặc dù] [mới] [xuất hiện] , [thời gian] [đầu] [lại] [phải] [rất] [tốn kém] [thuê] [đường truyền] [của] [các] [công ty] [khác] [nhưng] <per> [Masayoshin Son] </per> [đã] [nhanh chóng] [thu] [được] [khách hàng] [nhờ] [tiện ích] [và] [nhất là] [sự] [phong phú] [của] [các] [dịch vụ] . 
+
+[Hiện nay] <org> [Softbank] </org> [là] [cổ đông] [lớn] [của] [4] [trong] [số] [12] [công ty] [kinh doanh] [Internet] [lớn] [nhất] [thế giới] . 
+
+[Với] [2] [đại gia] [trong] [đó] [là] <org> [công ty] [GeoCities] </org> [và] <org> [công ty] [ZDNet] </org> , [thông qua] <org> [Softbank] </org> , [tỷ phú] <per> [Masayoshin Son] </per> [sở hữu] [tới] [30%] [cổ phần] . 
+
+[Sau khi] [mua] [lại] <org> [Công ty] [Vodafone] [Nhật Bản] </org> , [ông] <per> [Masayoshin Son] </per> [đã] [có] [ngay] [được] [trên] [15] [triệu] [thuê bao] [cùng] [hệ thống] [cơ sở hạ tầng] [của] [mạng lưới] [điện thoại di động] . 
+
+[Và] [nhà] [tỷ phú] <per> [Masayoshin Son] </per> [đầy] [tham vọng] [đã] [không] [ngần ngại] [công bố] [chiến lược] [phát triển] [và] [mục tiêu] [trở thành] [số] [1] [trong] [lĩnh vực] [điện thoại di động] .

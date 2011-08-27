@@ -1,0 +1,17 @@
+<per> [José Bosingwa] </per> ( [sinh] <date> [24] [tháng] [8] [năm] [1982] </date> [tại] <loc> [Kinshasa] </loc> ) [là] <job> [cầu thủ] </job> [bóng đá] [người] <loc> [Bồ Đào Nha] </loc> [gốc] <loc> [Congo] </loc> , [đang] [khoác áo] <org> [Chelsea] </org> [và] [đội tuyển] <loc> [Bồ Đào Nha] </loc> . 
+
+<per> [Bosingwa] </per> [sinh] [tại] <loc> [Cộng hòa] [Dân chủ] [Congo] </loc> , [có] [cha] [là] [người] <loc> [Bồ Đào Nha] </loc> [và] [mẹ] [là] [người] <loc> [Congo] </loc> . 
+
+[Anh] [cùng] [cha mẹ] [chuyển] [tới] [sống] [ở] <loc> [Seia] </loc> , [thuộc] [vùng] <loc> [Guarda] </loc> [của] <loc> [Bồ Đào Nha] </loc> [từ] [khi] [còn] [nhỏ] . 
+
+<per> [Bosingwa] </per> [bắt đầu] [thi đấu] [cho] [đội] [bóng] <org> [Boavista] </org> [nơi] [mà] [anh] [đã] [được] <job> [HLV] </job> <per> [José Mourinho] </per> [đưa] [về] <org> [FC][Porto] </org> [vào] [mùa] [giải] [2003-2004] . 
+
+<per> [Bosingwa] </per> [đá] [trận] [đầu tiên] [tại] [UEFA] [Champions League] [vào] <date> [ngày] [16] [tháng] [9] [năm] [2003] </date> . 
+
+[Vào] [mùa] [giải] <date> [2004-2005] </date> [sau] [khi] <per> [Paulo Ferreira] </per> [và] <per> [Carlos Secretário] </per> [rời] [đi] , <per> [Bosingwa] </per> [thường xuyên] [được] [đá] [chính] [và] [mau chóng] [trở thành] [nhân tố] [quan trọng] [của] <org> [Porto] </org> . 
+
+<date> [Ngày] [11] [tháng] [5] [năm] [2008] </date> , <per> [Porto] </per> [chấp nhận] [để]  <per> [Bosingwa] </per>  [chuyển] [tới] <org> [Chelsea] </org> [với] [mức] [giá] [20,6] [triệu] [euro] ( [16,3] [triệu] [bảng] [Anh] ) [với] [thời hạn] [hợp đồng] [là] [3] [năm] . 
+
+[Tại] [CLB] [mới] <per> [Bosingwa] </per> [khoác áo] [số] [17] [Kể] [từ] <date> [năm] [2007] </date> <per> [Bosingwa] </per> [là] [sự] [lựa chọn] [số một] [cho] [vị trí] <pos> [hậu vệ] </pos> [cánh] [phải] [của] [đội tuyển] [bóng đá] [quốc gia] <loc> [Bồ Đào Nha] </loc> . 
+
+<per> [Bosingwa] </per> [từng] [tham dự] [Olympic] [2004] [tại] <loc> [Athena] </loc> [và] [Giải Bóng] [đá] [U21] <loc> [Châu Âu] </loc> .

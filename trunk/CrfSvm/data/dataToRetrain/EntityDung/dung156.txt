@@ -1,0 +1,27 @@
+<per> [James] " [Jamie] " [Carragher] </per> ( [sinh] <date> [ngày] [28] [tháng] [1] [năm] [1978] </date> ) [là] [một] [cầu thủ] [bóng đá] [người] <loc> [Anh] </loc> [hiện] [đang] [là] [hậu vệ] [của] [câu lạc bộ] <org> [Liverpool] [FC] </org> . . 
+
+[Anh] [hiện] [là] [đội] [phó] [và] [là] [một] [trong] [số] [những] [cầu thủ] [thi đấu] [lâu] [năm] [nhất] [cho] [câu lạc bộ] ; [anh] [có] [lần] [ra] [sân] [thứ] [500] [cho] <org> [Liverpool] </org> [ở] [mọi] [giải] [đấu] [vào] <date> [tháng] [1] [năm] [2008] </date> . 
+
+<per> [Carragher] </per> [là] [cầu thủ] [chỉ] [thi đấu] [cho] [1] [câu lạc bộ] , [anh] [khởi nghiệp] [cùng] [đội] [trẻ] [của] <org> [Liverpool] </org>.[Anh] [có] [trận] [đấu] [đầu tiên] [ở] [mùa] [giải] [1996-97] [và] [có] [vị trí] [số] [1] [từ] [mùa] [giải] [sau] [đó] . 
+
+[Anh] [có] [danh hiệu] [đầu tiên] [vào] <date> [năm] </date> [2001] , [vô địch] [FA] [Cup] , [League Cup] [và] [UEFA] [Cup.Ban] [đầu] [anh] [là] [một] [hậu vệ] [đa năng] , [nhưng] [từ] [khi] <per> [Rafael Benítez] </per> [chuyển] [đến] [vào] <date> [năm] [2004] </date> <per> [Carragher] </per> [chuyển] [vào] [chơi] [ở] [vị trí] [trung vệ] [và] [mùa] [giải] [đó] [chứng kiến] [thành công] [rực rỡ] [với] [danh hiệu] [Cúp] [C1] . 
+
+[Ở] [mùa] [giải] [sau] [đó] , [anh] [vô địch] [FA] [Cup] [và] [được] [bầu chọn] [trong] [đội hình] [tiêu biểu] [của] [Premier League] [của] [năm] . 
+
+<per> [Carragher] </per> [đạt] [kỉ lục] [là] [người] [ra] [sân] [nhiều] [nhất] [ở] [đấu trường] <loc> [châu] [Âu] </loc> [cho] <org> [Liverpool] </org> [vào] <date> [năm] [2007] </date> . 
+
+[Ở] [cấp độ] [đội tuyển] [quốc gia] , <per> [Carragher] </per> [đạt] [kỉ lục] [là] [người] [ra] [sân] [nhiều] [nhất] [ở] [cấp độ] [U-21] [và] [lên] [chơi] [cho] [đội tuyển] [quốc gia] [vào] <date> [năm] [1999] </date>.[Mặc] [anh] [tham dự] [cả] [Euro] [2004] [và] [World Cup] [2006] , [anh] [vẫn] [thất bại] [trong] [việc] [dành] [vị trí] [số một] [ở] [đội tuyển] <loc> [Anh] </loc>.[Thất] [bại] [với] [việc] [chỉ] [là] [sự] [thay thế] [cho] [vị trí] [tiền vệ] [lùi] , <per> [Carragher] </per> [quyết định] [chia tay] [sự nghiệp] [thi đấu] [quốc tế] [vào] <date> [năm] [2007] </date> , [với] [34] [lần] [ra] [sân] . 
+
+[Anh] [cho] [ra mắt] [cuốn] [tự] [chuyện] , [Carra] , [vào] <date> [năm] [2008] </date> . 
+
+[Sinh] [ở] <loc> [Bootle] , [Merseyside] </loc> , <per> [Carragher] </per> [gia nhập] [trường] [đào tạo] [bóng đá] [trẻ] [của] [FA] [ở] <loc> [Lilleshall] </loc> [từ] [khi] [còn] [nhỏ] [và] [từng] [là] [thành viên] [của] <org> [Liverpool] </org> [vô địch] [cúp] [FA] [dành] [cho] [các] [đội] [trẻ] [vào] <date> [năm] [1996] </date> [cùng] [người] [bạn] <per> [Michael Owen] </per> . 
+
+[Anh] [kí] [hợp đồng] [thi đấu] [chuyên nghiệp] [vào] <date> [tháng] [10] [năm] [1996] </date> [và] [sau] [đó] [có] [trận] [đấu] [đầu tiên] [dưới] [thời] [huấn luyện viên] <per> [Roy Evans] </per> [3] [tháng] [sau] [ở] [lượt về] [bán kết] [cúp] [Liên đoàn] [bóng đá] <loc> [Anh] </loc> [tiếp] <org> [Middlesbrough] </org> , [vào] [sân] [từ] [ghế] [dự bị] [thay] <per> [Rob Jones] </per> . 
+
+[Tiếp] [đó] [là] [lần] [ra] [sân] [đầu tiên] [ở] [Premier League] , [khi] [vào] [sân] [từ] [ghế] [dự bị] [trong] [trận] [tiếp] <org> [West Ham United] </org> . 
+
+[Anh] [sau] [đó] [ra] [sân] [từ] [đầu] [tron] [trận] [tiếp] <org> [Aston Villa] </org> [và] [gây] [ấn tượng] [với] [bàn] [đầu tiên] [từ] [một] [cú] [đánh đầu] [trong] [chiến thắng] [3] - [0] [đưa] <org> [Liverpool] </org> [lên ngôi] [đầu bảng] [xếp hạng] , [nhưng] [sau] [đó] <org> [Liverpool] </org> [chỉ] [về] [đích] [với] [vị trí] [thứ tư] . 
+
+[Vào] [mùa] [giải] <date> [1997-98] </date> , <per> [Carragher] </per> [được] [đưa] [vào] [đội hình] [chính] , [và] [có] [20] [trận] [ra] [sân] [ở] [Premier League] . 
+
+[Ở] [mùa] [giải] [tiếp] [đó] [anh] [thi đấu] [hầu hết] [tất cả] [các] [trận] [ở] [đội] [chính] , [chỉ] [bỏ] [lỡ] [4] [trận] , [và] [anh] [được] <org> [Kevin Keegan] </org> [gọi] [vào] [đội tuyển] [quốc gia] .

@@ -1,0 +1,21 @@
+<per> [Gianluca Zambrotta] </per> ( [sinh] <date> [ngày] [19] [tháng] [2] [năm] [1977] </date> [tại] <loc> [Como] , [Ý] </loc> ) , [là] <job> [cầu thủ] </job> [bóng đá] . 
+
+[Anh] [bắt đầu] [sự nghiệp] [ở] [vị trí] <pos> [tiền vệ] </pos> [phải] , [hiện] [là] [một] [trong] [những] <pos> [hậu vệ] </pos> [cánh] [hay] [nhất] [thế giới] [với] [khả năng] [chơi] [tốt] [cả] [hai] [cánh] . 
+
+<per> [Zambrotta] </per> [bắt đầu] [sự nghiệp] <date> [năm] [1994] </date> [tại] <org> [Como Calcio] </org> [ở] [Serie] [B] . 
+
+[Vị trí] [của] [anh] [khi] [đó] [là] <pos> [tiền vệ] </pos> [cánh] [phải] . 
+
+[Mùa] [bóng] <date> [1996/97] </date> [do] <org> [Como] </org> [phải] [xuống] [hạng] [C] [buộc] <per> [Zambrotta] </per> [phải] [chuyển] [sang] [chơi] [cho] <org> [CLB] [AS][Bari] </org> . 
+
+[Ở] [Serie] [A] " <per> [Zambro] </per> " [đã] [chứng tỏ] [tài năng] [của] [mình] [với] [vai trò] [thủ lĩnh] [của] <org> [Bari] </org> . 
+
+[Anh] [chuyển] [sang] [chơi] [cho] <org> [CLB] [Juventus] </org> <date> [năm] [1999] </date> [với] [giá] [chuyển nhượng] [gần] [16] [triệu] [Euro] . 
+
+[Mùa] [bóng] <date> [2002] </date> [khi] <pos> [hậu vệ] </pos> [trái] <per> [Gianluca Pessotto] </per> [bị] [chấn thương] [khiến] <job> [huấn luyện viên] </job> [của] <org> [Juventus] </org> [lúc] [đó] [là] <per> [Marcello Lippi] </per> [phải] [thế] [anh] [vào] [vị trí] [này] . 
+
+[Cùng với] <org> [Juventus Zambrotta] </org> [đã] [giành] [4] [danh hiệu] [Vô địch] [quốc gia] [Ý] [và] [2] [Siêu] [cúp] [quốc gia] <loc> [Ý] </loc> . 
+
+<date> [Năm] [2003] </date> [anh] [đã] [cùng với] " <org> [Juve] </org> " [vào] [đến] [trận] [chung kết] [Champions League] [và] [chỉ] [thua] <org> [AC] [Milan] </org> [trong] [loạt] [đá] [luân lưu] [11m] . 
+
+[Sau] [7] [năm] [gắn bó] [ở] <org> [Torino] </org> , [mùa] [bóng] <date> [2005/2006] </date> [anh] [chuyển] [sang] [chơi] [cho] <org> [FC][Barcelona] </org> [sau] [khi] <org> [Juve] </org> [dính líu] [vào] [một] [vụ] [scandal] [dàn xếp] [tỉ số] .
