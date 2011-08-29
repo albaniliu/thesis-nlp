@@ -339,7 +339,9 @@ private void runButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIR
 
     @Override
     public void propertyChange(PropertyChangeEvent evt) {
-        if (evt.getPropertyName().equals("progress")) {
+        if (progressMonitor.isCanceled()) {
+            task.cancel(true);
+        } else if (evt.getPropertyName().equals("progress")) {
             int progress = (Integer) evt.getNewValue();
             progressMonitor.setProgress(progress);
             String mess = String.format("Completed %d\n", progress);
