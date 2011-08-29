@@ -186,7 +186,7 @@ public class Main {
      * @param predictFilePath duong dan den file da duoc predict ( la file co duoi .wseg )
      */
     // <editor-fold defaultstate="collapsed" desc="countAppear method">
-    private void countAppear(Map<String, Map<String, Integer>> countMap, String predictFilePath) {
+    void countAppear(Map<String, Map<String, Integer>> countMap, String predictFilePath) {
         TaggedDocument tmpDoc = new TaggedDocument(predictFilePath);
         for (int i = 0; i < tmpDoc.size(); i++) {
             List<String> iobList = tmpDoc.getSentence(i).getIobList();

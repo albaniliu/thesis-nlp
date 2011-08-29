@@ -1,0 +1,18 @@
+Trying to change property 'svn:ignore' from 'build
+data
+model
+' to 'build
+data
+model
+',
+but the property has been locally changed from 'build
+data
+model
+' to 'build
+data
+model
+.directory
+tmp
+tokenizer.log
+dist
+'.
