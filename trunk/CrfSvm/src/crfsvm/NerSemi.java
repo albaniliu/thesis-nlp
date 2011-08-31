@@ -363,6 +363,10 @@ private void runButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIR
             
             setProgress(0);
 
+            try {
+                Thread.sleep(1000);
+                setProgress(1);
+            } catch (Exception e) {}
             // Cac thong so lay tu Setting
             String mainTrain = trainTxf.getText();
             String mainTest = testTxf.getText();
