@@ -233,6 +233,7 @@ public class execute extends javax.swing.JFrame {
                 fix.fixOperation(getPath("taggedByOldModel", true) + dirs[i], getPath("NP", true) + dirs[i], highConfidence, lowConfidence, true);
                 //fix.fixOperation(getPath("segmented", true) + dirs[i], getPath("NP", true) + dirs[i], highConfidence, lowConfidence);
                 //save += procedureNewTrainingData.action(fix) + "\n\n";
+                //
                 procedureNewTrainingData.action(fix);
                 appentToTrainingFile(produced + dirs[i], timeLoop);
             }
