@@ -1,12 +1,12 @@
 #Config is changed
-#Thu Jul 28 02:23:26 ICT 2011
+#Sat Aug 27 15:24:22 ICT 2011
 loc.shortcut=alt + 2
 browse.shortcut=F2
-directory.path=D\:\\DoAn\\TapDuLieu
+directory.path=/home/banhbaochay/Java/NetBeansProjects/CrfSvm/data/dataToRetrain/EntityDung
 line.font.size=16
 save.shortcut=ctrl + S
 untag.shortcut=alt + D
-text.font.name=Times New Roman
+text.font.name=Calibri
 mode.shortcut=alt + F
 text.font.style=Plain
 job.shortcut=alt + W
@@ -18,6 +18,6 @@ save.as.shortcut=ctrl alt + S
 date.shortcut=alt + E
 org.shortcut=alt + 3
 pos.shortcut=alt + Q
-text.font.size=22
+text.font.size=20
 click.shortcut=alt + Z
 merge.shortcut=alt + A
