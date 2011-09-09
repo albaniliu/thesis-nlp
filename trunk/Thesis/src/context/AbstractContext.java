@@ -6,7 +6,7 @@
 package context;
 
 import java.util.List;
-import lib.Word;
+import util.Word;
 
 /**
  *

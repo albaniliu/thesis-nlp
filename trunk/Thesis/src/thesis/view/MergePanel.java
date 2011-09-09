@@ -31,11 +31,11 @@ import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import util.Config;
-import lib.ID;
-import lib.JSREDocument;
-import lib.JSRELine;
-import lib.ReadWriteFile;
-import lib.TextFilter;
+import util.ID;
+import util.JSREDocument;
+import util.JSRELine;
+import util.ReadWriteFile;
+import util.TextFilter;
 import org.jdesktop.application.Action;
 
 /**

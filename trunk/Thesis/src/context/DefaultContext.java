@@ -7,9 +7,9 @@ package context;
 
 import java.util.ArrayList;
 import java.util.List;
-import lib.ConvertText;
-import lib.Sentence;
-import lib.Word;
+import util.ConvertText;
+import util.Sentence;
+import util.Word;
 
 /**
  * This context use window size is 5 (2 word before and 2 word after)

@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package lib;
+package util;
 
 import context.AbstractContext;
 import context.DefaultContext;
@@ -11,7 +11,6 @@ import feature.Dictionary;
 import feature.POS;
 import feature.ENTITY;
 import java.util.LinkedHashMap;
-import util.SparseVector;
 
 /**
  * This class storage all informations of words in line. Ex: offset, POS, Entity and feature

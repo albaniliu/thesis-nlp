@@ -7,10 +7,10 @@ package context;
 
 import feature.FeatureIndex;
 import feature.Orthographic;
-import lib.Sentence;
-import lib.Word;
-import util.SparseVector;
-import util.Vector;
+import org.itc.irst.tcc.sre.util.SparseVector;
+import org.itc.irst.tcc.sre.util.Vector;
+import util.Sentence;
+import util.Word;
 
 /**
  *
