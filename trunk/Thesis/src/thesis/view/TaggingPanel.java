@@ -38,6 +38,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JRadioButton;
+import javax.swing.JScrollBar;
 import javax.swing.KeyStroke;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
@@ -432,7 +433,9 @@ public class TaggingPanel extends javax.swing.JPanel {
         jScrollPane1.setName("jScrollPane1"); // NOI18N
 
         textArea.setColumns(20);
+        textArea.setLineWrap(true);
         textArea.setRows(5);
+        textArea.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         textArea.setName("textArea"); // NOI18N
 
         org.jdesktop.beansbinding.Binding binding = org.jdesktop.beansbinding.Bindings.createAutoBinding(org.jdesktop.beansbinding.AutoBinding.UpdateStrategy.READ_WRITE, checkBoxEdit, org.jdesktop.beansbinding.ELProperty.create("${selected}"), textArea, org.jdesktop.beansbinding.BeanProperty.create("editable"));
@@ -471,7 +474,7 @@ public class TaggingPanel extends javax.swing.JPanel {
         org.jdesktop.application.ResourceMap resourceMap = org.jdesktop.application.Application.getInstance().getContext().getResourceMap(TaggingPanel.class);
         checkBoxEdit.setText(resourceMap.getString("checkBoxEdit.text")); // NOI18N
         checkBoxEdit.setName("checkBoxEdit"); // NOI18N
-        add(checkBoxEdit, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 50, -1, -1));
+        add(checkBoxEdit, new org.netbeans.lib.awtextra.AbsoluteConstraints(790, 50, -1, -1));
 
         clickCheckbox.setText(resourceMap.getString("clickCheckbox.text")); // NOI18N
         clickCheckbox.setName("clickCheckbox"); // NOI18N
@@ -484,7 +487,7 @@ public class TaggingPanel extends javax.swing.JPanel {
         checkBoxChoose.setSelected(true);
         checkBoxChoose.setText(resourceMap.getString("checkBoxChoose.text")); // NOI18N
         checkBoxChoose.setName("checkBoxChoose"); // NOI18N
-        add(checkBoxChoose, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 50, -1, -1));
+        add(checkBoxChoose, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 50, -1, -1));
 
         jToolBar1.setFloatable(false);
         jToolBar1.setRollover(true);
@@ -711,6 +714,8 @@ public class TaggingPanel extends javax.swing.JPanel {
     private void textAreaMouseWheelMoved(java.awt.event.MouseWheelEvent evt) {//GEN-FIRST:event_textAreaMouseWheelMoved
         // TODO add your handling code here:
         int notches = evt.getWheelRotation();
+        JScrollBar vBar = jScrollPane1.getVerticalScrollBar();
+        int vBarPos = vBar.getValue();
         Font oldFont = textArea.getFont();
         int oldSize = oldFont.getSize();
         if (evt.isControlDown()) {
@@ -731,7 +736,15 @@ public class TaggingPanel extends javax.swing.JPanel {
                     GUIFunction.setFontArea(textArea, changedFont);
                 }// end if oldSize
             }// end if notches
-        }
+        } else {
+            if (notches < 0) {
+                // UP
+                vBar.setValue(vBarPos - 50);
+            } else {
+                // Down
+                vBar.setValue(vBarPos + 50);
+            }
+        }// end if ctrl
     }//GEN-LAST:event_textAreaMouseWheelMoved
     //</editor-fold>
     
