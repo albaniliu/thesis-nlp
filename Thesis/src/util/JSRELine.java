@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package lib;
+package util;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

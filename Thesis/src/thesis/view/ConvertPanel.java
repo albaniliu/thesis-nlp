@@ -45,12 +45,12 @@ import javax.swing.text.BadLocationException;
 import javax.swing.text.DefaultHighlighter;
 import javax.swing.text.Highlighter;
 import util.Config;
-import lib.ConvertText;
-import lib.GUIFunction;
-import lib.ReadWriteFile;
-import lib.Sentence;
-import lib.TextFilter;
-import lib.Word;
+import util.ConvertText;
+import util.GUIFunction;
+import util.ReadWriteFile;
+import util.Sentence;
+import util.TextFilter;
+import util.Word;
 import thesis.MainFrame;
 
 /**
