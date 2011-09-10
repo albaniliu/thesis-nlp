@@ -49,7 +49,7 @@ public class Crf {
     /**
      * Chay toan bo CRF cho mot lan train + predict. Ket qua nam o file trung ten voi file can predict + .wseg
      * @param trainFilePath duong dan file train
-     * @param testFilePath duong dan file can predict da tach tu hoac chua tach tu
+     * @param testFilePath duong dan file can predict da tach tu, chua gan nhan
      */
     public static void runCrf(String trainFilePath, String testFilePath) {
 
@@ -143,7 +143,7 @@ public class Crf {
     /**
      * Predict file da duoc tach tu, ket qua luu trong file trung ten voi file dau vao + duoi .wseg
      * @param modelDir duong dan den thu muc model
-     * @param taggedFile File da duoc tach tu 
+     * @param taggedFile File da duoc tach tu, chua gan nhan
      */
     public static void predict(String modelDir, String taggedFile) {
 
@@ -159,6 +159,12 @@ public class Crf {
                     taggedFile
                 });
         logger.info("File after predict: " + taggedFile + ".wseg");
+    }// end predict method
+    
+    public static void predict(String modelDir, String taggedFile, boolean withConfi) {
+        JVnRecognizer.withConfi = withConfi;
+        predict(modelDir, taggedFile);
+        JVnRecognizer.withConfi = false;
     }// end predict method
 
     /**

@@ -93,7 +93,8 @@ public class TaggingTrainData {
                     continue;
                 }
                 sequence += line + "\n";
-            }
+            }// end while
+            System.out.println();
             if (!sequence.trim().equals("")) {
                 doCPGen(sequence, out);
             }

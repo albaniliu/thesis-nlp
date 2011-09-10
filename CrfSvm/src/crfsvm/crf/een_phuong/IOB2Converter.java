@@ -103,7 +103,8 @@ public class IOB2Converter {
                     continue;
                 }
                 str += ret + "\n\n";
-            }
+            }// end while
+            System.out.println();
             in.close();
         } catch (Exception e) {
             System.out.println(e.getMessage());
