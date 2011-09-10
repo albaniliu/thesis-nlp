@@ -50,7 +50,7 @@ public class Main {
     /**
      * So luong bagging
      */
-    static int B = 5;
+    static int B = 7;
     /**
      * batch size
      */
@@ -58,7 +58,7 @@ public class Main {
     /**
      * nguong cho entropy
      */
-    static double thresholdH = 0.277;
+    static double thresholdH = 0.5009;
     /**
      * Number example in one bag
      */
@@ -405,7 +405,7 @@ public class Main {
          */
         logger.info("Tao TestSet");
         tmpDoc = new Document(mainTest);
-        m.createTestSet(tmpDoc, 3);
+        m.createTestSet(tmpDoc, 5);
         tmpDoc = null;
 
         /*
@@ -453,8 +453,14 @@ public class Main {
                 m.countAppear(countMap, bagTestCopied + ".wseg");
             }// end foreach CRF
 
-            // Lay ra S phan tu co entropy nho nhat lon hon nguong
+            // Lay ra S phan tu co entropy nho nhat khong vuot qua nguong
             List<String[]> sList = m.calcAndFindS(countMap);
+            if (sList.isEmpty()) {
+                logger.warn("Khong lay them duoc nhan nao");
+                System.exit(0);
+            }// end if sList.size() == 0
+            
+            logger.info("Them duoc " + sList.size() + " phan tu");
 
             // Them dac trung cua S tu duoc gan nhan nay vao file dac trung ban dau.
             // File dac trung ban dau co dang: mainTrain + .feature

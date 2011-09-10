@@ -75,6 +75,7 @@ public class NerSemi extends javax.swing.JFrame implements PropertyChangeListene
         splitTestTxf = new javax.swing.JTextField();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Using semi for NER problem");
 
         mainPanel.setName("mainPanel"); // NOI18N
 
@@ -87,6 +88,11 @@ public class NerSemi extends javax.swing.JFrame implements PropertyChangeListene
         jLabel2.setName("jLabel2"); // NOI18N
 
         testTxf.setName("testTxf"); // NOI18N
+        testTxf.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                testTxfActionPerformed(evt);
+            }
+        });
 
         jPanel2.setName("jPanel2"); // NOI18N
 
@@ -163,17 +169,22 @@ public class NerSemi extends javax.swing.JFrame implements PropertyChangeListene
         jLabel6.setText("Bag 's size:");
         jLabel6.setName("jLabel6"); // NOI18N
 
+        bTxf.setText("5");
         bTxf.setName("bTxf"); // NOI18N
 
+        sTxf.setText("50");
         sTxf.setName("sTxf"); // NOI18N
 
+        thresholdTxf.setText("0.227");
         thresholdTxf.setName("thresholdTxf"); // NOI18N
 
+        bagSizeTxf.setText("80");
         bagSizeTxf.setName("bagSizeTxf"); // NOI18N
 
         jLabel7.setText("Test split:");
         jLabel7.setName("jLabel7"); // NOI18N
 
+        splitTestTxf.setText("5");
         splitTestTxf.setName("splitTestTxf"); // NOI18N
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
@@ -275,6 +286,10 @@ private void runButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIR
     runButton.setEnabled(false);
 }//GEN-LAST:event_runButtonActionPerformed
 
+private void testTxfActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_testTxfActionPerformed
+    runButtonActionPerformed(evt);
+}//GEN-LAST:event_testTxfActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -344,8 +359,6 @@ private void runButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIR
         } else if (evt.getPropertyName().equals("progress")) {
             int progress = (Integer) evt.getNewValue();
             progressMonitor.setProgress(progress);
-            String mess = String.format("Completed %d\n", progress);
-            progressMonitor.setNote(mess);
         }// end if progress property is changed
     }// end propertyChange
 
@@ -360,18 +373,20 @@ private void runButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIR
          */
         protected Void doInBackground() throws Exception {
             int progress = 0;
-            
             setProgress(0);
-
+            String message = null;
             try {
                 Thread.sleep(1000);
                 setProgress(1);
+                message = String.format("Train va predict voi tap goc\nCompleted %d%%\n", 1);
+                progressMonitor.setNote(message);
             } catch (Exception e) {}
+            
             // Cac thong so lay tu Setting
             String mainTrain = trainTxf.getText();
             String mainTest = testTxf.getText();
             Main.B = Integer.parseInt(bTxf.getText());
-            Main.thresholdH = Integer.parseInt(thresholdTxf.getText());
+            Main.thresholdH = Double.parseDouble(thresholdTxf.getText());
             Main.bagSize = Integer.parseInt(bagSizeTxf.getText());
             Main.S = Integer.parseInt(sTxf.getText());
             int splitTest = Integer.parseInt(splitTestTxf.getText());
@@ -398,6 +413,8 @@ private void runButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIR
             // Thay doi progress
             progress += 100 / totalLoop;
             setProgress(Math.min(progress, 100));
+            message = String.format("Tao train set");
+            progressMonitor.setNote(message);
 
             /*
              * Tao TrainSet: tmp/TrainSet
@@ -406,6 +423,9 @@ private void runButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIR
             Document tmpDoc = new Document(mainTrain);
             m.createTrainSet(tmpDoc, Main.B, Main.bagSize);
 
+            message = String.format("Tao test set");
+            progressMonitor.setNote(message);
+            
             /*
              * Tao TestSet: tmp/TestSet
              */

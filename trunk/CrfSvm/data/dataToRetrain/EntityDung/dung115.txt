@@ -10,7 +10,7 @@
 
 [Trong] <date> [tháng] [7] [năm] [2003] </date> , <per> [Milito] </per> [chuyển] [đến] <org> [Real Madrid] </org> , [nhưng] [đội] <loc> [Tây Ban Nha] </loc> [đã] [từ chối] <job> [cầu thủ] </job> [sau] [khi] [kết quả] [y tế] [cho] [thấy] , [theo] [các] [câu lạc bộ] , [do] [anh] [chưa] [phục hồi] [chấn thương] [đầu gối] . 
 
-[Để] [nhiều] , [nó] [là] [một] [động thái] [chính trị] [chống] [lại] <pos> [giám đốc] </pos> <org> [Real Madrid] </org> <per> [Jorge Valdano] </per> , [người] [muốn] <job> [cầu thủ] </job> [này] [trong] [đội] . 
+[Đó] [là] [một] [động thái] [chính trị] [chống] [lại] <pos> [giám đốc] </pos> <org> [Real Madrid] </org> <per> [Jorge Valdano] </per> , [người] [muốn] <job> [cầu thủ] </job> [này] [trong] [đội] . 
 
 <per> [Milito] </per> [quyết định] [ở] <loc> [Tây Ban Nha] </loc> [và] [ký kết] [cho] <org> [Real Zaragoza] </org> . 
 
@@ -18,7 +18,7 @@
 
 [Vào] <date> [ngày] [10] [tháng] [7] [năm] [2007] </date> , <org> [Zaragoza] </org> [đạt] [đến] [một] [thỏa thuận] [chuyển nhượng] [với] <org> [Barcelona] </org> [với] [mức] [phí] [€] [20.5] [triệu] ( [£] [13.900.000] ) [và] <date> [ngày] [19] [tháng] [7] </date> , <per> [Milito] </per> [đã] [vượt] [qua] [cuộc] [kiểm tra] [về] [y tế] [và] [ký kết] [bốn] [năm] [với] [câu lạc bộ] , [trị giá] [4.000.000] [€] ( [£] [2.700.000] ) [một] [năm] . 
 
-[Ông] [đã] [được] [trao] [số] [3] [áo] , [mà] [trước đây] [của] <per> [Thiago Motta] </per> . 
+[Ông] [đã] [được] [trao] [áo] [số] [3] , [mà] [trước đây] [của] <per> [Thiago Motta] </per> . 
 
 <per> [Milito] </per> [xuất hiện] [lần] [đầu] [cho] <org> [Barcelona] </org> [vào] <org> [ngày] [02] [Tháng Chín] [năm] [2007] </org> [trong] [một] [trận] [gặp] <org> [Athletic Bilbao] </org> . 
 
