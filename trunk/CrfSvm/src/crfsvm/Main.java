@@ -17,6 +17,8 @@ import java.io.File;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -375,9 +377,10 @@ public class Main {
 
     public static void main(String[] args) {
         DOMConfigurator.configure("log-config.xml");
+        String message = null;
         Main m = new Main();
-        String mainTrain = "tmp/trainDung.txt";
-        String mainTest = "tmp/testDung.txt";
+        String mainTrain = "tmp/trainThien.txt";
+        String mainTest = "tmp/testThien.txt";
         String mainTrainCopied = "tmp/train.txt";
         String mainTestCopied = "tmp/test.txt";
         // File feature goc tao ra tu file train
@@ -385,12 +388,22 @@ public class Main {
         String bagTrainCopied = "tmp/bagTrain.txt";
         String bagTestCopied = "tmp/bagTest.txt";
         
+        message = String.format("Thong tin chuong trinh:\nBag size = %d\nSo luong bag = %d\nSo phan lop = %d\nSo luong nhan lay ra trong moi lan lap = %d\nNguong = %f", bagSize, B, C, S, thresholdH);
+        logger.info(message);
+        
+        int count = 0;
+        
+        // Lap danh sach cac file ban dau trong thu muc tmp
+        List<File> oriFiles = new ArrayList<File>();
+        oriFiles.addAll(Arrays.asList(new File("tmp").listFiles()));
+        
         /*
          * Tao model va file feature dau tien. File feature: oriTrain + .feature
          */
         logger.info("Tao model va file feature dau tien, dong thoi tinh toan P-R-F");
         CopyFile.copyfile(mainTrain, mainTrainCopied);
         CopyFile.copyfile(mainTest, mainTestCopied);
+        logger.info("Lan " + ++count);
         Crf.calcFScore(mainTrainCopied, mainTestCopied);
         
         /*
@@ -417,22 +430,15 @@ public class Main {
             /*
              * Bat dau thuc hien voi 1 file test trong TestSet
              */
+            logger.info("Thuc hien voi 1 file test");
+            // Bo cac nhan entity trong file, file bay gio la file chi duoc tach tu
             FileUtils.removeTag(subTest);
             // Copy file test trong TestSet ra thu muc tmp
-            try {
-                CopyFile.copyfile(subTest.getAbsolutePath(), bagTestCopied);
-            } catch (Exception e) {
-                logger.debug(e.getMessage());
-            }// end try
-            String subTestTagged = bagTestCopied + ".tagged";
-            logger.info("Thuc hien voi 1 file test");
+            CopyFile.copyfile(subTest.getAbsolutePath(), bagTestCopied);
             // Chuan bi
             logger.info("Tach tu file test");
             
-            // Tao file tach tu doi voi file test
-            Crf.runVnTagger(bagTestCopied, subTestTagged);
-            
-            TaggedDocument subTestDoc = new TaggedDocument(subTestTagged);
+            TaggedDocument subTestDoc = new TaggedDocument(bagTestCopied);
             Map<String, Map<String, Integer>> countMap = new HashMap<String, Map<String, Integer>>();
 
             // Bat dau vong lap CRF
@@ -442,11 +448,7 @@ public class Main {
                 /*
                  * Lap voi tung bag
                  */
-                try {
-                    CopyFile.copyfile(trainBagFile.getAbsolutePath(), bagTrainCopied);
-                } catch (Exception e) {
-                    logger.debug(e.getMessage());
-                }// end try
+                CopyFile.copyfile(trainBagFile.getAbsolutePath(), bagTrainCopied);
                 // train + predict, ket qua predict nam trong file bagTestCopied + wseg
                 logger.info("Chay CRF voi file " + bagTrainCopied);
                 Crf.runCrf(bagTrainCopied, bagTestCopied);
@@ -460,20 +462,27 @@ public class Main {
                 System.exit(0);
             }// end if sList.size() == 0
             
-            logger.info("Them duoc " + sList.size() + " phan tu");
-
             // Them dac trung cua S tu duoc gan nhan nay vao file dac trung ban dau.
             // File dac trung ban dau co dang: mainTrain + .feature
             logger.info("Them dac trung moi vao file dac trung goc");
             m.processAfterPredict(sList, subTestDoc, mainTrainFeature);
             
             //Tao model moi tu file dac trung moi duoc them + tinh toan P-R-F
+            message = String.format("Lan %d: tap train da duoc them %d nhan moi", ++count, sList.size());
+            logger.info(message);
             logger.info("Tao model moi tu file dac trung moi them");
             Crf.calcFScore(mainTrainFeature, mainTestCopied);
 
         }// end foreach testFile
         // Ket thuc lap semi
 
+        // Xoa cac file moi tao, chi dung trong linux
+        for (File file : new File("tmp").listFiles()) {
+            if (!oriFiles.contains(file)) {
+                FileUtils.removeFile(file.getAbsolutePath());
+            }
+        }// end foreach file
+        
     }// end main class
 }// end Main class
 

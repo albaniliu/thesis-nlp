@@ -4,6 +4,8 @@
  */
 package crfsvm;
 
+import crfsvm.crf.een_phuong.CopyFile;
+import crfsvm.crf.een_phuong.IOB2Converter;
 import java.io.File;
 import java.io.FilenameFilter;
 
@@ -13,7 +15,11 @@ import java.io.FilenameFilter;
  */
 public class Test {
     public static void main(String[] args) throws Exception {
-        Crf.calcFScore("tmp/trainDung.txt", "tmp/testDung.txt");
+        CopyFile.copyfile("data/dataToRetrain/EntityDung/dung100.txt", "tmp/dung100.txt");
+        IOB2Converter.main(new String[] {
+            "tmp/dung100.txt",
+            "tmp/dung100.iob"
+        });
     }// end main class
 }// end Test class
 
