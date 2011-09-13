@@ -1,8 +1,8 @@
 #Config is changed
-#Sat Aug 27 15:24:22 ICT 2011
+#Wed Sep 14 00:25:24 ICT 2011
 loc.shortcut=alt + 2
 browse.shortcut=F2
-directory.path=/home/banhbaochay/Java/NetBeansProjects/CrfSvm/data/dataToRetrain/EntityDung
+directory.path=/home/banhbaochay/SVNProject/CrfSvm/data/dataToRetrain/EntityDung
 line.font.size=16
 save.shortcut=ctrl + S
 untag.shortcut=alt + D
@@ -16,8 +16,8 @@ per.shortcut=alt + 1
 undo.shortcut=ctrl + Z
 save.as.shortcut=ctrl alt + S
 date.shortcut=alt + E
-org.shortcut=alt + 3
 pos.shortcut=alt + Q
+org.shortcut=alt + 3
 text.font.size=20
 click.shortcut=alt + Z
 merge.shortcut=alt + A

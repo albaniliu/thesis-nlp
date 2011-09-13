@@ -67,8 +67,9 @@ public class Train {
     } // end constructor
 
     /**
-     * Dung: method for run as object
-     * @param inputSet
+     * Dung: chay JSRE train doi voi tap train.
+     * Sau khi train se duoc file model co ten duoc dinh nghia trong parameter
+     * @param inputSet ExampleSet tao tu file train
      * @throws Exception 
      */
     public void runExampleSet(ExampleSet inputSet) throws Exception {
