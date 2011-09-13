@@ -342,13 +342,13 @@ public class ConvertPanel extends javax.swing.JPanel {
                 sizeSpinnerStateChanged(evt);
             }
         });
-        mainPanel.add(sizeSpinner, new org.netbeans.lib.awtextra.AbsoluteConstraints(720, 20, 50, -1));
+        mainPanel.add(sizeSpinner, new org.netbeans.lib.awtextra.AbsoluteConstraints(720, 10, 50, -1));
         String size = mapConfig.get(Config.LINE_FONT_SIZE);
         sizeSpinner.setValue(Integer.parseInt(size));
 
         jLabel4.setText("Directory save");
         jLabel4.setName("jLabel4"); // NOI18N
-        mainPanel.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 20, -1, -1));
+        mainPanel.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 20, -1, -1));
 
         savePathTF.setEditable(false);
         savePathTF.setToolTipText("Click here to define directory to save");
@@ -358,7 +358,7 @@ public class ConvertPanel extends javax.swing.JPanel {
                 savePathTFMousePressed(evt);
             }
         });
-        mainPanel.add(savePathTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 20, 350, -1));
+        mainPanel.add(savePathTF, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 10, 350, -1));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
@@ -373,7 +373,7 @@ public class ConvertPanel extends javax.swing.JPanel {
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 619, Short.MAX_VALUE)
+            .addGap(0, 623, Short.MAX_VALUE)
             .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                 .addGroup(layout.createSequentialGroup()
                     .addGap(0, 3, Short.MAX_VALUE)
