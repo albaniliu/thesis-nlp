@@ -16,9 +16,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
@@ -30,6 +28,7 @@ import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
+import javax.swing.table.JTableHeader;
 import util.Config;
 import util.ID;
 import util.JSREDocument;
@@ -37,6 +36,7 @@ import util.JSRELine;
 import util.ReadWriteFile;
 import util.TextFilter;
 import org.jdesktop.application.Action;
+import util.Document;
 
 /**
  *
@@ -44,7 +44,12 @@ import org.jdesktop.application.Action;
  */
 public class MergePanel extends javax.swing.JPanel {
 
-    /** Creates new form MergePanel */
+    public static final int JSRE_MODE = 0;
+    public static final int NORMAL_MODE = 1;
+
+    /** Creates new form MergePanel
+     * @param mapConfig 
+     */
     public MergePanel(HashMap<String, String> mapConfig) {
         this.mapConfig = mapConfig;
         initData();
@@ -78,6 +83,7 @@ public class MergePanel extends javax.swing.JPanel {
         applyDialogButton = new javax.swing.JButton();
         cancelDialogButton = new javax.swing.JButton();
         lengthTextField = new javax.swing.JTextField();
+        modeGroup = new javax.swing.ButtonGroup();
         jLabel1 = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
         mergeTable = new javax.swing.JTable();
@@ -89,6 +95,12 @@ public class MergePanel extends javax.swing.JPanel {
         pathTextField = new javax.swing.JTextField();
         mergeButton = new javax.swing.JButton();
         browseButton = new javax.swing.JButton();
+        jPanel1 = new javax.swing.JPanel();
+        modeJSRERadio = new javax.swing.JRadioButton();
+        modeNormalRadio = new javax.swing.JRadioButton();
+        jLabel8 = new javax.swing.JLabel();
+        totalFileLabel = new javax.swing.JLabel();
+        totalLineLabel = new javax.swing.JLabel();
 
         popupMenu.setName("popupMenu"); // NOI18N
 
@@ -160,18 +172,18 @@ public class MergePanel extends javax.swing.JPanel {
 
         jLabel1.setText("List file to merge");
         jLabel1.setName("jLabel1"); // NOI18N
-        add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 50, -1, -1));
+        add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 50, -1, -1));
 
         jScrollPane1.setName("jScrollPane1"); // NOI18N
 
         mergeTable.setModel(mergeModel);
         mergeTable.setName("mergeTable"); // NOI18N
-        mergeTable.setSelectionMode(javax.swing.ListSelectionModel.SINGLE_INTERVAL_SELECTION);
+        mergeTable.setSelectionMode(javax.swing.ListSelectionModel.MULTIPLE_INTERVAL_SELECTION);
         MouseListener popupListener = new PopupListener();
         mergeTable.addMouseListener(popupListener);
         jScrollPane1.setViewportView(mergeTable);
 
-        add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(23, 90, 580, 300));
+        add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 90, 580, 270));
 
         addButton.setText("Add");
         addButton.setToolTipText("Add file to merge[Ctrl + O]");
@@ -181,7 +193,7 @@ public class MergePanel extends javax.swing.JPanel {
                 addButtonActionPerformed(evt);
             }
         });
-        add(addButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 110, 90, -1));
+        add(addButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 110, 90, -1));
 
         removeButton.setText("Remove");
         removeButton.setName("removeButton"); // NOI18N
@@ -190,7 +202,7 @@ public class MergePanel extends javax.swing.JPanel {
                 removeButtonActionPerformed(evt);
             }
         });
-        add(removeButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 170, 90, -1));
+        add(removeButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 170, 90, -1));
 
         upButton.setText("Up");
         upButton.setName("upButton"); // NOI18N
@@ -199,7 +211,7 @@ public class MergePanel extends javax.swing.JPanel {
                 upButtonActionPerformed(evt);
             }
         });
-        add(upButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 240, 90, -1));
+        add(upButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 240, 90, -1));
 
         downButton.setText("Down");
         downButton.setName("downButton"); // NOI18N
@@ -208,14 +220,14 @@ public class MergePanel extends javax.swing.JPanel {
                 downButtonActionPerformed(evt);
             }
         });
-        add(downButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 310, 90, -1));
+        add(downButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 310, 90, -1));
 
         jLabel2.setText("Path to save:");
         jLabel2.setName("jLabel2"); // NOI18N
-        add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 430, -1, -1));
+        add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 430, -1, -1));
 
         pathTextField.setName("pathTextField"); // NOI18N
-        add(pathTextField, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 430, 420, -1));
+        add(pathTextField, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 430, 420, -1));
 
         mergeButton.setText("Merge");
         mergeButton.setName("mergeButton"); // NOI18N
@@ -224,54 +236,110 @@ public class MergePanel extends javax.swing.JPanel {
                 mergeButtonActionPerformed(evt);
             }
         });
-        add(mergeButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 490, 90, -1));
+        add(mergeButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 490, 90, -1));
 
         javax.swing.ActionMap actionMap = org.jdesktop.application.Application.getInstance().getContext().getActionMap(MergePanel.class, this);
         browseButton.setAction(actionMap.get("browseAction")); // NOI18N
         browseButton.setName("browseButton"); // NOI18N
-        add(browseButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 430, 90, 30));
+        add(browseButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 430, 90, 30));
+
+        jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Mode", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.TOP));
+        jPanel1.setName("jPanel1"); // NOI18N
+
+        modeGroup.add(modeJSRERadio);
+        modeJSRERadio.setSelected(true);
+        modeJSRERadio.setText("JSRE Document");
+        modeJSRERadio.setName("modeJSRERadio"); // NOI18N
+        modeJSRERadio.addItemListener(new java.awt.event.ItemListener() {
+            public void itemStateChanged(java.awt.event.ItemEvent evt) {
+                modeJSRERadioItemStateChanged(evt);
+            }
+        });
+        jPanel1.add(modeJSRERadio);
+
+        modeGroup.add(modeNormalRadio);
+        modeNormalRadio.setText("Normal Document");
+        modeNormalRadio.setName("modeNormalRadio"); // NOI18N
+        modeNormalRadio.addItemListener(new java.awt.event.ItemListener() {
+            public void itemStateChanged(java.awt.event.ItemEvent evt) {
+                modeNormalRadioItemStateChanged(evt);
+            }
+        });
+        jPanel1.add(modeNormalRadio);
+
+        add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 160, 180, 90));
+
+        jLabel8.setText("Total:");
+        jLabel8.setName("jLabel8"); // NOI18N
+        add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 380, -1, -1));
+
+        totalFileLabel.setText("0 file(s)");
+        totalFileLabel.setName("totalFileLabel"); // NOI18N
+        add(totalFileLabel, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 380, -1, -1));
+
+        totalLineLabel.setText("0 line(s)");
+        totalLineLabel.setName("totalLineLabel"); // NOI18N
+        add(totalLineLabel, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 380, -1, -1));
     }// </editor-fold>//GEN-END:initComponents
 
     private void addButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addButtonActionPerformed
         // TODO add your handling code here:
-         String path = mapConfig.get(Config.DIRECTORY_PATH);
+        String path = mapConfig.get(Config.DIRECTORY_PATH);
         JFileChooser fc = new JFileChooser(path);
-        
+
         fc.setFileFilter(new TextFilter());
         fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
         fc.setMultiSelectionEnabled(true);
         int val = fc.showOpenDialog(null);
         if (val == JFileChooser.APPROVE_OPTION) {
             File[] files = fc.getSelectedFiles();
-            ArrayList<File> errorFiles = new ArrayList<File>();
-            for (File file : files) {
-                try {
-                    JSREDocument doc = new JSREDocument(file);
-                    Object[] dataRow = {doc, doc.getLastID()};
-                    mergeModel.addRow(dataRow);
-                } catch (FileNotFoundException ex) {
-                    Logger.getLogger(MergePanel.class.getName()).log(Level.SEVERE, null, ex);
-                } catch (UnsupportedEncodingException ex) {
-                    Logger.getLogger(MergePanel.class.getName()).log(Level.SEVERE, null, ex);
-                } catch (IOException ex) {
-                    Logger.getLogger(MergePanel.class.getName()).log(Level.SEVERE, null, ex);
-                } catch (IllegalArgumentException e) {
-                    /* File input is not JSRE format */
-                    errorFiles.add(file);
-                }
-            }
-            if (!errorFiles.isEmpty()) {
-                StringBuilder mess = new StringBuilder();
-                mess.append("There are ");
-                mess.append(errorFiles.size());
-                mess.append(" file(s) are not legal for JSRE format:\n");
-                for (File err : errorFiles) {
-                    mess.append(err.getAbsolutePath());
-                    mess.append("\n");
-                }
-                JOptionPane.showMessageDialog(null, mess, "Warning", JOptionPane.WARNING_MESSAGE);
-            }
-        }
+            if (mode == JSRE_MODE) {
+                // Hoat dong o che do JSRE
+                ArrayList<File> errorFiles = new ArrayList<File>();
+                for (File file : files) {
+                    try {
+                        JSREDocument doc = new JSREDocument(file);
+                        Object[] dataRow = {doc, doc.getLastID()};
+                        totalFileCount++;
+                        totalLineCount += doc.getLastID().getCount();
+                        totalFileLabel.setText(totalFileCount + " file(s)");
+                        totalLineLabel.setText(totalLineCount + " line(s)");
+                        mergeModel.addRow(dataRow);
+                    } catch (FileNotFoundException ex) {
+                        Logger.getLogger(MergePanel.class.getName()).log(Level.SEVERE, null, ex);
+                    } catch (UnsupportedEncodingException ex) {
+                        Logger.getLogger(MergePanel.class.getName()).log(Level.SEVERE, null, ex);
+                    } catch (IOException ex) {
+                        Logger.getLogger(MergePanel.class.getName()).log(Level.SEVERE, null, ex);
+                    } catch (IllegalArgumentException e) {
+                        /* File input is not JSRE format */
+                        errorFiles.add(file);
+                    }
+                }// end foreach
+                if (!errorFiles.isEmpty()) {
+                    StringBuilder mess = new StringBuilder();
+                    mess.append("There are ");
+                    mess.append(errorFiles.size());
+                    mess.append(" file(s) are not legal for JSRE format:\n");
+                    for (File err : errorFiles) {
+                        mess.append(err.getAbsolutePath());
+                        mess.append("\n");
+                    }
+                    JOptionPane.showMessageDialog(null, mess, "Warning", JOptionPane.WARNING_MESSAGE);
+                }// end if errorFile
+            } else {
+                // Hoat dong o che do normal
+                for (File file : files) {
+                    Document doc = new Document(file);
+                    Object[] data = new Object[] {doc, doc.size()};
+                    totalFileCount++;
+                    totalLineCount += doc.size();
+                    totalFileLabel.setText(totalFileCount + " file(s)");
+                    totalLineLabel.setText(totalLineCount + " line(s)");
+                    mergeModel.addRow(data);
+                }// end foreach file
+            }// end if mode
+        }// end if val
     }//GEN-LAST:event_addButtonActionPerformed
 
     private void removeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_removeButtonActionPerformed
@@ -282,6 +350,18 @@ public class MergePanel extends javax.swing.JPanel {
             JOptionPane.showMessageDialog(null, message, "Warning", JOptionPane.WARNING_MESSAGE);
         } else {
             for (int i = rows.length - 1; i >= 0; i--) {
+                if (mode == NORMAL_MODE) {
+                    totalFileCount--;
+                    totalLineCount -= (Integer) mergeModel.getValueAt(rows[i], 1);
+                    totalFileLabel.setText(totalFileCount + " file(s)");
+                    totalLineLabel.setText(totalLineCount + " line(s)");
+                } else {
+                    // mode JSRE
+                    totalFileCount--;
+                    totalLineCount -= ((ID) mergeModel.getValueAt(rows[i], 1)).getCount();
+                    totalFileLabel.setText(totalFileCount + " file(s)");
+                    totalLineLabel.setText(totalLineCount + " line(s)");
+                }
                 mergeModel.removeRow(rows[i]);
             }
         }
@@ -322,8 +402,8 @@ public class MergePanel extends javax.swing.JPanel {
     @Action
     public void browseAction() {
         String path = mapConfig.get(Config.DIRECTORY_PATH);
-        JFileChooser fc =  new JFileChooser(path);
-        
+        JFileChooser fc = new JFileChooser(path);
+
         fc.setFileFilter(new TextFilter());
         fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
         int val = fc.showSaveDialog(null);
@@ -341,34 +421,53 @@ public class MergePanel extends javax.swing.JPanel {
     private void mergeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mergeButtonActionPerformed
         // TODO add your handling code here:
         String fileSavePath = pathTextField.getText();
-        PrintWriter out = null;
-        try {
-            out = ReadWriteFile.writeFile(fileSavePath, "UTF-8");
-        } catch (FileNotFoundException ex) {
-            Logger.getLogger(MergePanel.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (UnsupportedEncodingException e) {
-            e.printStackTrace();
-        }
 
-        /* Merge all document in table */
-        Vector<Vector> rows = mergeModel.getDataVector();
-        List<JSREDocument> docList = new ArrayList<JSREDocument>();
-        for (Vector row : rows) {
-            JSREDocument doc = (JSREDocument) row.get(0);
-            docList.add(doc);
-        }
-        JSREDocument result = docList.get(0);
-        for (int i = 1; i < docList.size(); i++) {
-//            result.concat(docList.get(i));
-            result = JSREDocument.merge(result, docList.get(i));
-        }
+        if (mode == JSRE_MODE) {
+            // Hoat dong mode JSRE
+            PrintWriter out = null;
+            try {
+                out = ReadWriteFile.writeFile(fileSavePath, "UTF-8");
+            } catch (FileNotFoundException ex) {
+                Logger.getLogger(MergePanel.class.getName()).log(Level.SEVERE, null, ex);
+                JOptionPane.showMessageDialog(null, ex.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+                return;
+            } catch (UnsupportedEncodingException e) {
+                JOptionPane.showMessageDialog(null, e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+                e.printStackTrace();
+                return;
+            }// end try
+            
+            /* Merge all document in table */
+            Vector<Vector> rows = mergeModel.getDataVector();
+            List<JSREDocument> docList = new ArrayList<JSREDocument>();
+            for (Vector row : rows) {
+                JSREDocument doc = (JSREDocument) row.get(0);
+                docList.add(doc);
+            }
+            JSREDocument result = docList.get(0);
+            for (int i = 1; i < docList.size(); i++) {
+    //            result.concat(docList.get(i));
+                result = JSREDocument.merge(result, docList.get(i));
+            }
 
-        /* write to PrintWriter */
-        for (JSRELine line : result.getLineList()) {
-            out.print(line.getWholeLine());
-            out.print("\r\n");
-        }
-        out.close();
+            /* write to PrintWriter */
+            for (JSRELine line : result.getLineList()) {
+                out.print(line.getWholeLine());
+                out.print("\r\n");
+            }
+            out.close();
+        } else {
+            // Hoat dong mode normal
+            Vector<Vector> rows = mergeModel.getDataVector();
+            Document retDoc = new Document();
+            for (Vector row : rows) {
+                Document tmpDoc = (Document) row.get(0);
+                retDoc.append(tmpDoc);
+            }// end foreach vector
+            
+            retDoc.print2File(fileSavePath);
+        }// end if mode
+        
         JOptionPane.showMessageDialog(null, "Merge done", "Message", JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_mergeButtonActionPerformed
 
@@ -399,6 +498,26 @@ public class MergePanel extends javax.swing.JPanel {
         editDialog.dispose();
     }//GEN-LAST:event_cancelDialogButtonActionPerformed
 
+    private void modeJSRERadioItemStateChanged(java.awt.event.ItemEvent evt) {//GEN-FIRST:event_modeJSRERadioItemStateChanged
+        // TODO add your handling code here:
+        if (modeJSRERadio.isSelected()) {
+            mode = JSRE_MODE;
+            JTableHeader th = mergeTable.getTableHeader();
+            th.getColumnModel().getColumn(1).setHeaderValue("Line number in Text - Length");
+            th.repaint();
+        }
+    }//GEN-LAST:event_modeJSRERadioItemStateChanged
+
+    private void modeNormalRadioItemStateChanged(java.awt.event.ItemEvent evt) {//GEN-FIRST:event_modeNormalRadioItemStateChanged
+        // TODO add your handling code here:
+        if (modeNormalRadio.isSelected()) {
+            mode = NORMAL_MODE;
+            JTableHeader th = mergeTable.getTableHeader();
+            th.getColumnModel().getColumn(1).setHeaderValue("Length");
+            th.repaint();
+        }
+    }//GEN-LAST:event_modeNormalRadioItemStateChanged
+
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton addButton;
     private javax.swing.JButton applyDialogButton;
@@ -414,20 +533,31 @@ public class MergePanel extends javax.swing.JPanel {
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
+    private javax.swing.JLabel jLabel8;
+    private javax.swing.JPanel jPanel1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTextField lengthTextField;
     private javax.swing.JSpinner lineCountTextSpin;
     private javax.swing.JButton mergeButton;
     private javax.swing.JTable mergeTable;
+    private javax.swing.ButtonGroup modeGroup;
+    private javax.swing.JRadioButton modeJSRERadio;
+    private javax.swing.JRadioButton modeNormalRadio;
     private javax.swing.JTextField pathDialogTextField;
     private javax.swing.JTextField pathTextField;
     private javax.swing.JPopupMenu popupMenu;
     private javax.swing.JButton removeButton;
+    private javax.swing.JLabel totalFileLabel;
+    private javax.swing.JLabel totalLineLabel;
     private javax.swing.JButton upButton;
     // End of variables declaration//GEN-END:variables
     private DefaultTableModel mergeModel;
     private int rowEdit;
     private HashMap<String, String> mapConfig;
+    private int mode;
+    
+    private int totalFileCount;
+    private int totalLineCount;
 
     /**
      * Class for Listener, isPopupTrigger equal right click, it needs in both mousePressed and
