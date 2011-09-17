@@ -13,6 +13,7 @@ import crfsvm.svm.org.itc.irst.tcc.sre.data.ReadWriteFile;
 import crfsvm.util.Document;
 import crfsvm.util.FileUtils;
 import crfsvm.util.MapUtils;
+import crfsvm.util.MathUtils;
 import java.io.File;
 import java.io.FilenameFilter;
 import java.io.IOException;
@@ -60,7 +61,7 @@ public class Main {
     /**
      * nguong cho entropy
      */
-    static double thresholdH = 0.5009;
+    static double thresholdH = MathUtils.calcEntropy(4, B, 2, 1);
     /**
      * Number example in one bag
      */
