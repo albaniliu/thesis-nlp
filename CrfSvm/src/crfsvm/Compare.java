@@ -5,11 +5,12 @@
 package crfsvm;
 
 import crfsvm.crf.een_phuong.CopyFile;
-import crfsvm.crf.een_phuong.JVnRecognizer;
 import crfsvm.crf.een_phuong.TaggedDocument;
 import crfsvm.util.Document;
 import crfsvm.util.FileUtils;
 import java.io.File;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -46,9 +47,12 @@ public class Compare {
         String mainTestNoTagLabel = "tmp/test-notag.txt";
         Main m = new Main();
 
-        int B = 5;
-        int bagSize = 60;
-
+        int B = 7;
+        int bagSize = 600;
+        
+        // Lap danh sach cac file ban dau trong thu muc tmp
+        List<File> oriFiles = new ArrayList<File>();
+        oriFiles.addAll(Arrays.asList(new File("tmp").listFiles()));
 
         /*
          * Tao model va file feature dau tien. File feature: oriTrain + .feature
@@ -94,12 +98,20 @@ public class Compare {
         // File dac trung ban dau co dang: mainTrain + .feature
         logger.info("Them dac trung moi vao file dac trung goc");
         m.processAfterPredict(sList, subTestDoc, mainTrainFeature);
+        logger.info("Da them " + sList.size() + " nhan vao tap train");
 
         //Tao model moi tu file dac trung moi duoc them + tinh toan P-R-F
         logger.info("Tao model moi tu file dac trung moi them");
         logger.info("Tinh toan P-R-F voi model moi");
         Crf.calcFScore(mainTrainFeature, mainTestCopied);
 
+        // Xoa cac file moi tao, chi dung trong linux
+        for (File file : new File("tmp").listFiles()) {
+            if (!oriFiles.contains(file)) {
+                FileUtils.removeFile(file.getAbsolutePath());
+            }
+        }// end foreach file
+        
     }// end runBagging method
     
     /**
@@ -132,7 +144,7 @@ public class Compare {
     
     public static void main(String[] args) {
         Compare c = new Compare();
-        c.runBagging("tmp/trainDung.txt", "tmp/testDung.txt");
+        c.runBagging("tmp/trainThien1000.txt", "tmp/testThien958.txt");
     }// end main class
     
 }// end Compare class
