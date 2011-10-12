@@ -8,6 +8,7 @@ import crfsvm.crf.een_phuong.IOB2Converter;
 import crfsvm.svm.org.itc.irst.tcc.sre.data.ReadWriteFile;
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
@@ -149,6 +150,50 @@ public class FileUtils {
     public static void convert2IOB(String inputFilePath) {
         convert2IOB(inputFilePath, inputFilePath + ".iob");
     }// end convert2IOB method
+    
+    /**
+     * Merge tat ca cac file .txt trong thu muc dirPath thanh file mergePath
+     * @param dirPath Duong dan toi thu muc chua cac file van ban muon merge
+     * @param mergePath Duong dan toi file output sau khi merge
+     */
+    // <editor-fold defaultstate="collapsed" desc="mergeFile method">
+    public static void mergeFile(String dirPath, String mergePath) {
+        File dir = new File(dirPath);
+        File[] fileList = dir.listFiles(new FilenameFilter() {
+
+            @Override
+            public boolean accept(File dir, String name) {
+                return name.endsWith(".txt");
+            }
+        });
+        Document retDoc = new Document();
+        for (File file : fileList) {
+            Document doc = new Document(file);
+            retDoc.append(doc);
+        }// end foreach file
+        retDoc.print2File(mergePath);
+    }// end mergeFile method
+    // </editor-fold>
+    
+    /**
+     * Merge tat ca cac file duoc loc ra boi nameFilter trong dirPath thanh file mergePath
+     * @param dirPath Duong dan toi thu muc chua cac file van ban muon merge
+     * @param mergePath Duong dan toi file output sau khi merge
+     * @param nameFilter Bo loc ten cua file trong thu muc dirPath
+     */
+    // <editor-fold defaultstate="collapsed" desc="mergeFile method">
+    public static void mergeFile(String dirPath, String mergePath, FilenameFilter nameFilter) {
+        File dir = new File(dirPath);
+        File[] fileList = dir.listFiles(nameFilter);
+        Document retDoc = new Document();
+        for (File file : fileList) {
+            Document doc = new Document(file);
+            retDoc.append(doc);
+        }// end foreach file
+        retDoc.print2File(mergePath);
+        logger.debug("Ghep " + fileList.length + " file thanh cong");
+    }// end mergeFile method
+    // </editor-fold>
 
     public static void main(String[] args) {
         removeFile("tmp/TestSet");

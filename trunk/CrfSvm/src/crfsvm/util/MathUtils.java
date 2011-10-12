@@ -4,6 +4,11 @@
  */
 package crfsvm.util;
 
+import crfsvm.crf.een_phuong.Offset;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
+
 /**
  *
  * @author banhbaochay
@@ -19,16 +24,22 @@ public class MathUtils {
         return re;
     }// end calcEntropy method
     
-    public static void main(String[] args) {
-        System.out.println(calcEntropy(5, 7, 2));
-        System.out.println(calcEntropy(5, 7, 1, 1));
-        System.out.println(calcEntropy(4, 7, 3));
-        System.out.println(calcEntropy(4, 7, 2, 1));
-        System.out.println(calcEntropy(4, 7, 1, 1, 1));
-        System.out.println(calcEntropy(3, 7, 3, 1));
-        System.out.println(calcEntropy(3, 7, 2, 1, 1));
-        System.out.println(calcEntropy(3, 7, 1, 1, 1, 1));
-        
-    }// end main class
+    /**
+     * Tinh entropy cua cac tu duoc gan nhan trong countMap
+     * @param countMap Map co kieu (Offset, Map(String, Integer)). Trong do key la kieu Offset chi ra vi tri cua tu/cum tu
+     * value la 1 map voi key la nhan thuc the hoac iob gan cho tu va value la so lan duoc gan nhan thuc the do
+     * @return Tra ve map voi key la vi tri cua tu (Offset), value la mang Object luu nhan iob hoac thuc the gan cho tu va entropy cua tu
+     */
+    public static Map calcEntropy(Map countMap) {
+	Map entropyMap = new LinkedHashMap();
+	for (Object entrySet : countMap.entrySet()) {
+	    Map.Entry entry = (Map.Entry) entrySet;
+	    Offset offset = (Offset) entry.getKey();
+	    Map value = (Map) entry.getValue();
+	    
+	}// end foreach entrySet
+	return entropyMap;
+    }// end calcEntropy method
+    
 }// end MathUtils class
 
