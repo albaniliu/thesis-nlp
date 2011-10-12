@@ -68,7 +68,7 @@ public class Sentence {
     
     /**
      * Tra ve list vi tri cac tu duoc gan nhan IOB trong cau cung voi nhan IOB duoc gan cho tu do
-     * @return Moi 1 vi tri duoc bieu dien duoi dang: offsetSentence,offsetWord,nhan IOB cua tu
+     * @return Moi 1 vi tri duoc bieu dien duoi dang: offsetSentence-offsetWord,nhan IOB
      */
     public List<String> getIobList() {
         List<String> offsetList = new ArrayList<String>();

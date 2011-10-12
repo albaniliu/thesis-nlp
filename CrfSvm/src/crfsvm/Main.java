@@ -15,7 +15,6 @@ import crfsvm.util.FileUtils;
 import crfsvm.util.MapUtils;
 import crfsvm.util.MathUtils;
 import java.io.File;
-import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -36,11 +35,10 @@ import org.apache.log4j.xml.DOMConfigurator;
 public class Main {
 
     static Logger logger = Logger.getLogger(Main.class);
-    
+
     static {
         DOMConfigurator.configure("log-config.xml");
     }
-    
     static final String PREDICT_FILE = "tmp/tagged.txt.wseg";
     /**
      * File iob duoc convert tu van ban sau khi predict - van ban co duoi iob: tmp/tagged.txt.wseg.iob
@@ -49,7 +47,7 @@ public class Main {
     /**
      * so phan lop
      */
-    static final int C = 13;
+    static final int C = 7;
     /**
      * So luong bagging
      */
@@ -57,59 +55,15 @@ public class Main {
     /**
      * batch size
      */
-    static int S = 20;
+    static int S = 120;
     /**
      * nguong cho entropy
      */
-    static double thresholdH = MathUtils.calcEntropy(4, B, 2, 1);
+    static double thresholdH = MathUtils.calcEntropy(5, B, 2);
     /**
      * Number example in one bag
      */
-    static int bagSize = 120;
-
-    /**
-     * Merge tat ca cac file .txt trong thu muc dirPath thanh file mergePath
-     * @param dirPath Duong dan toi thu muc chua cac file van ban muon merge
-     * @param mergePath Duong dan toi file output sau khi merge
-     */
-    // <editor-fold defaultstate="collapsed" desc="mergeFile method">
-    public void mergeFile(String dirPath, String mergePath) {
-        File dir = new File(dirPath);
-        File[] fileList = dir.listFiles(new FilenameFilter() {
-
-            @Override
-            public boolean accept(File dir, String name) {
-                return name.endsWith(".txt");
-            }
-        });
-        Document retDoc = new Document();
-        for (File file : fileList) {
-            Document doc = new Document(file);
-            retDoc.append(doc);
-        }// end foreach file
-        retDoc.print2File(mergePath);
-    }// end mergeFile method
-    // </editor-fold>
-
-    /**
-     * Merge tat ca cac file duoc loc ra boi nameFilter trong dirPath thanh file mergePath
-     * @param dirPath Duong dan toi thu muc chua cac file van ban muon merge
-     * @param mergePath Duong dan toi file output sau khi merge
-     * @param nameFilter Bo loc ten cua file trong thu muc dirPath
-     */
-    // <editor-fold defaultstate="collapsed" desc="mergeFile method">
-    public void mergeFile(String dirPath, String mergePath, FilenameFilter nameFilter) {
-        File dir = new File(dirPath);
-        File[] fileList = dir.listFiles(nameFilter);
-        Document retDoc = new Document();
-        for (File file : fileList) {
-            Document doc = new Document(file);
-            retDoc.append(doc);
-        }// end foreach file
-        retDoc.print2File(mergePath);
-        logger.debug("Ghep " + fileList.length + " file thanh cong");
-    }// end mergeFile method
-    // </editor-fold>
+    static int bagSize = 60;
 
     // <editor-fold defaultstate="collapsed" desc="createIOB2 method">
     public void createIOB2() {
@@ -217,7 +171,7 @@ public class Main {
         }// end for i
     }// end countAppear method
     // </editor-fold>
-
+    
     /**
      * Tinh Entropy tu count co duoc
      * @param countMap danh sach dem so lan duoc gan nhan IOB cua cac tu trong van ban
@@ -293,6 +247,7 @@ public class Main {
                             (String) entry.getValue()[0]
                         });
                 i++;
+//		 Lay S phan tu, bo comment o duoi
                 if (i == S) {
                     break;
                 }// end if i == S
@@ -368,7 +323,7 @@ public class Main {
         } catch (IOException ex) {
             logger.debug(ex.getMessage());
         }// end try
-        
+
         // Del file tam
         phraseFile.delete();
         phraseFeatureFile.delete();
@@ -380,24 +335,24 @@ public class Main {
         DOMConfigurator.configure("log-config.xml");
         String message = null;
         Main m = new Main();
-        String mainTrain = "tmp/trainThien.txt";
-        String mainTest = "tmp/testThien.txt";
+        String mainTrain = "tmp/train274.txt";
+        String mainTest = "tmp/test1814.txt";
         String mainTrainCopied = "tmp/train.txt";
         String mainTestCopied = "tmp/test.txt";
         // File feature goc tao ra tu file train
         String mainTrainFeature = mainTrainCopied + ".feature";
         String bagTrainCopied = "tmp/bagTrain.txt";
         String bagTestCopied = "tmp/bagTest.txt";
-        
+
         message = String.format("Thong tin chuong trinh:\nBag size = %d\nSo luong bag = %d\nSo phan lop = %d\nSo luong nhan lay ra trong moi lan lap = %d\nNguong = %f", bagSize, B, C, S, thresholdH);
         logger.info(message);
-        
+
         int count = 0;
-        
+
         // Lap danh sach cac file ban dau trong thu muc tmp
         List<File> oriFiles = new ArrayList<File>();
         oriFiles.addAll(Arrays.asList(new File("tmp").listFiles()));
-        
+
         /*
          * Tao model va file feature dau tien. File feature: oriTrain + .feature
          */
@@ -406,7 +361,7 @@ public class Main {
         CopyFile.copyfile(mainTest, mainTestCopied);
         logger.info("Lan " + ++count);
         Crf.calcFScore(mainTrainCopied, mainTestCopied);
-        
+
         /*
          * Tao TrainSet: tmp/TrainSet
          */
@@ -432,14 +387,14 @@ public class Main {
              * Bat dau thuc hien voi 1 file test trong TestSet
              */
             logger.info("Thuc hien voi 1 file test");
-            // Bo cac nhan entity trong file, file bay gio la file chi duoc tach tu
-            FileUtils.removeTag(subTest);
             // Copy file test trong TestSet ra thu muc tmp
             CopyFile.copyfile(subTest.getAbsolutePath(), bagTestCopied);
+            // Bo cac nhan entity trong file, file bay gio la file chi duoc tach tu
+            FileUtils.removeTag(bagTestCopied);
             // Chuan bi
             logger.info("Tach tu file test");
-            
-            TaggedDocument subTestDoc = new TaggedDocument(bagTestCopied);
+
+            TaggedDocument subTestDoc = new TaggedDocument(subTest.getAbsolutePath());
             Map<String, Map<String, Integer>> countMap = new HashMap<String, Map<String, Integer>>();
 
             // Bat dau vong lap CRF
@@ -462,12 +417,12 @@ public class Main {
                 logger.warn("Khong lay them duoc nhan nao");
                 System.exit(0);
             }// end if sList.size() == 0
-            
+
             // Them dac trung cua S tu duoc gan nhan nay vao file dac trung ban dau.
             // File dac trung ban dau co dang: mainTrain + .feature
             logger.info("Them dac trung moi vao file dac trung goc");
             m.processAfterPredict(sList, subTestDoc, mainTrainFeature);
-            
+
             //Tao model moi tu file dac trung moi duoc them + tinh toan P-R-F
             message = String.format("Lan %d: tap train da duoc them %d nhan moi", ++count, sList.size());
             logger.info(message);
@@ -483,7 +438,7 @@ public class Main {
                 FileUtils.removeFile(file.getAbsolutePath());
             }
         }// end foreach file
-        
+
     }// end main class
 }// end Main class
 
