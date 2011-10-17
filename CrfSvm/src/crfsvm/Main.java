@@ -59,7 +59,7 @@ public class Main {
     /**
      * nguong cho entropy
      */
-    static double thresholdH = MathUtils.calcEntropy(5, B, 2);
+    static double thresholdH = MathUtils.calcEntropy(B, 5, 2);
     /**
      * Number example in one bag
      */

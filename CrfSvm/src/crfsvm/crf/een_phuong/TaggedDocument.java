@@ -9,12 +9,14 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.TreeMap;
 import org.apache.log4j.Logger;
 
 /**
@@ -22,13 +24,21 @@ import org.apache.log4j.Logger;
  * 1 cau trong van ban dua vao vi tri cua tu hoac cua cau
  * @author banhbaochay
  */
-public class TaggedDocument {
+public class TaggedDocument implements Cloneable {
 
     static Logger logger = Logger.getLogger(TaggedDocument.class);
     /**
      *  Default IOB file: tmp/temp.iob
      */
     private static final String TEMP_IOB_FILE = "tmp/temp.iob";
+
+    private TaggedDocument() {
+        sentList = new LinkedList<Sentence>();
+        labelCountMap = new HashMap<String, Integer>();
+        iobCountMap = new HashMap<String, Integer>();
+        iobMap = new TreeMap<Offset, String>();
+        labelMap = new TreeMap<Offset, String>();
+    }
 
     /**
      * Tao doi tuong TaggedDocument tu 1 file van ban da duoc gan nhan hoac
@@ -39,9 +49,9 @@ public class TaggedDocument {
 
         sentList = new LinkedList<Sentence>();
         labelCountMap = new HashMap<String, Integer>();
-	iobCountMap = new HashMap<String, Integer>();
-        iobPosMap = new LinkedHashMap<Offset, String>();
-        labelPosMap = new LinkedHashMap<Offset, String>();
+        iobCountMap = new HashMap<String, Integer>();
+        iobMap = new TreeMap<Offset, String>();
+        labelMap = new TreeMap<Offset, String>();
         if (filePath.endsWith(".iob")) {
             // Tao doc tu file iob
             analyze(filePath);
@@ -74,146 +84,151 @@ public class TaggedDocument {
      */
     //<editor-fold defaultstate="collapsed" desc="analyze method">
     private void analyze(String iobFile) {
-	try {
-	    BufferedReader in = ReadWriteFile.readFile(iobFile);
-	    String line = null;
-	    Sentence sent = new Sentence();
-	    int offsetWord = 0;
-	    int offsetSentence = 0;
-	    String iob = null;
-	    while ((line = in.readLine()) != null) {
-		if (!line.equals("")) {
-		    iob = line.split("\t")[1];
-		    
-		    if (!iob.equals("O")) {
-			Offset offset = new Offset(offsetSentence, offsetWord);
-			iobPosMap.put(offset, iob);
-		    }
-		    
-		    Word word = new Word(line.split("\t")[0]);
-		    word.setOffset(offsetWord);
-		    word.setIob(iob);
-		    sent.addWord(word);
-		    offsetWord++;
-		} else {
-		    // bat dau cau moi
-		    offsetWord = 0;
-		    sent.setOffset(offsetSentence);
-		    sentList.add(sent);
-		    offsetSentence++;
-		    sent = new Sentence();
-		}// end if line
-		
-	    }// end while
-	    
-	    in.close();
-	} catch (FileNotFoundException ex) {
-	    logger.debug(ex.getMessage());
-	} catch (IOException e) {
-	    logger.debug(e.getMessage());
-	}// end try catch
-	
-	// Tao iobCountMap
-	createIobCountMap();
-	// Tao labelPosMap
-	createLabelPosMap();
+        try {
+            BufferedReader in = ReadWriteFile.readFile(iobFile);
+            String line = null;
+            Sentence sent = new Sentence();
+            int offsetWord = 0;
+            int offsetSentence = 0;
+            String iob = null;
+            while ((line = in.readLine()) != null) {
+                if (!line.equals("")) {
+                    iob = line.split("\t")[1];
+
+                    if (!iob.equals("O")) {
+                        Offset offset = new Offset(offsetSentence, offsetWord);
+                        iobMap.put(offset, iob);
+                    }
+
+                    Word word = new Word(line.split("\t")[0]);
+                    word.setOffset(offsetWord);
+                    word.setIob(iob);
+                    sent.addWord(word);
+                    offsetWord++;
+                } else {
+                    // bat dau cau moi
+                    offsetWord = 0;
+                    sent.setOffset(offsetSentence);
+                    sentList.add(sent);
+                    offsetSentence++;
+                    sent = new Sentence();
+                }// end if line
+
+            }// end while
+
+            in.close();
+        } catch (FileNotFoundException ex) {
+            logger.debug(ex.getMessage());
+        } catch (IOException e) {
+            logger.debug(e.getMessage());
+        }// end try catch
+
+        // Tao iobCountMap
+        createIobCountMap();
+        // Tao labelPosMap
+        createLabelMap();
     }// end analyze method
     // </editor-fold>
 
-    public static TaggedDocument createTaggedDoc(String filePath, List<String[]> list) {
-	TaggedDocument doc = new TaggedDocument(filePath);
-	for (String[] child : list) {
-	    String offset = child[0];
-	    String iob = child[1];
-	    doc.iobPosMap.put(offset, iob);
-	}// end foreach child
-	return doc;
+    /**
+     * Tao doi tuong tagged doc moi tu label map
+     * @param labelMap
+     * @return 
+     */
+    public TaggedDocument createTaggedDoc(Map labelMap) {
+        TaggedDocument re = new TaggedDocument();
+        re.labelMap = labelMap;
+        re.sentList = this.sentList;
+        re.createLabelCountMap();
+        return re;
     }// end createTaggedDoc method
-    
+
     /**
      * Tao labelPosMap tu iobPosMap
      */
     //<editor-fold defaultstate="collapsed" desc="createLabelPosMap method">
-    private void createLabelPosMap() {
-	labelPosMap = new LinkedHashMap<Offset, String>();
-	Offset prevOffset = null;
-	Offset startOffset = null;
-	Offset endOffset = null;
-	String label = null;
-	if (iobPosMap.size() > 0) {
-	    for (Object object : iobPosMap.entrySet()) {
-		Map.Entry<Offset, String> entry = (Map.Entry<Offset, String>) object;
-		Offset curOffset = entry.getKey();
-		String curIob = entry.getValue();
-		if (prevOffset == null) {
-		    if (curIob.startsWith("B-")) {
-			label = curIob.split("-")[1];
-			startOffset = curOffset;
-		    } else {
-			System.err.println("Phan tich IOB bi loi, bat dau bang nhan I");
-			System.exit(0);
-		    }// end if curIob.startsWith("B-")
-		} else {
-		    if (curIob.startsWith("B-")) {
-			endOffset = prevOffset;
-			labelPosMap.put(Offset.createOffset(startOffset, endOffset), label);
-			startOffset = curOffset;
-			label = curIob.split("-")[1];
-		    }// end if curIob is B-
-		}// end prevOffset ? null
-		
-		prevOffset = curOffset;
-	    }// end foreach object
-	    labelPosMap.put(Offset.createOffset(startOffset, prevOffset), label);
+    private void createLabelMap() {
+        labelMap = new TreeMap<Offset, String>();
+        Offset prevOffset = null;
+        Offset startOffset = null;
+        Offset endOffset = null;
+        String label = null;
+        if (iobMap.size() > 0) {
+            for (Object object : iobMap.entrySet()) {
+                Map.Entry<Offset, String> entry = (Map.Entry<Offset, String>) object;
+                Offset curOffset = entry.getKey();
+                String curIob = entry.getValue();
+                if (prevOffset == null) {
+                    if (curIob.startsWith("B-")) {
+                        label = curIob.split("-")[1];
+                        startOffset = curOffset;
+                    } else {
+                        System.err.println("Phan tich IOB bi loi, bat dau bang nhan I");
+                        System.exit(0);
+                    }// end if curIob.startsWith("B-")
+                } else {
+                    if (curIob.startsWith("B-")) {
+                        endOffset = prevOffset;
+                        labelMap.put(Offset.createOffset(startOffset, endOffset), label);
+                        startOffset = curOffset;
+                        label = curIob.split("-")[1];
+                    }// end if curIob is B-
+                }// end prevOffset ? null
 
-	    // Tao doi tuong labelCountMap
-	    createLabelCountMap();
-	} else {
-	    logger.error("Map iob pos khong co phan tu nao");
-	}// end if iobPosMap size ? 0
-	
+                prevOffset = curOffset;
+            }// end foreach object
+            labelMap.put(Offset.createOffset(startOffset, prevOffset), label);
+
+            // Tao doi tuong labelCountMap
+            createLabelCountMap();
+        } else {
+            logger.error("Map iob pos khong co phan tu nao");
+        }// end if iobPosMap size ? 0
+
     }// end createLabelPosMap method
     //</editor-fold>
-    
+
     /**
      * Tao doi tuong labelCountMap sau khi doi tuong labelPosMap da co du lieu ve vi tri cac cum tu gan nhan thuc the
      */
     //<editor-fold defaultstate="collapsed" desc="createLabelCountMap method">
     private void createLabelCountMap() {
-	labelCountMap = new LinkedHashMap<String, Integer>();
-	for (Object key : labelPosMap.keySet()) {
-	    String iob = (String) labelPosMap.get(key);
-	    if (labelCountMap.containsKey(iob)) {
-		// Nhan thuc the nay da duoc dem
-		int count = (Integer) labelCountMap.get(iob);
-		labelCountMap.put(iob, ++count);
-	    } else {
-		// Nhan thuc the nay chua duoc dem
-		labelCountMap.put(iob, 1);
-	    }
-	}// end foreach key
+        labelCountMap = new HashMap<String, Integer>();
+        labelList = new ArrayList<String>();
+        for (Object key : labelMap.keySet()) {
+            String label = (String) labelMap.get(key);
+            if (labelCountMap.containsKey(label)) {
+                // Nhan thuc the nay da duoc dem
+                int count = (Integer) labelCountMap.get(label);
+                labelCountMap.put(label, ++count);
+            } else {
+                // Nhan thuc the nay chua duoc dem
+                labelCountMap.put(label, 1);
+                labelList.add(label);
+            }
+        }// end foreach key
     }// end createLabelCountMap method
     //</editor-fold>
-    
+
     /**
      * Tao doi tuong IobCountMap sau khi doi tuong iobPosMap da luu thong tin vi tri cac tu duoc gan nhan IOB trong van ban
      */
     //<editor-fold defaultstate="collapsed" desc="createIobCountMap method">
     private void createIobCountMap() {
-	for (Object key : iobPosMap.keySet()) {
-	    String iob = (String) iobPosMap.get(key);
-	    if (iobCountMap.containsKey(iob)) {
-		// Nhan iob nay da duoc dem
-		int count = (Integer) iobCountMap.get(iob);
-		iobCountMap.put(iob, ++count);
-	    } else {
-		// Nhan iob nay chua duoc dem
-		iobCountMap.put(iob, 1);
-	    }
-	}// end foreach key
+        for (Object key : iobMap.keySet()) {
+            String iob = (String) iobMap.get(key);
+            if (iobCountMap.containsKey(iob)) {
+                // Nhan iob nay da duoc dem
+                int count = (Integer) iobCountMap.get(iob);
+                iobCountMap.put(iob, ++count);
+            } else {
+                // Nhan iob nay chua duoc dem
+                iobCountMap.put(iob, 1);
+            }
+        }// end foreach key
     }// end createIobCountMap
     //</editor-fold>
-    
+
     /**
      * Lay 1 cau thu i trong van ban
      * @param offset vi tri cua cau trong van ban
@@ -311,9 +326,9 @@ public class TaggedDocument {
         int offsetWord = Integer.parseInt(offset.split("-")[1]);
         return setIob(iobLabel, offsetSentence, offsetWord);
     }// end setIob method
-    
+
     public boolean setIob(String iob, Offset offset) {
-	return setIob(iob, offset.getOffsetSent(), offset.getOffsetWord());
+        return setIob(iob, offset.getOffsetSent(), offset.getOffsetWord());
     }// end setIob method
 
     /**
@@ -323,12 +338,12 @@ public class TaggedDocument {
     public int size() {
         return sentList.size();
     }// end size method
-    
+
     /**
      * @return the iobPosMap
      */
     public Map getIobPosMap() {
-	return iobPosMap;
+        return iobMap;
     }
 
     /**
@@ -336,56 +351,64 @@ public class TaggedDocument {
      * Key la doi tuong Offset chi ra vi tri cum tu trong van ban, value la nhan cua tu do
      */
     public Map getLabelPosMap() {
-	return labelPosMap;
+        return labelMap;
     }
-    
-    /**
-     * Tra ve kieu iterator cac nhan IOB co trong van ban
-     * @return 
-     */
-    public Iterator<String> iteratorIobCount() {
-	return iobCountMap.keySet().iterator();
-    }// end iteratorIobCount method
-    
+
     /**
      * Tra ve so luong nhan iob co trong van ban
      * @param iob Ten nhan iob can tim so luong
      * @return 
      */
     public Integer getIobCountByName(String iob) {
-	return (Integer) iobCountMap.get(iob);
+        return (Integer) iobCountMap.get(iob);
     }// end getIobCountByName method
-    
+
     /**
      * Tra ve kieu iterator cac nhan thuc the co trong van ban
      * @return 
      */
-    public Iterator<String> iteratorLabelCount() {
-	return labelCountMap.keySet().iterator();
-    }// end iteratorLabelCount method
-    
+    public List<String> getLabelList() {
+        return labelList;
+    }// end getLabelList method
+
     /**
      * Tra ve so luong nhan thuc the co ten <code>label</code> co trong van ban
      * @param label Ten nhan thuc the muon tim so luong
      * @return 
      */
     public Integer getLabelCountByName(String label) {
-	return (Integer) labelCountMap.get(label);
+        return (Integer) labelCountMap.get(label);
     }// end getLabelCountByName method
-    
+
     /**
      * Set iobPosMap cho doi tuong, dong thoi tao thong tin ve iobCOunt, labelPos, labelCount.. Chua tao thong tin ve sentList
      * @param iobPosMap Key la doi tuong Offset chi ra vi tri cua tu trong van ban, value la nhan iob cua tu do
      */
     public void setIobPosMap(Map iobPosMap) {
-	this.iobPosMap = iobPosMap;
-	createIobCountMap();
-	createLabelPosMap();
+        this.iobMap = iobPosMap;
+        createIobCountMap();
+        createLabelMap();
     }// end setIobPosMap method
 
     public void setLabel(Offset offset, String label) {
-	labelPosMap.put(offset, label);
+        labelMap.put(offset, label);
     }// end setLabel method
+
+    @Override
+    public Object clone() {
+        try {
+            TaggedDocument cloned = (TaggedDocument) super.clone();
+            cloned.sentList = new LinkedList<Sentence>(sentList);
+            cloned.iobMap = new TreeMap(iobMap);
+            cloned.iobCountMap = new HashMap(iobCountMap);
+            cloned.labelMap = new TreeMap(labelMap);
+            cloned.labelCountMap = new HashMap(labelCountMap);
+            
+            return cloned;
+        } catch (CloneNotSupportedException e) {
+            return null;
+        }// end try
+    }// end clone method
     
     /**
      * In van ban ra man hinh: moi tu duoc bao trong cap ngoac [ ]
@@ -395,28 +418,34 @@ public class TaggedDocument {
             System.out.println(sentence.toString("[", "]"));
         }// end foreach sentence
     }// end print method
+
+    /**
+     * List cac sentence trong van ban
+     */
     private List<Sentence> sentList;
     // Chua so luong nhan duoc gan trong van ban
     // Key la ten nhan (String), value la so luong nhan duoc gan voi ten nhan do (Integer)
     private Map labelCountMap;
-    
     /**
      * Chu so luong iob duoc gan trong van ban
      * Key la ten iob, value la so luong tu duoc gan voi iob do (Integer)
      */
     private Map iobCountMap;
-    
     /**
      * Luu thong tin vi tri cua tu duoc gan nhan IOB theo dang.
      * Key la doi tuong Offset chi ra vi tri tu trong van ban, value la nhan IOB cua tu do
      */
-    private Map iobPosMap;
-    
+    private Map iobMap;
     /**
      * Luu thong tin vi tri cua tu hoac cum tu duoc gan nhan
      * Key la doi tuong Offset chi ra vi tri cum tu trong van ban, value la nhan cua tu do
      */
-    private Map labelPosMap;
+    private Map labelMap;
+    
+    /**
+     * List cac nhan thuc the trong van ban
+     */
+    private List<String> labelList;
     
 }// end TaggedDocument class
 
