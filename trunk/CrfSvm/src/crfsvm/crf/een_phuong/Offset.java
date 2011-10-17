@@ -15,43 +15,42 @@ public class Offset implements Comparable<Offset> {
      * @param offset 
      */
     public Offset(String offset) {
-	int offsetSent = Integer.parseInt(offset.split("-")[0]);
-	int offsetWord = Integer.parseInt(offset.split("-")[1]);
-	this.offsetSent = offsetSent;
-	this.offsetWord = offsetWord;
-	this.offsetWordEnd = offsetWord;
+        int offsetSent = Integer.parseInt(offset.split("-")[0]);
+        int offsetWord = Integer.parseInt(offset.split("-")[1]);
+        this.offsetSent = offsetSent;
+        this.offsetWord = offsetWord;
+        this.offsetWordEnd = offsetWord;
     }// end constructor
 
     @Override
     public boolean equals(Object obj) {
-	if (obj == null) {
-	    return false;
-	}
-	if (getClass() != obj.getClass()) {
-	    return false;
-	}
-	final Offset other = (Offset) obj;
-	if (this.offsetSent != other.offsetSent) {
-	    return false;
-	}
-	if (this.offsetWord != other.offsetWord) {
-	    return false;
-	}
-	if (this.offsetWordEnd != other.offsetWordEnd) {
-	    return false;
-	}
-	return true;
-    }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Offset other = (Offset) obj;
+        if (this.offsetSent != other.offsetSent) {
+            return false;
+        }
+        if (this.offsetWord != other.offsetWord) {
+            return false;
+        }
+        if (this.offsetWordEnd != other.offsetWordEnd) {
+            return false;
+        }
+        return true;
+    }// end equals method
 
     @Override
     public int hashCode() {
-	int hash = 7;
-	hash = 11 * hash + this.offsetSent;
-	hash = 11 * hash + this.offsetWord;
-	hash = 11 * hash + this.offsetWordEnd;
-	return hash;
-    }
-
+        int hash = 7;
+        hash = 11 * hash + this.offsetSent;
+        hash = 11 * hash + this.offsetWord;
+        hash = 11 * hash + this.offsetWordEnd;
+        return hash;
+    }// end hashCode method
 
     /**
      * Tao doi tuong offset cho vi tri cua 1 tu trong van ban
@@ -59,9 +58,9 @@ public class Offset implements Comparable<Offset> {
      * @param offsetWord Vi tri tu trong van ban
      */
     public Offset(int offsetSent, int offsetWord) {
-	this.offsetSent = offsetSent;
-	this.offsetWord = offsetWord;
-	this.offsetWordEnd = offsetWord;
+        this.offsetSent = offsetSent;
+        this.offsetWord = offsetWord;
+        this.offsetWordEnd = offsetWord;
     }// end constructor 2 args
 
     /**
@@ -71,11 +70,10 @@ public class Offset implements Comparable<Offset> {
      * @param offsetWordEnd Vi tri tu ket thuc trong cum tu
      */
     public Offset(int offsetSent, int offsetWord, int offsetWordEnd) {
-	this.offsetSent = offsetSent;
-	this.offsetWord = offsetWord;
-	this.offsetWordEnd = offsetWordEnd;
+        this.offsetSent = offsetSent;
+        this.offsetWord = offsetWord;
+        this.offsetWordEnd = offsetWordEnd;
     }// end constructor 3 args
-    
     /**
      * Vi tri cau trong van ban
      */
@@ -93,21 +91,21 @@ public class Offset implements Comparable<Offset> {
      * @return the offsetSent
      */
     public int getOffsetSent() {
-	return offsetSent;
+        return offsetSent;
     }
 
     /**
      * @return the offsetWord
      */
     public int getOffsetWord() {
-	return offsetWord;
+        return offsetWord;
     }
 
     /**
      * @return the offsetWordEnd
      */
     public int getOffsetWordEnd() {
-	return offsetWordEnd;
+        return offsetWordEnd;
     }
 
     /**
@@ -118,46 +116,52 @@ public class Offset implements Comparable<Offset> {
      */
     @Override
     public int compareTo(Offset o) {
-	if (getOffsetSent() < o.getOffsetSent()) {
-	    return -1;
-	} else if (getOffsetSent() == o.getOffsetSent()) {
-	    if (getOffsetWord() < o.getOffsetWord()) {
-		return -1;
-	    } else if (getOffsetWord() == o.getOffsetWord()) {
-		return 0;
-	    } else {
-		return 1;
-	    }
-	} else {
-	    return 1;
-	}
+        if (getOffsetSent() < o.getOffsetSent()) {
+            return -1;
+        } else if (getOffsetSent() == o.getOffsetSent()) {
+            if (getOffsetWord() < o.getOffsetWord()) {
+                return -1;
+            } else if (getOffsetWord() == o.getOffsetWord()) {
+                if (getOffsetWordEnd() < o.getOffsetWordEnd()) {
+                    return -1;
+                } else if (getOffsetWordEnd() == o.getOffsetWordEnd()) {
+                    return 0;
+                } else {
+                    return 1;
+                }
+            } else {
+                return 1;
+            }
+        } else {
+            return 1;
+        }
     }// end compareTo method
-    
+
     /**
      * So sanh 2 offset co thuoc cung 1 cau khong
      * @param o
-     * @return 
+     * @return Tra ve 0 neu thuoc cung 1 cau, nho hon 0 neu offset o truoc va lon hon 0 neu o sau
      */
     public int compareSent(Offset o) {
-	return Integer.compare(offsetSent, o.offsetSent);
+        return new Integer(offsetSent).compareTo(o.offsetSent);
     }// end compareSent method
-    
+
     public static Offset createOffset(Offset startOffset, Offset endOffset) {
-	int offsetSent = startOffset.getOffsetSent();
-	int start = startOffset.getOffsetWord();
-	int end = endOffset.getOffsetWordEnd();
-	return new Offset(offsetSent, start, end);
+        int offsetSent = startOffset.getOffsetSent();
+        int start = startOffset.getOffsetWord();
+        int end = endOffset.getOffsetWordEnd();
+        return new Offset(offsetSent, start, end);
     }// end createOffset method
 
     @Override
     public String toString() {
-	StringBuilder sb = new StringBuilder();
-	sb.append(offsetSent);
-	sb.append(":");
-	sb.append(offsetWord);
-	sb.append("-");
-	sb.append(offsetWordEnd);
-	return sb.toString();
+        StringBuilder sb = new StringBuilder();
+        sb.append(offsetSent);
+        sb.append(":");
+        sb.append(offsetWord);
+        sb.append("-");
+        sb.append(offsetWordEnd);
+        return sb.toString();
     }// end toString method
 }// end Offset class
 
