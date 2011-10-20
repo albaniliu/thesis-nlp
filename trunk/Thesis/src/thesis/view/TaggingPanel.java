@@ -172,10 +172,10 @@ public class TaggingPanel extends javax.swing.JPanel {
             out.write(textArea.getText());
             out.close();
 //            buttonSave.setEnabled(false);
-            labelStatus.setText("Save SUCCESSFULLY!");
+            JOptionPane.showMessageDialog(null, "Save successfull");
         } catch (Exception e) {
 //            buttonSave.setEnabled(false);
-            labelStatus.setText("Save UNSUCCESSFULLY!: " + e);
+            JOptionPane.showMessageDialog(null, "Save failed!\n" + e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
         }
     }
     //</editor-fold>
@@ -362,7 +362,8 @@ public class TaggingPanel extends javax.swing.JPanel {
 //                buttonUntag.setEnabled(true);
 //            }
         } catch (Exception ex) {
-            labelStatus.setText("Can not open file " + textFieldPath.getName() + ": " + ex);
+            JOptionPane.showMessageDialog(null, "Can not open file " + textFieldPath.getName() 
+                    + ": " + ex.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
         }
     }
     // </editor-fold>
@@ -381,7 +382,7 @@ public class TaggingPanel extends javax.swing.JPanel {
                 posStart = posEnd + tag.length() + 3;
             }
         } catch (Exception e) {
-            labelStatus.setText("Error: " + e);
+            JOptionPane.showMessageDialog(null, e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
         }
     }
     //</editor-fold>
@@ -422,13 +423,11 @@ public class TaggingPanel extends javax.swing.JPanel {
         splitButton = new javax.swing.JButton();
         buttonUntag = new javax.swing.JButton();
         replaceButton = new javax.swing.JButton();
-        labelStatus = new javax.swing.JLabel();
         jLabel1 = new javax.swing.JLabel();
         textFieldPath = new javax.swing.JTextField();
 
         setMinimumSize(new java.awt.Dimension(1105, 548));
         setPreferredSize(new java.awt.Dimension(1105, 548));
-        setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jScrollPane1.setName("jScrollPane1"); // NOI18N
 
@@ -468,26 +467,20 @@ public class TaggingPanel extends javax.swing.JPanel {
         });
         textArea.getDocument().addUndoableEditListener(new UndoListener());
 
-        add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 144, 960, 370));
-
         checkBoxEdit.setSelected(true);
         org.jdesktop.application.ResourceMap resourceMap = org.jdesktop.application.Application.getInstance().getContext().getResourceMap(TaggingPanel.class);
         checkBoxEdit.setText(resourceMap.getString("checkBoxEdit.text")); // NOI18N
         checkBoxEdit.setName("checkBoxEdit"); // NOI18N
-        add(checkBoxEdit, new org.netbeans.lib.awtextra.AbsoluteConstraints(790, 50, -1, -1));
 
         clickCheckbox.setText(resourceMap.getString("clickCheckbox.text")); // NOI18N
         clickCheckbox.setName("clickCheckbox"); // NOI18N
-        add(clickCheckbox, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 50, -1, -1));
 
         checkBoxMode.setText(resourceMap.getString("checkBoxMode.text")); // NOI18N
         checkBoxMode.setName("checkBoxMode"); // NOI18N
-        add(checkBoxMode, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 50, -1, -1));
 
         checkBoxChoose.setSelected(true);
         checkBoxChoose.setText(resourceMap.getString("checkBoxChoose.text")); // NOI18N
         checkBoxChoose.setName("checkBoxChoose"); // NOI18N
-        add(checkBoxChoose, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 50, -1, -1));
 
         jToolBar1.setFloatable(false);
         jToolBar1.setRollover(true);
@@ -658,19 +651,57 @@ public class TaggingPanel extends javax.swing.JPanel {
         replaceButton.setName("replaceButton"); // NOI18N
         jToolBar1.add(replaceButton);
 
-        add(jToolBar1, new org.netbeans.lib.awtextra.AbsoluteConstraints(3, 2, 950, 40));
-
-        labelStatus.setText(resourceMap.getString("labelStatus.text")); // NOI18N
-        labelStatus.setName("labelStatus"); // NOI18N
-        add(labelStatus, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 520, -1, -1));
-
         jLabel1.setText(resourceMap.getString("jLabel1.text")); // NOI18N
         jLabel1.setName("jLabel1"); // NOI18N
-        add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, -1, 30));
 
         textFieldPath.setEditable(false);
         textFieldPath.setName("textFieldPath"); // NOI18N
-        add(textFieldPath, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 100, 520, -1));
+
+        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
+        this.setLayout(layout);
+        layout.setHorizontalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(3, 3, 3)
+                .addComponent(jToolBar1, javax.swing.GroupLayout.PREFERRED_SIZE, 950, javax.swing.GroupLayout.PREFERRED_SIZE))
+            .addGroup(layout.createSequentialGroup()
+                .addGap(30, 30, 30)
+                .addComponent(clickCheckbox)
+                .addGap(23, 23, 23)
+                .addComponent(checkBoxMode)
+                .addGap(38, 38, 38)
+                .addComponent(checkBoxChoose)
+                .addGap(50, 50, 50)
+                .addComponent(checkBoxEdit))
+            .addGroup(layout.createSequentialGroup()
+                .addGap(20, 20, 20)
+                .addComponent(jLabel1)
+                .addGap(2, 2, 2)
+                .addComponent(textFieldPath, javax.swing.GroupLayout.PREFERRED_SIZE, 520, javax.swing.GroupLayout.PREFERRED_SIZE))
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 1093, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        layout.setVerticalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(6, 6, 6)
+                .addComponent(jToolBar1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(8, 8, 8)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(clickCheckbox)
+                    .addComponent(checkBoxMode)
+                    .addComponent(checkBoxChoose)
+                    .addComponent(checkBoxEdit))
+                .addGap(32, 32, 32)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(textFieldPath, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(14, 14, 14)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 394, Short.MAX_VALUE)
+                .addContainerGap())
+        );
 
         bindingGroup.bind();
     }// </editor-fold>//GEN-END:initComponents
@@ -789,13 +820,12 @@ public class TaggingPanel extends javax.swing.JPanel {
                 hili.addHighlight(start + offset, end + offset,
                         (HighlightPainter) new DefaultHighlightPainter(entity.getColor()));
 
-                labelStatus.setText("Tagged:  " + textArea.getSelectedText());
                 //Dung change
                 textArea.requestFocus();
                 textArea.select(start, end + offset + entity.getEndLength() + 1);
                 //end
             } else {
-                labelStatus.setText("No selected to tag");
+                JOptionPane.showMessageDialog(null, "No selected words to tag");
             }
 //            buttonSave.setEnabled(true);
 //            buttonReload.setEnabled(true);
@@ -881,7 +911,6 @@ public class TaggingPanel extends javax.swing.JPanel {
                     textArea.setText(vnTagger(textFieldPath.getText()));
 //                    setEnableButtonTagAll(false);
 //                    buttonNP.setEnabled(false);
-                    labelStatus.setText("Chunking Successfully!");
                 }
 
                 //                Dung's code
@@ -985,7 +1014,7 @@ public class TaggingPanel extends javax.swing.JPanel {
             Highlighter hili = textArea.getHighlighter();
             hili.addHighlight(start + 5, end + 5, (HighlightPainter) new DefaultHighlightPainter(Color.green));
 
-            labelStatus.setText("NP Tagged:  " + textArea.getSelectedText());
+//            labelStatus.setText("NP Tagged:  " + textArea.getSelectedText());
 //            buttonSave.setEnabled(true);
 //            buttonReload.setEnabled(true);
 
@@ -995,7 +1024,8 @@ public class TaggingPanel extends javax.swing.JPanel {
             //end
 
         } catch (Exception e) {
-            labelStatus.setText("Error: " + e);
+//            labelStatus.setText("Error: " + e);
+            JOptionPane.showMessageDialog(null, e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
         }
     }// end tagNP method
     //</editor-fold>
@@ -1182,7 +1212,6 @@ public class TaggingPanel extends javax.swing.JPanel {
     @EntityAnnotation(entityName="JOB")
     @ShortcutAnnotation(type=1, nameInMap=Config.JOB_SHORTCUT, defaultShortcut=Config.JOB_SHORTCUT_DEFAULT, actionName=Config.JOB_ACTION)
     private javax.swing.JButton jobButton;
-    private javax.swing.JLabel labelStatus;
     @EntityAnnotation(entityName="POS")
     @ShortcutAnnotation(type=1, nameInMap=Config.POS_SHORTCUT, defaultShortcut=Config.POS_SHORTCUT_DEFAULT, actionName=Config.POS_ACTION)
     private javax.swing.JButton posButton;
