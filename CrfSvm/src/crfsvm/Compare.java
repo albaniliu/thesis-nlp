@@ -48,7 +48,7 @@ public class Compare {
 
         int B = 5;
 
-        int bagSize = 120;
+        int bagSize = 180;
 
         double threshold = MathUtils.calcEntropy(B, 3, 1, 1);
 
@@ -63,9 +63,15 @@ public class Compare {
         CopyFile.copyfile(trainPath, mainTrainCopied);
         CopyFile.copyfile(testPath, mainTestCopied);
         TaggedDocument testDoc = new TaggedDocument(mainTestCopied);
-        System.out.println("Vi tri label test:" + testDoc.getLabelPosMap());
+        System.out.println("Vi tri label test:" + testDoc.getIobPosMap());
         Crf.calcFScore(mainTrainCopied, mainTestCopied);
-
+//        CopyFile.copyfile(mainTestCopied, "tmp/t.txt");
+//        FileUtils.removeTag("tmp/t.txt");
+//        Crf.runCrf(mainTrainCopied, "tmp/t.txt");
+//        TaggedDocument d = new TaggedDocument("tmp/t.txt.wseg");
+//        System.out.println(d.getIobPosMap());
+//        System.exit(0);
+        
         /*
          * Tao TrainSet: tmp/TrainSet
          */
@@ -94,18 +100,19 @@ public class Compare {
             Crf.runCrf(bagTrainCopied, mainTestNoTagLabel);
             TaggedDocument testTaggedDoc = new TaggedDocument(mainTestNoTagLabel + ".wseg");
             System.out.println("Vi tri label bag:" + testTaggedDoc.getLabelPosMap());
-            Count.countAppearLabel(countMap, mainTestNoTagLabel + ".wseg");
+//            Count.countAppearLabel(countMap, mainTestNoTagLabel + ".wseg");
+            Count.countAppearIOB(countMap, mainTestNoTagLabel + ".wseg");
         }// end foreach CRF
 
         // Lay ra cac phan tu co entropy k vuot qua nguong
-        Map labelMap = MapUtils.labelMapByEntropy(MathUtils.calcEntropy(countMap, B), threshold);
-        System.out.println("So luong thuc the tim duoc: " + labelMap.size());
-        System.out.println("Vi tri thuc the tim duoc: " + labelMap);
+        Map filterMap = MapUtils.filterByEntropy(MathUtils.calcEntropy(countMap, B), threshold);
+        System.out.println("So luong thuc the tim duoc: " + filterMap.size());
+        System.out.println("Vi tri thuc the tim duoc: " + filterMap);
 
-        TaggedDocument preDoc = testDoc.createTaggedDoc(labelMap);
+        TaggedDocument preDoc = testDoc.createTaggedDoc(filterMap, TaggedDocument.MapType.IOBMAP);
 
-        PrfCalculator prfCalculator = new PrfCalculator(testDoc, preDoc);
-        prfCalculator.calc();
+        PrfCalculator prfCalculator = new PrfCalculator(testDoc, preDoc, PrfCalculator.CalcMode.IOBMODE);
+        prfCalculator.calcWithIob();
         System.out.println(prfCalculator);
 
 
@@ -154,9 +161,9 @@ public class Compare {
         DOMConfigurator.configure("log-config.xml");
         FileUtils.removeFile("tmp/TrainSet");
         Compare c = new Compare();
-//        c.runBagging("tmp/trainThien.txt", "tmp/testThien.txt");
+        c.runBagging("tmp/trainThien200doivoibackup.txt", "tmp/testThien1888doivoibackup.txt");
 //        c.runOnce("tmp/trainThien.txt", "tmp/testThien.txt");
-        c.runConfidenScore("tmp/trainThien.txt", "tmp/testThien.txt");
+//        c.runConfidenScore("tmp/trainThien1000.txt", "tmp/testThien958.txt");
     }// end main class
 }// end Compare class
 
