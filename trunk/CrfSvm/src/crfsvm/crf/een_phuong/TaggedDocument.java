@@ -132,14 +132,26 @@ public class TaggedDocument implements Cloneable {
 
     /**
      * Tao doi tuong tagged doc moi tu label map
-     * @param labelMap
+     * @param map
+     * @param type 
      * @return 
      */
-    public TaggedDocument createTaggedDoc(Map labelMap) {
+    public TaggedDocument createTaggedDoc(Map map, MapType type) {
         TaggedDocument re = new TaggedDocument();
-        re.labelMap = labelMap;
-        re.sentList = this.sentList;
-        re.createLabelCountMap();
+        switch (type) {
+            case IOBMAP:
+                re.iobMap = map;
+                re.sentList = this.sentList;
+                re.createIobCountMap();
+                break;
+            case LABELMAP:
+                re.labelMap = map;
+                re.sentList = this.sentList;
+                re.createLabelCountMap();
+                break;
+            default:
+                throw new IllegalArgumentException("Kieu map khong dung");
+        }
         return re;
     }// end createTaggedDoc method
 
@@ -181,6 +193,7 @@ public class TaggedDocument implements Cloneable {
 
             // Tao doi tuong labelCountMap
             createLabelCountMap();
+            
         } else {
             logger.error("Map iob pos khong co phan tu nao");
         }// end if iobPosMap size ? 0
@@ -194,7 +207,7 @@ public class TaggedDocument implements Cloneable {
     //<editor-fold defaultstate="collapsed" desc="createLabelCountMap method">
     private void createLabelCountMap() {
         labelCountMap = new HashMap<String, Integer>();
-        labelList = new ArrayList<String>();
+        labelNameList = new ArrayList<String>();
         for (Object key : labelMap.keySet()) {
             String label = (String) labelMap.get(key);
             if (labelCountMap.containsKey(label)) {
@@ -204,7 +217,7 @@ public class TaggedDocument implements Cloneable {
             } else {
                 // Nhan thuc the nay chua duoc dem
                 labelCountMap.put(label, 1);
-                labelList.add(label);
+                labelNameList.add(label);
             }
         }// end foreach key
     }// end createLabelCountMap method
@@ -215,6 +228,7 @@ public class TaggedDocument implements Cloneable {
      */
     //<editor-fold defaultstate="collapsed" desc="createIobCountMap method">
     private void createIobCountMap() {
+        iobNameList = new ArrayList<String>();
         for (Object key : iobMap.keySet()) {
             String iob = (String) iobMap.get(key);
             if (iobCountMap.containsKey(iob)) {
@@ -224,6 +238,7 @@ public class TaggedDocument implements Cloneable {
             } else {
                 // Nhan iob nay chua duoc dem
                 iobCountMap.put(iob, 1);
+                iobNameList.add(iob);
             }
         }// end foreach key
     }// end createIobCountMap
@@ -367,10 +382,14 @@ public class TaggedDocument implements Cloneable {
      * Tra ve kieu iterator cac nhan thuc the co trong van ban
      * @return 
      */
-    public List<String> getLabelList() {
-        return labelList;
-    }// end getLabelList method
-
+    public List<String> getLabelNameList() {
+        return labelNameList;
+    }// end getLabelNameList method
+    
+    public List<String> getIobNameList() {
+        return iobNameList;
+    }// end getIobNameList method
+    
     /**
      * Tra ve so luong nhan thuc the co ten <code>label</code> co trong van ban
      * @param label Ten nhan thuc the muon tim so luong
@@ -445,7 +464,12 @@ public class TaggedDocument implements Cloneable {
     /**
      * List cac nhan thuc the trong van ban
      */
-    private List<String> labelList;
+    private List<String> labelNameList;
+    private List<String> iobNameList;
+    
+    public enum MapType {
+        IOBMAP,
+        LABELMAP
+    }
     
 }// end TaggedDocument class
-

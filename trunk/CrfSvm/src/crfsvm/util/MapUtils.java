@@ -62,7 +62,7 @@ public class MapUtils {
      * @return  Map cac phan tu thoa man yeu cau co entropy khong  vuot qua nguong, trong do key la 
      * vi tri cua tu trong van ban (Offset), value la nhan thuc the hoac iob duoc gan nhieu nhat cho tu do (String)
      */
-    public static Map labelMapByEntropy(Map entropyMap, double threshold) {
+    public static Map filterByEntropy(Map entropyMap, double threshold) {
         Map map = new TreeMap();
         for (Object entrySet : entropyMap.entrySet()) {
             Map.Entry entry = (Map.Entry) entrySet;
@@ -78,6 +78,6 @@ public class MapUtils {
             }// end if entropy < threshold
         }// end foreach entrySet
         return map;
-    }// end labelMapByEntropy method
+    }// end filterByEntropy method
 }// end MapUtils class
 
