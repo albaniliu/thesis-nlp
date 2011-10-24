@@ -10,6 +10,7 @@ import crfsvm.svm.org.itc.irst.tcc.sre.data.SentenceSetCopy;
 import crfsvm.svm.org.itc.irst.tcc.sre.data.VectorSet;
 import crfsvm.svm.org.itc.irst.tcc.sre.data.Word;
 import crfsvm.svm.org.itc.irst.tcc.sre.util.FeatureIndex;
+import crfsvm.svm.org.itc.irst.tcc.sre.util.Orthographic;
 import crfsvm.svm.org.itc.irst.tcc.sre.util.SparseVector;
 import crfsvm.svm.org.itc.irst.tcc.sre.util.Vector;
 import java.util.Properties;
@@ -108,11 +109,13 @@ public class SimilarContextMapping implements Mapping, ContextMapping {
      */
     private double calcSimilar(Sentence sent1, Sentence sent2) {
         Vector similarVector = new SparseVector();
+        int k = 0;
         for (int i = 0; i < sent1.length(); i++) {
             for (int j = 0; j < sent2.length(); j++) {
                 Word word1 = sent1.wordAt(i);
                 Word word2 = sent2.wordAt(j);
-                updateSimilarVector(similarVector, word1, word2);
+                updateSimilarVector(similarVector, k, word1, word2);
+                k++;
             }// end for j
         }// end for i
         similarVector.normalize();
@@ -124,9 +127,35 @@ public class SimilarContextMapping implements Mapping, ContextMapping {
      * @param word1
      * @param word2 
      */
-    private void updateSimilarVector(Vector similar, Word word1, Word word2) {
+    private void updateSimilarVector(Vector similar, int i, Word word1, Word word2) {
         if (word1.getPos().equals(word2.getPos())) {
-            similar.add(1, 1);
+            String form1 = word1.getForm(false);
+            String form2 = word2.getForm(false);
+            
+            if (word1.getType().equals(word2.getType())) {
+                similar.increase(i);
+            }
+            if (form1.equalsIgnoreCase(form2)) {
+                similar.increase(i);
+            }
+            if (word1.getRole().equals(word2.getRole())) {
+                similar.increase(i);
+            }
+            if (Orthographic.isUpperCase(form1) && Orthographic.isUpperCase(form2)) {
+                similar.increase(i);
+            }
+            if (Orthographic.isLowerCase(form1) && Orthographic.isLowerCase(form2)) {
+                similar.increase(i);
+            }
+            if (Orthographic.isPunctuation(form1) && Orthographic.isPunctuation(form2)) {
+                similar.increase(i);
+            }
+            if (Orthographic.isCapitalized(form1) && Orthographic.isCapitalized(form2)) {
+                similar.increase(i);
+            }
+            if (Orthographic.isNumeric(form1) && Orthographic.isNumeric(form2)) {
+                similar.increase(i);
+            }
         }
     }// end updateSimilarVector
 
