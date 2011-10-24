@@ -464,8 +464,12 @@ public class MergePanel extends javax.swing.JPanel {
                 Document tmpDoc = (Document) row.get(0);
                 retDoc.append(tmpDoc);
             }// end foreach vector
-            
-            retDoc.print2File(fileSavePath);
+            try {
+                retDoc.print2File(fileSavePath);
+            } catch (FileNotFoundException ex) {
+                JOptionPane.showMessageDialog(null, "Can't save to this file. Check your permission or type correct path of parent dir",
+                        "Error", JOptionPane.ERROR_MESSAGE);
+            }
         }// end if mode
         
         JOptionPane.showMessageDialog(null, "Merge done", "Message", JOptionPane.INFORMATION_MESSAGE);

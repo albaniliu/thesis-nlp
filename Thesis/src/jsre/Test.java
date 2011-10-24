@@ -4,6 +4,8 @@
  */
 package jsre;
 
+import java.io.File;
+import java.net.URI;
 import java.util.HashMap;
 
 /**
@@ -18,13 +20,8 @@ public class Test {
     
     public static void main(String[] args) throws Exception {
         
-        System.out.println(Test1.t);
-        
-        Test1.t = 4;
-        System.out.println(Test1.t);
-        
-        Test a = new Test();
-        a.s();
+        File f = new File("data/semi");
+        System.out.println(f.exists());
     }// end main
     
 }// end Test class
