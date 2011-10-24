@@ -45,8 +45,8 @@ public class Main {
     public static void main(String[] args) throws Exception {
         PropertyConfigurator.configure("log-config.txt");
         Main main = new Main();
-        String trainPath = "supervised/work_for.train";
-        String testPath = "supervised/work_for.test";
+        String trainPath = "data/RE/supervised/work_for.train";
+        String testPath = "data/RE/supervised/work_for.test";
         /*
          * So luong bagging
          */
@@ -145,15 +145,15 @@ public class Main {
      */
     public void runJSRE(ExampleSet trainSet, ExampleSet testSet, int[][] count) throws IndexOutOfBoundsException, IOException, Exception {
         // TODO code application logic here
-        String modelPath = "examples/work_for.model";
-        String outputPath = "examples/work_for.output";
+        String modelPath = "tmp/work_for.model";
+        String outputPath = "tmp/work_for.output";
 
         /*
          * Set parameters
          */
         Properties parameter = new Properties();
         parameter.setProperty("cache-size", "128");
-        parameter.setProperty("kernel-type", "SL");
+        parameter.setProperty("kernel-type", "SC");
         parameter.setProperty("n-gram", "3");
 //        parameter.setProperty("example-file", trainPath);
         parameter.setProperty("model-file", modelPath);
