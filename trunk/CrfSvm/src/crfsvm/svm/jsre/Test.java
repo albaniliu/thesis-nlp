@@ -4,6 +4,8 @@
  */
 package crfsvm.svm.jsre;
 
+import crfsvm.svm.org.itc.irst.tcc.sre.util.SparseVector;
+import crfsvm.svm.org.itc.irst.tcc.sre.util.Vector;
 import java.util.HashMap;
 
 /**
@@ -12,12 +14,15 @@ import java.util.HashMap;
  */
 public class Test {
     public static void main(String[] args) throws Exception {
-        int a = 3;
-        if(a != 0){
-            System.out.println("giai phuong trinh bac 2");
-        } else {
-            System.out.println("giai phuong trinh bac nhat");
-        }
+        Vector v = new SparseVector();
+        v.add(1, 23);
+        v.add(2, 12);
+        System.out.println(v);
+        v.set(1, 24);
+        System.out.println(v.norm());
+        v.normalize();
+        System.out.println(v);
+        System.out.println(v.norm());
     }// end main
     
 }// end Test class
