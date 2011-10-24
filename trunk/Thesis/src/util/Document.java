@@ -22,7 +22,7 @@ import java.util.logging.Logger;
 public class Document {
 
     public static final String DEFAULT_FILE_PATH = "tmp/doc.txt";
-    
+
     /**
      * Constructor empty
      */
@@ -68,7 +68,7 @@ public class Document {
         doc.lineList = new ArrayList<String>(this.lineList);
         return doc;
     }
-    
+
     /**
      * Noi cac document vao 1 document co truoc. 
      * Document ban dau bi thay doi
@@ -83,41 +83,43 @@ public class Document {
             }// end foreach document
         }// end if docs.length > 0
     }// end append method
-    
+
     /**
      * In document ra file. Cac dong trong file phan tach boi 1 dong trang
-     * @param file 
+     * @param file
+     * @throws FileNotFoundException  
      */
-    public void print2File(File file) {
+    public void print2File(File file) throws FileNotFoundException {
+
+        PrintWriter out = null;
         try {
-            PrintWriter out = ReadWriteFile.writeFile(file, "UTF-8");
-            for (String line : lineList) {
-                out.print(line);
-                out.print("\n\r");
-            }// end foreach line
-            out.close();
-        } catch (FileNotFoundException ex) {
-            Logger.getLogger(Document.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (UnsupportedEncodingException ex) {
-            Logger.getLogger(Document.class.getName()).log(Level.SEVERE, null, ex);
+            out = ReadWriteFile.writeFile(file, "UTF-8");
+        } catch (UnsupportedEncodingException unsupportedEncodingException) {
         }
+        for (String line : lineList) {
+            out.print(line);
+            out.print("\n\r");
+        }// end foreach line
+        out.close();
     }// end print2File method
-    
+
     /**
      * In document ra file. Cac dong trong file phan tach boi 1 dong trang
      * @param filePath duong dan den file ghi
+     * @throws FileNotFoundException  
      */
-    public void print2File(String filePath) {
+    public void print2File(String filePath) throws FileNotFoundException {
         print2File(new File(filePath));
     }// end print2File method
-    
+
     /**
      * In document ra file co file name da duoc set trong document
+     * @throws FileNotFoundException 
      */
-    public void print2File() {
+    public void print2File() throws FileNotFoundException {
         print2File(filePath);
     }// end print2File method
-    
+
     /**
      * 
      * @return So dong trong van ban
@@ -125,13 +127,13 @@ public class Document {
     public int size() {
         return lineList.size();
     }// end size method
-    
+
     public void add(String line) {
         if (!line.equals("")) {
             lineList.add(line);
         }// end if line.equals("")
     }// end add method
-    
+
     /**
      * Tao Bagging tu 1 document
      * @param B so bagging
@@ -153,7 +155,7 @@ public class Document {
         }// end for i
         return list;
     }// end createBagging method
-    
+
     /**
      * Chia 1 document thanh number phan co so luong cau bang nhau
      * @param number
@@ -183,7 +185,6 @@ public class Document {
     public String toString() {
         return fileName;
     }
-    
     private String filePath;
     private String fileName;
     private List<String> lineList;
