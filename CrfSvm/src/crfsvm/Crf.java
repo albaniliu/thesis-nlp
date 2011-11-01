@@ -7,6 +7,7 @@ package crfsvm;
 import crfsvm.crf.een_phuong.CopyFile;
 import crfsvm.crf.een_phuong.IOB2Converter;
 import crfsvm.crf.een_phuong.JVnRecognizer;
+import crfsvm.crf.een_phuong.Option;
 import crfsvm.crf.een_phuong.TaggingTrainData;
 import crfsvm.crf.een_phuong.tokenizeVietnamese;
 import java.io.BufferedReader;
@@ -136,9 +137,9 @@ public class Crf {
      *  Predict file da duoc tach tu: tagged.txt, ket qua luu trong file tagged.txt.wseg
      * @param modelDir
      */
-    public static void predict(String modelDir) {
-        predict(modelDir, "tmp/tagged.txt");
-    }// end predict method
+//    public static void predict(String modelDir) {
+//        predict(modelDir, "tmp/tagged.txt");
+//    }// end predict method
 
     /**
      * Predict file da duoc tach tu, ket qua luu trong file trung ten voi file dau vao + duoi .wseg
@@ -161,10 +162,35 @@ public class Crf {
         logger.info("File after predict: " + taggedFile + ".wseg");
     }// end predict method
     
+    /**
+     * Predict file chua gan nhan va hien thi confidence score
+     * @param modelDir
+     * @param taggedFile File da tach tu, chua gan nhan
+     * @param withConfi 
+     */
     public static void predict(String modelDir, String taggedFile, boolean withConfi) {
         JVnRecognizer.withConfi = withConfi;
         predict(modelDir, taggedFile);
         JVnRecognizer.withConfi = false;
+    }// end predict method
+    
+    /**
+     * Predict 1 chuoi voi thu muc model mac dinh la model nam trong root project
+     * @param text
+     * @return Tra ve chuoi da duoc gan nhan
+     */
+    public static String predict(String text) {
+        Option taggerOpt = new Option("model");
+        if (!taggerOpt.readOptions()) {
+            return null;
+        }
+
+        JVnRecognizer nrcnr = new JVnRecognizer();
+        if (!nrcnr.init("model")) {
+            return null;
+        }
+        
+        return nrcnr.entityBoundaryMark(text);
     }// end predict method
 
     /**

@@ -18,12 +18,18 @@ public class Word {
         this.form = form;
         iob = "O";
         offset = -1;
+        startEntity = false;
+        endEntity = false;
+        label = "O";
     }
 
     public Word(StringBuilder form) {
         this.form = form.toString();
         iob = "O";
         offset = -1;
+        startEntity = false;
+        endEntity = false;
+        label = "O";
     }
     
     @Override
@@ -44,6 +50,12 @@ public class Word {
      * Nhan duoc gan cho tu: B-per, I-per...
      */
     private String iob;
+    
+    private boolean startEntity;
+    
+    private boolean endEntity;
+    
+    private String label;
 
     /**
      * @return the form
@@ -87,5 +99,48 @@ public class Word {
     public boolean isIOB() {
         return !iob.equals("O");
     }// end isIOB method
+
+    /**
+     * @return the startEntity
+     */
+    public boolean isStartEntity() {
+        return startEntity;
+    }
+
+    /**
+     * @param startEntity the startEntity to set
+     */
+    public void setStartEntity(boolean startEntity) {
+        this.startEntity = startEntity;
+    }
+
+    /**
+     * @return the endEntity
+     */
+    public boolean isEndEntity() {
+        return endEntity;
+    }
+
+    /**
+     * @param endEntity the endEntity to set
+     */
+    public void setEndEntity(boolean endEntity) {
+        this.endEntity = endEntity;
+    }
+
+    /**
+     * @return the label
+     */
+    public String getLabel() {
+        return label;
+    }
+
+    /**
+     * @param label the label to set
+     */
+    public void setLabel(String label) {
+        this.label = label;
+    }
+    
 }// end Word class
 
