@@ -135,15 +135,31 @@ public class Sentence {
             if (Punctuation.isPunct(wordForm)) {
                 sb.append(wordForm);
                 sb.append(" ");
+                if (word.isEndEntity()) {
+                    sb.append("</");
+                    sb.append(word.getLabel());
+                    sb.append(">");
+                }
             } else {
+                if (word.isStartEntity()) {
+                    sb.append("<");
+                    sb.append(word.getLabel());
+                    sb.append("> ");
+                }// end start entity
                 sb.append(boundStart);
                 sb.append(wordForm);
                 sb.append(boundEnd);
+                if (word.isEndEntity()) {
+                    sb.append(" </");
+                    sb.append(word.getLabel());
+                    sb.append(">");
+                }
                 sb.append(" ");
             }
         }// end foreach word
         return sb.toString().trim();
     }// end toString method
+    
     /**
      * list cac word trong cau
      */

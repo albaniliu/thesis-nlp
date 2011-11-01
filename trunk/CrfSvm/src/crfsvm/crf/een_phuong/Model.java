@@ -10,6 +10,7 @@ Tohoku University
  */
 package crfsvm.crf.een_phuong;
 
+import crfsvm.Crf;
 import java.io.*;
 import java.util.*;
 import java.util.StringTokenizer;
@@ -175,5 +176,14 @@ public class Model {
         return result;
     }
     // end my code
+    
+    /**
+     * Dung:
+     * Tao model tu file train, luu thanh file model.txt trong thu muc model
+     * @param trainPath 
+     */
+    public static void createModel(String trainPath) {
+        Crf.train(Crf.MANUAL_MODE, trainPath);
+    }// end createModel method
 } // end of class Model
 

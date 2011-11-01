@@ -63,13 +63,12 @@ public class Compare {
         CopyFile.copyfile(trainPath, mainTrainCopied);
         CopyFile.copyfile(testPath, mainTestCopied);
         TaggedDocument testDoc = new TaggedDocument(mainTestCopied);
-        System.out.println("Vi tri label test:" + testDoc.getIobPosMap());
-        Crf.calcFScore(mainTrainCopied, mainTestCopied);
-//        CopyFile.copyfile(mainTestCopied, "tmp/t.txt");
-//        FileUtils.removeTag("tmp/t.txt");
-//        Crf.runCrf(mainTrainCopied, "tmp/t.txt");
-//        TaggedDocument d = new TaggedDocument("tmp/t.txt.wseg");
-//        System.out.println(d.getIobPosMap());
+//        Crf.calcFScore(mainTrainCopied, mainTestCopied);
+        CopyFile.copyfile(mainTestCopied, "tmp/t.txt");
+        FileUtils.removeTag("tmp/t.txt");
+        Crf.runCrf(mainTrainCopied, "tmp/t.txt");
+        TaggedDocument d = new TaggedDocument("tmp/t.txt.wseg");
+        System.out.println("Vi tri label train 1 lan: " + d.getIobPosMap());
 //        System.exit(0);
         
         /*
@@ -107,14 +106,45 @@ public class Compare {
         // Lay ra cac phan tu co entropy k vuot qua nguong
         Map filterMap = MapUtils.filterByEntropy(MathUtils.calcEntropy(countMap, B), threshold);
         System.out.println("So luong thuc the tim duoc: " + filterMap.size());
-        System.out.println("Vi tri thuc the tim duoc: " + filterMap);
 
         TaggedDocument preDoc = testDoc.createTaggedDoc(filterMap, TaggedDocument.MapType.IOBMAP);
 
         PrfCalculator prfCalculator = new PrfCalculator(testDoc, preDoc, PrfCalculator.CalcMode.IOBMODE);
-        prfCalculator.calcWithIob();
+        prfCalculator.calc();
         System.out.println(prfCalculator);
-
+        
+        System.out.println("Vi tri label test:" + testDoc.getIobPosMap());
+        System.out.println("Vi tri label train 1 lan phat hien duoc: " + d.getIobPosMap());
+        System.out.println("Vi tri thuc the tim duoc boi bagging: " + filterMap);
+        System.out.println("Vi tri thuc the bagging tim duoc khac voi train 1 lan nhung sai:");
+        for (Object entryObject : filterMap.entrySet()) {
+            Map.Entry entry = (Map.Entry) entryObject;
+            Offset offset = (Offset) entry.getKey();
+            String label = (String) entry.getValue();
+            if (!d.getIobPosMap().containsKey(offset) && !testDoc.getIobPosMap().containsKey(offset)
+                    && label.equals("B-per")) {
+                System.out.println(offset + " | " + testDoc.wordAt(offset));
+            }
+            if (testDoc.getIobPosMap().containsKey(offset)) {
+                String labelInTest = (String) testDoc.getIobPosMap().get(offset);
+                if (labelInTest.equals("B-per")) {
+                    System.out.println(offset + " | " + testDoc.wordAt(offset));
+                }
+            }
+        }// end foreach entryObject
+        System.out.println("Vi tri thuc the bagging tim khac voi train 1 lan nhung dung: ");
+        for (Object entryObject : filterMap.entrySet()) {
+            Map.Entry entry = (Map.Entry) entryObject;
+            Offset offset = (Offset) entry.getKey();
+            String label = (String) entry.getValue();
+            if (!d.getIobPosMap().containsKey(offset) && testDoc.getIobPosMap().containsKey(offset)
+                    && label.equals("B-per")) {
+                String labelInTest = (String) testDoc.getIobPosMap().get(offset);
+                if (labelInTest.equals("B-per")) {
+                    System.out.println(offset + " | " + testDoc.wordAt(offset));
+                }
+            }
+        }// end foreach entryObject
 
         // Xoa cac file moi tao, chi dung trong linux
         for (File file : new File("tmp").listFiles()) {
@@ -161,7 +191,7 @@ public class Compare {
         DOMConfigurator.configure("log-config.xml");
         FileUtils.removeFile("tmp/TrainSet");
         Compare c = new Compare();
-        c.runBagging("tmp/trainThien200doivoibackup.txt", "tmp/testThien1888doivoibackup.txt");
+        c.runBagging("tmp/trainThien200doivoibackup.txt", "tmp/test1.txt");
 //        c.runOnce("tmp/trainThien.txt", "tmp/testThien.txt");
 //        c.runConfidenScore("tmp/trainThien1000.txt", "tmp/testThien958.txt");
     }// end main class

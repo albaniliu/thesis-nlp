@@ -45,7 +45,7 @@ public class GlobalContextMapping extends AbstractMapping implements ContextMapp
     //
     private int ngram;
     //default = 3
-    private static final int NUMBER_OF_SUBSPACES = 1;
+    private static final int NUMBER_OF_SUBSPACES = 3;
     //
     public static final int DEFAULT_NGRAM = 3;
     //
@@ -132,9 +132,9 @@ public class GlobalContextMapping extends AbstractMapping implements ContextMapp
                 /*
                  * GC4: default co ca 3 dong nay, arg dau tien la fore
                  */
-                subspaces[FORE_BETWEEN_SPACE] = createSubspace4(sent, index[FORE_BETWEEN_SPACE], FORE_BETWEEN_SPACE);
-//                subspaces[BETWEEN_SPACE] = createSubspace4(between, index[BETWEEN_SPACE], BETWEEN_SPACE);
-//                subspaces[BETWEEN_AFTER_SPACE] = createSubspace4(after, index[BETWEEN_AFTER_SPACE], BETWEEN_AFTER_SPACE);
+                subspaces[FORE_BETWEEN_SPACE] = createSubspace4(fore, index[FORE_BETWEEN_SPACE], FORE_BETWEEN_SPACE);
+                subspaces[BETWEEN_SPACE] = createSubspace4(between, index[BETWEEN_SPACE], BETWEEN_SPACE);
+                subspaces[BETWEEN_AFTER_SPACE] = createSubspace4(after, index[BETWEEN_AFTER_SPACE], BETWEEN_AFTER_SPACE);
                 break;
             default:
                 subspaces[FORE_BETWEEN_SPACE] = createSubspace(fore, index[FORE_BETWEEN_SPACE]);
@@ -161,10 +161,10 @@ public class GlobalContextMapping extends AbstractMapping implements ContextMapp
 
         // normalize subspaces
         // default la 3 dong comment duoi day
-//        for (int j = 0; j < NUMBER_OF_SUBSPACES; j++) {
-//            subspaces[j].normalize();
-//        }
-        subspaces[FORE_BETWEEN_SPACE].normalize();
+        for (int j = 0; j < NUMBER_OF_SUBSPACES; j++) {
+            subspaces[j].normalize();
+        }
+//        subspaces[FORE_BETWEEN_SPACE].normalize();
 
         //
         return subspaces;
@@ -295,7 +295,6 @@ public class GlobalContextMapping extends AbstractMapping implements ContextMapp
             //String t = "WF:" + sent.wordAt(i).getForm() + "-" + sent.wordAt(i).getWPos();
             String t = sent.wordAt(i).getForm();
             updateVector(vec, index, t);
-            //Ngoc
             //them dac trung cho 1 tu
             String role = sent.wordAt(i).getRole();
             if (role.equals(Word.AGENT_LABEL) || role.equals(Word.TARGET_LABEL)) {
@@ -347,7 +346,7 @@ public class GlobalContextMapping extends AbstractMapping implements ContextMapp
             }// end if role
             String pos = t + "_" + sent.wordAt(i).getPos();
             updateVector(vec, index, pos);
-            //end Ngoc
+            //end Dung
 
         } // end for i
 
@@ -364,7 +363,7 @@ public class GlobalContextMapping extends AbstractMapping implements ContextMapp
                 pos = t + "_" + pos;
 
                 updateVector(vec, index, t);
-                //Ngoc
+                //Dung
                 updateVector(vec, index, pos);
 
             } // end for i
@@ -381,7 +380,7 @@ public class GlobalContextMapping extends AbstractMapping implements ContextMapp
                 String t3 = sent.wordAt(i + 2).getForm();
                 String t = t1 + "_" + t2 + "_" + t3;
 
-                // Ngoc
+                // Dung
                 String pos = sent.wordAt(i).getPos() + "_" + sent.wordAt(i + 1).getPos() + "_" + sent.wordAt(i + 2).getPos();
                 pos = t + "_" + pos;
 

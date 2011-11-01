@@ -9,14 +9,15 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
-import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
+import java.util.logging.Level;
 import org.apache.log4j.Logger;
 
 /**
@@ -52,6 +53,8 @@ public class TaggedDocument implements Cloneable {
         iobCountMap = new HashMap<String, Integer>();
         iobMap = new TreeMap<Offset, String>();
         labelMap = new TreeMap<Offset, String>();
+        labelNameList = new ArrayList<String>();
+        iobNameList = new ArrayList<String>();
         if (filePath.endsWith(".iob")) {
             // Tao doc tu file iob
             analyze(filePath);
@@ -141,13 +144,24 @@ public class TaggedDocument implements Cloneable {
         switch (type) {
             case IOBMAP:
                 re.iobMap = map;
-                re.sentList = this.sentList;
+                re.sentList = new LinkedList<Sentence>(this.sentList);
                 re.createIobCountMap();
                 break;
             case LABELMAP:
                 re.labelMap = map;
-                re.sentList = this.sentList;
+                re.sentList = new LinkedList<Sentence>(this.sentList);
                 re.createLabelCountMap();
+                
+                // Bo tat ca nhan thuc the cua tu trong van ban va gan lai theo labelmap
+                for (Sentence sentence : re.sentList) {
+                    for (int i = 0; i < sentence.size(); i++) {
+                        Word word = sentence.wordAt(i);
+                        word.setStartEntity(false);
+                        word.setEndEntity(false);
+                        word.setLabel("O");
+                    }// end for i
+                }// end foreach sentence
+                re.createLabelWord();
                 break;
             default:
                 throw new IllegalArgumentException("Kieu map khong dung");
@@ -193,13 +207,46 @@ public class TaggedDocument implements Cloneable {
 
             // Tao doi tuong labelCountMap
             createLabelCountMap();
-            
+
+            // Set thuoc tinh label cho cac tu co trong labelMap
+            createLabelWord();
+
         } else {
-            logger.error("Map iob pos khong co phan tu nao");
+            logger.info("Map iob pos khong co phan tu nao");
         }// end if iobPosMap size ? 0
 
     }// end createLabelPosMap method
     //</editor-fold>
+
+    /**
+     * Tu labelMap set label cho cac tu trong van ban, quy dinh tu nao la tu bat dau hay ket thuc thuc the
+     */
+    private void createLabelWord() {
+        for (Object entryObject : labelMap.entrySet()) {
+            Map.Entry<Offset, String> entry = (Map.Entry<Offset, String>) entryObject;
+            Offset offset = entry.getKey();
+            String label = entry.getValue();
+
+
+            int start = offset.wordStart();
+            int end = offset.wordEnd();
+            if (start == end) {
+                // thuc the chi la 1 tu
+                Word word = wordAt(offset);
+                word.setStartEntity(true);
+                word.setEndEntity(true);
+                word.setLabel(label);
+            } else {
+                // thuc the la cum tu
+                Word startWord = getWord(offset.getSent(), start);
+                startWord.setStartEntity(true);
+                startWord.setLabel(label);
+                Word endWord = getWord(offset.getSent(), end);
+                endWord.setEndEntity(true);
+                endWord.setLabel(label);
+            }// end if start
+        }// end foreach entryObject
+    }
 
     /**
      * Tao doi tuong labelCountMap sau khi doi tuong labelPosMap da co du lieu ve vi tri cac cum tu gan nhan thuc the
@@ -299,7 +346,7 @@ public class TaggedDocument implements Cloneable {
         } else {
             return sent.wordAt(offsetWord);
         }
-    }// end getWord method
+    }// end wordAt method
 
     /**
      * Lay ra 1 tu trong van ban
@@ -311,7 +358,16 @@ public class TaggedDocument implements Cloneable {
         int offsetSentence = Integer.parseInt(offset.split("-")[0]);
         int offsetWord = Integer.parseInt(offset.split("-")[1]);
         return getWord(offsetSentence, offsetWord);
-    }// end getWord method
+    }// end wordAt method
+
+    /**
+     * Lay ra 1 tu trong van ban
+     * @param offset
+     * @return 
+     */
+    public Word wordAt(Offset offset) {
+        return getWord(offset.getSent(), offset.wordStart());
+    }// end wordAt method
 
     /**
      * Set nhan IOB cho 1 tu trong van ban
@@ -343,7 +399,7 @@ public class TaggedDocument implements Cloneable {
     }// end setIob method
 
     public boolean setIob(String iob, Offset offset) {
-        return setIob(iob, offset.getOffsetSent(), offset.getOffsetWord());
+        return setIob(iob, offset.getSent(), offset.wordStart());
     }// end setIob method
 
     /**
@@ -375,7 +431,7 @@ public class TaggedDocument implements Cloneable {
      * @return 
      */
     public Integer getIobCountByName(String iob) {
-        return (Integer) iobCountMap.get(iob);
+        return iobCountMap.containsKey(iob) ? (Integer) iobCountMap.get(iob) : 0;
     }// end getIobCountByName method
 
     /**
@@ -385,18 +441,18 @@ public class TaggedDocument implements Cloneable {
     public List<String> getLabelNameList() {
         return labelNameList;
     }// end getLabelNameList method
-    
+
     public List<String> getIobNameList() {
         return iobNameList;
     }// end getIobNameList method
-    
+
     /**
      * Tra ve so luong nhan thuc the co ten <code>label</code> co trong van ban
      * @param label Ten nhan thuc the muon tim so luong
      * @return 
      */
     public Integer getLabelCountByName(String label) {
-        return (Integer) labelCountMap.get(label);
+        return labelCountMap.containsKey(label) ? (Integer) labelCountMap.get(label) : 0;
     }// end getLabelCountByName method
 
     /**
@@ -422,22 +478,42 @@ public class TaggedDocument implements Cloneable {
             cloned.iobCountMap = new HashMap(iobCountMap);
             cloned.labelMap = new TreeMap(labelMap);
             cloned.labelCountMap = new HashMap(labelCountMap);
-            
+
             return cloned;
         } catch (CloneNotSupportedException e) {
             return null;
         }// end try
     }// end clone method
-    
-    /**
-     * In van ban ra man hinh: moi tu duoc bao trong cap ngoac [ ]
-     */
-    public void print() {
-        for (Sentence sentence : sentList) {
-            System.out.println(sentence.toString("[", "]"));
-        }// end foreach sentence
-    }// end print method
 
+    /**
+     * In van ban ra file
+     * @param filePath 
+     */
+    public void print2File(String filePath) {
+        PrintWriter out = null;
+        try {
+            out = ReadWriteFile.writeFile(filePath, "UTF-8");
+            out.print(toString());
+        } catch (Exception ex) {
+            logger.error("Khong the luu vao file: " + ex.getMessage());
+        } finally {
+            out.close();
+        }
+    }// end print2File method
+
+    /**
+     * Hien thi doc duoi dang chuoi moi tu duoc bao trong cap ngoac [ ] va nhan thuc the neu co
+     */
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        for (Sentence sentence : sentList) {
+            sb.append(sentence.toString("[", "]"));
+            sb.append("\n\n");
+        }// end foreach sentence
+
+        return sb.toString();
+    }// end print method
     /**
      * List cac sentence trong van ban
      */
@@ -460,16 +536,15 @@ public class TaggedDocument implements Cloneable {
      * Key la doi tuong Offset chi ra vi tri cum tu trong van ban, value la nhan cua tu do
      */
     private Map labelMap;
-    
     /**
      * List cac nhan thuc the trong van ban
      */
     private List<String> labelNameList;
     private List<String> iobNameList;
-    
+
     public enum MapType {
+
         IOBMAP,
         LABELMAP
     }
-    
 }// end TaggedDocument class

@@ -90,21 +90,21 @@ public class Offset implements Comparable<Offset> {
     /**
      * @return the offsetSent
      */
-    public int getOffsetSent() {
+    public int getSent() {
         return offsetSent;
     }
 
     /**
      * @return the offsetWord
      */
-    public int getOffsetWord() {
+    public int wordStart() {
         return offsetWord;
     }
 
     /**
      * @return the offsetWordEnd
      */
-    public int getOffsetWordEnd() {
+    public int wordEnd() {
         return offsetWordEnd;
     }
 
@@ -116,15 +116,15 @@ public class Offset implements Comparable<Offset> {
      */
     @Override
     public int compareTo(Offset o) {
-        if (getOffsetSent() < o.getOffsetSent()) {
+        if (getSent() < o.getSent()) {
             return -1;
-        } else if (getOffsetSent() == o.getOffsetSent()) {
-            if (getOffsetWord() < o.getOffsetWord()) {
+        } else if (getSent() == o.getSent()) {
+            if (wordStart() < o.wordStart()) {
                 return -1;
-            } else if (getOffsetWord() == o.getOffsetWord()) {
-                if (getOffsetWordEnd() < o.getOffsetWordEnd()) {
+            } else if (wordStart() == o.wordStart()) {
+                if (wordEnd() < o.wordEnd()) {
                     return -1;
-                } else if (getOffsetWordEnd() == o.getOffsetWordEnd()) {
+                } else if (wordEnd() == o.wordEnd()) {
                     return 0;
                 } else {
                     return 1;
@@ -147,9 +147,9 @@ public class Offset implements Comparable<Offset> {
     }// end compareSent method
 
     public static Offset createOffset(Offset startOffset, Offset endOffset) {
-        int offsetSent = startOffset.getOffsetSent();
-        int start = startOffset.getOffsetWord();
-        int end = endOffset.getOffsetWordEnd();
+        int offsetSent = startOffset.getSent();
+        int start = startOffset.wordStart();
+        int end = endOffset.wordEnd();
         return new Offset(offsetSent, start, end);
     }// end createOffset method
 

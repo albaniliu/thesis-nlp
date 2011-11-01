@@ -24,7 +24,9 @@ public class JVnRecognizer {
         if (!taggerOpt.readOptions()) {
             return false;
         }
-
+        
+        // Dung
+        this.modelDir = modelDir;
         taggerMaps = new Maps();
         taggerDict = new Dictionary();
         taggerFGen = new FeatureGen(taggerMaps, taggerDict);

@@ -45,8 +45,8 @@ public class Main {
     public static void main(String[] args) throws Exception {
         PropertyConfigurator.configure("log-config.txt");
         Main main = new Main();
-        String trainPath = "data/RE/supervised/work_for.train";
-        String testPath = "data/RE/supervised/work_for.test";
+        String trainPath = "data/RE/supervised/live_in_train.txt";
+        String testPath = "data/RE/supervised/live_in_test.txt";
         /*
          * So luong bagging
          */
@@ -76,7 +76,7 @@ public class Main {
 
         logger.warn("Predict tap test voi tap train goc\nTrain set: " + labelSet.size() + " cau, test set: " + testSet.size() + " cau");
         main.runJSRE(labelSet, testSet, null);
-        System.exit(0);
+//        System.exit(0);
         /*
          * Ngung lap neu so luong phan tu tap unlabel < S hoac H nho nhat lon hon nguong
          */
@@ -128,6 +128,7 @@ public class Main {
             }
             logger.warn("Test thu voi tap da gan nhan moi, test set size: " + testSet.size());
             main.runJSRE(labelSet, testSet, null);
+            logger.info("Ket thuc tinh toan P, R, F");
         }// end while
 
     }
@@ -153,7 +154,7 @@ public class Main {
          */
         Properties parameter = new Properties();
         parameter.setProperty("cache-size", "128");
-        parameter.setProperty("kernel-type", "SC");
+        parameter.setProperty("kernel-type", "SL");
         parameter.setProperty("n-gram", "3");
 //        parameter.setProperty("example-file", trainPath);
         parameter.setProperty("model-file", modelPath);

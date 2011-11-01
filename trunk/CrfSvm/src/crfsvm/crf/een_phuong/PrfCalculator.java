@@ -18,9 +18,13 @@ public class PrfCalculator {
 
     /**
      * 
-     * @param testDoc
-     * @param preDoc
-     * @param mode
+     * @param testDoc Van ban test voi cac nhan duoc gan chinh xac bang tay
+     * @param preDoc Van ban do chuong trinh predict
+     * @param mode Che do tinh toan tren nhan IOB hay nhan thuc the<br/>
+     * <ul>
+     *     <li><code>IOBMODE</code>: Tinh toan PRF theo nhan IOB</li>
+     *     <li><code>LABELMODE</code>: Tinh toan PRF theo nhan thuc the</li>
+     * </ul>
      */
     public PrfCalculator(TaggedDocument testDoc, TaggedDocument preDoc, CalcMode mode) {
         manualCount = new HashMap();
@@ -29,7 +33,7 @@ public class PrfCalculator {
         labelNameList = new ArrayList<String>(testDoc.getLabelNameList());
         iobNameList = new ArrayList<String>(testDoc.getIobNameList());
         this.mode = mode;
-        
+
         result = new HashMap();
 
         switch (mode) {
@@ -55,7 +59,7 @@ public class PrfCalculator {
             count.put(label, doc.getLabelCountByName(label));
         }// end foreach label
     }// end count method
-    
+
     private void countIob(Map count, TaggedDocument doc) {
         for (String iob : doc.getIobNameList()) {
             count.put(iob, doc.getIobCountByName(iob));
@@ -89,6 +93,7 @@ public class PrfCalculator {
 
             if (testMap.containsKey(offset)) {
                 // Neu tu nay co duoc gan nhan trong van ban test
+                
                 // Nhan duoc gan o van ban test
                 String testLabel = (String) testMap.get(offset);
                 if (preLabel.equals(testLabel)) {
@@ -105,33 +110,41 @@ public class PrfCalculator {
         }// end foreach entrySet
     }// end match method
 
-    public void calcWithLabel() {
-        for (String label : labelNameList) {
-            int match = matchCount.containsKey(label) ? (Integer) matchCount.get(label) : 0;
-            int model = modelCount.containsKey(label) ? (Integer) modelCount.get(label) : 0;
-            int manual = (Integer) manualCount.get(label);
-            double P = (model != 0) ? (double) match * 100 / model : 0;
-            double R = (double) match * 100 / manual;
-            double F = (2 * P * R) / (P + R);
-            result.put(label, new Double[]{
-                        P, R, F
-                    });
-        }// end foreach label
-    }// end calcWithLabel method
-    
-    public void calcWithIob() {
-        for (String label : iobNameList) {
-            int match = matchCount.containsKey(label) ? (Integer) matchCount.get(label) : 0;
-            int model = modelCount.containsKey(label) ? (Integer) modelCount.get(label) : 0;
-            int manual = (Integer) manualCount.get(label);
-            double P = (model != 0) ? (double) match * 100 / model : 0;
-            double R = (double) match * 100 / manual;
-            double F = (2 * P * R) / (P + R);
-            result.put(label, new Double[]{
-                        P, R, F
-                    });
-        }// end foreach label
-    }// end calcWithLabel method
+    /**
+     * Tien hanh tinh toan cac thong so P-R-F
+     */
+    public void calc() {
+        switch (mode) {
+            case IOBMODE:
+                for (String label : iobNameList) {
+                    int match = matchCount.containsKey(label) ? (Integer) matchCount.get(label) : 0;
+                    int model = modelCount.containsKey(label) ? (Integer) modelCount.get(label) : 0;
+                    int manual = (Integer) manualCount.get(label);
+                    double P = (model != 0) ? (double) match * 100 / model : 0;
+                    double R = (double) match * 100 / manual;
+                    double F = (2 * P * R) / (P + R);
+                    result.put(label, new Double[]{
+                                P, R, F
+                            });
+                }// end foreach label
+                break;
+            case LABELMODE:
+                for (String label : labelNameList) {
+                    int match = matchCount.containsKey(label) ? (Integer) matchCount.get(label) : 0;
+                    int model = modelCount.containsKey(label) ? (Integer) modelCount.get(label) : 0;
+                    int manual = (Integer) manualCount.get(label);
+                    double P = (model != 0) ? (double) match * 100 / model : 0;
+                    double R = (double) match * 100 / manual;
+                    double F = (2 * P * R) / (P + R);
+                    result.put(label, new Double[]{
+                                P, R, F
+                            });
+                }// end foreach label
+                break;
+            default:
+                throw new AssertionError();
+        }
+    }// end calc method
 
     @Override
     public String toString() {
@@ -142,7 +155,7 @@ public class PrfCalculator {
                     Double[] r = (Double[]) result.get(label);
                     sb.append(label);
                     sb.append(":\n");
-                    sb.append(String.format("Manual: %d\tModel: %d\tMatch: %d\n", 
+                    sb.append(String.format("Manual: %d\tModel: %d\tMatch: %d\n",
                             manualCount.get(label), modelCount.get(label), matchCount.get(label)));
                     sb.append(String.format("P = %2.2f\tR = %2.2f\tF = %2.2f\n", r[0], r[1], r[2]));
                 }// end foreach label
@@ -152,7 +165,7 @@ public class PrfCalculator {
                     Double[] r = (Double[]) result.get(label);
                     sb.append(label);
                     sb.append(":\n");
-                    sb.append(String.format("Manual: %d\tModel: %d\tMatch: %d\n", 
+                    sb.append(String.format("Manual: %d\tModel: %d\tMatch: %d\n",
                             manualCount.get(label), modelCount.get(label), matchCount.get(label)));
                     sb.append(String.format("P = %2.2f\tR = %2.2f\tF = %2.2f\n", r[0], r[1], r[2]));
                 }// end foreach label
@@ -171,10 +184,10 @@ public class PrfCalculator {
      * String - Double[]: P-R-F
      */
     private Map result;
-    
     private CalcMode mode;
-    
+
     public enum CalcMode {
+
         IOBMODE,
         LABELMODE
     }
